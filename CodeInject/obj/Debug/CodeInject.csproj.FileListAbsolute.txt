@@ -1,0 +1,16 @@
+C:\Users\grzeg\Downloads\ClrHosting-Glatrix\CodeInject\bin\Debug\CodeInject.dll
+C:\Users\grzeg\Downloads\ClrHosting-Glatrix\CodeInject\bin\Debug\CodeInject.pdb
+C:\Users\grzeg\Downloads\ClrHosting-Glatrix\x64\Debug\CodeInject.dll
+C:\Users\grzeg\Downloads\ClrHosting-Glatrix\x64\Debug\CodeInject.pdb
+C:\Users\grzeg\Downloads\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache
+C:\Users\grzeg\Downloads\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\Downloads\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.dll
+C:\Users\grzeg\Downloads\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.pdb
+D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\x64\Debug\CodeInject.dll
+D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\x64\Debug\CodeInject.pdb
+D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.Form1.resources
+D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.csproj.GenerateResource.cache
+D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.csproj.CoreCompileInputs.cache
+D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.dll
+D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.pdb
+D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache
