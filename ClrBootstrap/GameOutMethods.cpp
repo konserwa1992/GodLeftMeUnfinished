@@ -1,5 +1,6 @@
 #include "pch.h"
 #include "GameOutMethods.h"
+#include <exception>
 
 typedef void(__fastcall* _AttackTarget)(DWORD skill, DWORD monsteIndex);
 
@@ -33,5 +34,5 @@ int GetInt32(uintptr_t adress)
 
 float GetFloat(uintptr_t adress)
 {
-    return *reinterpret_cast<float*>(adress);
+        return *reinterpret_cast<float*>(adress);
 }

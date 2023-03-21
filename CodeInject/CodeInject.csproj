@@ -54,6 +54,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="GameMethods.cs" />
+    <Compile Include="Logger\Logger.cs" />
     <Compile Include="NPC\INPC.cs" />
     <Compile Include="NPC\Monster.cs" />
     <Compile Include="NPC\PlayerCharacter.cs" />

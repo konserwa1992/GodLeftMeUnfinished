@@ -10,7 +10,7 @@ namespace CodeInject.NPC
     interface INPC
     {
         int ID { get; set; }
-        Vector2 Position { get; set; }
+        Vector3 Position { get; set; }
         int NPCModelNameID { get; set; }
         void Update();
     }
