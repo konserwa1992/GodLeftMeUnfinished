@@ -72,6 +72,7 @@ namespace CodeInject
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 6;
             this.label1.Text = "label1";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // listBox1
             // 
@@ -101,7 +102,7 @@ namespace CodeInject
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Timer timer2;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Label label1;
+        public System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListBox listBox1;
     }
 }

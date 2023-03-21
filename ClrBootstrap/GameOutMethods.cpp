@@ -4,10 +4,10 @@
 typedef void(__fastcall* _AttackTarget)(DWORD skill, DWORD monsteIndex);
 
 
-int AttackTarget(DWORD skill, DWORD MonsterIndex) {
+int AttackTarget(DWORD skill, DWORD monsterIndex) {
     _AttackTarget attackTargetWithSkill = (_AttackTarget)(GetBaseAdress() + (long long)0x0000041B41);
 
-    attackTargetWithSkill(skill, MonsterIndex);
+    attackTargetWithSkill(skill, monsterIndex);
     return 1;
 }
 
@@ -20,15 +20,13 @@ long long GetBaseAdress()
 
 
 
-uintptr_t GetInt64(uintptr_t Adress)
+long long GetInt64(uintptr_t adress)
 {
-    uintptr_t p = (uintptr_t)Adress;
-    return *reinterpret_cast<long long*>(p);
+    return *reinterpret_cast<long long*>(adress);
 }
 
 
-uintptr_t GetInt32(uintptr_t Adress)
+int GetInt32(uintptr_t adress)
 {
-    uintptr_t p = (uintptr_t)Adress;
-    return *reinterpret_cast<int*>(p);
+    return *reinterpret_cast<int*>(adress);
 }

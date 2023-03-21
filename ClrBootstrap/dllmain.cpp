@@ -31,18 +31,23 @@ extern "C" UINT GetMsgBoxType()
     return MB_YESNOCANCEL | MB_ICONINFORMATION;
 }
 
+ICLRMetaHost* metaHost = NULL;
+ICLRRuntimeInfo* runtimeInfo = NULL;
+ICLRRuntimeHost* runtimeHost = NULL;
+
+FILE* file;
+LPWSTR AppPath = new WCHAR[_MAX_PATH];
+std::wstring tempPath;
+
 
 DWORD WINAPI Main()
 {
-    ICLRMetaHost* metaHost = NULL; 
-    ICLRRuntimeInfo* runtimeInfo = NULL;
-    ICLRRuntimeHost* runtimeHost = NULL; 
 
-    FILE* file;
-    LPWSTR AppPath = new WCHAR[_MAX_PATH];
+     AppPath = new WCHAR[_MAX_PATH];
     ::GetModuleFileNameW((HINSTANCE)&__ImageBase, AppPath, _MAX_PATH);
 
-    std::wstring tempPath = AppPath;
+     tempPath = AppPath;
+ 
     int index = tempPath.rfind('\\');
     tempPath.erase(index, tempPath.length() - index);
     tempPath += Assembly;
@@ -55,11 +60,16 @@ DWORD WINAPI Main()
                 {
                     DWORD pReturnValue;
                     runtimeHost->ExecuteInDefaultAppDomain((LPWSTR)tempPath.c_str(), Class, Method, Param, &pReturnValue);
+
+               
                     std::cout << (int)pReturnValue;
-                    runtimeInfo->Release();
+                  /*  runtimeInfo->Release();
                     metaHost->Release();
-                    runtimeHost->Release();
+                    runtimeHost->Release();*/
                 }
+
+    DWORD res;
+    runtimeHost->ExecuteInDefaultAppDomain((LPWSTR)tempPath.c_str(), Class, L"Message", Param, &res);
     return 0;
 }
 
@@ -80,6 +90,7 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReser
         case DLL_PROCESS_DETACH:
         break;
     }
+
     return TRUE;
 }
 

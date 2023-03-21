@@ -11,10 +11,10 @@ extern "C" {
 }
 
 extern "C" {
-	__declspec(dllexport) uintptr_t GetInt64(uintptr_t Adress);
+	__declspec(dllexport) long long GetInt64(uintptr_t Adress);
 }
 
 extern "C" {
-	__declspec(dllexport) uintptr_t GetInt32(uintptr_t Adress);
+	__declspec(dllexport) int GetInt32(uintptr_t Adress);
 }
 
