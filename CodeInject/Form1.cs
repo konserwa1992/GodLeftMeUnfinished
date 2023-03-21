@@ -106,21 +106,5 @@ namespace CodeInject
             label1.Text = $"{selectedMonster} {isAlive} Distance:{Vector2.Distance(MonsterList.FirstOrDefault(x=>x.ID==int.Parse(selectedMonster)).Position, player.Position)}";
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Monster monster = new Monster(int.Parse(selectedMonster));
-            monster.Update();
-            MessageBox.Show($"{monster.Position.X} {monster.Position.Y} ");
-        }
     }
 }
