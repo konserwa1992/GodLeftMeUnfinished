@@ -28,13 +28,6 @@ namespace ISpace
         [DllImport("user32.dll")]
         static extern int GetWindowLong(IntPtr hWnd, int nIndex);
 
-        public static int Message(string args)
-        {
-            form.label1.Text = args; 
-            return 0;
-        }
-
-
         [DllImport("kernel32")]
         static extern bool AllocConsole();
 

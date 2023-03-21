@@ -14,3 +14,11 @@ D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInjec
 D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.dll
 D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.pdb
 D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\CodeInject.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\CodeInject.pdb
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.Form1.resources
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.GenerateResource.cache
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.pdb

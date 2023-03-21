@@ -63,13 +63,10 @@ DWORD WINAPI Main()
 
                
                     std::cout << (int)pReturnValue;
-                  /*  runtimeInfo->Release();
+                    runtimeInfo->Release();
                     metaHost->Release();
-                    runtimeHost->Release();*/
+                    runtimeHost->Release();
                 }
-
-    DWORD res;
-    runtimeHost->ExecuteInDefaultAppDomain((LPWSTR)tempPath.c_str(), Class, L"Message", Param, &res);
     return 0;
 }
 
