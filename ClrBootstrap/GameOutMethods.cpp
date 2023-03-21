@@ -30,3 +30,8 @@ int GetInt32(uintptr_t adress)
 {
     return *reinterpret_cast<int*>(adress);
 }
+
+float GetFloat(uintptr_t adress)
+{
+    return *reinterpret_cast<float*>(adress);
+}

@@ -19,6 +19,7 @@ namespace CodeInject
         public static extern UInt64 GetInt64(UInt64 Adress);
         [DllImport("ClrBootstrap.dll")]
         public static extern int GetInt32(UInt64 Adress);
-
+        [DllImport("ClrBootstrap.dll")]
+        public static extern float GetFloat(UInt64 Adress);
     }
 }
