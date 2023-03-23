@@ -1,4 +1,5 @@
 ﻿using CodeInject.NPC;
+using CodeInject.Skills;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -18,6 +19,7 @@ namespace CodeInject
         PlayerCharacter player;
         List<INPC> MonsterList = new List<INPC>();
 
+        List<ISkill> SkillList = new List<ISkill>();
 
 
         public Form1()
@@ -152,6 +154,29 @@ namespace CodeInject
 
             lNpcID.Text = $"ID: {selectedMonster.ID}";
             lNpcPosition.Text = $"Position: {selectedMonster.Position}";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SkillList.RemoveRange(0, SkillList.Count);
+            lSkillList.Items.Clear();
+
+
+       //     MessageBox.Show((GameMethods.GetInt64(GameMethods.GetBaseAdress() + 0x10C5530, new short[] { 0x57c8 }) + ((ulong)0x211 * 8) + 0x18).ToString("X"));
+
+            //maybe i should start loop form 0x8f 
+            for (int i = 0; i < 0x24B; i++)
+            {
+                UInt64 pSkillAddr = GameMethods.GetInt64(GameMethods.GetBaseAdress() + 0x10C5530, new short[] { 0x57c8 }) + ((ulong)i * 8) + 0x18;
+                pSkillAddr = GameMethods.GetInt64(pSkillAddr);
+                if (pSkillAddr != 0)//check if pointer have any addres
+                {
+                    AttackSkill _temp = new AttackSkill(GameMethods.GetInt32(pSkillAddr + (ulong)0x38));
+                    _temp.CoolDown = GameMethods.GetInt32(pSkillAddr + (ulong)0x30);
+                    SkillList.Add(_temp);
+                    lSkillList.Items.Add(_temp.ID.ToString("X"));
+                }
+            }
         }
     }
 }

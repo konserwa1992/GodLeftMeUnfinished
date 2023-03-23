@@ -1,6 +1,10 @@
 #include "pch.h"
 #include "GameOutMethods.h"
 #include <exception>
+#include <typeinfo>
+#include <string>
+
+
 
 typedef void(__fastcall* _AttackTarget)(DWORD skill, DWORD monsteIndex);
 

@@ -1,5 +1,6 @@
 #pragma once
 #include <Windows.h>
+#include <string>
 
 extern "C" {
 	__declspec(dllexport) int AttackTarget(DWORD skill, DWORD MonsterIndex);

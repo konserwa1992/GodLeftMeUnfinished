@@ -4,6 +4,7 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 using CodeInject.Logger;
 
 namespace CodeInject.NPC
@@ -34,6 +35,7 @@ namespace CodeInject.NPC
                 if (NpcEntryPointer != 0)
                 {
                     ulong NpcEntryAdress = GameMethods.GetInt64(NpcEntryPointer);
+
                     if (NpcEntryAdress != 0)
                     {
                         Position = new Vector3(GameMethods.GetFloat(NpcEntryAdress + 0x10), GameMethods.GetFloat(NpcEntryAdress + 0x14), GameMethods.GetFloat(NpcEntryAdress + 0x18));
