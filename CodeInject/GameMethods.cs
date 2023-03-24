@@ -39,7 +39,7 @@ namespace CodeInject
 
         public static int SendPacket(byte[] packet)
         {
-            return SendPacketToServer(GetInt64((GetBaseAdress()+ 0x10CF390))+ 0x000016D8 +0x320, packet);
+            return SendPacketToServer(GetInt64((GetBaseAdress()+ 0x1126948))+ 0x000016D8 +0x320, packet);
         }
 
     }

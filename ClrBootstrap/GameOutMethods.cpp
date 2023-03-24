@@ -45,7 +45,7 @@ float GetFloat(uintptr_t adress)
 
 int SendPacketToServer(uintptr_t deviceAddr, char packet[])
 {
-    _PacketSend attackTargetWithSkill = (_PacketSend)(GetBaseAdress() + (long long)0x26521);
+    _PacketSend attackTargetWithSkill = (_PacketSend)(GetBaseAdress() + 0x268DC);
 
     attackTargetWithSkill(deviceAddr, packet);
 
