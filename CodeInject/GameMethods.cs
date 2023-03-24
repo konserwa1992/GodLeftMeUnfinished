@@ -21,7 +21,8 @@ namespace CodeInject
         public static extern int GetInt32(UInt64 Adress);
         [DllImport("ClrBootstrap.dll")]
         public static extern float GetFloat(UInt64 Adress);
-
+        [DllImport("ClrBootstrap.dll")]
+        public static extern int SendPacketToServer(UInt64 deviceAddr, byte[] packet);
 
         public static UInt64 GetInt64(UInt64 Adress, short[] offsets)
         {
@@ -33,6 +34,12 @@ namespace CodeInject
             }
 
             return finalAdress;
+        }
+
+
+        public static int SendPacket(byte[] packet)
+        {
+            return SendPacketToServer(GetInt64((GetBaseAdress()+ 0x10CF390))+ 0x000016D8 +0x320, packet);
         }
 
     }

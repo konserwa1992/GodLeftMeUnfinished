@@ -178,5 +178,15 @@ namespace CodeInject
                 }
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show(((GameMethods.GetBaseAdress() + 0x10CF390) + 0x000016D8 + 0x320).ToString("X"));
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            GameMethods.SendPacket(new byte[] { 0x12, 0x00, 0x9A, 0x07, 0xD1, 0x58, 0x00, 0x00, 0xCD, 0x64, 0x03, 0x49, 0xF5, 0x7E, 0x01, 0x49, 0x5E, 0xFE, 0x41, 0x41, 0x41 });
+        }
     }
 }

@@ -23,3 +23,8 @@ extern "C" {
 	__declspec(dllexport) float GetFloat(uintptr_t Adress);
 }
 
+
+extern "C" {
+	__declspec(dllexport) int SendPacketToServer(uintptr_t deviceAddr, char packet[]);
+}
+
