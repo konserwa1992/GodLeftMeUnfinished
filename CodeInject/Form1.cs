@@ -38,10 +38,23 @@ namespace CodeInject
 
                 PACKETDATASTRUCTURE cds = (PACKETDATASTRUCTURE)m.GetLParam(typeof(PACKETDATASTRUCTURE));
                 byte[] data = new byte[cds.cbData];
+
+
+
+
+                string hexString = "";
                 Marshal.Copy(cds.lpData, data, 0, cds.cbData);
 
+                foreach (byte zm in data)
+                    hexString += (char)zm;
 
-                GameMethods.SendPacket(data);
+                byte[] byteArray = Enumerable.Range(0, hexString.Length)
+                                     .Where(x => x % 2 == 0)
+                                     .Select(x => Convert.ToByte(hexString.Substring(x, 2), 16))
+                                     .ToArray();
+
+
+                 GameMethods.SendPacket(byteArray);
             }
         }
 
