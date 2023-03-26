@@ -47,13 +47,19 @@ namespace CodeInject
                 foreach (byte zm in data)
                     hexString += (char)zm;
 
-                byte[] byteArray = Enumerable.Range(0, hexString.Length)
+                /*byte[] byteArray = Enumerable.Range(0, hexString.Length)
                                      .Where(x => x % 2 == 0)
                                      .Select(x => Convert.ToByte(hexString.Substring(x, 2), 16))
-                                     .ToArray();
+                                     .ToArray();*/
 
 
-                 GameMethods.SendPacket(byteArray);
+                byte[] byteArray = new byte[hexString.Length / 2];
+                for (int i = 0; i < byteArray.Length; i++)
+                {
+                    byteArray[i] = Convert.ToByte(hexString.Substring(i * 2, 2), 16);
+                }
+
+                GameMethods.SendPacket(byteArray);
             }
         }
 
@@ -71,7 +77,20 @@ namespace CodeInject
 
         private void button1_Click(object sender, EventArgs e)
         {
-           // GameMethods.SendPacket(new byte[] { 0x12, 0x00, 0x9A, 0x07, 0xD1, 0x58, 0x00, 0x00, 0xCD, 0x64, 0x03, 0x49, 0xF5, 0x7E, 0x01, 0x49, 0x5E, 0xFE, 0x41, 0x41, 0x41 });
+   
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string hexString = textBox1.Text;
+            byte[] byteArray = new byte[hexString.Length / 2];
+            for (int i = 0; i < byteArray.Length; i++)
+            {
+                byteArray[i] = Convert.ToByte(hexString.Substring(i * 2, 2), 16);
+            }
+
+            GameMethods.SendPacket(byteArray);
+            //  GameMethods.SendPacket(new byte[] { 0x08, 0x00, 0x98, 0x07, 0xD1, 0x58, 0x95, 0x80, 0xD6 });
         }
     }
 }
