@@ -58,6 +58,10 @@
     <Compile Include="NPC\INPC.cs" />
     <Compile Include="NPC\Monster.cs" />
     <Compile Include="NPC\PlayerCharacter.cs" />
+    <Compile Include="Packet\IPacket.cs" />
+    <Compile Include="Packet\Packet Events\PacketEvents.cs" />
+    <Compile Include="Packet\PacketParserCommander.cs" />
+    <Compile Include="Packet\RecivePacket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Skills\ISkill.cs" />

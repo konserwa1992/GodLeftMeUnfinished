@@ -24,6 +24,14 @@ namespace CodeInject
         [DllImport("ClrBootstrap.dll")]
         public static extern int SendPacketToServer(UInt64 deviceAddr, byte[] packet);
 
+        [DllImport("ClrBootstrap.dll")]
+        public static extern byte GetByte(UInt64 Adress);
+
+
+
+        [DllImport("ClrBootstrap.dll")]
+        public static extern void GetByteArray(UInt64 adress, byte[] outTable, int size);
+
         public static UInt64 GetInt64(UInt64 Adress, short[] offsets)
         {
             UInt64 finalAdress = Adress;
