@@ -22,3 +22,4 @@ C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInj
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.CopyComplete
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.dll
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.pdb
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache

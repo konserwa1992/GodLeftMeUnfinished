@@ -37,6 +37,15 @@ namespace CodeInject
             PacketCommander.ChechIfNewPacketArrived();
             lPacketCount.Text = PacketCommander.PacketList.Count.ToString();
             label1.Text = GameMethods.GetInt64(GameMethods.GetBaseAdress() + (ulong)0x0112FE60, new short[] { 0x00, 0x00, 0x28, 0x08, 0x2d8 }).ToString("X");
+
+            IPacket pakiet = PacketCommander.lastRecivePacket;
+
+            string packet = "";
+            foreach(byte _byte in pakiet.Packet)
+            {
+                packet += _byte + " ";
+            }
+            label2.Text = packet;
         }
 
         public Form1()

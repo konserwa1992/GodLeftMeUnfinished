@@ -33,8 +33,10 @@ namespace CodeInject.Packet
                 isNew = true;
             }
 
-            if(isNew==true)
-            base.NewPacketArrived(this, new PacketArgs() { Packet = packet });
+            if (isNew == true)
+            {
+                base.NewPacketArrived(this, new PacketArgs() { Packet = packet });
+            }
 
             return isNew;
         }
@@ -42,7 +44,7 @@ namespace CodeInject.Packet
         public void Add(IPacket packet)
         {
             PacketList.Add(packet);
-            lastRecivePacket = packet;
+          
         }
 
         public void Add(PacketTypes type,byte[] rawPacket)
@@ -62,7 +64,8 @@ namespace CodeInject.Packet
 
         public void RecivedNewPacket(object obj, EventArgs packet)
         {
-            if(Record == true)
+            lastRecivePacket = ((PacketArgs)packet).Packet;
+            if (Record == true)
               Add(((PacketArgs)packet).Packet);
         }
 
@@ -79,7 +82,7 @@ namespace CodeInject.Packet
             GameMethods.GetByteArray(adr, packetFromServer, packetFromServer.Length);
 
             IPacket recivePacket = new RecivePacket(packetFromServer);
-
+           
             IsRecivePacketNew(recivePacket);
         }
 
