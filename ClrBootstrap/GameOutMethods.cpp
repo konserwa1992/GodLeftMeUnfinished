@@ -62,9 +62,9 @@ void GetByteArray(uintptr_t adress,char* outTable,int size)
 
 int SendPacketToServer(uintptr_t deviceAddr, char packet[])
 {
-    _PacketSend attackTargetWithSkill = (_PacketSend)(GetBaseAdress() + 0x268DC);
+    _PacketSend sendFunctionPointer = (_PacketSend)(GetBaseAdress() + 0x268DC);
 
-    attackTargetWithSkill(deviceAddr, packet);
+    sendFunctionPointer(deviceAddr, packet);
 
     return 0; 
 }

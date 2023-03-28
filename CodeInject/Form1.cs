@@ -45,7 +45,6 @@ namespace CodeInject
             {
                 packet += _byte + " ";
             }
-            label2.Text = packet;
         }
 
         public Form1()
