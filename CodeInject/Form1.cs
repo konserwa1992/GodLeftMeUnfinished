@@ -25,11 +25,11 @@ namespace CodeInject
         private  void SetTimer()
         {
             // Create a timer with a two second interval.
-            recivePacketTimer = new System.Timers.Timer(10);
+           // recivePacketTimer = new System.Timers.Timer(10);
             // Hook up the Elapsed event for the timer. 
-            recivePacketTimer.Elapsed += OnPacketChangeTick;
-            recivePacketTimer.AutoReset = true;
-            recivePacketTimer.Enabled = true;
+          //  recivePacketTimer.Elapsed += OnPacketChangeTick;
+           // recivePacketTimer.AutoReset = true;
+           // recivePacketTimer.Enabled = true;
         }
 
         private  void OnPacketChangeTick(Object source, ElapsedEventArgs e)
@@ -183,6 +183,9 @@ namespace CodeInject
 
         }
 
- 
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }
