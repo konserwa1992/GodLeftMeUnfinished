@@ -14,6 +14,10 @@ D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInjec
 D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.dll
 D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.pdb
 D:\Rose CRL Call Asm functions\ClrHosting-Glatrix\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\FASM-LICENSE.TXT
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\FASM.DLL
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\FASMX64.DLL
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\Reloaded.Assembler.targets
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\CodeInject.dll
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\CodeInject.pdb
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.Form1.resources
@@ -23,3 +27,15 @@ C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInj
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.dll
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.pdb
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache
+C:\dev rose\FASM-LICENSE.TXT
+C:\dev rose\FASM.DLL
+C:\dev rose\FASMX64.DLL
+C:\dev rose\Reloaded.Assembler.targets
+C:\dev rose\CodeInject.dll
+C:\dev rose\CodeInject.pdb
+C:\dev rose\EasyHook32.dll
+C:\dev rose\EasyHook32Svc.exe
+C:\dev rose\EasyHook64.dll
+C:\dev rose\EasyHook64Svc.exe
+C:\dev rose\EasyLoad32.dll
+C:\dev rose\EasyLoad64.dll

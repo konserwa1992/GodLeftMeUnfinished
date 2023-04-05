@@ -10,17 +10,22 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using NXPorts.Attributes;
+using Hook_test_lib;
 
 namespace ISpace
 {
-    public class IClass
+    public static class IClass
     {
         static Form1 form;
-        public static int IMain(string args)
+
+        //public static int IMain(string args)
+        public static int IMain(string msg)
         {
-            form = new Form1();
-            new Thread(new ThreadStart(delegate () { form.ShowDialog(); })).Start();
+            AllocConsole();
+            GameMethods.AttachHook();
+            // form = new Form1();
+            //   form.ShowDialog();
             return 0;
         }
 

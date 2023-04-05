@@ -1,21 +1,26 @@
 ﻿using CodeInject.NPC;
 using CodeInject.Skills;
+using Hook_test_lib;
+using Reloaded.Hooks;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
 using System.Linq;
+using System.Net;
+using System.Net.Sockets;
 using System.Numerics;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static CodeInject.GameMethods;
+using static Reloaded.Memory.Sources.MemoryExtensions;
 
 namespace CodeInject
 {
     public partial class Form1 : Form
     {
-
         public Form1()
         {
             InitializeComponent();
@@ -29,7 +34,7 @@ namespace CodeInject
         }
 
 
-        protected override void WndProc(ref Message m)
+        protected unsafe override void WndProc(ref Message m)
         {
             base.WndProc(ref m);
             if (m.Msg == 0x004A && m.WParam == (IntPtr)0x100) 
@@ -59,7 +64,13 @@ namespace CodeInject
                     byteArray[i] = Convert.ToByte(hexString.Substring(i * 2, 2), 16);
                 }
 
-                GameMethods.SendPacket(byteArray);
+                fixed (byte* pointer = byteArray)
+                {
+                    IntPtr p = new IntPtr(pointer);
+                    GameMethods.SendPacketToServer((short*)p.ToPointer());
+                }
+
+  
             }
         }
 
@@ -80,17 +91,33 @@ namespace CodeInject
    
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private unsafe void button2_Click(object sender, EventArgs e)
         {
             string hexString = textBox1.Text;
             byte[] byteArray = new byte[hexString.Length / 2];
+
             for (int i = 0; i < byteArray.Length; i++)
             {
                 byteArray[i] = Convert.ToByte(hexString.Substring(i * 2, 2), 16);
             }
 
-            GameMethods.SendPacket(byteArray);
-            //  GameMethods.SendPacket(new byte[] { 0x08, 0x00, 0x98, 0x07, 0xD1, 0x58, 0x95, 0x80, 0xD6 });
+            fixed (byte* pointer = byteArray)
+            {
+                IntPtr p = new IntPtr(pointer);
+                GameMethods.SendPacketToServer((short*)p.ToPointer());
+            }
+        }
+
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            FileName.oryginalnaFunkcja();
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            FileName.hook();
+          //  GameMethods.AttachHook();
         }
     }
 }

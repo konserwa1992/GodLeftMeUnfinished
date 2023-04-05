@@ -42,6 +42,23 @@ float GetFloat(uintptr_t adress)
 }
 
 
+short GetShort(uintptr_t adress)
+{
+    return *reinterpret_cast<short*>(adress);
+}
+
+
+BYTE GetByte(uintptr_t adress)
+{
+    return *reinterpret_cast<BYTE*>(adress);
+}
+
+void GetByteArray(uintptr_t adress, char* outTable, int size)
+{
+    memcpy(outTable, reinterpret_cast<char*>(adress), size);
+}
+
+
 
 int SendPacketToServer(uintptr_t deviceAddr, char packet[])
 {

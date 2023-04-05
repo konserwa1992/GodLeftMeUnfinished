@@ -28,3 +28,16 @@ extern "C" {
 	__declspec(dllexport) int SendPacketToServer(uintptr_t deviceAddr, char packet[]);
 }
 
+extern "C" {
+	__declspec(dllexport) BYTE GetByte(uintptr_t Adress);
+}
+
+
+extern "C" {
+	__declspec(dllexport) void GetByteArray(uintptr_t adress, char* outTable, int size);
+}
+
+
+extern "C" {
+	__declspec(dllexport) short GetShort(uintptr_t Adress);
+}
