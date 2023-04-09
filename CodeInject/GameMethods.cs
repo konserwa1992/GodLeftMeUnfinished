@@ -1,4 +1,6 @@
-﻿using EasyHook;
+﻿using CodeInject.Packet;
+using CodeInject.Packet.Packet_Events;
+using EasyHook;
 using Reloaded.Hooks;
 using Reloaded.Hooks.Definitions;
 using Reloaded.Hooks.Definitions.X64;
@@ -32,6 +34,10 @@ namespace CodeInject
 
         [DllImport("ClrBootstrap.dll")]
         public static extern byte GetByte(UInt64 Adress);
+
+
+        [DllImport("ClrBootstrap.dll")]
+        public static extern short GetShort(UInt64 Adress);
 
 
 
@@ -87,19 +93,32 @@ namespace CodeInject
         {
             Console.WriteLine($"Size: {GameMethods.GetInt32(((ulong)a.ToInt64() - 0x68) + 0x22)} Packet Recive: {packet.ToInt64().ToString("X")}");
 
-            byte[] PacketData = new byte[GameMethods.GetInt32(((ulong)a.ToInt64() - 0x68) + 0x22)];
+            byte[] PacketData = new byte[GameMethods.GetShort((ulong)packet.ToInt64())];
+
+
+
+
             GameMethods.GetByteArray((ulong)packet.ToInt64(), PacketData, PacketData.Length);
             for(int i=0;i<PacketData.Length;i++)
             {
                 Console.Write(PacketData[i].ToString("X2")+ " ");
             }
             Console.WriteLine();
-          Console.WriteLine("------------------------------------------------------");
+            Console.WriteLine("------------------------------------------------------");
+
+            PacketParserManager.Instance.NewPacketArrived(a, new PacketArgs { Packet = new RecivePacket(PacketData) });
 
             return RecivePacketFromServer(a, packet);
         }
         public unsafe static void PacketSendHook(IntPtr a, Int16* packet)
         {
+            ulong packetAdr = (ulong)(new IntPtr((void*)packet).ToInt64());
+            byte[] PacketData = new byte[GameMethods.GetByte(packetAdr)];
+            GameMethods.GetByteArray(packetAdr, PacketData, PacketData.Length);
+
+            PacketParserManager.Instance.NewPacketArrived(a, new PacketArgs { Packet = new SendPacket(PacketData) });
+
+
             SendPacketToServer(packet);
             Console.WriteLine($"Packet Send: {new IntPtr(packet).ToInt64().ToString("X")}");
         }

@@ -134,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Commands\AttackCommand.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -145,6 +146,13 @@
     <Compile Include="NPC\INPC.cs" />
     <Compile Include="NPC\Monster.cs" />
     <Compile Include="NPC\PlayerCharacter.cs" />
+    <Compile Include="Packet\IPacket.cs" />
+    <Compile Include="Packet\Packet Events\PacketEvents.cs" />
+    <Compile Include="Packet\PacketDataStructure\MonsterDeadPacketData.cs" />
+    <Compile Include="Packet\PacketDataStructure\SpawnMonsterPacketData.cs" />
+    <Compile Include="Packet\PacketParserManager.cs" />
+    <Compile Include="Packet\RecivePacket.cs" />
+    <Compile Include="Packet\SendPacket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Skills\ISkill.cs" />

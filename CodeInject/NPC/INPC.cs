@@ -7,11 +7,9 @@ using System.Threading.Tasks;
 
 namespace CodeInject.NPC
 {
-    interface INPC
+   public interface INPC
     {
-        int ID { get; set; }
+        ushort ID { get; set; }
         Vector3 Position { get; set; }
-        int NPCModelNameID { get; set; }
-        void Update();
     }
 }

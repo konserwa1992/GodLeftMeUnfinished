@@ -22,10 +22,10 @@ namespace ISpace
         //public static int IMain(string args)
         public static int IMain(string msg)
         {
-            AllocConsole();
+           // AllocConsole();
             GameMethods.AttachHook();
-            // form = new Form1();
-            //   form.ShowDialog();
+            form = new Form1();
+            form.ShowDialog();
             return 0;
         }
 
