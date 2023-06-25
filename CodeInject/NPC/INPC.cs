@@ -11,5 +11,6 @@ namespace CodeInject.NPC
     {
         ushort ID { get; set; }
         Vector3 Position { get; set; }
+        ushort NPCModelNameID { get; set; }
     }
 }

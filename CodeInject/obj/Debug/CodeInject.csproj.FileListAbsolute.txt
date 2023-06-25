@@ -20,22 +20,69 @@ C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\FASMX64.DLL
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\Reloaded.Assembler.targets
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\CodeInject.dll
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\x64\Debug\CodeInject.pdb
-C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.Form1.resources
-C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.GenerateResource.cache
-C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.CoreCompileInputs.cache
-C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.CopyComplete
-C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.dll
-C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.pdb
-C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache
-C:\dev rose\FASM-LICENSE.TXT
-C:\dev rose\FASM.DLL
-C:\dev rose\FASMX64.DLL
-C:\dev rose\Reloaded.Assembler.targets
-C:\dev rose\CodeInject.dll
-C:\dev rose\CodeInject.pdb
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\EasyHook32.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\EasyHook32Svc.exe
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\EasyHook64.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\EasyHook64Svc.exe
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\EasyLoad32.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\EasyLoad64.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\FASM-LICENSE.TXT
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\FASM.DLL
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\FASMX64.DLL
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Assembler.targets
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\CodeInject.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\CodeInject.pdb
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\EasyHook.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Microsoft.CSharp.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Assembler.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Hooks.Definitions.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Hooks.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Memory.Buffers.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Memory.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\SharpDisasm.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Data.DataSetExtensions.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Data.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Drawing.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Net.Http.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Numerics.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Numerics.Vectors.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Windows.Forms.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Xml.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Xml.Linq.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\EasyHook.xml
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Assembler.pdb
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Assembler.xml
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Hooks.xml
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Hooks.Definitions.xml
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Memory.xml
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\Reloaded.Memory.Buffers.xml
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\bin\System.Numerics.Vectors.xml
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\EasyHook32.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\EasyHook32Svc.exe
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\EasyHook64.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\EasyHook64Svc.exe
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\EasyLoad32.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\EasyLoad64.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\FASM-LICENSE.TXT
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\FASM.DLL
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\FASMX64.DLL
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\Reloaded.Assembler.targets
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\CodeInject.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\Debug\CodeInject.pdb
 C:\dev rose\EasyHook32.dll
 C:\dev rose\EasyHook32Svc.exe
 C:\dev rose\EasyHook64.dll
 C:\dev rose\EasyHook64Svc.exe
 C:\dev rose\EasyLoad32.dll
 C:\dev rose\EasyLoad64.dll
+C:\dev rose\CodeInject.dll
+C:\dev rose\CodeInject.pdb
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.AssemblyReference.cache
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.Form1.resources
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.GenerateResource.cache
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.CopyComplete
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.pdb

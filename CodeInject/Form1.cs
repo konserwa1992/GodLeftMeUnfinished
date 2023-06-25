@@ -15,6 +15,7 @@ using System.Windows.Forms;
 using System.Timers;
 using CodeInject.Commands;
 using System.IO;
+using CodeInject.GameData;
 
 namespace CodeInject
 {
@@ -24,6 +25,7 @@ namespace CodeInject
         {
             InitializeComponent();
             PacketParserManager.Instance.NewPacketArrived += AddNewPacketToList;
+
         }
 
         public struct PACKETDATASTRUCTURE
@@ -102,6 +104,7 @@ namespace CodeInject
 
         private void button3_Click_1(object sender, EventArgs e)
         {
+            GameMethods.AttachHookSendHook();
             PacketParserManager.Instance.Record = !PacketParserManager.Instance.Record;
 
             if (PacketParserManager.Instance.Record)
@@ -188,13 +191,14 @@ namespace CodeInject
 
         private void button4_Click(object sender, EventArgs e)
         {
-            AttackCommand command = new AttackCommand()
+            /*AttackCommand command = new AttackCommand()
             {
                 TargetID = ushort.Parse(listBox2.SelectedItem.ToString()),
                 SkillID = 0x210
             };
 
-            command.Execute();
+            command.Execute();*/
+            timer2.Enabled = !timer2.Enabled;
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -208,6 +212,110 @@ namespace CodeInject
 
             _stream.Flush();
             _stream.Close();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            listBox2.Items.Clear();
+            foreach (INPC npc in PacketParserManager.Instance.npcList)
+            {
+                listBox2.Items.Add(GameInfoList.GetNameMonsterByID(npc.NPCModelNameID) + " ID:" + npc.ID.ToString() + " POS:"+ npc.Position.ToString());
+            }
+        }
+
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+     
+        }
+
+        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // AttackCommand command = new AttackCommand()
+            // {
+            //     TargetID = PacketParserManager.Instance.npcList[listBox2.SelectedIndex].ID,
+            //     SkillID = 0x1
+            //  };
+
+
+            selected = PacketParserManager.Instance.npcList[listBox2.SelectedIndex];
+          // command.Execute();
+        }
+
+        INPC selected=null;
+        private void timer2_Tick_1(object sender, EventArgs e)
+        {
+            if(selected != null && PacketParserManager.Instance.npcList.FirstOrDefault(x=>x.ID==selected.ID)!=null)
+            {
+                AttackCommand command = new AttackCommand()
+                {
+                    TargetID = selected.ID,
+                    SkillID = (ushort)(lSkillList.Items.IndexOf(lSkillToUse.Items[new Random().Next(lSkillToUse.Items.Count)]))
+                };
+
+                command.Execute();
+            }else
+            {
+                selected = PacketParserManager.Instance.npcList[(new Random().Next(PacketParserManager.Instance.npcList.Count))];
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            string packet = tTestByteArray.Text.Replace(" ", "");
+
+            switch(cTypeConvert.SelectedIndex)
+            {
+                case 0:
+                    {
+
+                        byte[] byteArray = new byte[packet.Length / 2];
+                        for (int i = 0; i < byteArray.Length; i++)
+                        {
+                            byteArray[i] = Convert.ToByte(packet.Substring(i * 2, 2), 16);
+                        }
+
+                        lOutPutConvert.Text = BitConverter.ToSingle(byteArray, int.Parse(tOffset.Text)).ToString();
+                        break;
+                    }
+                case 1:
+                    {
+
+                        byte[] byteArray = new byte[packet.Length / 2];
+                        for (int i = 0; i < byteArray.Length; i++)
+                        {
+                            byteArray[i] = Convert.ToByte(packet.Substring(i * 2, 2), 16);
+                        }
+
+                        lOutPutConvert.Text = BitConverter.ToDouble(byteArray, int.Parse(tOffset.Text)).ToString();
+                        break;
+                    }
+            }
+        }
+
+        private unsafe void button7_Click(object sender, EventArgs e)
+        {
+            lSkillList.Items.Clear();
+
+            ulong* adrPtr1 = (ulong*)(new UIntPtr(GameMethods.GetBaseAdress() + 0x1128AB0).ToPointer());
+            // UIntPtr uIntPtr = new UIntPtr((ulong*)adrPtr1);
+
+            MessageBox.Show("start adr:"+(*adrPtr1 + ((ulong)0 * 2) + 0x50 + 0xCD0).ToString("X"));
+            int i = 0;
+            while (GameMethods.GetShort(*adrPtr1 + ((ulong)i * 2) + 0x50 + 0xCD0) != 0)
+            {
+                lSkillList.Items.Add(GameInfoList.GetNameSkillByID(GameMethods.GetShort(*adrPtr1 + ((ulong)i * 2) + 0x50 + 0xCD0)));
+                i++;
+            }
+        }
+
+        private void bAddSkillToUse_Click(object sender, EventArgs e)
+        {
+            if(lSkillList.SelectedItem != null && !lSkillToUse.Items.Contains(lSkillList.SelectedItem)) lSkillToUse.Items.Add(lSkillList.SelectedItem);
+        }
+
+        private void bRemoveSkillToUse_Click(object sender, EventArgs e)
+        {
+            if (lSkillToUse.SelectedItem != null) lSkillToUse.Items.Remove(lSkillToUse.SelectedItem);
         }
     }
 }

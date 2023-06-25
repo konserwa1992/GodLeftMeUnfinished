@@ -10,8 +10,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using NXPorts.Attributes;
-using Hook_test_lib;
 
 namespace ISpace
 {
@@ -22,8 +20,8 @@ namespace ISpace
         //public static int IMain(string args)
         public static int IMain(string msg)
         {
-           // AllocConsole();
-            GameMethods.AttachHook();
+            // AllocConsole();
+            GameMethods.AttachHookReciveHook();
             form = new Form1();
             form.ShowDialog();
             return 0;

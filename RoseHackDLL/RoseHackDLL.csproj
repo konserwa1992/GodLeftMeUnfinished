@@ -45,7 +45,6 @@
       <Version>3.0.29</Version>
       <GeneratePathProperty>True</GeneratePathProperty>
     </PackageReference>
-    <PackageReference Include="Reloaded.Hooks" Version="4.3.0" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Windows.Forms">

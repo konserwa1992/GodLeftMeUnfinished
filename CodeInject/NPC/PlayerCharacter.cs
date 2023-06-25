@@ -11,7 +11,7 @@ namespace CodeInject.NPC
     {
         public ushort ID { get; set; }
         public Vector3 Position { get; set; }
-        public int NPCModelNameID { get; set; }
+        public ushort NPCModelNameID { get; set; }
 
         public PlayerCharacter(ushort id)
         {

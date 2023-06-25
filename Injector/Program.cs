@@ -40,15 +40,15 @@ namespace InjectorDLL
             Console.WriteLine($"ClrBootstrap Adress: {DllAdress.ToString("X")}");
 
 
-            DllAdress = injector.Inject("C:\\dev rose\\RoseHackDLL.dll");
-            Console.WriteLine($"RoseHackDLL Adress: {DllAdress.ToString("X")}");
+            //DllAdress = injector.Inject("C:\\dev rose\\RoseHackDLL.dll");
+           // Console.WriteLine($"RoseHackDLL Adress: {DllAdress.ToString("X")}");
 
 
-            long adressFunckcjiIMain = injector.GetFunctionAddress("RoseHackDLL.dll", "IMain");
-            Console.WriteLine($"IMain: {adressFunckcjiIMain.ToString("X2")}");
+         //   long adressFunckcjiIMain = injector.GetFunctionAddress("RoseHackDLL.dll", "IMain");
+        //    Console.WriteLine($"IMain: {adressFunckcjiIMain.ToString("X2")}");
 
             stringParams parames = new stringParams("asaadwsdwdw");
-            injector.CallFunction("RoseHackDLL.dll", "IMain", parames);
+          //  injector.CallFunction("RoseHackDLL.dll", "IMain", parames);
 
             Console.ReadKey();
         }

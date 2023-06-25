@@ -1,0 +1,8520 @@
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Sit;11
+Pick Up;12
+Normal Attack;13
+Party;14
+Trade;15
+Vending;16
+Self Target;17
+Disassemble;18
+Ride Request;19
+Target Enemy;20
+Jump;21
+Target Ally;22
+Despawn Summons;23
+;
+Hi!;25
+Grateful Bow;26
+Laugh;27
+Applause;28
+Kiss;29
+Fight Cheer;30
+Tantrum;31
+Breakdown;32
+Gracious Bow;33
+Kick;34
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+PAT Painting;50
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Dual Scratch;101
+Stone Throw ;102
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Taunt;200
+Taunt;200
+Taunt;200
+Taunt;200
+Taunt;200
+Repose;205
+Repose;205
+Repose;205
+Repose;205
+Repose;205
+Physical Training;210
+Physical Training;210
+Physical Training;210
+Physical Training;210
+Physical Training;210
+Defense Training;215
+Defense Training;215
+Defense Training;215
+Defense Training;215
+Defense Training;215
+Strength Training;220
+Strength Training;220
+Strength Training;220
+Strength Training;220
+Strength Training;220
+Power Overflow;225
+Power Overflow;225
+Power Overflow;225
+Power Overflow;225
+Power Overflow;225
+Durability Assist;230
+Durability Assist;230
+Durability Assist;230
+Durability Assist;230
+Durability Assist;230
+Staminal Assist;235
+Staminal Assist;235
+Staminal Assist;235
+Staminal Assist;235
+Staminal Assist;235
+Rally Shout;240
+Rally Shout;240
+Rally Shout;240
+Rally Shout;240
+Rally Shout;240
+Battle Howl;245
+Battle Howl;245
+Battle Howl;245
+Battle Howl;245
+Battle Howl;245
+Battle Scream;250
+Battle Scream;250
+Battle Scream;250
+Battle Scream;250
+Battle Scream;250
+Battle Cry;255
+Battle Cry;255
+Battle Cry;255
+Battle Cry;255
+Battle Cry;255
+Battle Alertness;260
+Battle Alertness;260
+Battle Alertness;260
+Battle Alertness;260
+Battle Alertness;260
+One-Hand Weapon Training;265
+One-Hand Weapon Training;265
+One-Hand Weapon Training;265
+One-Hand Weapon Training;265
+One-Hand Weapon Training;265
+One-Hand Weapon Handling;270
+One-Hand Weapon Handling;270
+One-Hand Weapon Handling;270
+One-Hand Weapon Handling;270
+One-Hand Weapon Handling;270
+One-Hand Weapon Accuracy;275
+One-Hand Weapon Accuracy;275
+One-Hand Weapon Accuracy;275
+One-Hand Weapon Accuracy;275
+One-Hand Weapon Accuracy;275
+Double Attack;280
+Double Attack;280
+Double Attack;280
+Double Attack;280
+Double Attack;280
+Fatal Thrust;285
+Fatal Thrust;285
+Fatal Thrust;285
+Fatal Thrust;285
+Fatal Thrust;285
+Sweeping Strike;290
+Sweeping Strike;290
+Sweeping Strike;290
+Sweeping Strike;290
+Sweeping Strike;290
+Absorptive Assault;295
+Absorptive Assault;295
+Absorptive Assault;295
+Absorptive Assault;295
+Absorptive Assault;295
+Sword Force;300
+Sword Force;300
+Sword Force;300
+Sword Force;300
+Sword Force;300
+Shield Mastery;305
+Shield Mastery;305
+Shield Mastery;305
+Shield Mastery;305
+Shield Mastery;305
+Block Training;310
+Block Training;310
+Block Training;310
+Block Training;310
+Block Training;310
+Shield Jab;315
+Shield Jab;315
+Shield Jab;315
+Shield Jab;315
+Shield Jab;315
+Shield Stun;320
+Shield Stun;320
+Shield Stun;320
+Shield Stun;320
+Shield Stun;320
+Shield Slam;325
+Shield Slam;325
+Shield Slam;325
+Shield Slam;325
+Shield Slam;325
+Guard;330
+Guard;330
+Guard;330
+Guard;330
+Guard;330
+Crossbow Training;335
+Crossbow Training;335
+Crossbow Training;335
+Crossbow Training;335
+Crossbow Training;335
+Bolt Reloading;340
+Bolt Reloading;340
+Bolt Reloading;340
+Bolt Reloading;340
+Bolt Reloading;340
+Crossbow Accuracy;345
+Crossbow Accuracy;345
+Crossbow Accuracy;345
+Crossbow Accuracy;345
+Crossbow Accuracy;345
+Crossbow Piercing;350
+Crossbow Piercing;350
+Crossbow Piercing;350
+Crossbow Piercing;350
+Crossbow Piercing;350
+Double Shot;355
+Double Shot;355
+Double Shot;355
+Double Shot;355
+Double Shot;355
+Trap Arrow;360
+Trap Arrow;360
+Trap Arrow;360
+Trap Arrow;360
+Trap Arrow;360
+Poisoned Shot;365
+Poisoned Shot;365
+Poisoned Shot;365
+Poisoned Shot;365
+Poisoned Shot;365
+Critical Shot;370
+Critical Shot;370
+Critical Shot;370
+Critical Shot;370
+Critical Shot;370
+Two-Handed Sword Mastery;375
+Two-Handed Sword Mastery;375
+Two-Handed Sword Mastery;375
+Two-Handed Sword Mastery;375
+Two-Handed Sword Mastery;375
+Two-Handed Sword Accuracy;380
+Two-Handed Sword Accuracy;380
+Two-Handed Sword Accuracy;380
+Two-Handed Sword Accuracy;380
+Two-Handed Sword Accuracy;380
+Sword Piercing;385
+Sword Piercing;385
+Sword Piercing;385
+Sword Piercing;385
+Sword Piercing;385
+Piercing Strike;390
+Piercing Strike;390
+Piercing Strike;390
+Piercing Strike;390
+Piercing Strike;390
+Voltage Crash;395
+Voltage Crash;395
+Voltage Crash;395
+Voltage Crash;395
+Voltage Crash;395
+Sword Force;400
+Sword Force;400
+Sword Force;400
+Sword Force;400
+Sword Force;400
+Tremor Impact;405
+Tremor Impact;405
+Tremor Impact;405
+Tremor Impact;405
+Tremor Impact;405
+Quake Impact;410
+Quake Impact;410
+Quake Impact;410
+Quake Impact;410
+Quake Impact;410
+Spear Training;415
+Spear Training;415
+Spear Training;415
+Spear Training;415
+Spear Training;415
+Spear Speed;420
+Spear Speed;420
+Spear Speed;420
+Spear Speed;420
+Spear Speed;420
+Spear AoE Range;425
+Spear AoE Range;425
+Spear AoE Range;425
+Spear AoE Range;425
+Spear AoE Range;425
+Spear Strike;430
+Spear Strike;430
+Spear Strike;430
+Spear Strike;430
+Spear Strike;430
+Piercing Stab;435
+Piercing Stab;435
+Piercing Stab;435
+Piercing Stab;435
+Piercing Stab;435
+Fire Sweep;440
+Fire Sweep;440
+Fire Sweep;440
+Fire Sweep;440
+Fire Sweep;440
+Wind Sweep;445
+Wind Sweep;445
+Wind Sweep;445
+Wind Sweep;445
+Wind Sweep;445
+Ice Sweep;450
+Ice Sweep;450
+Ice Sweep;450
+Ice Sweep;450
+Ice Sweep;450
+Axe Training;455
+Axe Training;455
+Axe Training;455
+Axe Training;455
+Axe Training;455
+Sharpened Axe;460
+Sharpened Axe;460
+Sharpened Axe;460
+Sharpened Axe;460
+Sharpened Axe;460
+Weighted Axe Head;465
+Weighted Axe Head;465
+Weighted Axe Head;465
+Weighted Axe Head;465
+Weighted Axe Head;465
+Leap Attack;470
+Leap Attack;470
+Leap Attack;470
+Leap Attack;470
+Leap Attack;470
+Overhead Attack;475
+Overhead Attack;475
+Overhead Attack;475
+Overhead Attack;475
+Overhead Attack;475
+Overhead Trounce;480
+Overhead Trounce;480
+Overhead Trounce;480
+Overhead Trounce;480
+Overhead Trounce;480
+Weapon Toss;485
+Weapon Toss;485
+Weapon Toss;485
+Weapon Toss;485
+Weapon Toss;485
+Axe Storm;490
+Axe Storm;490
+Axe Storm;490
+Axe Storm;490
+Axe Storm;490
+Two Hand Training ATK;495
+Two Hand Training ATK;495
+Two Hand Training ATK;495
+Two Hand Training ATK;495
+Two Hand Training ATK;495
+Two Hand Finess;500
+Two Hand Finess;500
+Two Hand Finess;500
+Two Hand Finess;500
+Two Hand Finess;500
+Two Hand Grip Training;505
+Two Hand Grip Training;505
+Two Hand Grip Training;505
+Two Hand Grip Training;505
+Two Hand Grip Training;505
+Advanced One-Handed Mastery;510
+Advanced One-Handed Mastery;510
+Advanced One-Handed Mastery;510
+Advanced One-Handed Mastery;510
+Advanced One-Handed Mastery;510
+Advanced One-Handed Finesse;515
+Advanced One-Handed Finesse;515
+Advanced One-Handed Finesse;515
+Advanced One-Handed Finesse;515
+Advanced One-Handed Finesse;515
+Battle Training (Accuracy);520
+Battle Training (Accuracy);520
+Battle Training (Accuracy);520
+Battle Training (Accuracy);520
+Battle Training (Accuracy);520
+Lightning Crasher;525
+Lightning Crasher;525
+Lightning Crasher;525
+Lightning Crasher;525
+Lightning Crasher;525
+Soul Wreck;530
+Soul Wreck;530
+Soul Wreck;530
+Soul Wreck;530
+Soul Wreck;530
+Crushing Impact;535
+Crushing Impact;535
+Crushing Impact;535
+Crushing Impact;535
+Crushing Impact;535
+Swords of Divinity;540
+Swords of Divinity;540
+Swords of Divinity;540
+Swords of Divinity;540
+Swords of Divinity;540
+Impact Wave;545
+Impact Wave;545
+Impact Wave;545
+Impact Wave;545
+Impact Wave;545
+Advanced Defense Training;550
+Advanced Defense Training;550
+Advanced Defense Training;550
+Advanced Defense Training;550
+Advanced Defense Training;550
+Advanced Shield Block;555
+Advanced Shield Block;555
+Advanced Shield Block;555
+Advanced Shield Block;555
+Advanced Shield Block;555
+Protection;560
+Protection;560
+Protection;560
+Protection;560
+Protection;560
+Shield Reflect;565
+Shield Reflect;565
+Shield Reflect;565
+Shield Reflect;565
+Shield Reflect;565
+Shield Lunge;570
+Shield Lunge;570
+Shield Lunge;570
+Shield Lunge;570
+Shield Lunge;570
+Shield Bash;575
+Shield Bash;575
+Shield Bash;575
+Shield Bash;575
+Shield Bash;575
+Shield Throw;580
+Shield Throw;580
+Shield Throw;580
+Shield Throw;580
+Shield Throw;580
+Crossbow Mastery;585
+Crossbow Mastery;585
+Crossbow Mastery;585
+Crossbow Mastery;585
+Crossbow Mastery;585
+Crossbow ASPD;590
+Crossbow ASPD;590
+Crossbow ASPD;590
+Crossbow ASPD;590
+Crossbow ASPD;590
+Crossbow Accuracy;595
+Crossbow Accuracy;595
+Crossbow Accuracy;595
+Crossbow Accuracy;595
+Crossbow Accuracy;595
+Crossbow Piercing;600
+Crossbow Piercing;600
+Crossbow Piercing;600
+Crossbow Piercing;600
+Crossbow Piercing;600
+Focus Shot;605
+Focus Shot;605
+Focus Shot;605
+Focus Shot;605
+Focus Shot;605
+Magic Shot;610
+Magic Shot;610
+Magic Shot;610
+Magic Shot;610
+Magic Shot;610
+Fire Shot;615
+Fire Shot;615
+Fire Shot;615
+Fire Shot;615
+Fire Shot;615
+Rain of Arrows;620
+Rain of Arrows;620
+Rain of Arrows;620
+Rain of Arrows;620
+Rain of Arrows;620
+HP Passive;625
+HP Passive;625
+HP Passive;625
+HP Passive;625
+HP Passive;625
+Defensive Stance;630
+Defensive Stance;630
+Defensive Stance;630
+Defensive Stance;630
+Defensive Stance;630
+Advanced Two-Handed Mastery;635
+Advanced Two-Handed Mastery;635
+Advanced Two-Handed Mastery;635
+Advanced Two-Handed Mastery;635
+Advanced Two-Handed Mastery;635
+Advanced Two-Handed Accuracy;640
+Advanced Two-Handed Accuracy;640
+Advanced Two-Handed Accuracy;640
+Advanced Two-Handed Accuracy;640
+Advanced Two-Handed Accuracy;640
+Advanced Two-Handed Piercing;645
+Advanced Two-Handed Piercing;645
+Advanced Two-Handed Piercing;645
+Advanced Two-Handed Piercing;645
+Advanced Two-Handed Piercing;645
+Advanced Two-Handed Skill Power;650
+Advanced Two-Handed Skill Power;650
+Advanced Two-Handed Skill Power;650
+Advanced Two-Handed Skill Power;650
+Advanced Two-Handed Skill Power;650
+Geon Archangel Crumpler;655
+Geon Archangel Crumpler;655
+Geon Archangel Crumpler;655
+Geon Archangel Crumpler;655
+Geon Archangel Crumpler;655
+Voltage Crush;660
+Voltage Crush;660
+Voltage Crush;660
+Voltage Crush;660
+Voltage Crush;660
+Soul Wreck;665
+Soul Wreck;665
+Soul Wreck;665
+Soul Wreck;665
+Soul Wreck;665
+Seismic Strike;670
+Seismic Strike;670
+Seismic Strike;670
+Seismic Strike;670
+Seismic Strike;670
+Seismic Impact;675
+Seismic Impact;675
+Seismic Impact;675
+Seismic Impact;675
+Seismic Impact;675
+Advanced Spear Mastery;680
+Advanced Spear Mastery;680
+Advanced Spear Mastery;680
+Advanced Spear Mastery;680
+Advanced Spear Mastery;680
+Spear Mastery ASPD;685
+Spear Mastery ASPD;685
+Spear Mastery ASPD;685
+Spear Mastery ASPD;685
+Spear Mastery ASPD;685
+Spear Mastery AoE Range;690
+Spear Mastery AoE Range;690
+Spear Mastery AoE Range;690
+Spear Mastery AoE Range;690
+Spear Mastery AoE Range;690
+Spear Deflection Stance;695
+Spear Deflection Stance;695
+Spear Deflection Stance;695
+Spear Deflection Stance;695
+Spear Deflection Stance;695
+Raging Spear Strike;700
+Raging Spear Strike;700
+Raging Spear Strike;700
+Raging Spear Strike;700
+Raging Spear Strike;700
+Longinus' Strike;705
+Longinus' Strike;705
+Longinus' Strike;705
+Longinus' Strike;705
+Longinus' Strike;705
+Dance of Flames;710
+Dance of Flames;710
+Dance of Flames;710
+Dance of Flames;710
+Dance of Flames;710
+Dance of Wind;715
+Dance of Wind;715
+Dance of Wind;715
+Dance of Wind;715
+Dance of Wind;715
+Dance of Ice;720
+Dance of Ice;720
+Dance of Ice;720
+Dance of Ice;720
+Dance of Ice;720
+Advanced Axe Mastery;725
+Advanced Axe Mastery;725
+Advanced Axe Mastery;725
+Advanced Axe Mastery;725
+Advanced Axe Mastery;725
+Axe Mastery Critical Chance;730
+Axe Mastery Critical Chance;730
+Axe Mastery Critical Chance;730
+Axe Mastery Critical Chance;730
+Axe Mastery Critical Chance;730
+Axe Mastery Critical Damage;735
+Axe Mastery Critical Damage;735
+Axe Mastery Critical Damage;735
+Axe Mastery Critical Damage;735
+Axe Mastery Critical Damage;735
+Axe Fury;740
+Axe Fury;740
+Axe Fury;740
+Axe Fury;740
+Axe Fury;740
+Champion Hit;745
+Champion Hit;745
+Champion Hit;745
+Champion Hit;745
+Champion Hit;745
+Champion Strike;750
+Champion Strike;750
+Champion Strike;750
+Champion Strike;750
+Champion Strike;750
+Final Strike;755
+Final Strike;755
+Final Strike;755
+Final Strike;755
+Final Strike;755
+Weapon Launcher;760
+Weapon Launcher;760
+Weapon Launcher;760
+Weapon Launcher;760
+Weapon Launcher;760
+Axe Wrath;765
+Axe Wrath;765
+Axe Wrath;765
+Axe Wrath;765
+Axe Wrath;765
+Combat Howl;770
+Combat Howl;770
+Combat Howl;770
+Combat Howl;770
+Combat Howl;770
+Combat Scream;775
+Combat Scream;775
+Combat Scream;775
+Combat Scream;775
+Combat Scream;775
+Combat Shout;780
+Combat Shout;780
+Combat Shout;780
+Combat Shout;780
+Combat Shout;780
+Berserker's Cry;785
+Berserker's Cry;785
+Berserker's Cry;785
+Berserker's Cry;785
+Berserker's Cry;785
+Berserk;790
+Berserk;790
+Berserk;790
+Berserk;790
+Berserk;790
+Battle Mastery;795
+Battle Mastery;795
+Battle Mastery;795
+Battle Mastery;795
+Battle Mastery;795
+Champion's Footing;800
+Champion's Footing;800
+Champion's Footing;800
+Champion's Footing;800
+Champion's Footing;800
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Mana Conservation;825
+Mana Conservation;825
+Mana Conservation;825
+Mana Conservation;825
+Mana Conservation;825
+Meditation;830
+Meditation;830
+Meditation;830
+Meditation;830
+Meditation;830
+Mana Pool;835
+Mana Pool;835
+Mana Pool;835
+Mana Pool;835
+Mana Pool;835
+Mystic Armor Training;840
+Mystic Armor Training;840
+Mystic Armor Training;840
+Mystic Armor Training;840
+Mystic Armor Training;840
+Knowledge Training;845
+Knowledge Training;845
+Knowledge Training;845
+Knowledge Training;845
+Knowledge Training;845
+Spirit of the Magi;850
+Spirit of the Magi;850
+Spirit of the Magi;850
+Spirit of the Magi;850
+Spirit of the Magi;850
+Mana Shield;855
+Mana Shield;855
+Mana Shield;855
+Mana Shield;855
+Mana Shield;855
+Gift of Knowledge;860
+Gift of Knowledge;860
+Gift of Knowledge;860
+Gift of Knowledge;860
+Gift of Knowledge;860
+Mental Focus;865
+Mental Focus;865
+Mental Focus;865
+Mental Focus;865
+Mental Focus;865
+Mystic Eye;870
+Mystic Eye;870
+Mystic Eye;870
+Mystic Eye;870
+Mystic Eye;870
+Staff Mastery;875
+Staff Mastery;875
+Staff Mastery;875
+Staff Mastery;875
+Staff Mastery;875
+Spell Mastery;880
+Spell Mastery;880
+Spell Mastery;880
+Spell Mastery;880
+Spell Mastery;880
+Staff Channelling;885
+Staff Channelling;885
+Staff Channelling;885
+Staff Channelling;885
+Staff Channelling;885
+Staff Attunement;890
+Staff Attunement;890
+Staff Attunement;890
+Staff Attunement;890
+Staff Attunement;890
+Staff Projection;895
+Staff Projection;895
+Staff Projection;895
+Staff Projection;895
+Staff Projection;895
+Sorcerer's Sight;900
+Sorcerer's Sight;900
+Sorcerer's Sight;900
+Sorcerer's Sight;900
+Sorcerer's Sight;900
+Ice Bolt;905
+Ice Bolt;905
+Ice Bolt;905
+Ice Bolt;905
+Ice Bolt;905
+Frostbiter;910
+Frostbiter;910
+Frostbiter;910
+Frostbiter;910
+Frostbiter;910
+Hailstorm;915
+Hailstorm;915
+Hailstorm;915
+Hailstorm;915
+Hailstorm;915
+Icy Hailstorm;920
+Icy Hailstorm;920
+Icy Hailstorm;920
+Icy Hailstorm;920
+Icy Hailstorm;920
+Voltage Bolt;925
+Voltage Bolt;925
+Voltage Bolt;925
+Voltage Bolt;925
+Voltage Bolt;925
+Voltage Jolt;930
+Voltage Jolt;930
+Voltage Jolt;930
+Voltage Jolt;930
+Voltage Jolt;930
+Wind Storm;935
+Wind Storm;935
+Wind Storm;935
+Wind Storm;935
+Wind Storm;935
+Tornado;940
+Tornado;940
+Tornado;940
+Tornado;940
+Tornado;940
+Fire Bolt;945
+Fire Bolt;945
+Fire Bolt;945
+Fire Bolt;945
+Fire Bolt;945
+Hellfire;950
+Hellfire;950
+Hellfire;950
+Hellfire;950
+Hellfire;950
+Fire Ring;955
+Fire Ring;955
+Fire Ring;955
+Fire Ring;955
+Fire Ring;955
+Meteorite Strike;960
+Meteorite Strike;960
+Meteorite Strike;960
+Meteorite Strike;960
+Meteorite Strike;960
+Mana Bolt;965
+Mana Bolt;965
+Mana Bolt;965
+Mana Bolt;965
+Mana Bolt;965
+Mana Spear;970
+Mana Spear;970
+Mana Spear;970
+Mana Spear;970
+Mana Spear;970
+Wand Mastery;975
+Wand Mastery;975
+Wand Mastery;975
+Wand Mastery;975
+Wand Mastery;975
+Wand Accuracy;980
+Wand Accuracy;980
+Wand Accuracy;980
+Wand Accuracy;980
+Wand Accuracy;980
+Wand Speed;985
+Wand Speed;985
+Wand Speed;985
+Wand Speed;985
+Wand Speed;985
+Wand Range;990
+Wand Range;990
+Wand Range;990
+Wand Range;990
+Wand Range;990
+Mana Crux;995
+Mana Crux;995
+Mana Crux;995
+Mana Crux;995
+Mana Crux;995
+Mystic Deflection;1000
+Mystic Deflection;1000
+Mystic Deflection;1000
+Mystic Deflection;1000
+Mystic Deflection;1000
+Mystic Guard;1005
+Mystic Guard;1005
+Mystic Guard;1005
+Mystic Guard;1005
+Mystic Guard;1005
+Summon Training;1010
+Summon Training;1010
+Summon Training;1010
+Summon Training;1010
+Summon Training;1010
+Summon Phantom Sword;1015
+Summon Phantom Sword;1015
+Summon Phantom Sword;1015
+Summon Phantom Sword;1015
+Summon Phantom Sword;1015
+Summon Phantom Shield;
+Summon Phantom Shield;
+Summon Phantom Shield;
+Summon Phantom Shield;
+Summon Phantom Shield;
+Bonfire;1025
+Bonfire;1025
+Bonfire;1025
+Bonfire;1025
+Bonfire;1025
+Cure;1030
+Cure;1030
+Cure;1030
+Cure;1030
+Cure;1030
+Heal;1035
+Heal;1035
+Heal;1035
+Heal;1035
+Heal;1035
+Heal (Party);1040
+Heal (Party);1040
+Heal (Party);1040
+Heal (Party);1040
+Heal (Party);1040
+Restore;1045
+Restore;1045
+Restore;1045
+Restore;1045
+Restore;1045
+Restore (Party);1050
+Restore (Party);1050
+Restore (Party);1050
+Restore (Party);1050
+Restore (Party);1050
+Soul Revive;1055
+Soul Revive;1055
+Soul Revive;1055
+Soul Revive;1055
+Soul Revive;1055
+Sleep;1060
+Sleep;1060
+Sleep;1060
+Sleep;1060
+Sleep;1060
+Wallop Charm;
+Wallop Charm;
+Wallop Charm;
+Wallop Charm;
+Wallop Charm;
+Wallop Chant;
+Wallop Chant;
+Wallop Chant;
+Wallop Chant;
+Wallop Chant;
+Precision Charm;
+Precision Charm;
+Precision Charm;
+Precision Charm;
+Precision Charm;
+Precision Chant;
+Precision Chant;
+Precision Chant;
+Precision Chant;
+Precision Chant;
+Blessed Body Charm;
+Blessed Body Charm;
+Blessed Body Charm;
+Blessed Body Charm;
+Blessed Body Charm;
+Blessed Body Chant;
+Blessed Body Chant;
+Blessed Body Chant;
+Blessed Body Chant;
+Blessed Body Chant;
+Blessed Mind Charm;
+Blessed Mind Charm;
+Blessed Mind Charm;
+Blessed Mind Charm;
+Blessed Mind Charm;
+Blessed Mind Chant;1100
+Blessed Mind Chant;1100
+Blessed Mind Chant;1100
+Blessed Mind Chant;1100
+Blessed Mind Chant;1100
+Resilience Charm;
+Resilience Charm;
+Resilience Charm;
+Resilience Charm;
+Resilience Charm;
+Resilience Chant;
+Resilience Chant;
+Resilience Chant;
+Resilience Chant;
+Resilience Chant;
+Resistance Charm;
+Resistance Charm;
+Resistance Charm;
+Resistance Charm;
+Resistance Charm;
+Resistance Chant;1120
+Resistance Chant;1120
+Resistance Chant;1120
+Resistance Chant;1120
+Resistance Chant;1120
+Staff Combat Mastery;1125
+Staff Combat Mastery;1125
+Staff Combat Mastery;1125
+Staff Combat Mastery;1125
+Staff Combat Mastery;1125
+Spell Mastery;1130
+Spell Mastery;1130
+Spell Mastery;1130
+Spell Mastery;1130
+Spell Mastery;1130
+Mana Reservoir;1135
+Mana Reservoir;1135
+Mana Reservoir;1135
+Mana Reservoir;1135
+Mana Reservoir;1135
+Staff Unity;1140
+Staff Unity;1140
+Staff Unity;1140
+Staff Unity;1140
+Staff Unity;1140
+Reach of the Magi;1145
+Reach of the Magi;1145
+Reach of the Magi;1145
+Reach of the Magi;1145
+Reach of the Magi;1145
+Mana Stream;1150
+Mana Stream;1150
+Mana Stream;1150
+Mana Stream;1150
+Mana Stream;1150
+Clarity of Sight;1155
+Clarity of Sight;1155
+Clarity of Sight;1155
+Clarity of Sight;1155
+Clarity of Sight;1155
+Sight of the Magi;1160
+Sight of the Magi;1160
+Sight of the Magi;1160
+Sight of the Magi;1160
+Sight of the Magi;1160
+Aural Pierce;1165
+Aural Pierce;1165
+Aural Pierce;1165
+Aural Pierce;1165
+Aural Pierce;1165
+Fierce Cudgeling;1170
+Fierce Cudgeling;1170
+Fierce Cudgeling;1170
+Fierce Cudgeling;1170
+Fierce Cudgeling;1170
+Staff Stun;1175
+Staff Stun;1175
+Staff Stun;1175
+Staff Stun;1175
+Staff Stun;1175
+Freezing Chill;1180
+Freezing Chill;1180
+Freezing Chill;1180
+Freezing Chill;1180
+Freezing Chill;1180
+Glaciating Chill;1185
+Glaciating Chill;1185
+Glaciating Chill;1185
+Glaciating Chill;1185
+Glaciating Chill;1185
+Frost Ring;1190
+Frost Ring;1190
+Frost Ring;1190
+Frost Ring;1190
+Frost Ring;1190
+Cold Snap;1195
+Cold Snap;1195
+Cold Snap;1195
+Cold Snap;1195
+Cold Snap;1195
+Permafrost Chill;1200
+Permafrost Chill;1200
+Permafrost Chill;1200
+Permafrost Chill;1200
+Permafrost Chill;1200
+Soul Shock;1205
+Soul Shock;1205
+Soul Shock;1205
+Soul Shock;1205
+Soul Shock;1205
+Soul Electric;1210
+Soul Electric;1210
+Soul Electric;1210
+Soul Electric;1210
+Soul Electric;1210
+Tempest;1215
+Tempest;1215
+Tempest;1215
+Tempest;1215
+Tempest;1215
+Hurricane;1220
+Hurricane;1220
+Hurricane;1220
+Hurricane;1220
+Hurricane;1220
+Thunder Storm;1225
+Thunder Storm;1225
+Thunder Storm;1225
+Thunder Storm;1225
+Thunder Storm;1225
+Mana Burn;1230
+Mana Burn;1230
+Mana Burn;1230
+Mana Burn;1230
+Mana Burn;1230
+Fireball;1235
+Fireball;1235
+Fireball;1235
+Fireball;1235
+Fireball;1235
+Inferno;1240
+Inferno;1240
+Inferno;1240
+Inferno;1240
+Inferno;1240
+Meteorite Flow;1245
+Meteorite Flow;1245
+Meteorite Flow;1245
+Meteorite Flow;1245
+Meteorite Flow;1245
+Blaze;1250
+Blaze;1250
+Blaze;1250
+Blaze;1250
+Blaze;1250
+Elemental Bolt;1255
+Elemental Bolt;1255
+Elemental Bolt;1255
+Elemental Bolt;1255
+Elemental Bolt;1255
+Elemental Spike;1260
+Elemental Spike;1260
+Elemental Spike;1260
+Elemental Spike;1260
+Elemental Spike;1260
+Elemental Wave;1265
+Elemental Wave;1265
+Elemental Wave;1265
+Elemental Wave;1265
+Elemental Wave;1265
+Wand Control;1270
+Wand Control;1270
+Wand Control;1270
+Wand Control;1270
+Wand Control;1270
+Wand Piercing;1275
+Wand Piercing;1275
+Wand Piercing;1275
+Wand Piercing;1275
+Wand Piercing;1275
+Wand Speed;1280
+Wand Speed;1280
+Wand Speed;1280
+Wand Speed;1280
+Wand Speed;1280
+Cleric's Intensity;1285
+Cleric's Intensity;1285
+Cleric's Intensity;1285
+Cleric's Intensity;1285
+Cleric's Intensity;1285
+Mystic Deviation;1290
+Mystic Deviation;1290
+Mystic Deviation;1290
+Mystic Deviation;1290
+Mystic Deviation;1290
+Mystic Safeguard;1295
+Mystic Safeguard;1295
+Mystic Safeguard;1295
+Mystic Safeguard;1295
+Mystic Safeguard;1295
+Mana Convergence;1300
+Mana Convergence;1300
+Mana Convergence;1300
+Mana Convergence;1300
+Mana Convergence;1300
+Dragon Skin;1305
+Dragon Skin;1305
+Dragon Skin;1305
+Dragon Skin;1305
+Dragon Skin;1305
+Mystic Armor;1310
+Mystic Armor;1310
+Mystic Armor;1310
+Mystic Armor;1310
+Mystic Armor;1310
+Mana Wave;1315
+Mana Wave;1315
+Mana Wave;1315
+Mana Wave;1315
+Mana Wave;1315
+Voltage Storm;1320
+Voltage Storm;1320
+Voltage Storm;1320
+Voltage Storm;1320
+Voltage Storm;1320
+Sleep Cloud;1325
+Sleep Cloud;1325
+Sleep Cloud;1325
+Sleep Cloud;1325
+Sleep Cloud;1325
+Summon Mastery;1330
+Summon Mastery;1330
+Summon Mastery;1330
+Summon Mastery;1330
+Summon Mastery;1330
+Salamander Flame;1335
+Salamander Flame;1335
+Salamander Flame;1335
+Salamander Flame;1335
+Salamander Flame;1335
+Mana Flame;1340
+Mana Flame;1340
+Mana Flame;1340
+Mana Flame;1340
+Mana Flame;1340
+Summon Earth Elemental;1345
+Summon Earth Elemental;1345
+Summon Earth Elemental;1345
+Summon Earth Elemental;1345
+Summon Earth Elemental;1345
+Summon Fire Elemental;1350
+Summon Fire Elemental;1350
+Summon Fire Elemental;1350
+Summon Fire Elemental;1350
+Summon Fire Elemental;1350
+Summon Firegon;1355
+Summon Firegon;1355
+Summon Firegon;1355
+Summon Firegon;1355
+Summon Firegon;1355
+Summon Ice Dragon;1360
+Summon Ice Dragon;1360
+Summon Ice Dragon;1360
+Summon Ice Dragon;1360
+Summon Ice Dragon;1360
+Healer's Touch;1365
+Healer's Touch;1365
+Healer's Touch;1365
+Healer's Touch;1365
+Healer's Touch;1365
+Recovery;1370
+Recovery;1370
+Recovery;1370
+Recovery;1370
+Recovery;1370
+Recovery (Party);1375
+Recovery (Party);1375
+Recovery (Party);1375
+Recovery (Party);1375
+Recovery (Party);1375
+Integrity;1380
+Integrity;1380
+Integrity;1380
+Integrity;1380
+Integrity;1380
+Integrity (Party);1385
+Integrity (Party);1385
+Integrity (Party);1385
+Integrity (Party);1385
+Integrity (Party);1385
+Heavenly Grace;1390
+Heavenly Grace;1390
+Heavenly Grace;1390
+Heavenly Grace;1390
+Heavenly Grace;1390
+Purify;1395
+Purify;1395
+Purify;1395
+Purify;1395
+Purify;1395
+Soul Doubt;1400
+Soul Doubt;1400
+Soul Doubt;1400
+Soul Doubt;1400
+Soul Doubt;1400
+Battle Charm;
+Battle Charm;
+Battle Charm;
+Battle Charm;
+Battle Charm;
+Battle Chant;
+Battle Chant;
+Battle Chant;
+Battle Chant;
+Battle Chant;
+Hustle Charm;
+Hustle Charm;
+Hustle Charm;
+Hustle Charm;
+Hustle Charm;
+Hustle Chant;
+Hustle Chant;
+Hustle Chant;
+Hustle Chant;
+Hustle Chant;
+Critical Charm;
+Critical Charm;
+Critical Charm;
+Critical Charm;
+Critical Charm;
+Critical Chant;
+Critical Chant;
+Critical Chant;
+Critical Chant;
+Critical Chant;
+Evasive Charm;
+Evasive Charm;
+Evasive Charm;
+Evasive Charm;
+Evasive Charm;
+Evasive Chant;
+Evasive Chant;
+Evasive Chant;
+Evasive Chant;
+Evasive Chant;
+Valkyrie Charm;
+Valkyrie Charm;
+Valkyrie Charm;
+Valkyrie Charm;
+Valkyrie Charm;
+Valkyrie Chant;1450
+Valkyrie Chant;1450
+Valkyrie Chant;1450
+Valkyrie Chant;1450
+Valkyrie Chant;1450
+Angelic Charm;
+Angelic Charm;
+Angelic Charm;
+Angelic Charm;
+Angelic Charm;
+Angelic Chant;
+Angelic Chant;
+Angelic Chant;
+Angelic Chant;
+Angelic Chant;
+Fortified Mana Shield;1465
+Fortified Mana Shield;1465
+Fortified Mana Shield;1465
+Fortified Mana Shield;1465
+Fortified Mana Shield;1465
+Sorcery Mastery;1470
+Sorcery Mastery;1470
+Sorcery Mastery;1470
+Sorcery Mastery;1470
+Sorcery Mastery;1470
+Fire Mastery;1475
+Fire Mastery;1475
+Fire Mastery;1475
+Fire Mastery;1475
+Fire Mastery;1475
+Wind Mastery;1480
+Wind Mastery;1480
+Wind Mastery;1480
+Wind Mastery;1480
+Wind Mastery;1480
+Water Mastery;1485
+Water Mastery;1485
+Water Mastery;1485
+Water Mastery;1485
+Water Mastery;1485
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Sprint;1500
+Sprint;1500
+Sprint;1500
+Sprint;1500
+Sprint;1500
+Rapid Twitch;1505
+Rapid Twitch;1505
+Rapid Twitch;1505
+Rapid Twitch;1505
+Rapid Twitch;1505
+Quick Reflexes;1510
+Quick Reflexes;1510
+Quick Reflexes;1510
+Quick Reflexes;1510
+Quick Reflexes;1510
+Combat Mastery;1515
+Combat Mastery;1515
+Combat Mastery;1515
+Combat Mastery;1515
+Combat Mastery;1515
+Hawker Accordance;1520
+Hawker Accordance;1520
+Hawker Accordance;1520
+Hawker Accordance;1520
+Hawker Accordance;1520
+Dexterity Training;1525
+Dexterity Training;1525
+Dexterity Training;1525
+Dexterity Training;1525
+Dexterity Training;1525
+Hawker's Guile;1530
+Hawker's Guile;1530
+Hawker's Guile;1530
+Hawker's Guile;1530
+Hawker's Guile;1530
+Backpack Training;1535
+Backpack Training;1535
+Backpack Training;1535
+Backpack Training;1535
+Backpack Training;1535
+Mana Profit;1540
+Mana Profit;1540
+Mana Profit;1540
+Mana Profit;1540
+Mana Profit;1540
+Mana Fountain;1545
+Mana Fountain;1545
+Mana Fountain;1545
+Mana Fountain;1545
+Mana Fountain;1545
+Second Sight;1550
+Second Sight;1550
+Second Sight;1550
+Second Sight;1550
+Second Sight;1550
+Bow Training;1555
+Bow Training;1555
+Bow Training;1555
+Bow Training;1555
+Bow Training;1555
+Sharp Eyes;1560
+Sharp Eyes;1560
+Sharp Eyes;1560
+Sharp Eyes;1560
+Sharp Eyes;1560
+Sharpened Tips;1565
+Sharpened Tips;1565
+Sharpened Tips;1565
+Sharpened Tips;1565
+Sharpened Tips;1565
+Quick Hands;1570
+Quick Hands;1570
+Quick Hands;1570
+Quick Hands;1570
+Quick Hands;1570
+Longbow;1575
+Longbow;1575
+Longbow;1575
+Longbow;1575
+Longbow;1575
+Critical Focus;1580
+Critical Focus;1580
+Critical Focus;1580
+Critical Focus;1580
+Critical Focus;1580
+Aimed Shot;1585
+Aimed Shot;1585
+Aimed Shot;1585
+Aimed Shot;1585
+Aimed Shot;1585
+Double Arrow;1590
+Double Arrow;1590
+Double Arrow;1590
+Double Arrow;1590
+Double Arrow;1590
+Stun Arrow;1595
+Stun Arrow;1595
+Stun Arrow;1595
+Stun Arrow;1595
+Stun Arrow;1595
+Clamp Arrow;1600
+Clamp Arrow;1600
+Clamp Arrow;1600
+Clamp Arrow;1600
+Clamp Arrow;1600
+Shackle Arrow;1605
+Shackle Arrow;1605
+Shackle Arrow;1605
+Shackle Arrow;1605
+Shackle Arrow;1605
+Fire Arrow;1610
+Fire Arrow;1610
+Fire Arrow;1610
+Fire Arrow;1610
+Fire Arrow;1610
+Ice Arrow;1615
+Ice Arrow;1615
+Ice Arrow;1615
+Ice Arrow;1615
+Ice Arrow;1615
+Wind Arrow;1620
+Wind Arrow;1620
+Wind Arrow;1620
+Wind Arrow;1620
+Wind Arrow;1620
+Crossbow Training;1625
+Crossbow Training;1625
+Crossbow Training;1625
+Crossbow Training;1625
+Crossbow Training;1625
+Sight Scope;1630
+Sight Scope;1630
+Sight Scope;1630
+Sight Scope;1630
+Sight Scope;1630
+Tipped Arrows;1635
+Tipped Arrows;1635
+Tipped Arrows;1635
+Tipped Arrows;1635
+Tipped Arrows;1635
+Shield Blocking;1640
+Shield Blocking;1640
+Shield Blocking;1640
+Shield Blocking;1640
+Shield Blocking;1640
+Steady Arm;1645
+Steady Arm;1645
+Steady Arm;1645
+Steady Arm;1645
+Steady Arm;1645
+Crossbowman's Guard;1650
+Crossbowman's Guard;1650
+Crossbowman's Guard;1650
+Crossbowman's Guard;1650
+Crossbowman's Guard;1650
+Aimed Shot;1655
+Aimed Shot;1655
+Aimed Shot;1655
+Aimed Shot;1655
+Aimed Shot;1655
+Double Arrow;1660
+Double Arrow;1660
+Double Arrow;1660
+Double Arrow;1660
+Double Arrow;1660
+Stun Arrow;1665
+Stun Arrow;1665
+Stun Arrow;1665
+Stun Arrow;1665
+Stun Arrow;1665
+Clamp Arrow;1670
+Clamp Arrow;1670
+Clamp Arrow;1670
+Clamp Arrow;1670
+Clamp Arrow;1670
+Shackle Arrow;1675
+Shackle Arrow;1675
+Shackle Arrow;1675
+Shackle Arrow;1675
+Shackle Arrow;1675
+Shield Strike;1680
+Shield Strike;1680
+Shield Strike;1680
+Shield Strike;1680
+Shield Strike;1680
+Shield Slam;1685
+Shield Slam;1685
+Shield Slam;1685
+Shield Slam;1685
+Shield Slam;1685
+Shield Stun;1690
+Shield Stun;1690
+Shield Stun;1690
+Shield Stun;1690
+Shield Stun;1690
+Katar Training;1695
+Katar Training;1695
+Katar Training;1695
+Katar Training;1695
+Katar Training;1695
+Cunning;1700
+Cunning;1700
+Cunning;1700
+Cunning;1700
+Cunning;1700
+Katar Swiftness;1705
+Katar Swiftness;1705
+Katar Swiftness;1705
+Katar Swiftness;1705
+Katar Swiftness;1705
+Sharpened Blades;1710
+Sharpened Blades;1710
+Sharpened Blades;1710
+Sharpened Blades;1710
+Sharpened Blades;1710
+Critical Strikes;1715
+Critical Strikes;1715
+Critical Strikes;1715
+Critical Strikes;1715
+Critical Strikes;1715
+Katar Upper;1720
+Katar Upper;1720
+Katar Upper;1720
+Katar Upper;1720
+Katar Upper;1720
+Focused Impact;1725
+Focused Impact;1725
+Focused Impact;1725
+Focused Impact;1725
+Focused Impact;1725
+Flame Hawk;1730
+Flame Hawk;1730
+Flame Hawk;1730
+Flame Hawk;1730
+Flame Hawk;1730
+Katar Spin;1735
+Katar Spin;1735
+Katar Spin;1735
+Katar Spin;1735
+Katar Spin;1735
+Stealth;1740
+Stealth;1740
+Stealth;1740
+Stealth;1740
+Stealth;1740
+Blind;1745
+Blind;1745
+Blind;1745
+Blind;1745
+Blind;1745
+Dual Weapon Mastery;1750
+Dual Weapon Mastery;1750
+Dual Weapon Mastery;1750
+Dual Weapon Mastery;1750
+Dual Weapon Mastery;1750
+Dual Striking;1755
+Dual Striking;1755
+Dual Striking;1755
+Dual Striking;1755
+Dual Striking;1755
+Weighted Blows;1760
+Weighted Blows;1760
+Weighted Blows;1760
+Weighted Blows;1760
+Weighted Blows;1760
+Weapon Guard;1765
+Weapon Guard;1765
+Weapon Guard;1765
+Weapon Guard;1765
+Weapon Guard;1765
+Piercing Blows;1770
+Piercing Blows;1770
+Piercing Blows;1770
+Piercing Blows;1770
+Piercing Blows;1770
+Heavy Strike;1775
+Heavy Strike;1775
+Heavy Strike;1775
+Heavy Strike;1775
+Heavy Strike;1775
+Dividing Cleave;1780
+Dividing Cleave;1780
+Dividing Cleave;1780
+Dividing Cleave;1780
+Dividing Cleave;1780
+Spiral Kick;1785
+Spiral Kick;1785
+Spiral Kick;1785
+Spiral Kick;1785
+Spiral Kick;1785
+Whirling Strikes;1790
+Whirling Strikes;1790
+Whirling Strikes;1790
+Whirling Strikes;1790
+Whirling Strikes;1790
+Weaken;1795
+Weaken;1795
+Weaken;1795
+Weaken;1795
+Weaken;1795
+Mirror Phantasm;1800
+Mirror Phantasm;1800
+Mirror Phantasm;1800
+Mirror Phantasm;1800
+Mirror Phantasm;1800
+Double Slash;1805
+Double Slash;1805
+Double Slash;1805
+Double Slash;1805
+Double Slash;1805
+Poison Knife;1810
+Poison Knife;1810
+Poison Knife;1810
+Poison Knife;1810
+Poison Knife;1810
+Bow Expertise;1815
+Bow Expertise;1815
+Bow Expertise;1815
+Bow Expertise;1815
+Bow Expertise;1815
+Motion Prediction;1820
+Motion Prediction;1820
+Motion Prediction;1820
+Motion Prediction;1820
+Motion Prediction;1820
+Sharpened Tips;1825
+Sharpened Tips;1825
+Sharpened Tips;1825
+Sharpened Tips;1825
+Sharpened Tips;1825
+Quick Hands;1830
+Quick Hands;1830
+Quick Hands;1830
+Quick Hands;1830
+Quick Hands;1830
+Longbow;1835
+Longbow;1835
+Longbow;1835
+Longbow;1835
+Longbow;1835
+Camouflage;1840
+Camouflage;1840
+Camouflage;1840
+Camouflage;1840
+Camouflage;1840
+Triple Arrow;1845
+Triple Arrow;1845
+Triple Arrow;1845
+Triple Arrow;1845
+Triple Arrow;1845
+Entangling Arrow;1850
+Entangling Arrow;1850
+Entangling Arrow;1850
+Entangling Arrow;1850
+Entangling Arrow;1850
+Poison Arrow;1855
+Poison Arrow;1855
+Poison Arrow;1855
+Poison Arrow;1855
+Poison Arrow;1855
+Phoenix Arrow;1860
+Phoenix Arrow;1860
+Phoenix Arrow;1860
+Phoenix Arrow;1860
+Phoenix Arrow;1860
+Impact Arrow;1865
+Impact Arrow;1865
+Impact Arrow;1865
+Impact Arrow;1865
+Impact Arrow;1865
+Arrow Shower;1870
+Arrow Shower;1870
+Arrow Shower;1870
+Arrow Shower;1870
+Arrow Shower;1870
+Crossbow Expertise;1875
+Crossbow Expertise;1875
+Crossbow Expertise;1875
+Crossbow Expertise;1875
+Crossbow Expertise;1875
+Hawk Eyes;1880
+Hawk Eyes;1880
+Hawk Eyes;1880
+Hawk Eyes;1880
+Hawk Eyes;1880
+Razor Tips;1885
+Razor Tips;1885
+Razor Tips;1885
+Razor Tips;1885
+Razor Tips;1885
+Shield Defense;1890
+Shield Defense;1890
+Shield Defense;1890
+Shield Defense;1890
+Shield Defense;1890
+Offhand Expertise;1895
+Offhand Expertise;1895
+Offhand Expertise;1895
+Offhand Expertise;1895
+Offhand Expertise;1895
+Shield Reflect;1900
+Shield Reflect;1900
+Shield Reflect;1900
+Shield Reflect;1900
+Shield Reflect;1900
+Triple Arrow;1905
+Triple Arrow;1905
+Triple Arrow;1905
+Triple Arrow;1905
+Triple Arrow;1905
+Entangling Arrow;1910
+Entangling Arrow;1910
+Entangling Arrow;1910
+Entangling Arrow;1910
+Entangling Arrow;1910
+Poison Arrow;1915
+Poison Arrow;1915
+Poison Arrow;1915
+Poison Arrow;1915
+Poison Arrow;1915
+Arrow Shower;1920
+Arrow Shower;1920
+Arrow Shower;1920
+Arrow Shower;1920
+Arrow Shower;1920
+Shield Lunge;1925
+Shield Lunge;1925
+Shield Lunge;1925
+Shield Lunge;1925
+Shield Lunge;1925
+Shield Bash;1930
+Shield Bash;1930
+Shield Bash;1930
+Shield Bash;1930
+Shield Bash;1930
+Call Hawk;1935
+Call Hawk;1935
+Call Hawk;1935
+Call Hawk;1935
+Call Hawk;1935
+Sharpened Claws;
+Sharpened Claws;
+Sharpened Claws;
+Sharpened Claws;
+Sharpened Claws;
+Beast Eyes;
+Beast Eyes;
+Beast Eyes;
+Beast Eyes;
+Beast Eyes;
+Steel Trap;1950
+Steel Trap;1950
+Steel Trap;1950
+Steel Trap;1950
+Steel Trap;1950
+Flash Trap;1955
+Flash Trap;1955
+Flash Trap;1955
+Flash Trap;1955
+Flash Trap;1955
+Siphon Trap;1960
+Siphon Trap;1960
+Siphon Trap;1960
+Siphon Trap;1960
+Siphon Trap;1960
+Katar Training;1965
+Katar Training;1965
+Katar Training;1965
+Katar Training;1965
+Katar Training;1965
+Cunning;1970
+Cunning;1970
+Cunning;1970
+Cunning;1970
+Cunning;1970
+Katar Swiftness;1975
+Katar Swiftness;1975
+Katar Swiftness;1975
+Katar Swiftness;1975
+Katar Swiftness;1975
+Sharpened Blades;1980
+Sharpened Blades;1980
+Sharpened Blades;1980
+Sharpened Blades;1980
+Sharpened Blades;1980
+Critical Strikes;1985
+Critical Strikes;1985
+Critical Strikes;1985
+Critical Strikes;1985
+Critical Strikes;1985
+Flame Slash;1990
+Flame Slash;1990
+Flame Slash;1990
+Flame Slash;1990
+Flame Slash;1990
+Flame Falcon;1995
+Flame Falcon;1995
+Flame Falcon;1995
+Flame Falcon;1995
+Flame Falcon;1995
+Phoenix Slash;2000
+Phoenix Slash;2000
+Phoenix Slash;2000
+Phoenix Slash;2000
+Phoenix Slash;2000
+Crazy-style Slash;2005
+Crazy-style Slash;2005
+Crazy-style Slash;2005
+Crazy-style Slash;2005
+Crazy-style Slash;2005
+Screw Attack;2010
+Screw Attack;2010
+Screw Attack;2010
+Screw Attack;2010
+Screw Attack;2010
+Tornado Slash;2015
+Tornado Slash;2015
+Tornado Slash;2015
+Tornado Slash;2015
+Tornado Slash;2015
+Cloaking;2020
+Cloaking;2020
+Cloaking;2020
+Cloaking;2020
+Cloaking;2020
+Vicious Accordance;2025
+Vicious Accordance;2025
+Vicious Accordance;2025
+Vicious Accordance;2025
+Vicious Accordance;2025
+Critical Accordance;2030
+Critical Accordance;2030
+Critical Accordance;2030
+Critical Accordance;2030
+Critical Accordance;2030
+Dual Weapon Mastery;2035
+Dual Weapon Mastery;2035
+Dual Weapon Mastery;2035
+Dual Weapon Mastery;2035
+Dual Weapon Mastery;2035
+Dual Striking;2040
+Dual Striking;2040
+Dual Striking;2040
+Dual Striking;2040
+Dual Striking;2040
+Weighted Blows;2045
+Weighted Blows;2045
+Weighted Blows;2045
+Weighted Blows;2045
+Weighted Blows;2045
+Weapon Guard;2050
+Weapon Guard;2050
+Weapon Guard;2050
+Weapon Guard;2050
+Weapon Guard;2050
+Piercing Blows;2055
+Piercing Blows;2055
+Piercing Blows;2055
+Piercing Blows;2055
+Piercing Blows;2055
+Combo Strike;2060
+Combo Strike;2060
+Combo Strike;2060
+Combo Strike;2060
+Combo Strike;2060
+Bloody Assault;2065
+Bloody Assault;2065
+Bloody Assault;2065
+Bloody Assault;2065
+Bloody Assault;2065
+Freezing Assault;2070
+Freezing Assault;2070
+Freezing Assault;2070
+Freezing Assault;2070
+Freezing Assault;2070
+Circle Break;2075
+Circle Break;2075
+Circle Break;2075
+Circle Break;2075
+Circle Break;2075
+Quick-style Assault;2080
+Quick-style Assault;2080
+Quick-style Assault;2080
+Quick-style Assault;2080
+Quick-style Assault;2080
+Frenzy Assault;2085
+Frenzy Assault;2085
+Frenzy Assault;2085
+Frenzy Assault;2085
+Frenzy Assault;2085
+Mental Storm;2090
+Mental Storm;2090
+Mental Storm;2090
+Mental Storm;2090
+Mental Storm;2090
+Enfeeblement;2095
+Enfeeblement;2095
+Enfeeblement;2095
+Enfeeblement;2095
+Enfeeblement;2095
+Evasive Guard;2100
+Evasive Guard;2100
+Evasive Guard;2100
+Evasive Guard;2100
+Evasive Guard;2100
+Triple Slash;2105
+Triple Slash;2105
+Triple Slash;2105
+Triple Slash;2105
+Triple Slash;2105
+Sucker Punch;2110
+Sucker Punch;2110
+Sucker Punch;2110
+Sucker Punch;2110
+Sucker Punch;2110
+Venom Knife;2115
+Venom Knife;2115
+Venom Knife;2115
+Venom Knife;2115
+Venom Knife;2115
+Mystic Knife;2120
+Mystic Knife;2120
+Mystic Knife;2120
+Mystic Knife;2120
+Mystic Knife;2120
+Raider's Reflexes;2125
+Raider's Reflexes;2125
+Raider's Reflexes;2125
+Raider's Reflexes;2125
+Raider's Reflexes;2125
+Raider's Haste;2130
+Raider's Haste;2130
+Raider's Haste;2130
+Raider's Haste;2130
+Raider's Haste;2130
+Adrenaline Rush;2135
+Adrenaline Rush;2135
+Adrenaline Rush;2135
+Adrenaline Rush;2135
+Adrenaline Rush;2135
+Shattering Blows;2140
+Shattering Blows;2140
+Shattering Blows;2140
+Shattering Blows;2140
+Shattering Blows;2140
+Freezing Trap;2145
+Freezing Trap;2145
+Freezing Trap;2145
+Freezing Trap;2145
+Freezing Trap;2145
+Sand Trap;2150
+Sand Trap;2150
+Sand Trap;2150
+Sand Trap;2150
+Sand Trap;2150
+Enhance Reflexes;2155
+Enhance Reflexes;2155
+Enhance Reflexes;2155
+Enhance Reflexes;2155
+Enhance Reflexes;2155
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Dealer's Influence;2200
+Dealer's Influence;2200
+Dealer's Influence;2200
+Dealer's Influence;2200
+Dealer's Influence;2200
+Salesman Gait;2205
+Salesman Gait;2205
+Salesman Gait;2205
+Salesman Gait;2205
+Salesman Gait;2205
+Discount;2210
+Discount;2210
+Discount;2210
+Discount;2210
+Discount;2210
+Backpack Mastery;2215
+Backpack Mastery;2215
+Backpack Mastery;2215
+Backpack Mastery;2215
+Backpack Mastery;2215
+Sense of a Deal;2220
+Sense of a Deal;2220
+Sense of a Deal;2220
+Sense of a Deal;2220
+Sense of a Deal;2220
+Focused Concentration;2225
+Focused Concentration;2225
+Focused Concentration;2225
+Focused Concentration;2225
+Focused Concentration;2225
+Words of Suggestion;2230
+Words of Suggestion;2230
+Words of Suggestion;2230
+Words of Suggestion;2230
+Words of Suggestion;2230
+Guided Focus;2235
+Guided Focus;2235
+Guided Focus;2235
+Guided Focus;2235
+Guided Focus;2235
+Gun Training;2240
+Gun Training;2240
+Gun Training;2240
+Gun Training;2240
+Gun Training;2240
+Trigger Finger;2245
+Trigger Finger;2245
+Trigger Finger;2245
+Trigger Finger;2245
+Trigger Finger;2245
+Gun Scope;2250
+Gun Scope;2250
+Gun Scope;2250
+Gun Scope;2250
+Gun Scope;2250
+Extended Barrel;2255
+Extended Barrel;2255
+Extended Barrel;2255
+Extended Barrel;2255
+Extended Barrel;2255
+Piercing Rounds;2260
+Piercing Rounds;2260
+Piercing Rounds;2260
+Piercing Rounds;2260
+Piercing Rounds;2260
+Twin Shot;2265
+Twin Shot;2265
+Twin Shot;2265
+Twin Shot;2265
+Twin Shot;2265
+Marksman's Shot;2270
+Marksman's Shot;2270
+Marksman's Shot;2270
+Marksman's Shot;2270
+Marksman's Shot;2270
+Wild Shot;2275
+Wild Shot;2275
+Wild Shot;2275
+Wild Shot;2275
+Wild Shot;2275
+Magic Bullet;2280
+Magic Bullet;2280
+Magic Bullet;2280
+Magic Bullet;2280
+Magic Bullet;2280
+Sniping;2285
+Sniping;2285
+Sniping;2285
+Sniping;2285
+Sniping;2285
+Launcher Training;2290
+Launcher Training;2290
+Launcher Training;2290
+Launcher Training;2290
+Launcher Training;2290
+Packed Powder;2295
+Packed Powder;2295
+Packed Powder;2295
+Packed Powder;2295
+Packed Powder;2295
+Explosive Ammo;2300
+Explosive Ammo;2300
+Explosive Ammo;2300
+Explosive Ammo;2300
+Explosive Ammo;2300
+Shrapnel;2305
+Shrapnel;2305
+Shrapnel;2305
+Shrapnel;2305
+Shrapnel;2305
+Art of Boom;2310
+Art of Boom;2310
+Art of Boom;2310
+Art of Boom;2310
+Art of Boom;2310
+Twin Shot;2315
+Twin Shot;2315
+Twin Shot;2315
+Twin Shot;2315
+Twin Shot;2315
+Loaded Barrel;2320
+Loaded Barrel;2320
+Loaded Barrel;2320
+Loaded Barrel;2320
+Loaded Barrel;2320
+Cannon Blast;2325
+Cannon Blast;2325
+Cannon Blast;2325
+Cannon Blast;2325
+Cannon Blast;2325
+Fire in the hole!;2330
+Fire in the hole!;2330
+Fire in the hole!;2330
+Fire in the hole!;2330
+Fire in the hole!;2330
+Demolition Expertise;2335
+Demolition Expertise;2335
+Demolition Expertise;2335
+Demolition Expertise;2335
+Demolition Expertise;2335
+Craftsman's Talent;2340
+Craftsman's Talent;2340
+Craftsman's Talent;2340
+Craftsman's Talent;2340
+Craftsman's Talent;2340
+Summon HP;
+Summon HP;
+Summon HP;
+Summon HP;
+Summon HP;
+Summon Defense;
+Summon Defense;
+Summon Defense;
+Summon Defense;
+Summon Defense;
+Summon Attack Power;
+Summon Attack Power;
+Summon Attack Power;
+Summon Attack Power;
+Summon Attack Power;
+Summon Attack Speed;
+Summon Attack Speed;
+Summon Attack Speed;
+Summon Attack Speed;
+Summon Attack Speed;
+Employ Warrior;2365
+Employ Warrior;2365
+Employ Warrior;2365
+Employ Warrior;2365
+Employ Warrior;2365
+Employ Hunter;2370
+Employ Hunter;2370
+Employ Hunter;2370
+Employ Hunter;2370
+Employ Hunter;2370
+Gadget - Attack Power;
+Gadget - Attack Power;
+Gadget - Attack Power;
+Gadget - Attack Power;
+Gadget - Attack Power;
+Gadget - Accuracy;
+Gadget - Accuracy;
+Gadget - Accuracy;
+Gadget - Accuracy;
+Gadget - Accuracy;
+Gadget - Restore HP;
+Gadget - Restore HP;
+Gadget - Restore HP;
+Gadget - Restore HP;
+Gadget - Restore HP;
+Gadget - Restore MP;
+Gadget - Restore MP;
+Gadget - Restore MP;
+Gadget - Restore MP;
+Gadget - Restore MP;
+Embue Weapon : Earth;
+Embue Weapon : Earth;
+Embue Weapon : Earth;
+Embue Weapon : Earth;
+Embue Weapon : Earth;
+Embue Weapon : Wind;
+Embue Weapon : Wind;
+Embue Weapon : Wind;
+Embue Weapon : Wind;
+Embue Weapon : Wind;
+Embue Weapon : Fire;
+Embue Weapon : Fire;
+Embue Weapon : Fire;
+Embue Weapon : Fire;
+Embue Weapon : Fire;
+Embue Weapon : Water;
+Embue Weapon : Water;
+Embue Weapon : Water;
+Embue Weapon : Water;
+Embue Weapon : Water;
+Bomb Crafting;
+Bomb Crafting;
+Bomb Crafting;
+Bomb Crafting;
+Bomb Crafting;
+Ace Gunner;2420
+Ace Gunner;2420
+Ace Gunner;2420
+Ace Gunner;2420
+Ace Gunner;2420
+Veteran Sniper;2425
+Veteran Sniper;2425
+Veteran Sniper;2425
+Veteran Sniper;2425
+Veteran Sniper;2425
+Quickdraw;2430
+Quickdraw;2430
+Quickdraw;2430
+Quickdraw;2430
+Quickdraw;2430
+Incendiary Rounds;2435
+Incendiary Rounds;2435
+Incendiary Rounds;2435
+Incendiary Rounds;2435
+Incendiary Rounds;2435
+Triple Shot;2440
+Triple Shot;2440
+Triple Shot;2440
+Triple Shot;2440
+Triple Shot;2440
+Toxic Shot;2445
+Toxic Shot;2445
+Toxic Shot;2445
+Toxic Shot;2445
+Toxic Shot;2445
+Zulie Bolt;2450
+Zulie Bolt;2450
+Zulie Bolt;2450
+Zulie Bolt;2450
+Zulie Bolt;2450
+Zulie Storm;2455
+Zulie Storm;2455
+Zulie Storm;2455
+Zulie Storm;2455
+Zulie Storm;2455
+Zulie Stun;2460
+Zulie Stun;2460
+Zulie Stun;2460
+Zulie Stun;2460
+Zulie Stun;2460
+Weapon Augment ;2465
+Weapon Augment ;2465
+Weapon Augment ;2465
+Weapon Augment ;2465
+Weapon Augment ;2465
+Illusion;2470
+Illusion;2470
+Illusion;2470
+Illusion;2470
+Illusion;2470
+Reflect Aura;2475
+Reflect Aura;2475
+Reflect Aura;2475
+Reflect Aura;2475
+Reflect Aura;2475
+Launcher Expertise;2480
+Launcher Expertise;2480
+Launcher Expertise;2480
+Launcher Expertise;2480
+Launcher Expertise;2480
+Explosive Powder;2485
+Explosive Powder;2485
+Explosive Powder;2485
+Explosive Powder;2485
+Explosive Powder;2485
+High Explosive Ammo;2490
+High Explosive Ammo;2490
+High Explosive Ammo;2490
+High Explosive Ammo;2490
+High Explosive Ammo;2490
+Packed Shrapnel;2495
+Packed Shrapnel;2495
+Packed Shrapnel;2495
+Packed Shrapnel;2495
+Packed Shrapnel;2495
+Shrapnel Burst;2500
+Shrapnel Burst;2500
+Shrapnel Burst;2500
+Shrapnel Burst;2500
+Shrapnel Burst;2500
+Cannon Stun Burst;2505
+Cannon Stun Burst;2505
+Cannon Stun Burst;2505
+Cannon Stun Burst;2505
+Cannon Stun Burst;2505
+Flame Cannon Splash;2510
+Flame Cannon Splash;2510
+Flame Cannon Splash;2510
+Flame Cannon Splash;2510
+Flame Cannon Splash;2510
+Triple Shot;2515
+Triple Shot;2515
+Triple Shot;2515
+Triple Shot;2515
+Triple Shot;2515
+Launcher Smash;2520
+Launcher Smash;2520
+Launcher Smash;2520
+Launcher Smash;2520
+Launcher Smash;2520
+Jury-Rigging ;2525
+Jury-Rigging ;2525
+Jury-Rigging ;2525
+Jury-Rigging ;2525
+Jury-Rigging ;2525
+Wind Step ;2530
+Wind Step ;2530
+Wind Step ;2530
+Wind Step ;2530
+Wind Step ;2530
+Dual Layer;2535
+Dual Layer;2535
+Dual Layer;2535
+Dual Layer;2535
+Dual Layer;2535
+Stockpile;2540
+Stockpile;2540
+Stockpile;2540
+Stockpile;2540
+Stockpile;2540
+Merchandising;2545
+Merchandising;2545
+Merchandising;2545
+Merchandising;2545
+Merchandising;2545
+Third Eye;2550
+Third Eye;2550
+Third Eye;2550
+Third Eye;2550
+Third Eye;2550
+Top Gunner;2555
+Top Gunner;2555
+Top Gunner;2555
+Top Gunner;2555
+Top Gunner;2555
+Trigger Finger;2560
+Trigger Finger;2560
+Trigger Finger;2560
+Trigger Finger;2560
+Trigger Finger;2560
+Enhanced Scope;2565
+Enhanced Scope;2565
+Enhanced Scope;2565
+Enhanced Scope;2565
+Enhanced Scope;2565
+Hallowed Point Ammo;2570
+Hallowed Point Ammo;2570
+Hallowed Point Ammo;2570
+Hallowed Point Ammo;2570
+Hallowed Point Ammo;2570
+Handyman;2575
+Handyman;2575
+Handyman;2575
+Handyman;2575
+Handyman;2575
+Tinkerer;2580
+Tinkerer;2580
+Tinkerer;2580
+Tinkerer;2580
+Tinkerer;2580
+Mercenary Employment;2585
+Mercenary Employment;2585
+Mercenary Employment;2585
+Mercenary Employment;2585
+Mercenary Employment;2585
+Summon Dread Knight;2590
+Summon Dread Knight;2590
+Summon Dread Knight;2590
+Summon Dread Knight;2590
+Summon Dread Knight;2590
+Summon Terror Knight;2595
+Summon Terror Knight;2595
+Summon Terror Knight;2595
+Summon Terror Knight;2595
+Summon Terror Knight;2595
+Gadget - Attack Speed Boost;
+Gadget - Attack Speed Boost;
+Gadget - Attack Speed Boost;
+Gadget - Attack Speed Boost;
+Gadget - Attack Speed Boost;
+Gadget - Attack Speed Down;
+Gadget - Attack Speed Down;
+Gadget - Attack Speed Down;
+Gadget - Attack Speed Down;
+Gadget - Attack Speed Down;
+Gadget - MP Regen;
+Gadget - MP Regen;
+Gadget - MP Regen;
+Gadget - MP Regen;
+Gadget - MP Regen;
+Gadget - MP Drain;
+Gadget - MP Drain;
+Gadget - MP Drain;
+Gadget - MP Drain;
+Gadget - MP Drain;
+Gadget - Dodge Boost;
+Gadget - Dodge Boost;
+Gadget - Dodge Boost;
+Gadget - Dodge Boost;
+Gadget - Dodge Boost;
+Gadget - MSPD Down;
+Gadget - MSPD Down;
+Gadget - MSPD Down;
+Gadget - MSPD Down;
+Gadget - MSPD Down;
+Embue Armor - Earth;
+Embue Armor - Earth;
+Embue Armor - Earth;
+Embue Armor - Earth;
+Embue Armor - Earth;
+Embue Armor - Earth (Party);
+Embue Armor - Earth (Party);
+Embue Armor - Earth (Party);
+Embue Armor - Earth (Party);
+Embue Armor - Earth (Party);
+Embue Armor - Wind;
+Embue Armor - Wind;
+Embue Armor - Wind;
+Embue Armor - Wind;
+Embue Armor - Wind;
+Embue Armor - Wind (Party);
+Embue Armor - Wind (Party);
+Embue Armor - Wind (Party);
+Embue Armor - Wind (Party);
+Embue Armor - Wind (Party);
+Embue Armor - Fire;
+Embue Armor - Fire;
+Embue Armor - Fire;
+Embue Armor - Fire;
+Embue Armor - Fire;
+Embue Armor - Fire (Party);
+Embue Armor - Fire (Party);
+Embue Armor - Fire (Party);
+Embue Armor - Fire (Party);
+Embue Armor - Fire (Party);
+Embue Armor - Water;
+Embue Armor - Water;
+Embue Armor - Water;
+Embue Armor - Water;
+Embue Armor - Water;
+Embue Armor - Water (Party);
+Embue Armor - Water (Party);
+Embue Armor - Water (Party);
+Embue Armor - Water (Party);
+Embue Armor - Water (Party);
+Triple Shot;2670
+Triple Shot;2670
+Triple Shot;2670
+Triple Shot;2670
+Triple Shot;2670
+Hypno Shot;2675
+Hypno Shot;2675
+Hypno Shot;2675
+Hypno Shot;2675
+Hypno Shot;2675
+Daze Attack;2680
+Daze Attack;2680
+Daze Attack;2680
+Daze Attack;2680
+Daze Attack;2680
+Poison Shot;2685
+Poison Shot;2685
+Poison Shot;2685
+Poison Shot;2685
+Poison Shot;2685
+Acid Shot;2690
+Acid Shot;2690
+Acid Shot;2690
+Acid Shot;2690
+Acid Shot;2690
+Magic Shot;2695
+Magic Shot;2695
+Magic Shot;2695
+Magic Shot;2695
+Magic Shot;2695
+Bomb Crafting;
+Bomb Crafting;
+Bomb Crafting;
+Bomb Crafting;
+Bomb Crafting;
+Critical Chant;2705
+Critical Chant;2705
+Critical Chant;2705
+Critical Chant;2705
+Critical Chant;2705
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Scuba Moldie;2800
+Jelly Bean;2801
+Jelly Nut;2802
+Choropy;2803
+Pumpkin;2804
+Dalping;2805
+Honey Bee;2806
+Hornet;2807
+Pomic;2808
+Pomic Soldier;2809
+Beetle;2810
+Turtle;2811
+Crack;2812
+Rackie;2813
+Woopy;2814
+Moldie;2815
+Krawfy;2816
+Porkie;2817
+Grunter;2818
+Grunter Leader;2819
+Kaiman;2820
+Doonga;2821
+Doonga Warrior;2822
+Doonga Captain;2823
+Jewel Golem;2824
+Aqua Guard;2825
+Clown;2826
+Candle Ghost;2827
+Goblin Worker;2828
+Goblin Guard;2829
+Goblin Warrior;2830
+Slag;2831
+Lunar Wolf;2832
+Yeti;2833
+Yeti Hunter;2834
+Yeti Guard;2835
+Yeti Rider;2836
+Goblin King;2837
+Cherry Smouly;2838
+Metal Moldie (Pre-F2P Unique Skill);2839
+Easter Bunny Capsule;2840
+Easter Egg Capsule;2841
+Soccer Ball PET;2842
+Junon Order's Return Scroll;2843
+Summon Leprechaun;2844
+Wolf;2845
+Mammoth;2846
+Dreadnaught;2847
+Lunaris Bear;2848
+Qupid;2849
+Weight Training - Light;2850
+Weight Training - Medium;2851
+Weight Training - Heavy;2852
+Weight Training - Advanced;2853
+Weight Training - Mastery;2854
+;
+Wrealith Hatchling;2856
+Mastyx;2857
+Desert Asper;2858
+Desert Scavenger;2859
+Hand Grenade;2860
+Flash Grenade;2861
+Acid Grenade;2862
+Mana Grenade;2863
+Hand Bomb;2864
+Flash Bomb;2865
+Acid Bomb;2866
+Mana Bomb;2867
+Concussion Grenade;2868
+Explosive;2869
+Flash Explosive;2870
+Acid Explosive;2871
+Mana Explosive;2872
+High Explosive;2873
+Flash High Explosive;2874
+Acid High Explosive;2875
+Mana High Explosive;2876
+Concussion Explosive;2877
+;
+;
+Arua's Fate;2880
+Hebarn's Fate;2881
+Wayfinder Skill;2882
+Vizier's Key;2883
+;
+Alpha Generator;2885
+Beta Generator;2886
+Gamma Generator;2887
+;
+;
+;
+?臾????;2891
+Christmas tree;2892
+Grab Bag;2893
+Firecracker Penguin;2894
+Ice Spirit;2895
+諛?????ㅼ?;2896
+?ы(洹몃Ъ);2897
+Love Chocolate;2898
+Kiss Scroll;2899
+Power of Love;2900
+怨듦꺽?μ??;2901
+怨듦꺽?????;2902
+紐以?μ??;2903
+諛⑹?μ??;2904
+諛⑹???????;2905
+???μ??;2906
+?대?????;2907
+諛⑺?곕?吏;2908
+?泥?留;2909
+遺由???댁?;2910
+怨듦꺽?μ??;2911
+怨듦꺽?????;2912
+紐以?μ??;2913
+諛⑹?μ??;2914
+諛⑹???????;2915
+???μ??;2916
+?대?????;2917
+Dispell (1-5) Buffs;2918
+異??곕?吏;2919
+Hide;2920
+怨듦꺽?μ??;2921
+怨듦꺽?????;2922
+紐以?μ??;2923
+諛⑹?μ??;2924
+諛⑹???????;2925
+???μ??;2926
+?대?????;2927
+諛⑺?곕?吏;2928
+異??곕?吏;2929
+Monster Cloak;2930
+怨듦꺽?μ??;2931
+怨듦꺽?????;2932
+紐以?μ??;2933
+諛⑹?μ??;2934
+諛⑹???????;2935
+???μ??;2936
+?대?????;2937
+諛⑺?곕?吏;2938
+異??곕?吏;2939
+遺由???댁?;2940
+怨듦꺽?κ???;2941
+Decrease Attack Speed 50% (60s);2942
+紐以?κ???;2943
+諛⑹?κ???;2944
+諛⑹????媛?;2945
+???κ???;2946
+MSPD & ASPD Down 20% (30s);2947
+?댁/???媛?;2948
+怨듭利?/紐以媛?;2949
+怨듦꺽利?/怨듭媛?;2950
+怨듦꺽?κ???;2951
+怨듦꺽??媛?;2952
+紐以?κ???;2953
+Decrease Defense 20% (60s);2954
+諛⑹????媛?;2955
+Decrease Dodge Rate 15% (60s);2956
+?댁/怨듭 媛?;2957
+?댁/???媛?;2958
+怨듭利?/紐以媛?;2959
+怨듦꺽利?/怨듭媛?;2960
+Dispell (1-5) Buffs;2961
+踰?대?;2962
+踰?대?;2963
+以?1;2964
+以?2;2965
+以?3;2966
+?硫?;2967
+?硫?;2968
+Silence;2969
+Stun;2970
+Restore 3% HP & 3% MP every cast;2971
+;
+;
+二쇰?hp ?留(?留?ㅽ?;2974
+二쇰?hp ?留(?留?ㅽ?;2975
+??댄?踰?????;2976
+?留媛湲?;2977
+?留媛湲?;2978
+??怨듦꺽(?κ굅由?;2979
+?ㅽ?곕?吏怨듦꺽(?κ굅由?;2980
+怨? ??湲?;2981
+怨? ??湲?;2982
+留?????????;2983
+留???????以?;2984
+;2985
+?대??댄(??;2986
+?대??댄(以?;2987
+3?고?(??;2987
+紐곕 ??湲?;2989
+Varus High Damage AoE;2990
+踰? 以?;2991
+踰? ??;2992
+;
+?? ??????;2994
+?? ?????);2995
+;
+?由ъ?蹂????;2997
+?由ъ?蹂??;2998
+留洹몃?踰(??;2999
+留洹몃?踰;3000
+怨듦꺽??媛?;3001
+怨듦꺽?? 媛?;3002
+紐以??媛?;3003
+諛⑹??媛?;3004
+????媛?;3005
+Dispell (1-5) Buffs;3006
+;
+;
+;
+;
+??곕━? ??????;3011
+猷⑦??щ(??;3012
+猷⑦??щ(以?;3013
+??대???곕?(??;3014
+猷⑦??????щ(??;3015
+??대???곕?(??;3016
+留ㅻ㉧???댁????;3017
+Behemoth (Earth Quake) [Dispell 3-10];3018
+?명 臾쇨린 ?ㅽ?;3019
+???濡???곕?);3020
+????蹂????;3021
+????蹂?????媛?);3022
+?쇱???蹂??踰?媛?);3023
+?????以?(踰?);3024
+???ㅻ낵??以?;3025
+?쇱?몃;3026
+留洹몃?踰;3027
+?щ洹?踰媛);3028
+;
+;
+???night(????;3031
+留?곗????;3032
+?由щ??(??);3033
+?명?媛?寃?李湲?;3034
+;
+CheifTurak Skill - Buff;3036
+CheifTurak Skill - Attack;3037
+CheifTurak Skill - Heal;3038
+CheifTurak Skill - AoE;3039
+Chief Turak AoE Damage & Stun;3040
+?荑荑???踰?(??;3041
+?荑荑???踰?(以?;3042
+?荑荑???踰?(?);3043
+?몃?由??寃湲??;3044
+?щ??湲곗踰?(以? ;3045
+?щ??湲곗踰?(?);3046
+;
+?щκ???쇰?? (??;3048
+?щκ???쇰?? (以?;3049
+?щκ???쇰?? (?);3050
+;
+200% Attack, AoE 60% Stun (5sec);3052
+?由?몄?댁 湲곗踰? (5珥?;3053
+;
+二쇱???泥?踰?대?(??;3055
+二쇱???泥?踰?대?(以?;3056
+二쇱???泥?踰?대?(?);3057
+;
+Poison Web Attack (Small);3059
+Poison Web Attack (Medium);3060
+;
+?щ??踰? ?硫?;3062
+Chief Turak AoE Sleep;3063
+???諛⑹?μ??;3064
+;
+Assassin Hide;3066
+;
+?щκ??대?? 媛?;3068
+?而?踰?(以?;3069
+;
+諛?㏓?愿? (釉猷?;3071
+諛?㏓?愿? (??);3072
+洹몃?????寃????ㅽ??ㅽ?;3073
+Restore 10% HP Per Cast;3074
+;
+;
+Restore 10% MP Per cast;3077
+;
+;
+Third Eye - Detect (25m range);3080
+Third Eye - Detect (25m range);3081
+Third Eye - Detect (25m range);3082
+Third Eye - Detect (25m range);3083
+Third Eye - Detect (25m range);3084
+?곕耳?댄????;3085
+?곕耳?댄????;3086
+?곕耳?댄????;3087
+?곕耳?댄????;3088
+?곕耳?댄????;3089
+?몄?쇱??????;3090
+;
+;
+踰移??怨? ?? ?ㅽ?;3093
+?ㅻ㉧?????????ㅽ?;3094
+?ㅻ㉧?????ъ ?대???;3095
+?ㅻ㉧?????ъ ???移⑤У;3096
+留밸?????以?;3097
+留밸??鍮???愿? 以?;3098
+?濡利??釉??愿? ?곕?吏;3099
+;
+Purify Scroll (Solo);3101
+Detect Scroll (Solo);3102
+Stealth Scroll (Solo);3103
+;3104
+;3105
+HP Scroll (Solo);3106
+MP Scroll (Solo);3107
+Dexterity Scroll (Solo);3108
+Strength Scroll (Solo);3109
+Defense Scroll (Solo);3110
+Accuracy Scroll (Solo);3111
+Damage Scroll (Solo);3112
+Advanced HP Scroll (Solo);3113
+Advanced MP Scroll (Solo);3114
+Advanced Dexterity Scroll (Solo);3115
+Advanced Strength Scroll (Solo);3116
+Advanced Defense Scroll (Solo);3117
+Advanced Accuracy Scroll (Solo);3118
+Advanced Damage Scroll (Solo);3119
+;
+Blue Icicle;3121
+Green Icicle;3122
+White Icicle;3123
+;
+Throwing Ball;3125
+Snowball;3126
+Rock;3127
+Biathlon Bullet;3128
+Fluffy Snowball;3129
+Summer Blessing;3130
+Strength Scroll (Solo);3131
+Damage Scroll (Solo);3132
+Advanced Defense Scroll (Solo);3133
+Advanced Dexterity Scroll (Solo);3134
+?????;3135
+怨듦꺽??;3136
+Advanced Accuracy Scroll (Solo);3137
+Advanced HP Scroll (Solo);3138
+Advanced MP Scroll (Solo);3139
+?щ━?곗뺄;3140
+Magical Rubber Ducky;3141
+Rubber Ducky;3142
+;
+;
+;
+;
+;
+;
+;
+Adventurer Plain's Return Scroll;3150
+Zant Return Scroll;3151
+Junon Polis Return Scroll;3152
+Eucar Return Scroll;3153
+Xita Refuge Return Scroll;3154
+Selba Village Return Scroll;3155
+Desert City of Muris Return Scroll;3156
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Para Dance (Basic);3171
+Para Dance (Practical);3172
+Para Dance (Intermediate);3173
+Para Dance (Refined);3174
+Funky Dance (Basic);3175
+Funky Dance (Intermediate);3176
+Rhumba (M);3177
+Waltz (M);3178
+Jive (M);3179
+Cha-Cha (M);3180
+Ice Charm;3181
+Spark Charm;3182
+Blood Charm;3183
+Rhumba (F);3184
+Waltz (F);3185
+Jive (F);3186
+Cha-Cha (F);3187
+Halloween Dance Beginner;3188
+Halloween Dance Intermediate;3189
+Halloween Dance Refined;3190
+Ballroom Event Dance - the Robot;3191
+Vuvuzela Horn;3192
+Bat Booster;3193
+Candy Booster;3194
+Pumpkin Booster;3195
+Skeleton Booster;3196
+Witch Booster;3197
+;
+;
+;
+Healing All;3201
+ATK & Accuracy Up;3202
+DEF & M-DEF Up;3203
+A-SPD & CRI Up;3204
+M-SPD & Dodge Up;3205
+;
+;
+;
+;
+Purify All;3210
+Invincibility (Self);3211
+Power Up (Self);3212
+Speed Up (Self);3213
+Invisibility (Self);3214
+Healing (Self);3215
+Kill (Anti-Crime);3216
+Stun (600");3217
+Mute (600");3218
+Purify;3219
+GM?ㅽ???;3220
+媛諛???ъ??;3221
+;3222
+;3223
+;3224
+?????;3225
+Dispell (1-5) Buffs;3226
+?由??? ?댁?;3227
+;
+;
+Day 1 - Zulie;3230
+Day 4 - Zulie;3230
+Day 7 - Zulie;3230
+Day 10 - Zulie;3230
+Day 2 - Exp;3234
+Day 5 - Exp;3234
+Day 8 - Exp;3234
+Day 11 - Exp;3234
+Day 3 - Drop Bonus;3238
+Day 6 - Drop Bonus;3238
+Day 9 - Drop Bonus;3238
+Day 12 - Drop Bonus;3238
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Congratulation;3251
+Happy Birthday;3252
+Thank You;3253
+I Love You;3254
+;3255
+;3256
+;3257
+;3258
+;3259
+Merry Christmas;3260
+Congratulation;3261
+Happy Birthday;3262
+Thank You;3263
+I Love You;3264
+Happy Valentines;3265
+Be My Valentine;3266
+;3267
+;3268
+;3269
+Merry Christmas;3270
+??＝(?щ??대깽??;3271
+??＝(?щ??대깽??;3272
+??＝(?щ??대깽??;3273
+??＝(?щ??대깽??;3274
+??＝(?щ??대깽??;3275
+??＝(?щ??대깽??;3276
+??＝(?щ??대깽??;3277
+??＝(?щ??대깽??;3278
+??＝(?щ??대깽??;3279
+Critical Booster (Extra Max);3280
+Damage Booster (Extra Max);3281
+Defense Booster (Extra Max);3282
+Speed Booster(Extra Max);3283
+HP&MP Booster (Extra Max);3284
+?ㅽ???;3285
+?쇰??;3286
+??;3287
+怨?;3288
+肄곗?댄?;3289
+Grand Firework;3290
+Goblin Cave Entrance Return Scroll;3291
+Desert of the Dead Entrance Return Scroll;3292
+El Verloon Desert Return Scroll;3293
+Gorge of Silence Return Scroll;3294
+Shady Jungle Return Scroll;3295
+Sikuku Underground Prison Return Scroll;3296
+Marsh of Ghost Return Scroll;3297
+Forgotten Temple B2 Return Scroll;3298
+;
+Agility Booster (Extra Max);3300
+Party Pill - HP & MP;3301
+Party Pill - Def & Mdef;3302
+Party Pill - Mspd & Aspd;3303
+Party Pill - Critical;3304
+Party Pill - Flee & Accuracy;3305
+Party Pill - Damage;3306
+Ripe Banana;3307
+Elder Flanae Seeds;3308
+Big Pumpkin Seeds;3309
+Sigil of Acceleration;3310
+Freaky Fishmen Souffle;3311
+Turtle Soup;3312
+Beetle Surprise;3313
+;
+;
+;
+;
+;
+;
+;
+King's Blessing (STR + CRIT);3321
+Royal Blessing (INT + DEF);3322
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+???ъ??;3501
+???ъ??;3502
+???瑜?ㅻ????pen6);3503
+???瑜?ㅻ????pen2);3504
+???瑜諛?댁?媛(penegu);3505
+鍮怨듦??κ굅由?;3506
+怨듦꺽?ㅽ??κ굅由?;3507
+??⑤??怨듦꺽;3508
+??⑤??怨듦꺽;3509
+??⑤??怨듦꺽;3510
+?ㅽ???ъ?;3511
+?щ??댁利?;3512
+??????고?;3513
+??????고?;3514
+????ㅺ났踰??;3515
+??????踰?;3516
+?ㅼ?鍮?몃??怨듦꺽;3517
+洹쇱?ㅻ??댄;3518
+??밸??(怨듯??25%);3519
+移댄?ㅽ????;321
+Boost MSPD+10%;3521
+紐⑥ㅺ낏?踰?怨듦꺽;3522
+?ㅽ?곗ㅻ??怨듦꺽;3523
+?щ?щ??怨듦?;3524
+?대??댄(??;3525
+?대??댄(以?;3526
+?곕?吏+吏㏃??ㅽ?;3527
+異援ш??ㅽ?;3528
+異援ш??ㅽ?;3529
+?곕?吏 ?ㅽщ????몄?;3530
+Arua's Blessing;3531
+Giant Rudolph AoE;3532
+?ㅻ??댄;3533
+?ㅻ??댄;3534
+怨듭踰?;3535
+怨듦꺽?λ???;3536
+諛⑹?λ???;3537
+?ㅻ??댄;3538
+?댁踰?;3539
+諛⑹?λ踰?;3540
+怨듬갑踰?;3541
+怨듭+?댁踰?;3542
+?ㅻ??댄;3543
+?ㅻ??댄;3544
+?ㅻ??댄;3545
+Judy's Blessing;3546
+;
+Heavy Attack (small) ;3548
+Heavy Attack (Medium) ;3549
+Attack Speed Up;3550
+Stun + Damage ;3551
+Mute;3552
+Fire damage (small) ;3553
+Fire damage (medium) ;3554
+Fire damage (large) ;3555
+Heavy Attack;3556
+Sleep;3557
+;
+Dispell (2-5) Buffs;3559
+AOE Stun;3560
+?釉???釉猷?愿?);3561
+Stun Target;3562
+Mute Target;3563
+?釉?????/愿?);3564
+;
+;
+Heavy Attack (Small);3567
+Heavy Attack (Medium);3568
+AOE Attack (small);3569
+AOE Attack (medium);3570
+?怨듦??⑥?;3571
+Target Stun + Damage;3572
+Heavy Attack (Large);3573
+怨듭?(愿?);3574
+Long Range Attack;3575
+怨듭?(愿?);3576
+Long Range Attack;3577
+Self ATK Up / Target Mdef Down;3578
+怨듦꺽?μ??;3579
+Long Range Attack;3580
+????κ???;3581
+AOE Stun + Damage;3582
+;
+;
+Self ATK Up, Target ATK Down;3585
+Attack (Medium);3586
+AOE Attack (Small);3587
+ATK+DEF Up;3588
+Poison Arrow;3589
+Attack (Large);3590
+Range Attack (Medium);3591
+Range Attack (Strong);3592
+Increase Attack Speed;3593
+Heal Up (HP+10000);3594
+Stun + Damage AOE;3595
+Dispell (5-10) Buffs;3596
+Slow (AOE);3597
+Sleep (AOE);3598
+ATK+DEF Up;3599
+Range Attack Dmg;3600
+Sikuku Infiltrator(205) Dispell (2-5) Buffs;3601
+Rage (ATK/ASPEED/CRIT) Up;3602
+Charge;3603
+Fireball;3604
+Poison Attack (400);3605
+Attack (Large);3606
+;
+;
+Dispell (3-8) Buffs;3609
+Slow (AOE);3610
+Stun + Damage AOE;3611
+ATK+DEF Up;3612
+Range Attack Dmg;3613
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Burn Skill;3792
+Attack Direct + ASPD Down;3793
+AoE Attack;3794
+Clear Debuff & Dmg Reflect;3795
+Clear Debuff & ATK/DEF Up;3796
+Range Attack Direct;3797
+AoE Attack + Burn;3798
+Defense Down;3799
+Dust Whirlwind (Decrease Accuracy);3800
+Ground Attack (Decrease Def);3801
+Direct Attack;3802
+;
+Self Buff (Def Up);3804
+Attack Direct;3805
+Shield Bash + Stun;3806
+AoE Effect (Silence);3807
+AoE Target Attack + Mspeed Down;3808
+;
+Self Buff (Decrease DEF, Increase Mdef);3810
+AoE Close Attack;3811
+AoE Target Attack (Mspeed Down + Burn);3812
+AoE Status Effect (Silence);3813
+Heal Self;3814
+;
+;
+Range Attack Direct (Medium) + Poison;3817
+Range Attack Direct (Hard);3818
+Defense Down (40%);3819
+AoE ATK/DEF Up;3820
+AoE Mspeed Down;3821
+AoE Small Attack;3822
+Direct Attack (Hard);3823
+Rage Buff (ATK/DEF);3824
+;
+Direct Attack (Hard);3826
+Direct Attack + Poison;3827
+AoE Atk Down;3828
+Self Buff (Def Up);3829
+;
+Direct Attack (Medium);3831
+Direct Attack (Hard);3832
+AoE Attack (Medium);3833
+AoE Poison;3834
+;
+;
+Red Flame Breath;3837
+Blue Flame Breath;3838
+Heavy Dragon Egg;3839
+Lesser Draconic Spirit;3840
+Greater Draconic Spirit;3841
+;
+;
+Waiting For Dungeons??;3844
+Waiting For PvP??;3845
+;
+Red Team;3847
+Blue Team;3848
+;
+Search For Tools;3850
+Collecting for Jude;3851
+;
+Safe Zone;3853
+Honorless;3854
+Crystal Proximity Tag;3855
+Crystal Proximity Tag;3856
+Dragon Proximity Tag;3857
+;
+Glooped! - AoE Attack + MSPD / ASPD Down;3859
+;
+Glooped! - PassiveSkillEffect;3861
+Glooped! - PassiveSkillEffect;3861
+Glooped! - PassiveSkillEffect;3861
+Glooped! - PassiveSkillEffect;3861
+Glooped! - PassiveSkillEffect;3861
+;
+;
+;
+;
+;
+Devilrot Bomb - AoE Attack;3871
+Devilrot Bomb - HUD Effect;3872
+Devilrot Explosion - AoE Attack;3873
+Devilrot Blight - AoE Attack + ATK / MDEF Down;3874
+Devilrot Blight - AoE Attack + ATK / MDEF Down;3875
+Devilrot Blight - PassiveSkillEffect;3876
+Devilrot Blight - PassiveSkillEffect;3876
+Devilrot Blight - PassiveSkillEffect;3876
+Devilrot Blight - PassiveSkillEffect;3876
+Devilrot Blight - PassiveSkillEffect;3876
+;
+;
+AoE Attack;3883
+Ranged Target Attack + Spit Pile;3884
+AoE Attack + Spit Pile;3885
+Nasty Bile - AoE Attack + Dodge + Heal Effectiveness Down;3886
+Nasty Bile - PassiveSkillEffect;3887
+Nasty Bile - PassiveSkillEffect;3887
+Nasty Bile - PassiveSkillEffect;3887
+Nasty Bile - PassiveSkillEffect;3887
+Nasty Bile - PassiveSkillEffect;3887
+;
+;
+;
+;
+;
+;
+;
+;
+Max HP Potion;3900
+Max MP Potion;3901
+Purify Potion;3902
+Stealth Potion;3903
+Movement Potion;3904
+Defense Potion;3905
+Attack Potion;3906
+Magic Resistance Potion;3907
+Accuracy Potion;3908
+Dodge Potion;3909
+Attack Speed Potion;3910
+Critical Potion;3911
+Damage Enhancement Potion;3912
+;
+;
+Mini Cherry Berry;3915
+Cherry Berry;3916
+Power Cherry Berry;3917
+Super Cherry Berry;3918
+Miracle Cherry Berry;3919
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Max HP Battle Potion;3938
+Max MP Battle Potion;3939
+Movement Battle Potion;3940
+Defense Battle Potion;3941
+Attack Battle Potion;3942
+Magic Resistance Battle Potion;3943
+Accuracy Battle Potion;3944
+Dodge Battle Potion;3945
+Attack Speed Battle Potion;3946
+Critical Battle Potion;3947
+Damage Enhancement Battle Potion;3948
+Stat Enhancement Battle Potion;3949
+;
+;
+;
+;
+;
+;
+;
+;
+Battle Combat Potion;3958
+Enlightenment Combat Potion;3959
+Reinforcement Combat Potion;3960
+Cunning Combat Potion;3961
+Swift Combat Potion;3962
+Divine Combat Potion;3963
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+(PvP) Mana Break;4001
+(PvM) Anti Magic Shell;4002
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Sacrifice (PvM);4211
+Sacrifice (PvM);4211
+Sacrifice (PvM);4211
+Sacrifice (PvM);4211
+Sacrifice (PvM);4211
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Adamantine Fist;4251
+Guardian's Might;4252
+Shield Spikes;4253
+(PvP) Lightning Crasher;4254
+(PvP) Trap Arrow;4255
+(PvP) Shield Throw;4256
+(PvM) Impact Wave;4257
+(PvM) Soul Wreck;4258
+(PvM) Shield Bash;4259
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Champion Training ;4301
+Warrior's Menace;4302
+Enraged Berserk;4303
+(PvP) Geon Archangel Crumpler;4304
+(PvP) Longinus' Strike;4305
+(PvP) Weapon Launcher;4306
+(PvM) Combat Howl;4307
+(PvM) Seismic Impact;4308
+(PvM) Combat Scream;4309
+(PvM) Longinus' Strike;4310
+(PvM) Combat Shout;4311
+(PvM) Champion Strike;4312
+Enraged Berserk - PassiveSkillEffect;4313
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Item Mall - Effect (Soul Crystal);4400
+Soul Recall;4401
+Soul Recall;4401
+Soul Recall;4401
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Teachings of the Magi;4451
+Technique of the Magi;4452
+(PvP) Glaciating Chill;4453
+(PvP) Cold Snap;4454
+(PvP) Soul Shock;4455
+(PvP) Thunder Storm;4456
+(PvP) Mana Burn;4457
+(PvP) Meteorite Flow;4458
+(PvP) Elemental Spike;4459
+(PvP) Elemental Wave;4460
+(PvM) Frost Ring;4461
+(PvM) Permafrost Chill;4462
+(PvM) Thunder Storm;4463
+(PvM) Soul Shock;4464
+(PvM) Fireball;4465
+(PvM) Meteorite Flow;4466
+(PvM) Elemental Wave;4467
+(PvM) Elemental Spike;4468
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Summoner's Gift;4501
+Quick Medic;4502
+Battle Ritual ;4503
+Enlightenment Ritual ;4504
+Reinforcement Ritual ;4505
+Cunning Ritual ;4506
+Swift Ritual ;4507
+Divine Ritual ;4508
+Integrity;4509
+Purify;4510
+(PvP) Poison Cloud;4511
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Call Beast;4601
+Call Beast;4601
+Call Beast;4601
+Call Beast;4601
+Call Beast;4601
+Call Beast;4601
+Call Beast;4601
+Call Beast;4601
+Call Beast;4601
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Fury;4651
+Wired;4652
+(PvP) Flame Falcon;4653
+(PvP) Screw Attack;4654
+(PvP) Circle Break ;4655
+(PvP) Bloody Assault;4656
+(PvM) Tornado Slash;4657
+Raider's Accordance;4658
+(PvM) Bloody Assault;4659
+Crippling Storm;4660
+(PvM) Sucker Punch ;4661
+(PvM) Mystic Knife;4662
+Stealth;4663
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Swift Movements;4701
+Sharpened Focus;4702
+(PvP) Impact Arrow;4703
+(PvM) Impact Arrow;4704
+Reflective Guard ;4705
+Poison Arrow Shower;4706
+(PvM) Web Arrow;4707
+(PvP) Web Arrow;4708
+(PVP) Shield Bash;4709
+(PvM) Taunt Shot;4710
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Face Item Craft;4801
+Face Item Craft;4801
+Face Item Craft;4801
+Face Item Craft;4801
+Face Item Craft;4801
+Face Item Craft;4801
+Face Item Craft;4801
+Face Item Craft;4801
+Face Item Craft;4801
+;
+Accessory Craft;4811
+Accessory Craft;4811
+Accessory Craft;4811
+Accessory Craft;4811
+Accessory Craft;4811
+Accessory Craft;4811
+Accessory Craft;4811
+Accessory Craft;4811
+Accessory Craft;4811
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Haggling Intent;4851
+Focused Dealings ;4852
+(PvP) Zulie Stun;4853
+(PvP) Flame Cannon Splash;4854
+Augmenting Reflection;4855
+Illusion Reflection;4856
+Dual Rigging;4857
+Layer Step;4858
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Hands of a Crafter ;4901
+Sensible Target Pricing ;4902
+(PvP) Hypno Shot;4903
+(PvP) Magic Shot;4904
+Summon Judgment;4905
+(PvM) Daze Attack;4906
+(PvM) Poison Shot;4907
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Drive Cart;5000
+Drive Castle Gear;5001
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Mount Booster;5498
+Honor Reward Bonus;5499
+Valor Reward Bonus;5500
+Mana Corrosion - PvP;5501
+Dispel;5502
+Lucky Ghost;5503
+Deflection Blessing;5504
+Swift Blessing;5505
+Nimble Blessing;5506
+Shield Blessing;5507
+Protection Blessing;5508
+Marksmen Blessing;5509
+Intense Blessing;5510
+Job Skill Retraining;5511
+Stat Point Retraining;5512
+Unique Skill Retraining;5513
+Help A Noob!;5514
+Noob's Blessing;5515
+Noob's Blessing;5516
+Noob's Blessing;5517
+Noob's Blessing;5518
+Noob's Blessing;5519
+;
+;
+Medal of Prosperity;5522
+Medal of Abundance;5523
+Medal of Common Gathering;5524
+Medal of Uncommon Gathering;5525
+Medal of Rare Gathering;5526
+Medal of Very Rare Gathering;5527
+Medal of Epic Gathering;5528
+Medal of Legendary Gathering;5529
+Medal of Diplomacy;5530
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Advanced Hustle Chant;5557
+Advanced Precision Chant;5558
+Advanced Resilience Chant;5559
+Advanced Battle Chant;5560
+Advanced Critical Chant;5561
+Advanced Evasive Chant;5562
+Advanced Wallop Chant;5563
+Advanced Valkyrie Chant;5564
+Advanced Resistance Chant;5565
+Advanced Angelic Chant;5566
+Advanced Blessed Body Chant;5567
+Advanced Blessed Mind Chant;5568
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Recovery Kiss;5580
+Charming Kiss;5581
+Massage;5582
+Donation (10 Zulie);5583
+Donation (100 Zulie);5584
+Hi!;5585
+Bow Scroll;5586
+Gracious Bow Scroll;5587
+Recovery Kiss;5588
+Charming Kiss;5589
+Laugh;5590
+Fight Cheer;5591
+Breakdown;5592
+Tantrum;5593
+Applause;5594
+???;5595
+Pharaoh Stance;5596
+;
+;
+;
+;
+One-Handed Weapon Iron Blessing;5601
+One-Handed Weapon Wind Blessing;5602
+Two-Handed Sword Iron Blessing;5603
+Two-Handed Sword Wind Blessing;5604
+Two-Handed Spear Iron Blessing;5605
+Two-Handed Spear Wind Blessing;5606
+Two-Handed Axe Iron Blessing;5607
+Two-Handed Axe Wind Blessing;5608
+;
+;
+Novice One-Handed Weapon Striking  Training;5611
+Apprentice One-Handed Weapon Striking  Training;5612
+Disciple One-Handed Weapon Striking  Training;5613
+Adept One-Handed Weapon Striking  Training;5614
+Master One-Handed Weapon Striking  Training;5615
+Novice One-Handed Weapon Wielding  Training;5616
+Apprentice One-Handed Weapon Wielding  Training;5617
+Disciple One-Handed Weapon Wielding  Training;5618
+Adept One-Handed Weapon Wielding  Training;5619
+Master One-Handed Weapon Wielding  Training;5620
+Novice Two-Handed Sword Striking  Training;5621
+Apprentice Two-Handed Sword Striking  Training;5622
+Disciple Two-Handed Sword Striking  Training;5623
+Adept Two-Handed Sword Striking  Training;5624
+Master Two-Handed Sword Striking  Training;5625
+Novice Two-Handed Sword Wielding  Training;5626
+Apprentice Two-Handed Sword Wielding  Training;5627
+Disciple Two-Handed Sword Wielding  Training;5628
+Adept Two-Handed Sword Wielding  Training;5629
+Master Two-Handed Sword Wielding  Training;5630
+Novice Two-Handed Spear Striking  Training;5631
+Apprentice Two-Handed Spear Striking  Training;5632
+Disciple Two-Handed Spear Striking  Training;5633
+Adept Two-Handed Spear Striking  Training;5634
+Master Two-Handed Spear Striking  Training;5635
+Novice Two-Handed Spear Wielding  Training;5636
+Apprentice Two-Handed Spear Wielding  Training;5637
+Disciple Two-Handed Spear Wielding  Training;5638
+Adept Two-Handed Spear Wielding  Training;5639
+Master Two-Handed Spear Wielding  Training;5640
+Novice Two-Handed Axe Striking  Training;5641
+Apprentice Two-Handed Axe Striking  Training;5642
+Disciple Two-Handed Axe Striking  Training;5643
+Adept Two-Handed Axe Striking  Training;5644
+Master Two-Handed Axe Striking  Training;5645
+Novice Two-Handed Axe Wielding  Training;5646
+Apprentice Two-Handed Axe Wielding  Training;5647
+Disciple Two-Handed Axe Wielding  Training;5648
+Adept Two-Handed Axe Wielding  Training;5649
+Master Two-Handed Axe Wielding  Training;5650
+Grand Master One-Handed Weapon Striking  Training;5651
+Supreme Master One-Handed Weapon Striking  Training;5652
+Grand Master Two-Handed Sword Striking  Training;5653
+Supreme Master Two-Handed Sword Striking  Training;5654
+Grand Master Two-Handed Spear Striking  Training;5655
+Supreme Master Two-Handed Spear Striking  Training;5656
+Grand Master Two-Handed Axe Striking  Training;5657
+Supreme Master Two-Handed Axe Striking  Training;5658
+Grand Master One-Handed Weapon Wielding  Training;5659
+Supreme Master One-Handed Weapon Wielding  Training;5660
+Grand Master Two-Handed Sword Wielding  Training;5661
+Supreme Master Two-Handed Sword Wielding  Training;5662
+Grand Master Two-Handed Spear Wielding  Training;5663
+Supreme Master Two-Handed Spear Wielding  Training;5664
+Grand Master Two-Handed Axe Wielding  Training;5665
+Supreme Master Two-Handed Axe Wielding  Training;5666
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Soul Restore;5701
+Staff Iron Blessing;5702
+Staff Wind Blessing;5703
+Wand Iron Blessing;5704
+Wand Wind Blessing;5705
+;
+;
+;
+;
+;
+Novice Staff Striking  Training;5711
+Apprentice Staff Striking  Training;5712
+Disciple Staff Striking  Training;5713
+Adept Staff Striking  Training;5714
+Master Staff Striking  Training;5715
+Novice Staff Wielding  Training;5716
+Apprentice Staff Wielding  Training;5717
+Disciple Staff Wielding  Training;5718
+Adept Staff Wielding  Training;5719
+Master Staff Wielding  Training;5720
+Novice Wand Striking  Training;5721
+Apprentice Wand Striking  Training;5722
+Disciple Wand Striking  Training;5723
+Adept Wand Striking  Training;5724
+Master Wand Striking  Training;5725
+Novice Wand Wielding  Training;5726
+Apprentice Wand Wielding  Training;5727
+Disciple Wand Wielding  Training;5728
+Adept Wand Wielding  Training;5729
+Master Wand Wielding  Training;5730
+Grand Master Staff Striking  Training;5731
+Supreme Master Staff Striking  Training;5732
+Grand Master Wand Striking  Training;5733
+Supreme Master Wand Striking  Training;5734
+Grand Master Staff Wielding  Training;5735
+Supreme Master Staff Wielding  Training;5736
+Grand Master Wand Wielding  Training;5737
+Supreme Master Wand Wielding  Training;5738
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Bow Iron Blessing;5801
+Bow Wind Blessing;5802
+Katar Iron Blessing;5803
+Katar Wind Blessing;5804
+Dual Wield Iron Blessing;5805
+Dual Wield Wind Blessing;5806
+;
+;
+;
+;
+Novice Bow Striking  Training;5811
+Apprentice Bow Striking  Training;5812
+Disciple Bow Striking  Training;5813
+Adept Bow Striking  Training;5814
+Master Bow Striking  Training;5815
+Novice Bow Wielding  Training;5816
+Apprentice Bow Wielding  Training;5817
+Disciple Bow Wielding  Training;5818
+Adept Bow Wielding  Training;5819
+Master Bow Wielding  Training;5820
+Novice Katar Striking  Training;5821
+Apprentice Katar Striking  Training;5822
+Disciple Katar Striking  Training;5823
+Adept Katar Striking  Training;5824
+Master Katar Striking  Training;5825
+Novice Katar Wielding  Training;5826
+Apprentice Katar Wielding  Training;5827
+Disciple Katar Wielding  Training;5828
+Adept Katar Wielding  Training;5829
+Master Katar Wielding  Training;5830
+Novice Dual Wield Striking  Training;5831
+Apprentice Dual Wield Striking  Training;5832
+Disciple Dual Wield Striking  Training;5833
+Adept Dual Wield Striking  Training;5834
+Master Dual Wield Striking  Training;5835
+Novice Dual Wield Wielding  Training;5836
+Apprentice Dual Wield Wielding  Training;5837
+Disciple Dual Wield Wielding  Training;5838
+Adept Dual Wield Wielding  Training;5839
+Master Dual Wield Wielding  Training;5840
+Grand Master Bow Striking  Training;5841
+Supreme Master Bow Striking  Training;5842
+Grand Master Katar Striking  Training;5843
+Supreme Master Katar Striking  Training;5844
+Grand Master Dual Wield Striking  Training;5845
+Supreme Master Dual Wield Striking  Training;5846
+Grand Master Bow Wielding  Training;5847
+Supreme Master Bow Wielding  Training;5848
+Grand Master Katar Wielding  Training;5849
+Supreme Master Katar Wielding  Training;5850
+Grand Master Dual Wield Wielding  Training;5851
+Supreme Master Dual Wield Wielding  Training;5852
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Virtuoso Crafting;5901
+Gun Iron Blessing;5902
+Gun Wind Blessing;5903
+Launcher Iron Blessing;5904
+Launcher Wind Blessing;5905
+;
+;
+;
+;
+;
+Novice Gun Striking  Training;5911
+Apprentice Gun Striking  Training;5912
+Disciple Gun Striking  Training;5913
+Adept Gun Striking  Training;5914
+Master Gun Striking  Training;5915
+Novice Gun Wielding  Training;5916
+Apprentice Gun Wielding  Training;5917
+Disciple Gun Wielding  Training;5918
+Adept Gun Wielding  Training;5919
+Master Gun Wielding  Training;5920
+Novice Launcher Striking  Training;5921
+Apprentice Launcher Striking  Training;5922
+Disciple Launcher Striking  Training;5923
+Adept Launcher Striking  Training;5924
+Master Launcher Striking  Training;5925
+Novice Launcher Wielding  Training;5926
+Apprentice Launcher Wielding  Training;5927
+Disciple Launcher Wielding  Training;5928
+Adept Launcher Wielding  Training;5929
+Master Launcher Wielding  Training;5930
+Grand Master Gun Striking  Training;5931
+Supreme Master Gun Striking  Training;5932
+Grand Master Launcher Striking  Training;5933
+Supreme Master Launcher Striking  Training;5934
+Grand Master Gun Wielding  Training;5935
+Supreme Master Gun Wielding  Training;5936
+Grand Master Launcher Wielding  Training;5937
+Supreme Master Launcher Wielding  Training;5938
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Armor Craft;6000
+Armor Craft;6000
+Armor Craft;6000
+Armor Craft;6000
+Armor Craft;6000
+Armor Reinforcement;6005
+Armor Reinforcement;6005
+Armor Reinforcement;6005
+Armor Reinforcement;6005
+Armor Reinforcement;6005
+Armor Endowment;6010
+Armor Endowment;6010
+Armor Endowment;6010
+Armor Endowment;6010
+Armor Endowment;6010
+Weapon Craft;6015
+Weapon Craft;6015
+Weapon Craft;6015
+Weapon Craft;6015
+Weapon Craft;6015
+Weapon Darkening;6020
+Weapon Darkening;6020
+Weapon Darkening;6020
+Weapon Darkening;6020
+Weapon Darkening;6020
+Weapon Hardening;6025
+Weapon Hardening;6025
+Weapon Hardening;6025
+Weapon Hardening;6025
+Weapon Hardening;6025
+Weapon Balancing;6030
+Weapon Balancing;6030
+Weapon Balancing;6030
+Weapon Balancing;6030
+Weapon Balancing;6030
+Weapon Enchanting;6035
+Weapon Enchanting;6035
+Weapon Enchanting;6035
+Weapon Enchanting;6035
+Weapon Enchanting;6035
+SubItem Craft;6040
+SubItem Craft;6040
+SubItem Craft;6040
+SubItem Craft;6040
+SubItem Craft;6040
+Alchemy Craft;6045
+Alchemy Craft;6045
+Alchemy Craft;6045
+Alchemy Craft;6045
+Alchemy Craft;6045
+Advanced Armor Craft;6050
+Advanced Armor Craft;6050
+Advanced Armor Craft;6050
+Advanced Armor Craft;6050
+Advanced Armor Craft;6050
+Advanced Armor Reinforcement;6055
+Advanced Armor Reinforcement;6055
+Advanced Armor Reinforcement;6055
+Advanced Armor Reinforcement;6055
+Advanced Armor Reinforcement;6055
+Advanced Armor Endowment;6060
+Advanced Armor Endowment;6060
+Advanced Armor Endowment;6060
+Advanced Armor Endowment;6060
+Advanced Armor Endowment;6060
+Advanced Weapon Craft;6065
+Advanced Weapon Craft;6065
+Advanced Weapon Craft;6065
+Advanced Weapon Craft;6065
+Advanced Weapon Craft;6065
+Advanced Weapon Darkening;6070
+Advanced Weapon Darkening;6070
+Advanced Weapon Darkening;6070
+Advanced Weapon Darkening;6070
+Advanced Weapon Darkening;6070
+Advanced Weapon Hardening;6075
+Advanced Weapon Hardening;6075
+Advanced Weapon Hardening;6075
+Advanced Weapon Hardening;6075
+Advanced Weapon Hardening;6075
+Advanced Weapon Balancing;6080
+Advanced Weapon Balancing;6080
+Advanced Weapon Balancing;6080
+Advanced Weapon Balancing;6080
+Advanced Weapon Balancing;6080
+Advanced Weapon Enchanting;6085
+Advanced Weapon Enchanting;6085
+Advanced Weapon Enchanting;6085
+Advanced Weapon Enchanting;6085
+Advanced Weapon Enchanting;6085
+Advanced SubItem Craft;6090
+Advanced SubItem Craft;6090
+Advanced SubItem Craft;6090
+Advanced SubItem Craft;6090
+Advanced SubItem Craft;6090
+Advanced Alchemy Craft;6095
+Advanced Alchemy Craft;6095
+Advanced Alchemy Craft;6095
+Advanced Alchemy Craft;6095
+Advanced Alchemy Craft;6095
+PAT Craft;6100
+PAT Craft;6100
+PAT Craft;6100
+PAT Craft;6100
+PAT Craft;6100
+Gem Cutting;6105
+Gem Cutting;6105
+Gem Cutting;6105
+Gem Cutting;6105
+Gem Cutting;6105
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Novice Swiftness Training;6121
+Apprentice Swiftness Training;6122
+Disciple Swiftness Training;6123
+Adept Swiftness Training;6124
+Master Swiftness Training;6125
+Novice Nimbleness Training;6126
+Apprentice Nimbleness Training;6127
+Disciple Nimbleness Training;6128
+Adept Nimbleness Training;6129
+Master Nimbleness Training;6130
+Novice Shielding Training;6131
+Apprentice Shielding Training;6132
+Disciple Shielding Training;6133
+Adept Shielding Training;6134
+Master Shielding Training;6135
+Novice Protection  Training;6136
+Apprentice Protection  Training;6137
+Disciple Protection  Training;6138
+Adept Protection  Training;6139
+Master Protection  Training;6140
+Novice Marksmen  Training;6141
+Apprentice Marksmen  Training;6142
+Disciple Marksmen  Training;6143
+Adept Marksmen  Training;6144
+Master Marksmen  Training;6145
+Novice Intensity Training;6146
+Apprentice Intensity Training;6147
+Disciple Intensity Training;6148
+Adept Intensity Training;6149
+Master Intensity Training;6150
+Novice Deflection Training;6151
+Apprentice Deflection Training;6152
+Disciple Deflection Training;6153
+Adept Deflection Training;6154
+Master Deflection Training;6155
+Grand Master Swiftness Training;6156
+Grand Master Nimbleness Training;6157
+Grand Master Shielding Training;6158
+Grand Master Protection  Training;6159
+Grand Master Marksmen  Training;6160
+Grand Master Intensity Training;6161
+Grand Master Deflection Training;6162
+Supreme Master Swiftness Training;6163
+Supreme Master Nimbleness Training;6164
+Supreme Master Shielding Training;6165
+Supreme Master Protection  Training;6166
+Supreme Master Marksmen  Training;6167
+Supreme Master Intensity Training;6168
+Supreme Master Deflection Training;6169
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Astarot's Jealousy - Luna Clan Field Debuff (180-220);6376
+Astarot's Jealousy - Luna Clan Field Debuff (220-250);6377
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Rested;6900
+Rested;6900
+Rested;6900
+Rested;6900
+Rested;6900
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Berserk - PassiveSkillEffect;7000
+Berserk - PassiveSkillEffect;7000
+Berserk - PassiveSkillEffect;7000
+Berserk - PassiveSkillEffect;7000
+Berserk - PassiveSkillEffect;7000
+(PvP) Longinus' Strike;7005
+(PvP) Longinus' Strike;7005
+(PvP) Longinus' Strike;7005
+(PvP) Longinus' Strike;7005
+(PvP) Longinus' Strike;7005
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Combat Counter;7010
+Graceful Fencing;7035
+Calm Defender;7036
+Graceful Swings;7037
+Invigoration;7038
+Guardian's Resolve;7039
+Spear Fury;7040
+Spear Fury;7040
+Spear Fury;7040
+Spear Fury;7040
+Spear Fury;7040
+Shield of the Phalanx;7045
+Shield of the Phalanx;7045
+Shield of the Phalanx;7045
+Shield of the Phalanx;7045
+Shield of the Phalanx;7045
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Block Counter;7050
+Piercing Grace;7090
+Piercing Grace;7090
+Piercing Grace;7090
+Piercing Grace;7090
+Piercing Grace;7090
+Spear Dancer;7095
+Spear Dancer;7095
+Spear Dancer;7095
+Spear Dancer;7095
+Spear Dancer;7095
+Battle Rage;7100
+;
+;
+;
+;
+Victorious Respite;7105
+Victorious Respite;7106
+Victorious Respite;7107
+Victorious Respite;7108
+Victorious Respite;7109
+Axe Fury - PassiveSkillEffect;7110
+Axe Fury - PassiveSkillEffect;7110
+Axe Fury - PassiveSkillEffect;7110
+Axe Fury - PassiveSkillEffect;7110
+Axe Fury - PassiveSkillEffect;7110
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Mental Focus - PassiveEffect;7250
+Mental Focus - PassiveEffect;7250
+Mental Focus - PassiveEffect;7250
+Mental Focus - PassiveEffect;7250
+Mental Focus - PassiveEffect;7250
+Healing Touch - PassiveEffect;7255
+Healing Touch - PassiveEffect;7255
+Healing Touch - PassiveEffect;7255
+Healing Touch - PassiveEffect;7255
+Healing Touch - PassiveEffect;7255
+Mana Fissure;7260
+Mana Fissure;7260
+;
+;
+;
+Windwalker;7265
+Windwalker;7265
+Windwalker;7265
+;
+;
+Blaze;7270
+Blaze;7270
+Blaze;7270
+Blaze;7270
+Blaze;7270
+Mystic Weakening;7275
+Mystic Weakening;7275
+Mystic Weakening;7275
+Mystic Weakening;7275
+Mystic Weakening;7275
+;
+;
+;
+;
+;
+Wand Weaving;7285
+Wand Weaving;7285
+Wand Weaving;7285
+Wand Weaving;7285
+Wand Weaving;7285
+Mana Shield Siphon;7290
+Mana Shield Siphon;7290
+Mana Shield Siphon;7290
+Mana Shield Siphon;7290
+Mana Shield Siphon;7290
+Mana Shield Force;7295
+Mana Shield Force;7295
+Mana Shield Force;7295
+Mana Shield Force;7295
+Mana Shield Force;7295
+Mystic Safeguard;7300
+Mystic Safeguard;7300
+Mystic Safeguard;7300
+Mystic Safeguard;7300
+Mystic Safeguard;7300
+Mystic Armor;7305
+Mystic Armor;7305
+Mystic Armor;7305
+Mystic Armor;7305
+Mystic Armor;7305
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Critical Impact;7500
+Critical Impact;7500
+Critical Impact;7500
+Critical Impact;7500
+Critical Impact;7500
+Critical Impact;7500
+Critical Impact;7500
+Critical Impact;7500
+Critical Impact;7500
+Critical Impact;7500
+Critical Weakness;7510
+Critical Weakness;7510
+Critical Weakness;7510
+Critical Weakness;7510
+Critical Weakness;7510
+Critical Weakness;7510
+Critical Weakness;7510
+Critical Weakness;7510
+Critical Weakness;7510
+Critical Weakness;7510
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Wounded;7520
+Adrenaline Rush - PassiveSkillEffect;7540
+Adrenaline Rush - PassiveSkillEffect;7540
+Adrenaline Rush - PassiveSkillEffect;7540
+Adrenaline Rush - PassiveSkillEffect;7540
+Adrenaline Rush - PassiveSkillEffect;7540
+Shattering Blows - PassiveSkillEffect;7545
+Shattering Blows - PassiveSkillEffect;7545
+Shattering Blows - PassiveSkillEffect;7545
+Shattering Blows - PassiveSkillEffect;7545
+Shattering Blows - PassiveSkillEffect;7545
+Mirror Phantasm - PassiveSkillEffect;7550
+Mirror Phantasm - PassiveSkillEffect;7550
+Mirror Phantasm - PassiveSkillEffect;7550
+Mirror Phantasm - PassiveSkillEffect;7550
+Mirror Phantasm - PassiveSkillEffect;7550
+Evasive Guard - PassiveSkillEffect;7555
+Evasive Guard - PassiveSkillEffect;7555
+Evasive Guard - PassiveSkillEffect;7555
+Evasive Guard - PassiveSkillEffect;7555
+Evasive Guard - PassiveSkillEffect;7555
+Critical Focus - PassiveSkillEffect;7560
+Critical Focus - PassiveSkillEffect;7560
+Critical Focus - PassiveSkillEffect;7560
+Critical Focus - PassiveSkillEffect;7560
+Critical Focus - PassiveSkillEffect;7560
+Trap Hide;7565
+Trap Hide;7565
+Trap Hide;7565
+Trap Hide;7565
+Trap Hide;7565
+Steel Trap;7570
+Flash Trap;7571
+Siphon Trap;7572
+Freezing Trap;7573
+Sand Trap;7574
+(Bow) Critical Focus - PassiveSkillEffect;7575
+(Bow) Critical Focus - PassiveSkillEffect;7575
+(Bow) Critical Focus - PassiveSkillEffect;7575
+(Bow) Critical Focus - PassiveSkillEffect;7575
+(Bow) Critical Focus - PassiveSkillEffect;7575
+Wind Fury - PassiveSkillEffect;7580
+Wind Fury - PassiveSkillEffect;7580
+Wind Fury - PassiveSkillEffect;7580
+Wind Fury - PassiveSkillEffect;7580
+Wind Fury - PassiveSkillEffect;7580
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Weapon Augment - PassiveEffect;7750
+Weapon Augment - PassiveEffect;7750
+Weapon Augment - PassiveEffect;7750
+Weapon Augment - PassiveEffect;7750
+Weapon Augment - PassiveEffect;7750
+Illusion - PassiveEffect;7755
+Illusion - PassiveEffect;7755
+Illusion - PassiveEffect;7755
+Illusion - PassiveEffect;7755
+Illusion - PassiveEffect;7755
+Jury-Rigging - PassiveEffect;7760
+Jury-Rigging - PassiveEffect;7760
+Jury-Rigging - PassiveEffect;7760
+Jury-Rigging - PassiveEffect;7760
+Jury-Rigging - PassiveEffect;7760
+Wind Step - PassiveEffect;7765
+Wind Step - PassiveEffect;7765
+Wind Step - PassiveEffect;7765
+Wind Step - PassiveEffect;7765
+Wind Step - PassiveEffect;7765
+Dual Layer - PassiveEffect;7770
+Dual Layer - PassiveEffect;7770
+Dual Layer - PassiveEffect;7770
+Dual Layer - PassiveEffect;7770
+Dual Layer - PassiveEffect;7770
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Excitable Trigger Finger - Counter;7775
+Cannonier's Panic - Counter;7785
+Cannonier's Panic - Counter;7785
+Cannonier's Panic - Counter;7785
+Cannonier's Panic - Counter;7785
+Cannonier's Panic - Counter;7785
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Sharpshooter - Counter;7790
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Critical Fortune - Counter;7800
+Excitable Trigger Finger - Effect;7810
+Excitable Trigger Finger - Effect;7810
+Excitable Trigger Finger - Effect;7810
+Excitable Trigger Finger - Effect;7810
+Excitable Trigger Finger - Effect;7810
+Cannonier's Panic - Effect;7815
+Cannonier's Panic - Effect;7815
+Cannonier's Panic - Effect;7815
+Cannonier's Panic - Effect;7815
+Cannonier's Panic - Effect;7815
+Sharpshooter - Effect;7820
+Sharpshooter - Effect;7820
+Sharpshooter - Effect;7820
+Sharpshooter - Effect;7820
+Sharpshooter - Effect;7820
+Critical Fortune - Effect;7825
+Critical Fortune - Effect;7825
+Critical Fortune - Effect;7825
+Critical Fortune - Effect;7825
+Critical Fortune - Effect;7825
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;8000
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+Clan Expansion;
+;
+Clan Experience;8050
+Clan Experience;8050
+Clan Experience;8050
+Clan Experience;8050
+Clan Experience;8050
+Clan Experience;8050
+Clan Experience;8050
+Clan Experience;8050
+Clan Experience;8050
+Clan Experience;8050
+Clan Strength;8060
+Clan Strength;8060
+Clan Strength;8060
+Clan Strength;8060
+Clan Strength;8060
+Clan Strength;8060
+Clan Strength;8060
+Clan Strength;8060
+Clan Strength;8060
+Clan Strength;8060
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Dexterity;8070
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Intelligence;8080
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Concentration;8090
+Clan Charm;8100
+Clan Charm;8100
+Clan Charm;8100
+Clan Charm;8100
+Clan Charm;8100
+Clan Charm;8100
+Clan Charm;8100
+Clan Charm;8100
+Clan Charm;8100
+Clan Charm;8100
+Clan Sense;8110
+Clan Sense;8110
+Clan Sense;8110
+Clan Sense;8110
+Clan Sense;8110
+Clan Sense;8110
+Clan Sense;8110
+Clan Sense;8110
+Clan Sense;8110
+Clan Sense;8110
+Stable Training;8120
+Stable Training;8120
+Stable Training;8120
+Stable Training;8120
+Stable Training;8120
+Clan Heal;
+Clan Heal;
+Clan Heal;
+Clan Heal;
+Clan Heal;
+Clan Resurrect;
+;
+;
+;
+;
+PvP Offense;8135
+PvP Defense;8136
+PvM Offense;8137
+PvM Defense;8138
+Clan Power;8139
+Clan Defense;8140
+Clan Accuracy;8141
+Clan Dodge;8142
+Clan Recovery;8143
+Stun Resistance;8144
+Silence Resistance;8145
+Sleep Resistance;8146
+Common Drop Bonus;8147
+Uncommon Drop Bonus;8148
+Rare Drop Bonus;8149
+Very Rare Drop Bonus;8150
+Epic Drop Bonus;8151
+Legendary Drop Bonus;8152
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Graceful Fencing;8200
+Graceful Fencing;8200
+Graceful Fencing;8200
+Graceful Fencing;8200
+Graceful Fencing;8200
+Calm Defender;8205
+Calm Defender;8205
+Calm Defender;8205
+Calm Defender;8205
+Calm Defender;8205
+Graceful Swings;8210
+Graceful Swings;8210
+Graceful Swings;8210
+Graceful Swings;8210
+Graceful Swings;8210
+Spear Fury;8215
+Spear Fury;8215
+Spear Fury;8215
+Spear Fury;8215
+Spear Fury;8215
+Invigoration;8220
+Invigoration;8220
+Invigoration;8220
+Invigoration;8220
+Invigoration;8220
+Phalanx Blocking;8225
+Phalanx Blocking;8225
+Phalanx Blocking;8225
+Phalanx Blocking;8225
+Phalanx Blocking;8225
+Guardian's Resolve;8230
+Guardian's Resolve;8230
+Guardian's Resolve;8230
+Guardian's Resolve;8230
+Guardian's Resolve;8230
+Piercing Grace;8235
+Piercing Grace;8235
+Piercing Grace;8235
+Piercing Grace;8235
+Piercing Grace;8235
+Spear Dancer;8240
+Spear Dancer;8240
+Spear Dancer;8240
+Spear Dancer;8240
+Spear Dancer;8240
+Battle Rage;8245
+Battle Rage;8245
+Battle Rage;8245
+Battle Rage;8245
+Battle Rage;8245
+Victorious Respite;8250
+Victorious Respite;8250
+Victorious Respite;8250
+Victorious Respite;8250
+Victorious Respite;8250
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Mana Shield Siphon;8300
+Mana Shield Siphon;8300
+Mana Shield Siphon;8300
+Mana Shield Siphon;8300
+Mana Shield Siphon;8300
+Mana Shield Force;8305
+Mana Shield Force;8305
+Mana Shield Force;8305
+Mana Shield Force;8305
+Mana Shield Force;8305
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Excitable Trigger Finger;8500
+Excitable Trigger Finger;8500
+Excitable Trigger Finger;8500
+Excitable Trigger Finger;8500
+Excitable Trigger Finger;8500
+Cannonier's Panic;8505
+Cannonier's Panic;8505
+Cannonier's Panic;8505
+Cannonier's Panic;8505
+Cannonier's Panic;8505
+Sharpshooter;8510
+Sharpshooter;8510
+Sharpshooter;8510
+Sharpshooter;8510
+Sharpshooter;8510
+Critical Fortune;8515
+Critical Fortune;8515
+Critical Fortune;8515
+Critical Fortune;8515
+Critical Fortune;8515

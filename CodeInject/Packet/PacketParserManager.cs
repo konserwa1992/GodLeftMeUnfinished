@@ -56,13 +56,50 @@ namespace CodeInject.Packet
                         npcList.Add(new SpawnMonsterPacketData(packet.Packet.Packet).GetNCPData());
                         break;
                     }
-                case 0x9B: //NPC/ monster disappear
+                case 0x9B : //NPC/ monster dead
                     {
-                        MonsterDeadPacketData deadMonster = new MonsterDeadPacketData(packet.Packet.Packet);
-                        INPC toDelete=  npcList.FirstOrDefault(x => x.ID == deadMonster.GetNCPData().ID);
-                        if (toDelete != null) {
-                            npcList.Remove(toDelete); 
+
+                        MonsterDeadPacketData disappeardMonster = new MonsterDeadPacketData(packet.Packet.Packet);
+
+                        List<INPC> MonstersToRemove = disappeardMonster.GetNCPsData();
+
+                        foreach (INPC monster in MonstersToRemove)
+                        {
+                            INPC toDelete = npcList.FirstOrDefault(x => x.ID == monster.ID);
+                            if (toDelete != null)
+                            {
+                                npcList.Remove(toDelete);
+                            }
                         }
+
+                        break;
+                    }
+                case 0x94: //NPC/ monster disappear pack
+                    {
+                        MonsterDisappearPacketData disappeardMonster = new MonsterDisappearPacketData(packet.Packet.Packet);
+
+                        List<INPC> MonstersToRemove = disappeardMonster.GetNCPsData();
+
+                        foreach (INPC monster in MonstersToRemove)
+                        {
+                            INPC toDelete = npcList.FirstOrDefault(x => x.ID == monster.ID);
+                            if (toDelete != null)
+                            {
+                                npcList.Remove(toDelete);
+                            }
+                        }
+                        break;
+                    }
+
+                case 0x97: //Move packet
+                    {
+                        MonsterMovePacketData movingMonster = new MonsterMovePacketData(packet.Packet.Packet);
+                        INPC newMonsterDestination = movingMonster.GetNCPsData();
+                        INPC toMove = npcList.FirstOrDefault(x => x.ID == newMonsterDestination.ID);
+
+                        if(toMove != null) 
+                        toMove.Position = movingMonster.GetNCPsData().Position;
+
                         break;
                     }
             }
