@@ -86,3 +86,11 @@ C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInj
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.csproj.CopyComplete
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.dll
 C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\CodeInject\obj\Debug\CodeInject.pdb
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\bin\EasyHook32.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\bin\EasyHook32Svc.exe
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\bin\EasyHook64.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\bin\EasyHook64Svc.exe
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\bin\EasyLoad32.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\bin\EasyLoad64.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\bin\CodeInject.dll
+C:\Users\grzeg\Documents\GitHub\GodLeftMeUnfinished\bin\CodeInject.pdb
