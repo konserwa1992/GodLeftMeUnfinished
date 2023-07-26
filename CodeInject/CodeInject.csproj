@@ -96,7 +96,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BotFeatures\AutoPotion.cs" />
     <Compile Include="Commands\AttackCommand.cs" />
+    <Compile Include="Commands\UseItem.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,7 +110,14 @@
     <Compile Include="Logger\Logger.cs" />
     <Compile Include="NPC\INPC.cs" />
     <Compile Include="NPC\Monster.cs" />
-    <Compile Include="NPC\PlayerCharacter.cs" />
+    <Compile Include="Packet\PacketDataStructure\BuffEndPacketData.cs" />
+    <Compile Include="Packet\PacketDataStructure\HostileMonsterPacketData.cs" />
+    <Compile Include="Packet\PacketDataStructure\ItemUsedPacketData.cs" />
+    <Compile Include="Packet\PacketDataStructure\InventoryPacketData.cs" />
+    <Compile Include="Packet\PacketDataStructure\MonsterKilledByOtherPlayerPacketData.cs" />
+    <Compile Include="Player\Buffs.cs" />
+    <Compile Include="Player\Inventory.cs" />
+    <Compile Include="Player\PlayerCharacter.cs" />
     <Compile Include="Packet\IPacket.cs" />
     <Compile Include="Packet\Packet Events\PacketEvents.cs" />
     <Compile Include="Packet\PacketDataStructure\MonsterDeadPacketData.cs" />
@@ -151,5 +160,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

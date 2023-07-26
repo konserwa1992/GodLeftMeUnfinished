@@ -22,6 +22,8 @@ namespace ISpace
         {
             // AllocConsole();
             GameMethods.AttachHookReciveHook();
+            GameMethods.AttachHookSendHook();
+        
             form = new Form1();
             form.ShowDialog();
             return 0;

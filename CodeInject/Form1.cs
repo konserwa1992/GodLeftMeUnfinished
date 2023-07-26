@@ -16,16 +16,23 @@ using System.Timers;
 using CodeInject.Commands;
 using System.IO;
 using CodeInject.GameData;
+using CodeInject.Player;
+using System.Diagnostics.Eventing.Reader;
+using CodeInject.BotFeatures;
+using System.Security.Cryptography;
 
 namespace CodeInject
 {
     public partial class Form1 : Form
     {
+        AutoPotion autopot;
+
+
         public Form1()
         {
             InitializeComponent();
             PacketParserManager.Instance.NewPacketArrived += AddNewPacketToList;
-
+            autopot = new AutoPotion();
         }
 
         public struct PACKETDATASTRUCTURE
@@ -104,7 +111,7 @@ namespace CodeInject
 
         private void button3_Click_1(object sender, EventArgs e)
         {
-            GameMethods.AttachHookSendHook();
+
             PacketParserManager.Instance.Record = !PacketParserManager.Instance.Record;
 
             if (PacketParserManager.Instance.Record)
@@ -135,10 +142,6 @@ namespace CodeInject
             }
         }
 
-        private void timer2_Tick(object sender, EventArgs e)
-        {
-            MessageBox.Show("asdsad");
-        }
 
         private void richTextBox2_TextChanged(object sender, EventArgs e)
         {
@@ -189,17 +192,7 @@ namespace CodeInject
             }
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-            /*AttackCommand command = new AttackCommand()
-            {
-                TargetID = ushort.Parse(listBox2.SelectedItem.ToString()),
-                SkillID = 0x210
-            };
 
-            command.Execute();*/
-            timer2.Enabled = !timer2.Enabled;
-        }
 
         private void button5_Click(object sender, EventArgs e)
         {
@@ -216,10 +209,30 @@ namespace CodeInject
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+            listBox4.Items.Clear();
+
+            foreach(var item in PlayerCharacter.PotionInUse.PotionInUseList)
+            {
+                listBox4.Items.Add(item.Item.ItemInformation.Name);
+            }
+
             listBox2.Items.Clear();
+
             foreach (INPC npc in PacketParserManager.Instance.npcList)
             {
-                listBox2.Items.Add(GameInfoList.GetNameMonsterByID(npc.NPCModelNameID) + " ID:" + npc.ID.ToString() + " POS:"+ npc.Position.ToString());
+                listBox2.Items.Add(GameInfoList.GetNameMonsterByID(npc.NPCModelNameID) + " ID:" + npc.ID.ToString() + " POS:"+ npc.Position.ToString() + " Hostile: "+npc.isHostile);
+            }
+
+
+            if(listBox3.Items.Count == 0 && PlayerCharacter.PlayerInventory.Items.Count!=0)
+            {
+                foreach(Inventory.Item item in PlayerCharacter.PlayerInventory.Items)
+                {
+                        if(item.Type == 0x0A)
+                        listBox3.Items.Add($"{item.Type.ToString("X")} {item.Count} {GameInfoList.GetUseItemByID((int)item.ObjectModelID).Name}");
+                    else
+                        listBox3.Items.Add($"{item.Type.ToString("X")} {item.Count} {item.ObjectModelID}");
+                }
             }
         }
 
@@ -244,7 +257,15 @@ namespace CodeInject
         INPC selected=null;
         private void timer2_Tick_1(object sender, EventArgs e)
         {
-            if(selected != null && PacketParserManager.Instance.npcList.FirstOrDefault(x=>x.ID==selected.ID)!=null)
+            autopot.Update();
+
+       //     PlayerCharacter.Position= new Vector3(GameMethods.GetFloat(GameMethods.GetInt64(GameMethods.GetBaseAdress()+0x111AD80,new short[] { 0x0,0x80,0x20,0x1c4 })),
+          //      GameMethods.GetFloat(GameMethods.GetInt64(GameMethods.GetBaseAdress() + 0x111AD80, new short[] { 0x0, 0x80, 0x20, 0x1c4 })+0x4),0);
+
+          //  label3.Text = PlayerCharacter.Position.ToString();
+
+
+            if (selected != null && PacketParserManager.Instance.npcList.FirstOrDefault(x=>x.ID==selected.ID)!=null)
             {
                 AttackCommand command = new AttackCommand()
                 {
@@ -255,7 +276,11 @@ namespace CodeInject
                 command.Execute();
             }else
             {
-                selected = PacketParserManager.Instance.npcList[(new Random().Next(PacketParserManager.Instance.npcList.Count))];
+                if (PacketParserManager.Instance.npcList.Count != 0)
+                {
+                    selected = PacketParserManager.Instance.npcList.OrderBy(x=>Vector3.Distance(x.Position,PlayerCharacter.Position)).FirstOrDefault(x=>x.isHostile==true || 1==1);
+                    //  selected = PacketParserManager.Instance.npcList[(new Random().Next(PacketParserManager.Instance.npcList.Count))];
+                }
             }
         }
 
@@ -289,17 +314,84 @@ namespace CodeInject
                         lOutPutConvert.Text = BitConverter.ToDouble(byteArray, int.Parse(tOffset.Text)).ToString();
                         break;
                     }
+                case 2:
+                    {
+
+                        byte[] byteArray = new byte[packet.Length / 2];
+                        for (int i = 0; i < byteArray.Length; i++)
+                        {
+                            byteArray[i] = Convert.ToByte(packet.Substring(i * 2, 2), 16);
+                        }
+
+                        lOutPutConvert.Text = BitConverter.ToInt16(byteArray, int.Parse(tOffset.Text)).ToString();
+                        break;
+                    }
+
+                case 3:
+                    {
+
+                        byte[] byteArray = new byte[packet.Length / 2];
+                        for (int i = 0; i < byteArray.Length; i++)
+                        {
+                            byteArray[i] = Convert.ToByte(packet.Substring(i * 2, 2), 16);
+                        }
+
+                        lOutPutConvert.Text = BitConverter.ToInt32(byteArray, int.Parse(tOffset.Text)).ToString();
+                        break;
+                    }
+
+                case 4:
+                    {
+
+                        byte[] byteArray = new byte[packet.Length / 2];
+                        for (int i = 0; i < byteArray.Length; i++)
+                        {
+                            byteArray[i] = Convert.ToByte(packet.Substring(i * 2, 2), 16);
+                        }
+
+                        lOutPutConvert.Text = BitConverter.ToUInt32(byteArray, int.Parse(tOffset.Text)).ToString();
+                        break;
+                    }
+
+                case 5:
+                    {
+
+                        byte[] byteArray = new byte[packet.Length / 2];
+                        for (int i = 0; i < byteArray.Length; i++)
+                        {
+                            byteArray[i] = Convert.ToByte(packet.Substring(i * 2, 2), 16);
+                        }
+
+                        lOutPutConvert.Text = BitConverter.ToUInt64(byteArray, int.Parse(tOffset.Text)).ToString();
+                        break;
+                    }
+                case 6:
+                    {
+
+                        byte[] byteArray = new byte[packet.Length / 2];
+                        for (int i = 0; i < byteArray.Length; i++)
+                        {
+                            byteArray[i] = Convert.ToByte(packet.Substring(i * 2, 2), 16);
+                        }
+
+                        lOutPutConvert.Text = BitConverter.ToUInt16(byteArray, int.Parse(tOffset.Text)).ToString();
+
+                        lOutPutConvert.Text += " Monster found: " + PacketParserManager.Instance.npcList.Any(x => x.ID == BitConverter.ToUInt16(byteArray, int.Parse(tOffset.Text)));
+                        break;
+                    }
             }
+
+   
         }
 
         private unsafe void button7_Click(object sender, EventArgs e)
         {
             lSkillList.Items.Clear();
 
-            ulong* adrPtr1 = (ulong*)(new UIntPtr(GameMethods.GetBaseAdress() + 0x1128AB0).ToPointer());
+    
+            ulong* adrPtr1 = (ulong*)(new UIntPtr(GameMethods.GetBaseAdress() + 0x1118E90).ToPointer());
             // UIntPtr uIntPtr = new UIntPtr((ulong*)adrPtr1);
 
-            MessageBox.Show("start adr:"+(*adrPtr1 + ((ulong)0 * 2) + 0x50 + 0xCD0).ToString("X"));
             int i = 0;
             while (GameMethods.GetShort(*adrPtr1 + ((ulong)i * 2) + 0x50 + 0xCD0) != 0)
             {
@@ -316,6 +408,49 @@ namespace CodeInject
         private void bRemoveSkillToUse_Click(object sender, EventArgs e)
         {
             if (lSkillToUse.SelectedItem != null) lSkillToUse.Items.Remove(lSkillToUse.SelectedItem);
+        }
+
+        private void bStartHunt_Click(object sender, EventArgs e)
+        {
+            timer2.Enabled = !timer2.Enabled;
+        }
+
+        private void bRemoveRegEx_Click(object sender, EventArgs e)
+        {
+            string itemToRemove = lIgnoreRegExList.Text;
+            GameMethods.IgnorePacketRegexList.Remove(GameMethods.IgnorePacketRegexList.FirstOrDefault(x => x == itemToRemove));
+            lIgnoreRegExList.Items.Remove(lIgnoreRegExList.SelectedItem);
+        }
+
+        private void bAddRegExIgnore_Click(object sender, EventArgs e)
+        {
+            lIgnoreRegExList.Items.Add(textBox2.Text);
+            GameMethods.IgnorePacketRegexList.Add(textBox2.Text);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            tOffset.Text = (int.Parse(tOffset.Text)+1).ToString();
+            button6.PerformClick();
+        }
+
+        private unsafe void button7_Click_1(object sender, EventArgs e)
+        {
+            Inventory.Item utemToUse = PlayerCharacter.PlayerInventory.Items.FirstOrDefault(x => x.ItemInformation != null && x.ItemInformation.UseName.ToUpper().Contains("HP"));
+            UseItem useItem = new UseItem(utemToUse);
+            useItem.Execute();
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Inventory.Item utemToUse = PlayerCharacter.PlayerInventory.Items[listBox3.SelectedIndex];
+            UseItem useItem = new UseItem(utemToUse);
+            useItem.Execute();
         }
     }
 }
