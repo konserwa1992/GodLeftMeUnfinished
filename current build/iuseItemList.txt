@@ -1,0 +1,5924 @@
+1;HP?蹂?쏀;Health Vial (S)
+2;HP?蹂?쏀;Health Vial (M)
+3;HP?蹂?쏀;Health Vial (L)
+4;HP?蹂?쏀;Health Bottle (S)
+5;HP?蹂?쏀;Health Bottle (M)
+6;HP?蹂?쏀;Health Bottle (L)
+7;HP?蹂?쏀;Herbal Medicine (S)
+8;HP?蹂?쏀;Herbal Medicine (M)
+9;HP?蹂?쏀;Herbal Medicine (L)
+10;HP?蹂?쏀;Vital Water (S)
+11;HP?蹂?쏀;Vital Water (M)
+12;HP?蹂?쏀;Vital Water (L)
+13;HP?蹂?쏀;Vital Water (XL)
+14;HP?蹂?쏀;Red Potion
+15;HP?蹂?쏀;
+16;HP?蹂?쏀;
+17;HP?蹂?쏀;
+18;HP?蹂?쏀;
+19;HP?蹂?쏀;Red Pill
+20;HP?蹂?쏀;
+21;MP (S);Mana Vial (S)
+22;MP (M);Mana Vial (M)
+23;MP (L);Mana Vial (L)
+24;MP (S);Mana Bottle (S)
+25;MP (M);Mana Bottle (M)
+26;MP (L);Mana Bottle (L)
+27;MP?蹂?쏀;Silver Pilules
+28;MP?蹂?쏀;Golden Pilules
+29;MP (S);Spiritual Water (S)
+30;MP (M);Spiritual Water (M)
+31;MP (L);Spiritual Water (L)
+32;MP?蹂?쏀;Spiritual Water (XL)
+33;MP?蹂?쏀;Blue Potion
+34;MP?蹂?쏀;
+35;MP?蹂?쏀;
+36;MP?蹂?쏀;
+37;MP?蹂?쏀;
+38;MP?蹂?쏀;
+39;MP?蹂?쏀;Blue Pill
+40;MP?蹂?쏀;
+41;紐?????쏀;Flanae Root
+42;紐?????쏀;Tree Sap
+43;HP Recovery Tier 14;Royal Jelly
+44;HP Recovery Tier 10;Sweet Honey
+45;紐?????쏀;
+46;紐?????쏀;
+47;紐?????쏀;
+48;紐?????쏀;
+49;紐?????쏀;
+50;紐?????쏀;
+51;?뱀 ?쏀;Mana Jam (+1)
+52;?뱀 ?쏀;Mana Jam (+2)
+53;?뱀 ?쏀;Mana Jam (+5)
+54;?뱀 ?쏀;Mana Jam (+10)
+55;?뱀 ?쏀;Mana Jam (+20)
+56;?뱀 ?쏀;Vital Jam (+1)
+57;?뱀 ?쏀;Vital Jam (+2)
+58;?뱀 ?쏀;Vital Jam (+5)
+59;?뱀 ?쏀;Vital Jam (+10)
+60;?뱀 ?쏀;Vital Jam (+20)
+61;Valor Purchase;Item Unbinder Coupon
+62;Honor HP Potion (S);Honor HP Potion (S)
+63;Honor HP Potion (M);Honor HP Potion (M)
+64;Honor HP Potion (L);Honor HP Potion (L)
+65;Honor HP Potion (XL);Honor HP Potion (XL)
+66;Honor MP Potion (S);Honor MP Potion (S)
+67;Honor MP Potion (M);Honor MP Potion (M)
+68;Honor MP Potion (L);Honor MP Potion (L)
+69;Honor MP Potion (XL);Honor MP Potion (XL)
+70;?臾??;Small Gift Box
+71;?臾??;Surprise Gift Box
+72;?臾??;Impressive Gift Box
+73;Honor HP Potion (XXL);Honor HP Potion (XXL)
+74;Honor MP Potion (XXL);Honor MP Potion (XXL)
+75;異??대깽?몄臾쇱??;Full moon gift chest
+76;異??대깽?몄臾쇱??;Full moon gift chest (Special)
+77;GM?대깽?몄臾쇱??;Small Gift Box
+78;;Package of biscuits
+79;;
+80;?뱀?ъ (??蹂寃?;Max HP Potion
+81;?뱀?ъ (??蹂寃?;Max MP Potion
+82;?뱀?ъ (蹂댁“踰?);Purify Potion
+83;?뱀?ъ (??蹂寃?;Stealth Potion
+84;?뱀?ъ (蹂댁“踰?);Movement Potion
+85;?뱀?ъ (蹂댁“踰?);Defense Potion
+86;?뱀?ъ (蹂댁“踰?);Attack Potion
+87;?뱀?ъ (怨듦꺽踰?);Magic Resistance Potion
+88;?뱀?ъ (怨듦꺽踰?);Accuracy Potion
+89;?뱀?ъ (怨듦꺽踰?);Dodge Potion
+90;?뱀?ъ (怨듦꺽踰?);Attack Speed Potion
+91;?뱀?ъ (怨듦꺽踰?);Critical Potion
+92;?뱀?ъ (??蹂寃?;Damage Enhancement Potion
+93;;
+94;;
+95;Can be Traded - For special cases only;Job Skill Reset Book
+96;Can be Traded - For special cases only;Unique Skill Reset Book
+97;Can be Traded - For special cases only;Item Mall Skill Reset Book
+98;Can be Traded - For special cases only;All Skill Reset Book
+99;;
+100;;
+101;MP Recovery Tier 1;Apple
+102;MP Recovery Tier 2;Banana
+103;MP Recovery Tier 3;Grapes
+104;MP Recovery Tier 4;Kiwi
+105;MP Recovery Tier 5;Orange
+106;MP Recovery Tier 6;Mango
+107;MP Recovery Tier 7;Boiled Egg
+108;MP Recovery Tier 8;Beef Jerky
+109;MP Recovery Tier 9;Cooked Meat
+110;MP Recovery Tier 16;Peach
+111;MP Recovery Tier 10;Strawberry
+112;MP Recovery Tier 18;Tomato
+113;MP Recovery Tier 11;Plum
+114;MP Recovery Tier 20;Sandwich
+115;MP Recovery Tier 21;Hamburger
+116;MP Recovery Tier 17;Sausage
+117;MP Recovery Tier 22;Meatball
+118;MP Recovery Tier 19;Silver Carp Shaped Bread
+119;MP Recovery Tier 14;Banana Bread
+120;HP Recovery Tier 1;Milk
+121;HP Recovery Tier 2;Banana Milk
+122;HP Recovery Tier 3;Strawberry Flavored Milk
+123;HP Recovery Tier 4;Apple Juice
+124;HP Recovery Tier 5;Grape Juice
+125;HP Recovery Tier 6;Orange Juice
+126;HP Recovery Tier 7;Mango Juice
+127;HP Recovery Tier 8;Kiwi Juice
+128;HP Recovery Tier 9;Strawberry Juice
+129;??(MP?蹂?;
+130;HP Recovery Tier 16;Peach Juice
+131;HP Recovery Tier 17;Tomato Juice
+132;MP Recovery Tier 12;Ice Cherry
+133;MP Recovery Tier 13;Crystal Cherry
+134;HP Recovery Tier 12;Ice Berry
+135;HP Recovery Tier 13;Crystal Berry
+136;MP Recovery Tier 15;Shabu Shabu
+137;HP Recovery Tier 15;PiruKiru
+138;Hawaiian Event 2012;Spam Musubi
+139;Hawaiian Event 2012;Passionfruit Juice
+140;;
+141;Food (MP recovery) Tier 3;Mysterious Fruit
+142;MP Recovery Tier 4;Rice Cake Soup
+143;MP Recovery Tier 3;Elifedora
+144;HP Recovery Tier 11;Lunaris Bear's Liquor Bottle
+145;Iteim Mall Item;Easter Egg
+146;MP Recovery Tier 4;Rice Cake
+147;HP Recovery Tier 18;Mugwort Rice Cake
+148;MP Recovery Tier 4;Lucky Rice Soup
+149;MP Recovery Tier 4;Choco Biscuit
+150;HP Recovery Tier 19;Strawberry flavor Biscuit
+151;???紐?;HP Point (+50)
+152;???紐?;HP Point (+100)
+153;???紐?;HP Point (+200)
+154;???紐?;HP Point (+300)
+155;???紐?;HP Point (+500)
+156;???紐?;HP Point (+700)
+157;???紐?;HP Point (+1000)
+158;???紐?;HP Point (+1500)
+159;???紐?;HP Point (+2000)
+160;???紐?;HP Point (+3000)
+161;???紐?;MP Point (+30)
+162;???紐?;MP Point (+50)
+163;???紐?;MP Point (+100)
+164;???紐?;MP Point (+200)
+165;???紐?;MP Point (+300)
+166;???紐?;MP Point (+500)
+167;???紐?;MP Point (+700)
+168;???紐?;MP Point (+1000)
+169;???紐?;MP Point (+1500)
+170;???紐?;MP Point (+2000)
+171;???紐?;Stamina (+50)
+172;???紐?;Stamina (+75)
+173;???紐?;Stamina (+100)
+174;???紐?;Stamina (+150)
+175;???紐?;Stamina (+200)
+176;???紐?;Stamina (+300)
+177;???紐?;Stamina (+400)
+178;???紐?;Stamina (+500)
+179;???紐?;Stamina (+700)
+180;???紐?;Stamina (+1000)
+181;Clan Points;Clan Point (+10)
+182;Clan Points;Clan Point (+20)
+183;Clan Points;Clan Point (+30)
+184;Clan Points;Clan Point (+50)
+185;Clan Points;Clan Point (+70)
+186;Clan Points;Clan Point (+100)
+187;Clan Points;Clan Point (+150)
+188;Clan Points;Clan Point (+200)
+189;Clan Points;Clan Point (+250)
+190;Clan Points;Clan Point (+300)
+191;Clan Points;Clan Point (+1000)
+192;MP Recovery Tier 23;Seared Snapper
+193;MP Recovery Tier 24;Snapper Stew
+194;MP Recovery Tier 25;Hot Snapper Goulash
+195;HP Recovery Tier 20;Cactus Root
+196;HP Recovery Tier 21;Cactus Water
+197;HP Recovery Tier 22;Rift Cactus Extract
+198;Clan Points (+2,000,000);Clan Point Booster
+199;10199;Adventurer Medal
+200;;Trainee Medal
+201;Pre: v143 Trainee Medal;Special Event Medal
+202;;Medal
+203;;Hero Medal
+204;;Brave Medal
+205;Adventurer's Plains Quest Reward;Ripe Banana (Speed Booster)
+206;Adventurer's Plains Quest Reward;Elder Flanae Seeds (HP&MP Booster)
+207;Adventurer's Plains Quest Reward;Honey (Red Jellybean Stew)
+208;Adventurer's Plains Quest Reward;Big Pumpkin Seeds (Damage Booster)
+209;New Player Package Item;Plum (Blue Jellybean Stew)
+210;Bomb Craft Lv 1;Hand Grenade
+211;Bomb Craft Lv 2;Flash Grenade
+212;Bomb Craft Lv 3;Acid Grenade
+213;Bomb Craft Lv 4;Mana Grenade
+214;Bomb Craft Lv 9;Concussion Grenade
+215;Bomb Craft Lv 5;Hand Bomb
+216;Bomb Craft Lv 6;Flash Bomb
+217;Bomb Craft Lv 7;Acid Bomb
+218;Bomb Craft Lv 8;Mana Bomb
+219;Advanced Bomb Craft Lv 1;Explosive
+220;Advanced Bomb Craft Lv 2;Flash Explosive
+221;Advanced Bomb Craft Lv 3;Acid Explosive
+222;Advanced Bomb Craft Lv 4;Mana Explosive
+223;Advanced Bomb Craft Lv 9;Concussion Explosive
+224;Advanced Bomb Craft Lv 5;High Explosive
+225;Advanced Bomb Craft Lv 6;Flash High Explosive
+226;Advanced Bomb Craft Lv 7;Acid High Explosive
+227;Advanced Bomb Craft Lv 8;Mana High Explosive
+228;;
+229;;
+230;Oblivion Temple Boxes;Chest of Raj'aj
+231;Oblivion Temple Boxes;Pharaoh's Armory Crate
+232;Oblivion Temple Boxes;Pharaoh's Chest of Masks
+233;Oblivion Temple Reward;Pharaoh Stance
+234;;
+235;Luna Hero Quest;Olleck Basilasi's Mana Drill
+236;Luna Hero Quest;Oracle of Ice
+237;;
+238;Christmas 2013 Event Quest;Peppermint Candy Cane
+239;Christmas 2013 Event Items;Silver Whistle Box
+240;Christmas 2007 Event Items;Mistletoe
+241;Christmas 2007 Event Items;Candy Cane
+242;Christmas 2007 Event Items;Christmas Cookies
+243;Christmas 2007 Event Items;Eggnog
+244;Christmas 2007 Event Items;Apple Cider
+245;Christmas 2007 Event Items;Holiday Candy
+246;Christmas 2007 Event Items;Christmas Snowflake
+247;Christmas 2007 Event Items;Small Christmas Present
+248;Christmas 2007 Event Items;Medium Christmas Present
+249;Christmas 2007 Event Items;Large Christmas Present
+250;Easter Event Item;Red Egg
+251;Easter Event Item;Blue Egg
+252;Halloween 2008 Event Items;Chocolate Treat
+253;Halloween 2008 Event Items;Hard Candy
+254;Halloween 2008 Event Items;Halloween Candy
+255;Halloween 2008 Event Items;Soft Candy
+256;2008 Halloween Grab Bag;Halloween Candy-bag
+257;2008 Halloween Grab Bag;Halloween Grab-bag
+258;Christmas 2008 Event Items;Black Santa Suit Giftbox
+259;Summer Event Item 2009;Churros
+260;Summer Event Item 2009;Empanadilla
+261;Summer Event Item 2009;Char-broiled Corn
+262;Summer Event Item 2009;Hero Sundae
+263;Summer Event Item 2009;Cheeseburger 
+264;Summer Event Item 2009;Iced Tea
+265;Summer Event Item 2009;Hibiscus Tea
+266;Summer Event Item 2009;Frozen Lemonade
+267;Summer Event Item 2009;Pina Colada
+268;Talk Like a Pirate Day Event, 2010;Pirate Treasure Box
+269;Easter Event Item;Blank Easter Egg
+270;Dirty Zodiac Stone;Dirty Zodiac Stone
+271;Dirty Rune Stone;Dirty Rune Stone
+272;Dirty Ore;Dirty Ore
+273;Dirty Stone;Dirty Stone
+274;Dirty Crystal;Dirty Crystal
+275;Dirty Spiritual Stone;Dirty Spiritual Stone
+276;Dirty Heart Stone;Dirty Heart Stone
+277;;
+278;Item Mall;Separation Drill
+279;De-Gem Drill;Destruction Drill
+280;Drills;Mythril Drill
+281;Drills;Orihalcon Drill
+282;Drills;Adamantium Drill
+283;Drills;Perfect Drill
+284;Drills;Demon Metal Drill
+285;2009 Summer Festival Event;Tropical Snacks Box
+286;2009 Summer Festival Event;Beach Beverages Box
+287;2009 Summer Festival Event;Festival Menu Box
+288;2009 Summer Festival Event;Bronze Festival Box
+289;2009 Summer Festival Event;Silver Festival Box
+290;2009 Summer Festival Event;Gold Festival Box
+291;;
+292;;
+293;?곕???????;Engine Fuel (S)
+294;?곕???????;Engine Fuel (M)
+295;?곕???????;Engine Fuel (L)
+296;Drills;Aurum Drill
+297;10-297;Re-Roll Hammer
+298;Decommissioned to line 2004;Perfect Separation Drill
+299;;
+300;Item Mall;Celestial Whistle
+301;留踰-??吏??;Purify Scroll (Solo)
+302;留踰-??吏??;Detect Scroll (Solo)
+303;留踰-??吏??;Stealth Scroll (Solo)
+304;留踰-??吏??;
+305;留踰-??吏??;
+306;留踰-??吏??;HP Scroll (Solo)
+307;留踰-??吏??;MP Scroll (Solo)
+308;留踰-??吏??;Dexterity Scroll (Solo)
+309;留踰-??吏??;Strength Scroll (Solo)
+310;留踰-??吏??;Defense Scroll (Solo)
+311;留踰-??吏??;Accuracy Scroll (Solo)
+312;留踰-??吏??;Damage Scroll (Solo)
+313;留踰-??吏??;Advanced HP Scroll (Solo)
+314;留踰-??吏??;Advanced MP Scroll (Solo)
+315;留踰-??吏??;Advanced Dexterity Scroll (Solo)
+316;留踰-??吏??;Advanced Strength Scroll (Solo)
+317;留踰-??吏??;Advanced Defense Scroll (Solo)
+318;留踰-??吏??;Advanced Accuracy Scroll (Solo)
+319;留踰-??吏??;Advanced Damage Scroll (Solo)
+320;留踰-??吏??;
+321;猷⑤???- ?寃???;Blue Icicle
+322;猷⑤???- ?寃???;Green Icicle
+323;猷⑤???- ?寃???;White Icicle
+324;留踰?ㅽщ???吏??;
+325;留踰?ㅽщ???吏??;
+326;?대깽??????諛??;Snowball
+327;?대깽??????諛??;Rock
+328;?대깽??????諛??;Fluffy Snowball
+329;留踰?ㅽщ???吏??;
+330;留踰?ㅽщ???吏??;
+331;?밸?媛????몄?;Strength Scroll (Solo)
+332;?밸?媛????몄?;Damage Scroll (Solo)
+333;?밸?媛????몄?;Advanced Defense Scroll (Solo)
+334;?밸?媛????몄?;Advanced Dexterity Scroll (Solo)
+335;?밸?媛????몄?;
+336;?밸?媛????몄?;
+337;?밸?媛????몄?;Advanced Accuracy Scroll (Solo)
+338;?밸?媛????몄?;Advanced HP Scroll (Solo)
+339;?밸?媛????몄?;Advanced MP Scroll (Solo)
+340;?밸?媛????몄?;
+341;Eldeon Boxes;Gem Box
+342;Eldeon Boxes;Turak's Demon Chest 
+343;Eldeon Boxes;Turak's Dark Chest
+344;Eldeon Boxes;Turak's Golden Chest
+345;Eldeon Boxes;Turak's Grand Chest
+346;Eldeon Boxes;Turak's Elven Chest
+347;Eldeon Boxes;Turak's Legendary Chest
+348;Sikuku Catacombs Dungeon Boss Drop;Separation Drill
+349;;
+350;留踰?ㅽщ??대??;Adventurer's Plains Return Scroll
+351;留踰?ㅽщ??대??;Zant Return Scroll
+352;留踰?ㅽщ??대??;Junon Polis Return Scroll
+353;留踰?ㅽщ??대??;Eucar Return Scroll
+354;留踰?ㅽщ??대??;Xita Refuge Return Scroll
+355;留踰?ㅽщ??대??;Selba Village Return Scroll
+356;留踰?ㅽщ??대??;Desert City of Muris Return Scroll
+357;留踰?ㅽщ??대??;
+358;留踰?ㅽщ??대??;
+359;留踰?ㅽщ??대??;
+360;留踰?ㅽщ??대??;Goblin Cave Entrance Return Scroll
+361;留踰?ㅽщ??대??;Desert of the Dead Entrance Return Scroll
+362;留踰?ㅽщ??대??;El Verloon Desert Return Scroll
+363;留踰?ㅽщ??대??;Gorge of Silence Return Scroll
+364;留踰?ㅽщ??대??;Shady Jungle Return Scroll
+365;留踰?ㅽщ??대??;Sikuku Underground Prison Return Scroll
+366;留踰?ㅽщ??대??;Marsh of Ghost Return Scroll
+367;留踰?ㅽщ??대??;Forgotten Temple B2 Return Scroll
+368;留踰?ㅽщ??대??;
+369;留踰?ㅽщ??대??;
+370;留踰?ㅽщ??대??;
+371;留踰?ㅽщ?吏??났寃⑺;Para Dance [Basic]
+372;留踰?ㅽщ?吏??났寃⑺;Para Dance [Practical]
+373;留踰?ㅽщ?吏??났寃⑺;Para Dance [Intermediate]
+374;留踰?ㅽщ?吏??났寃⑺;Para Dance [Refined]
+375;留踰?ㅽщ?吏??났寃⑺;Funky Dance [Basic]
+376;留踰?ㅽщ?吏??났寃⑺;Funky Dance [Intermediate]
+377;留踰?ㅽщ?吏??났寃⑺;Robot Dance
+378;留踰?ㅽщ?吏??났寃⑺;Vuvuzela Horn
+379;留踰?ㅽщ?吏??났寃⑺;
+380;留踰?ㅽщ?吏??났寃⑺;
+381;留踰?ㅽщ?吏??났寃⑺;Ice Charm
+382;留踰?ㅽщ?吏??났寃⑺;Spark Charm
+383;留踰?ㅽщ?吏??났寃⑺;Blood Charm
+384;留踰?ㅽщ?吏??났寃⑺;
+385;留踰?ㅽщ?吏??났寃⑺;
+386;留踰?ㅽщ?吏??났寃⑺;Wolf
+387;留踰?ㅽщ?吏??났寃⑺;Mammoth
+388;留踰?ㅽщ?吏??났寃⑺;Dreadnaught
+389;留踰?ㅽщ?吏??났寃⑺;Lunaris Bear
+390;留踰?ㅽщ?吏??났寃⑺;Rhumba (M)
+391;留踰?ㅽщ?吏??났寃⑺;Waltz (M)
+392;留踰?ㅽщ?吏??났寃⑺;Jive (M)
+393;留踰?ㅽщ?吏??났寃⑺;Cha-Cha (M)
+394;留踰?ㅽщ?吏??났寃⑺;Rhumba (F)
+395;留踰?ㅽщ?吏??났寃⑺;Waltz (F)
+396;留踰?ㅽщ?吏??났寃⑺;Jive (F)
+397;留踰?ㅽщ?吏??났寃⑺;Cha-Cha (F)
+398;留踰?ㅽщ?吏??났寃⑺;Halloween Dance Beginner
+399;留踰?ㅽщ?吏??났寃⑺;Halloween Dance Intermediate
+400;留踰?ㅽщ?吏??났寃⑺;Halloween Dance Refined
+401;留踰?ㅽщ?紐뱀??;Jelly Bean
+402;留踰?ㅽщ?紐뱀??;Jelly Nut
+403;留踰?ㅽщ?紐뱀??;Choropy
+404;留踰?ㅽщ?紐뱀??;Pumpkin
+405;留踰?ㅽщ?紐뱀??;Dalping
+406;留踰?ㅽщ?紐뱀??;Honey Bee
+407;留踰?ㅽщ?紐뱀??;Hornet
+408;留踰?ㅽщ?紐뱀??;Pomic
+409;留踰?ㅽщ?紐뱀??;Pomic Soldier
+410;留踰?ㅽщ?紐뱀??;Beetle
+411;留踰?ㅽщ?紐뱀??;Turtle
+412;留踰?ㅽщ?紐뱀??;Beetle Warrior
+413;留踰?ㅽщ?紐뱀??;Rackie
+414;留踰?ㅽщ?紐뱀??;Woopy
+415;留踰?ㅽщ?紐뱀??;Moldie
+416;留踰?ㅽщ?紐뱀??;Krawfy
+417;留踰?ㅽщ?紐뱀??;Porkie
+418;留踰?ㅽщ?紐뱀??;Grunter
+419;留踰?ㅽщ?紐뱀??;Grunter Leader
+420;留踰?ㅽщ?紐뱀??;Kaiman
+421;留踰?ㅽщ?紐뱀??;Doonga
+422;留踰?ㅽщ?紐뱀??;Doonga Warrior
+423;留踰?ㅽщ?紐뱀??;Doonga Captain
+424;留踰?ㅽщ?紐뱀??;Jewel Golem
+425;留踰?ㅽщ?紐뱀??;Aqua Guard
+426;留踰?ㅽщ?紐뱀??;Clown
+427;留踰?ㅽщ?紐뱀??;Candle Ghost
+428;留踰?ㅽщ?紐뱀??;Goblin Worker
+429;留踰?ㅽщ?紐뱀??;Goblin Guard
+430;留踰?ㅽщ?紐뱀??;Goblin Warrior
+431;留踰?ㅽщ?紐뱀??;Slag
+432;留踰?ㅽщ?紐뱀??;Lunar Wolf
+433;留踰?ㅽщ?紐뱀??;Yeti
+434;留踰?ㅽщ?紐뱀??;Yeti Hunter
+435;留踰?ㅽщ?紐뱀??;Yeti Guard
+436;留踰?ㅽщ?紐뱀??;Yeti Rider
+437;留踰?ㅽщ?紐뱀??;Goblin King
+438;留踰?ㅽщ?紐뱀??;Cherry Smouly
+439;P2P Special Summon;Metal Moldie
+440;;
+441;;
+442;;
+443;;
+444;;
+445;;
+446;;
+447;;
+448;;
+449;;
+450;;
+451;;
+452;;
+453;;
+454;;
+455;;
+456;;
+457;;
+458;;
+459;;
+460;;
+461;;
+462;;
+463;;
+464;;
+465;;
+466;;
+467;;
+468;;
+469;;
+470;;
+471;;
+472;;
+473;;
+474;;
+475;;
+476;;
+477;;
+478;;
+479;;
+480;;
+481;;
+482;;
+483;;
+484;;
+485;;
+486;;
+487;;
+488;;
+489;;
+490;;
+491;;
+492;;
+493;;
+494;;
+495;;
+496;留踰?ㅽщ??대깽?몄?;Christmas Tree
+497;;
+498;;
+499;;
+500;;
+501;???몃Ц???踰??;Letter of the Akram Kingdom
+502;???몃Ц???踰??;Letter of the Akram Kingdom
+503;???몃Ц???踰??;Letter of the Akram Kingdom
+504;???몃Ц???踰??;Letter of the Akram Kingdom
+505;???몃Ц???踰??;Letter of the Akram Kingdom
+506;???몃Ц???踰??;Letter of the Akram Kingdom
+507;???몃Ц???踰??;Letter of the Akram Kingdom
+508;???몃Ц???踰??;Letter of the Akram Kingdom
+509;???몃Ц???踰??;Letter of the Akram Kingdom
+510;???몃Ц???踰??;Letter of the Akram Kingdom
+511;Repair Hammers;Iron Repair Hammer
+512;Repair Hammers;Steel Repair Hammer
+513;Repair Hammers;Mythril Repair Hammer
+514;Repair Hammers;Orihalcon Repair Hammer
+515;Repair Hammers;Adamantium Repair Hammer
+516;Repair Hammers;Mercury Repair Hammer
+517;;
+518;;
+519;;
+520;;
+521;;
+522;;
+523;;
+524;;
+525;;
+526;;
+527;;
+528;;
+529;;
+530;;
+531;;
+532;;
+533;;
+534;;
+535;;
+536;;
+537;;
+538;;
+539;Pet Scroll;Wrealith Hatchling
+540;Pet Scroll;Mastyx
+541;Pet Scroll;Desert Asper
+542;Pet Scroll;Desert Scavenger
+543;;
+544;;
+545;;
+546;;
+547;;
+548;;
+549;;
+550;;
+551;???몃Ц??;Coupon
+552;???몃Ц??;
+553;???몃Ц??;
+554;???몃Ц??;
+555;???몃Ц??;
+556;???몃Ц??;
+557;???몃Ц??;
+558;???몃Ц??;
+559;???몃Ц??;
+560;???ъ?щ?;Soul Recall
+561;???ъ?щ?;Face Item Craft
+562;???ъ?щ?;Accessory Craft
+563;???ъ?щ?;Adamantine Fist
+564;???ъ?щ?;Mana Shield
+565;???ъ?щ?;Call Beast
+566;???ъ?щ?;Expert Crafting
+567;???ъ?щ?;(PvP) Mana Break
+568;???ъ?щ?;(PvM) Anti Magic Shell
+569;???ъ?щ?;Sacrifice
+570;???ъ?щ?;
+571;???ъ?щ?;
+572;???ъ?щ?;
+573;???ъ?щ?;
+574;???ъ?щ?;
+575;???ъ?щ?;
+576;???ъ?щ?;
+577;???ъ?щ?;
+578;???ъ?щ?;
+579;???ъ?щ?;
+580;???ъ?щ?;
+581;???ъ?щ?;
+582;???ъ?щ?;
+583;???ъ?щ?;
+584;???ъ?щ?;
+585;???ъ?щ?;
+586;???ъ?щ?;
+587;???ъ?щ?;
+588;???ъ?щ?;
+589;???ъ?щ?;
+590;留?쇰━??ㅽщ?;Mana Corrosion
+591;留?쇰━??ㅽщ?;Dispel
+592;留?쇰━??ㅽщ?;Soul Restore
+593;留?쇰━??ㅽщ?;Virtuoso Crafting
+594;留?쇰━??ㅽщ?;Lucky Ghost
+595;留?쇰━??ㅽщ?;Valor Reward Bonus
+596;留?쇰━??ㅽщ?;PAT Painting
+597;留?쇰━??ㅽщ?;Honor Reward Bonus (30 Days)
+598;留?쇰━??ㅽщ?;Honor Reward Bonus (30 Days) (20% Discount)
+599;留?쇰━??ㅽщ?;Mount Booster (30 Days)
+600;;
+601;;
+602;;
+603;;
+604;;
+605;;
+606;;
+607;;
+608;;
+609;Special P2P Summon;Summon Metal Moldie
+610;Item Mall Summon;Summon Leprechaun
+611;;
+612;;
+613;;
+614;;
+615;;
+616;;
+617;;
+618;;
+619;;
+620;;
+621;;
+622;;
+623;;
+624;;
+625;;
+626;;
+627;;
+628;;
+629;;
+630;;
+631;;
+632;;
+633;;
+634;;
+635;;
+636;;
+637;;
+638;;
+639;;
+640;;
+641;;
+642;;
+643;;
+644;;
+645;;
+646;;
+647;;
+648;;
+649;;
+650;;
+651;;
+652;;
+653;;
+654;;
+655;;
+656;;
+657;;
+658;;
+659;;
+660;;
+661;;
+662;;
+663;;
+664;;
+665;;
+666;;
+667;;
+668;;
+669;;
+670;;
+671;;
+672;;
+673;;
+674;;
+675;;
+676;;
+677;;
+678;;
+679;;
+680;;
+681;;
+682;;
+683;;
+684;;
+685;;
+686;;
+687;;
+688;;
+689;;
+690;;
+691;;
+692;;
+693;;
+694;;
+695;;
+696;;
+697;;
+698;;
+699;;
+700;;
+701;;
+702;;
+703;;
+704;;
+705;;
+706;;
+707;;
+708;;
+709;;
+710;;
+711;;
+712;;
+713;;
+714;;
+715;;
+716;;
+717;;
+718;;
+719;;
+720;;
+721;;
+722;;
+723;;
+724;;
+725;;
+726;;
+727;;
+728;;
+729;;
+730;;
+731;;
+732;;
+733;;
+734;;
+735;;
+736;;
+737;;
+738;;
+739;;
+740;;
+741;;
+742;;
+743;;
+744;;
+745;;
+746;;
+747;;
+748;;
+749;;
+750;;
+751;;
+752;;
+753;;
+754;;
+755;;
+756;;
+757;;
+758;;
+759;;
+760;;
+761;;
+762;;
+763;;
+764;;
+765;;
+766;;
+767;;
+768;;
+769;;
+770;;
+771;;
+772;;
+773;;
+774;;
+775;;
+776;;
+777;;
+778;;
+779;;
+780;;
+781;;
+782;;
+783;;
+784;;
+785;;
+786;;
+787;;
+788;;
+789;;
+790;;
+791;;
+792;;
+793;;
+794;;
+795;;
+796;;
+797;;
+798;;
+799;;
+800;;
+801;;
+802;;
+803;;
+804;;
+805;;
+806;;
+807;;
+808;;
+809;;
+810;;
+811;;
+812;;
+813;;
+814;;
+815;;
+816;;
+817;;
+818;;
+819;;
+820;;
+821;;
+822;;
+823;;
+824;;
+825;;
+826;;
+827;;
+828;;
+829;;
+830;;
+831;;
+832;;
+833;;
+834;;
+835;;
+836;;
+837;;
+838;;
+839;;
+840;;
+841;;
+842;;
+843;;
+844;;
+845;;
+846;;
+847;留?쇰━? ?ㅽщ?;One-Handed Weapon Iron Blessing
+848;留?쇰━? ?ㅽщ?;One-Handed Weapon Wind Blessing
+849;留?쇰━? ?ㅽщ?;Two-Handed Sword Iron Blessing
+850;留?쇰━? ?ㅽщ?;Two-Handed Sword Wind Blessing
+851;留?쇰━? ?ㅽщ?;Two-Handed Spear Iron Blessing
+852;留?쇰━? ?ㅽщ?;Two-Handed Spear Wind Blessing
+853;留?쇰━? ?ㅽщ?;Two-Handed Axe Iron Blessing
+854;留?쇰━? ?ㅽщ?;Two-Handed Axe Wind Blessing
+855;留?쇰━? ?ㅽщ?;Staff Iron Blessing
+856;留?쇰━? ?ㅽщ?;Staff Wind Blessing
+857;留?쇰━? ?ㅽщ?;Wand Iron Blessing
+858;留?쇰━? ?ㅽщ?;Wand Wind Blessing
+859;留?쇰━? ?ㅽщ?;Bow Iron Blessing
+860;留?쇰━? ?ㅽщ?;Bow Wind Blessing
+861;留?쇰━? ?ㅽщ?;Katar Iron Blessing
+862;留?쇰━? ?ㅽщ?;Katar Wind Blessing
+863;留?쇰━? ?ㅽщ?;Dual Wield Iron Blessing
+864;留?쇰━? ?ㅽщ?;Dual Wield Wind Blessing
+865;留?쇰━? ?ㅽщ?;Gun Iron Blessing
+866;留?쇰━? ?ㅽщ?;Gun Wind Blessing
+867;留?쇰━? ?ㅽщ?;Launcher Iron Blessing
+868;留?쇰━? ?ㅽщ?;Launcher Wind Blessing
+869;;
+870;;
+871;?댁???ㅽ?;Healing (All)
+872;?댁???ㅽ?;Atk Power, Accuracy Up (All)
+873;?댁???ㅽ?;Defense Up (All)
+874;?댁???ㅽ?;Attack Speed, Critical Up (All)
+875;?댁???ㅽ?;Dex Up (All)
+876;?댁???ㅽ?;Status Effect Cancelled (All)
+877;?댁???ㅽ?;Fast Mode
+878;?댁???ㅽ?;Self Healing
+879;?댁???ㅽ?;Killing
+880;?댁???ㅽ?;Stun
+881;?댁???ㅽ?;Muting
+882;?댁???ㅽ?;Target Cancelled
+883;?댁???ㅽ?;Atk Power, Accuracy Up (All)
+884;?댁???ㅽ?;Defense Up (All)
+885;?댁???ㅽ?;Attack Speed, Critical Up (All)
+886;?댁???ㅽ?;Dex Up (All)
+887;?댁???ㅽ?;Invincibility Mode
+888;?댁???ㅽ?;Power-Up Mode
+889;?댁???ㅽ?;Invisibility Mode
+890;;
+891;;
+892;;
+893;;
+894;;
+895;?댁???ㅽ?;GM Skill Mastery
+896;?댁???ㅽ?;Developer Skill Mastery
+897;;
+898;;
+899;;
+900;;
+901;Item Mall;Unique Skill Reset Book
+902;Item Mall;Item Mall Skill Reset Book
+903;Item Mall;All Skill Reset Book
+904;10904;Appraisal Scroll
+905;留?쇰━? ?臾??;Small Gift Box
+906;留?쇰━? ?臾??;Surprise Gift Box
+907;留?쇰━? ?臾??;Impressive Gift Box
+908;Adventurer's Plains Quest Reward;Red Jellybean
+909;Adventurer's Plains Quest Reward;Adventurer Medal
+910;Item Mall - Reset Refine Grade;Reforger
+911;?대깽?몄?;Rose
+912;?대깽?몄?;Present Box
+913;?대깽?몄?;Firecracker - Merry Christmas
+914;?대깽?몄?;Grab Bag
+915;?대깽?몄?;Grab Bag
+916;寃⑥?대깽?몄?(罹≪);Firecracker Penguin
+917;寃⑥?대깽?몄?(罹≪);Ice Spirit
+918;;Love Chocolate
+919;;Kiss Scroll
+920;Valentines 2009;Firecracker - Happy Valentines!
+921;;Blue Fireworks (1)
+922;;Blue Fireworks (2)
+923;;Blue Fireworks (3)
+924;;Green Fireworks (1)
+925;;Green Fireworks (2)
+926;;Green Fireworks (3)
+927;;Yellow Fireworks (1)
+928;;Yellow Fireworks (2)
+929;;Yellow Fireworks (3)
+930;;Firecracker - Start
+931;;Firecracker - Finish
+932;;Firecracker - Ready
+933;;Firecracker - Go
+934;;Firecracker - Quiet
+935;4th of July 2009;Grand Firecracker
+936;Summer Festival 2009;Deck of Cards
+937;Summer Festival 2009;Throwing Ball
+938;Summer Festival 2009;Adventurer's Plains Pie
+939;Summer Festival 2009;Hig's Water Gun
+940;遺?? ?대깽??;Easter Bunny Capsule
+941;遺?? ?대깽??;Easter Egg Capsule
+942;??而??대깽??;Soccer Ball PET
+943;??而??대깽??;Event Scroll: Soccer Kick!
+944;10-944;Arua's Blessing
+945;??대?07_?뱀? ;Junon Order Return Scroll
+946;;Christmas Gift Box
+947;???대깽??;Net
+948;Pre: v143 Adventurer Medal;Special Event Medal
+949;;
+950;;Experience Nullifier
+951;Perfect Repair Hammer;Perfect Repair Hammer
+952;?媛 ?ㅼ ????;No Fee Storage Coupon
+953;;
+954;?媛 ?ㅼ ????;Igloo Shop Coupon
+955;?媛 ?ㅼ ????;Panda Shop Coupon
+956;?媛 ?ㅼ ????;Fish Shop Coupon
+957;;Moldie Shop Coupon
+958;Decommissioned to line 2015;Snowman Shop Coupon
+959;;Gravestone Shop Coupon
+960;??而??대깽??;Judy's Blessing
+961;留踰-??吏??;Damage Booster
+962;留踰-??吏??;Defense Booster
+963;留踰-??吏??;Speed Booster
+964;留踰-??吏??;HP&MP Booster
+965;留踰-??吏??;Critical Booster
+966;留踰-??吏??;Agility Booster
+967;;Gingerbread Shop
+968;Item Mall - Hair Dye Coupon;Hair Dye Coupon
+969;Community Submission Shop;TeePee Shop
+970;Item Mall Purchase;Item Unbinder Coupon
+971;Scrolls;Hi! Scroll
+972;Scrolls;Bow Scroll
+973;Scrolls;Gracious Bow Scroll
+974;Scrolls;Laugh Scroll
+975;Scrolls;Fight Cheer Scroll
+976;Scrolls;Breakdown Scroll
+977;Scrolls;Tantrum Scroll
+978;Scrolls;Applause Scroll
+979;;
+980;Item Mall Restorative;Red Jellybean
+981;Item Mall Restorative;Mini Cherry Berry
+982;Item Mall Restorative;Cherry Berry
+983;Item Mall Restorative;Power Cherry Berry
+984;Item Mall Restorative;Super Cherry Berry
+985;Item Mall Restorative;Miracle Cherry Berry
+986;Item Mall Restorative;Blue Jellybean
+987;;The year's first full moon cherry berry
+988;;The year's first full moon cherry berry (Special)
+989;Item Mall Restorative;Red Jellybean Stew
+990;Item Mall Restorative;Blue Jellybean Stew
+991;??＝ ??????);Firecracker - Congratulations!
+992;??＝ ??????);Firecracker - Happy Birthday!
+993;??＝ ??????);Firecracker - Thank you!
+994;??＝ ??????);Firecracker - I Love you!
+995;??＝ ??????);Firecracker - Be My Valentine
+996;;ROSE Treasure Chest (S)
+997;;ROSE Treasure Chest (s)
+998;;ROSE Treasure Chest (M)
+999;;ROSE Treasure Chest (L)
+1000;;ROSE Treasure Chest(XL)
+1001;;Wooden Treasure Chest A
+1002;;Wooden Treasure Chest B
+1003;;Wooden Treasure Chest C
+1004;;Wooden Treasure Chest D
+1005;;Wooden Treasure Chest E
+1006;;Wooden Treasure Chest F
+1007;;Wooden Treasure Chest G
+1008;;Wooden Treasure Chest H
+1009;;Wooden Treasure Chest I
+1010;;Wooden Treasure Chest J
+1011;;Wooden Treasure Chest K
+1012;;Wooden Treasure Chest L
+1013;;Wooden Treasure Chest M
+1014;;Silver Treasure Chest A
+1015;;Silver Treasure Chest B
+1016;;Silver Treasure Chest C
+1017;;Silver Treasure Chest D
+1018;;Silver Treasure Chest E
+1019;;Silver Treasure Chest F
+1020;;Silver Treasure Chest G
+1021;;Silver Treasure Chest H
+1022;;Silver Treasure Chest I
+1023;;Silver Treasure Chest J
+1024;;Silver Treasure Chest K
+1025;;Silver Treasure Chest L
+1026;;Silver Treasure Chest M
+1027;;Golden Treasure Chest A
+1028;;Golden Treasure Chest B
+1029;?援 ???留?쇰━?;
+1030;?援 ???留?쇰━?;Goblin Cave Entrance Return Scroll
+1031;?援 ???留?쇰━?;Desert of the Dead Entrance Return Scroll
+1032;?援 ???留?쇰━?;El Verloon Desert Return Scroll
+1033;?援 ???留?쇰━?;Gorge of Silence Return Scroll
+1034;?援 ???留?쇰━?;Shady Jungle Return Scroll
+1035;?援 ???留?쇰━?;Mini Cherry Berry
+1036;?援 ???留?쇰━?;Cherry Berry
+1037;?援 ???留?쇰━?;Power Cherry Berry
+1038;?援 ???留?쇰━?;Super Cherry Berry
+1039;?援 ???留?쇰━?;Miracle Cherry Berry
+1040;以??紐??ｌ?怨?;
+1041;以??紐??ｌ?怨?;HP&MP Booster (Party)
+1042;以??紐??ｌ?怨?;Defense Booster (Party)
+1043;以??紐??ｌ?怨?;Speed Booster (Party)
+1044;以??紐??ｌ?怨?;Critical Booster (Party)
+1045;以??紐??ｌ?怨?;Agility Booster (Party)
+1046;以??紐??ｌ?怨?;Damage Booster (Party)
+1047;以??紐??ｌ?怨?;
+1048;以??紐??ｌ?怨?;
+1049;New Player Items;Damage Booster (Trial)
+1050;New Player Items;Defense Booster (Trial)
+1051;New Player Items;Speed Booster (Trial)
+1052;New Player Items;HP&MP Booster (Trial)
+1053;New Player Items;Critical Booster (Trial)
+1054;New Player Items;Agility Booster (Trial)
+1055;Halloween 2008 Summon;Candle Ghost
+1056;Item Mall Coupon;Gravestone Shop Coupon
+1057;Item Mall Coupon;Tombstone Shop Coupon
+1058;Item Mall Sale;Valor Quest Tickets (25)
+1059;Item Mall Sale;Trainee Medal (10)
+1060;Item Mall Sale;Medal of Fortune (10)
+1061;;
+1062;Item Mall Sale;Perfect Separation Drill (5)
+1063;Item Mall Sale (+2,000,000 x 5);Clan Point Booster Pack
+1064;Jewel Chest (I);Jewel Chest (I)
+1065;Jewel Chest (II);Jewel Chest (II)
+1066;Jewel Chest (III);Jewel Chest (III)
+1067;Jewel Chest (IV);Jewel Chest (IV)
+1068;Jewel Chest (V);Jewel Chest (V)
+1069;;
+1070;;
+1071;;
+1072;;
+1073;Premium Daily Box;Box of Fabric
+1074;Premium Daily Box;Box of Chemicals
+1075;Premium Daily Box;Box of Catalysts
+1076;Premium Daily Box;Box of Wood
+1077;Premium Daily Box;Box of Metal
+1078;Premium Daily Box;Box of Leather
+1079;;
+1080;2008 Valentines Event;Valentines Box
+1081;2008 St. Patrick's Day Box;Leprechaun Box
+1082;2008 Easter Egg;Special Easter Egg
+1083;GM Talk Like a Pirate Day Event, 2009;Pirate Eye Patch Box
+1084;GM Talk Like a Pirate Day Event, 2009;Pirate Captain Hat Box
+1085;GM Talk Like a Pirate Day Event, 2009;Pirate Hat Box
+1086;GM Talk Like a Pirate Day Event, 2009;Pirate Bandana Box
+1087;GM Talk Like a Pirate Day Event, 2009;Pirate Hook Box
+1088;2011 Summer Festival Event;Special Summer Basket
+1089;2011 Thanksgiving Event;Festival of Thanks Box
+1090;2012 Graduation Event;Shovel
+1091;Item Mall Skills;Swift Blessing
+1092;Item Mall Skills;Nimble Blessing
+1093;Item Mall Skills;Shield Blessing
+1094;Item Mall Skills;Protection Blessing
+1095;Item Mall Skills;Marksmen Blessing
+1096;Item Mall Skills;Intense Blessing
+1097;Item Mall Skills;Deflection Blessing
+1098;Item Mall Skills;
+1099;Item Mall Skills;
+1100;Item Mall Skills;Weight Training - Light
+1101;Item Mall Skills;Weight Training - Medium
+1102;Item Mall Skills;Weight Training - Heavy
+1103;Item Mall Skills;Weight Training - Advanced
+1104;Item Mall Skills;Weight Training - Mastery
+1105;Item Mall Skills;
+1106;Item Mall Skills;
+1107;Item Mall Skills;
+1108;Item Mall Skills;
+1109;;
+1110;Alchemy Crafting;Crate of Wooden Arrows
+1111;Alchemy Crafting;Crate of Bone Arrows
+1112;Alchemy Crafting;Crate of Fire Arrows
+1113;Alchemy Crafting;Crate of Stone Arrows
+1114;Alchemy Crafting;Crate of Claw Arrows
+1115;Alchemy Crafting;Crate of Metal Arrows
+1116;Alchemy Crafting;Crate of Gilded Arrows
+1117;Alchemy Crafting;Crate of Platinum Arrows
+1118;Alchemy Crafting;Crate of White Night Arrows
+1119;Alchemy Crafting;Crate of Demon Arrows
+1120;Alchemy Crafting;Crate of Nymph Arrows
+1121;Alchemy Crafting;Crate of Elven Arrows
+1122;Alchemy Crafting;Crate of Lightning Arrows
+1123;Alchemy Crafting;Crate of Storm Arrows
+1124;Alchemy Crafting;
+1125;Alchemy Crafting;
+1126;Alchemy Crafting;
+1127;Alchemy Crafting;
+1128;Alchemy Crafting;
+1129;Alchemy Crafting;
+1130;Alchemy Crafting;Crate of Bean Bullets
+1131;Alchemy Crafting;Crate of Bullets
+1132;Alchemy Crafting;Crate of Iron Bullets
+1133;Alchemy Crafting;Crate of Plated Bullets
+1134;Alchemy Crafting;Crate of Silver-Plated Bullets
+1135;Alchemy Crafting;Crate of Gold-Plated Bullets
+1136;Alchemy Crafting;Crate of Platinum Bullets
+1137;Alchemy Crafting;Crate of Chromium Bullets
+1138;Alchemy Crafting;Crate of Fire Bullets
+1139;Alchemy Crafting;Crate of Cold Bullets
+1140;Alchemy Crafting;Crate of Poison Bullets
+1141;Alchemy Crafting;
+1142;Alchemy Crafting;
+1143;Alchemy Crafting;
+1144;Alchemy Crafting;
+1145;Alchemy Crafting;
+1146;Alchemy Crafting;
+1147;Alchemy Crafting;
+1148;Alchemy Crafting;
+1149;Alchemy Crafting;
+1150;Alchemy Crafting;Crate of Cannon Shells
+1151;Alchemy Crafting;Crate of Iron Shells
+1152;Alchemy Crafting;Crate of Track Shells
+1153;Alchemy Crafting;Crate of Bomber Shells
+1154;Alchemy Crafting;Crate of Fire Shells
+1155;Alchemy Crafting;Crate of Poison Shells
+1156;Alchemy Crafting;Crate of Blaze Shells
+1157;Alchemy Crafting;
+1158;Alchemy Crafting;
+1159;Alchemy Crafting;
+1160;Alchemy Crafting;Crate of Health Vial (S)
+1161;Alchemy Crafting;Crate of Health Vial (M)
+1162;Alchemy Crafting;Crate of Health Vial (L)
+1163;Alchemy Crafting;Crate of Health Bottle (S)
+1164;Alchemy Crafting;Crate of Health Bottle (M)
+1165;Alchemy Crafting;Crate of Health Bottle (L)
+1166;Alchemy Crafting;Crate of Vital Water (S)
+1167;Alchemy Crafting;Crate of Vital Water (M)
+1168;Alchemy Crafting;Crate of Vital Water (L)
+1169;Alchemy Crafting;Crate of Red Potion
+1170;Alchemy Crafting;Crate of Mana Vial (S)
+1171;Alchemy Crafting;Crate of Mana Vial (M)
+1172;Alchemy Crafting;Crate of Mana Vial (L)
+1173;Alchemy Crafting;Crate of Mana Bottle (S)
+1174;Alchemy Crafting;Crate of Mana Bottle (M)
+1175;Alchemy Crafting;Crate of Mana Bottle (L)
+1176;Alchemy Crafting;Crate of Spiritual Water (S)
+1177;Alchemy Crafting;Crate of Spiritual Water (M)
+1178;Alchemy Crafting;Crate of Spiritual Water (L)
+1179;Alchemy Crafting;Crate of Blue Potion
+1180;Alchemy Crafting;
+1181;Alchemy Crafting;
+1182;Alchemy Crafting;
+1183;Alchemy Crafting;
+1184;Alchemy Crafting;
+1185;Alchemy Crafting;
+1186;Alchemy Crafting;
+1187;Alchemy Crafting;
+1188;Alchemy Crafting;
+1189;Alchemy Crafting;
+1190;Alchemy Crafting;
+1191;Alchemy Crafting;
+1192;Alchemy Crafting;
+1193;Alchemy Crafting;
+1194;Alchemy Crafting;
+1195;Alchemy Crafting;
+1196;Alchemy Crafting;
+1197;Alchemy Crafting;
+1198;Alchemy Crafting;
+1199;Alchemy Crafting;
+1200;Item Mall Boxes;Christmas Gift
+1201;Item Mall Boxes;Present Box
+1202;Item Mall Boxes;Boy's Snow Suit Gift
+1203;Item Mall Boxes;Girl's Snow Suit Gift
+1204;Item Mall Boxes;Box of Enchanted Stones
+1205;Item Mall Boxes;Arua's Box
+1206;Item Mall Boxes;Box of Shops
+1207;Item Mall Boxes;Valentines Gift Box
+1208;Item Mall Boxes;Box of Astarot Wings
+1209;Item Mall Boxes;Pet in a Box
+1210;Item Mall Boxes;ROSE Treasure Box (X)
+1211;Item Mall Boxes;Boxing Look
+1212;Item Mall Boxes;Servant's Look
+1213;Item Mall Boxes;New Bourgeois Set
+1214;Item Mall Boxes;New Captain Set
+1215;Item Mall Boxes;New Serenity Set
+1216;Item Mall Boxes;New Abyss Set
+1217;Item Mall Boxes;Navy Blue Magic School Set
+1218;Item Mall Boxes;White Magic School Set
+1219;Item Mall Boxes;Calanor's Box of Stoof
+1220;Item Mall Boxes;Adventurer's Box
+1221;Item Mall Boxes;Spero's Box of Gadgets
+1222;Item Mall Boxes;Crystal Butterfly Wings Box
+1223;Item Mall Boxes;Emerald Butterfly Wings Box
+1224;Item Mall Boxes;Ruby Butterfly Wings Box
+1225;Item Mall Boxes;Monarch Butterfly Wings Box
+1226;Item Mall Boxes;Summer Fun Box
+1227;Astarot Wings;Astarot Wings of Storms
+1228;Astarot Wings;Astarot Wings of Blight
+1229;Astarot Wings;Astarot Wings of Frost
+1230;Astarot Wings;Astarot Wings of Gloom
+1231;Astarot Wings;Astarot Wings of Rage
+1232;Astarot Wings;Astarot Wings of Despair
+1233;Astarot Wings;Astarot Wings of Corruption
+1234;Promotional Box;Gift of the Devoted
+1235;Item Mall Boxes;Black Seraph Wing Box
+1236;Item Mall Boxes;Seraph Wing Box
+1237;Item Mall Boxes;Eastern Elegance Set
+1238;Item Mall Boxes;Kitten Backpack Box
+1239;Item Mall Boxes;Koala Backpack Box
+1240;Item Mall Boxes;Panda Backpack Box
+1241;Item Mall Boxes;School Backpack Box
+1242;Item Mall Boxes;Schoolbook Bag Box
+1243;Item Mall Halloween Costumes;Devil - Halloween Costume 
+1244;Item Mall Halloween Costumes;Frankenstein - Halloween Costume 
+1245;Item Mall Halloween Costumes;Mummy - Halloween Costume 
+1246;Item Mall Halloween Costumes;Vampire - Halloween Costume 
+1247;Item Mall Halloween Costumes;Werewolf - Halloween Costume 
+1248;Item Mall Halloween Costumes;Wicked - Halloween Costume 
+1249;Item Mall Halloween Costumes;Zombie - Halloween Costume 
+1250;Astarot Wings;Astarot Wings of Humility
+1251;Astarot Wings;Astarot Wings of Kindness
+1252;Astarot Wings;Astarot Wings of Forgiveness
+1253;Astarot Wings;Astarot Wings of Diligence
+1254;Astarot Wings;Astarot Wings of Charity
+1255;Astarot Wings;Astarot Wings of Temperance
+1256;Astarot Wings;Astarot Wings of Purity
+1257;Item Mall Christmas;Christmas - Santa Suit
+1258;Item Mall Christmas;Christmas - Elf Suit
+1259;Item Mall Boxes;Zant Collection of Items
+1260;Item Mall Boxes;Sweetheart Box
+1261;Item Mall Boxes;Lucky Box
+1262;Item Mall Boxes;St. Patrick's Day Box
+1263;Item Mall Boxes;Spring Box
+1264;Item Mall Boxes;Summer Box
+1265;Faith Item;Noble Clothes
+1266;Item Mall Boxes;Schools Out Box
+1267;Item Mall Boxes;Sunshine Box
+1268;Item Mall Boxes;Box of Red & Blue Jellybeans
+1269;Item Mall Boxes;Pogo's Summer Box
+1270;Item Mall Boxes;Pogo Character Outfit
+1271;Faith Item;Box of Priest Clothes
+1272;Item Mall Boxes;Flow's Summer Box
+1273;Item Mall Boxes;Flow Character Outfit
+1274;Item Mall Boxes;Lox Character Outfit
+1275;Item Mall Boxes;Flor Character Outfit
+1276;Item Mall Boxes;Sparky Character Outfit
+1277;Item Mall Boxes;Autumn Adventure Box
+1278;Item Mall Boxes;Hebarn's Box of Scary Stuff
+1279;Item Mall Boxes;Storybook Costume Package
+1280;Item Mall Boxes;Tea Party Costume Package
+1281;Item Mall Boxes;Fable Costume Package
+1282;Item Mall Boxes;Fairy Tale Costume Package
+1283;Item Mall Boxes;Santa Look Package 1 of 2
+1284;Item Mall Boxes;Santa Look Package 2 of 2
+1285;Item Mall Boxes;Box of Thanksgiving
+1286;Item Mall Boxes;Holiday Lucky Box
+1287;Item Mall Boxes;Christmas Cheer Outfit
+1288;Item Mall Boxes;Valentine Lucky Box
+1289;Item Mall Boxes;Valentine Outfit Box
+1290;Item Mall - Promotional Item;3DS Raffle Ticket
+1291;UGC Promotional Item;White Santa Set
+1292;Welcome Package of Titans;Welcome Package of Titans
+1293;Item Mall Boxes;Sapphire Lucky Box
+1294;;
+1295;;
+1296;;
+1297;;
+1298;;
+1299;Skill Point;Mana Jam (+1)
+1300;Item Mall;Medal of Fortune
+1301;Item Mall;Medal of Excellence
+1302;;
+1303;Promotional Item;Sigil of Brilliance
+1304;Promotional Item;Sigil of Wealth
+1305;Promotional Item;Sigil of Acceleration
+1306;Promotional Item;Sigil of Brilliance (6HR)
+1307;1307;Life Insurance
+1308;Item Mall;ROSE Teleportation Ticket
+1309;Item Mall;Testimony of Retraining
+1310;Item Mall;Transgender Coupon
+1311;Item Mall;Plastic Surgery Coupon
+1312;Item Mall;Salon Coupon
+1313;Lucky Spin (Internal Use Only);Lucky Spin
+1314;Premium Daily Item;x2 EXP Medal
+1315;Premium Daily Item;x2 Drop Medal
+1316;Item Mall - Sale 11/2011;Testimony of Retraining
+1317;Item Mall - Sale 11/2011;Job Skill Reset Book
+1318;Premium Daily Item;Premium Box Re-Roll Hammer
+1319;Item Mall;Game Arena Energy Reset
+1320;Valor to Energy;Valor to Energy
+1321;Honor to Energy;Honor to Energy
+1322;Valor to Honor;Valor to Honor
+1323;Honor to Valor;Honor to Valor
+1324;Item Mall;Name Change Coupon
+1325;1325;Account Storage Expansion
+1326;Item Mall - Storage Expansion;Character Storage Expansion
+1327;Item Mall - Storage Expansion;Character Storage Expansion Pack
+1328;Decommissioned to line 2006;Advanced Hustle Charm
+1329;Decommissioned to line 2007;Advanced Precision Charm
+1330;Decommissioned to line 2008;Advanced Resilience Charm
+1331;Decommissioned to line 2009;Advanced Battle Charm
+1332;Decommissioned to line 2010;Advanced Critical Charm
+1333;Decommissioned to line 2011;Advanced Evasive Charm
+1334;Decommissioned to line 2012;Advanced Clobber Charm
+1335;Decommissioned to line 2013;Advanced Valkyrie Charm
+1336;Decommissioned to line 2014;Soul Restore
+1337;Item Mall Skill Box;Shield Blessing
+1338;Item Mall Skill Box;Intense Blessing
+1339;Item Mall Skill Box;Protection Blessing
+1340;Item Mall Skill Box;Marksmen Blessing
+1341;Item Mall Skill Box;Nimble Blessing
+1342;Item Mall Skill Box;Swift Blessing
+1343;Item Mall Skill Box;Launcher Wind Blessing
+1344;Item Mall Skill Box;Gun Wind Blessing
+1345;Item Mall Skill Box;Dual Wield Wind Blessing
+1346;Item Mall Skill Box;Katar Wind Blessing
+1347;Item Mall Skill Box;Bow Wind Blessing
+1348;Item Mall Skill Box;Wand Wind Blessing
+1349;Item Mall Skill Box;Staff Wind Blessing
+1350;Item Mall Skill Box;Two-Handed Axe Wind Blessing
+1351;Item Mall Skill Box;Two-Handed Spear Wind Blessing
+1352;Item Mall Skill Box;Two-Handed Sword Wind Blessing
+1353;Item Mall Skill Box;One-Handed Weapon Wind Blessing
+1354;Item Mall Skill Box;Launcher Iron Blessing
+1355;Item Mall Skill Box;Gun Iron Blessing
+1356;Item Mall Skill Box;Dual Wield Iron Blessing
+1357;Item Mall Skill Box;Katar Iron Blessing
+1358;Item Mall Skill Box;Bow Iron Blessing
+1359;Item Mall Skill Box;Wand Iron Blessing
+1360;Item Mall Skill Box;Staff iron Blessing
+1361;Item Mall Skill Box;Two-Handed Axe Iron Blessing
+1362;Item Mall Skill Box;Two-Handed Spear Iron Blessing
+1363;Item Mall Skill Box;Two-Handed Sword Iron Blessing
+1364;Item Mall Skill Box;One-Handed Weapon Iron Blessing
+1365;Item Mall - Premium Service;30 Days Premium Service
+1366;Item Mall - Premium Service;60 Days Premium Service
+1367;Item Mall - Premium Service;90 Days Premium Service
+1368;Item Mall - Premium Service;180 Days Premium Service
+1369;Item Mall - 5 Minutes Test;5 Minutes Premium Service
+1370;Item Mall;Clan Name Colorizer
+1371;Honor to Clan Point;Honor to Clan Point
+1372;Valor to Clan Point;Valor to Clan Point
+1373;;
+1374;Orlo : Chapter 2 - Activation Item;Dusty Desert Jewel
+1375;Orlo : Chapter 2 - Activation Item;Pack o' Explosives
+1376;Orlo : Chapter 2 - Activation Item;Fishin' Pole
+1377;Orlo : Chapter 2 - Activation Item;Keg Refill
+1378;Orlo : Chapter 2 - Activation Item;Rocket Fuel
+1379;Orlo : Chapter 2 - Quest Item;Chewed Bone - redundant
+1380;Orlo : Chapter 2 - Quest Item;Chewed Bone
+1381;Orlo : Chapter 2 - Quest Item;Pharaoh's Key
+1382;Orlo : Chapter 2 - Quest Item;Hiria's Focus Ring - unused
+1383;Orlo : Chapter 2 - Quest Item;Alpha Generator
+1384;Orlo : Chapter 2 - Quest Item;Beta Generator
+1385;Orlo : Chapter 2 - Quest Item;Gamma Generator
+1386;Quest (61) Reward : Turtle Soup;Turtle Soup
+1387;Quest (62) Reward : Beetle Surprise;Beetle Surprise
+1388;Quest (63) Reward : Freaky Fishmen Souffle;Freaky Fishmen Souffle
+1389;Quest 2153 - Activation Item;Kentucky Jones' Shovel
+1390;Quest 2158 - Activation Item;Helianthus' Bone Scraper
+1391;Quest 5296 -  Activation Item;Summoning Elixir
+1392;Quest 5299 -  Activation Item;Inscribed Tablet
+1393;Quest 5293 -  Activation Item;Vial of Bad Dreams
+1394;Quest 5130 - Activation Item;Lisa's Inspection Kit
+1395;Quest 5153 - Activation Item;Magical Metal Detector
+1396;Quest 5155 - Quest Item;Magical Rubber Ducky
+1397;Anniversary Event Currency;Rubber Ducky
+1398;;
+1399;;
+1400;;
+1401;;
+1402;;
+1403;;
+1404;;
+1405;;
+1406;;
+1407;;
+1408;;
+1409;;
+1410;New Player Box (10);Special Package
+1411;New Player Box (18);Special Package 
+1412;New Player Box (25);Special Package
+1413;New Player Box (36);Special Package
+1414;New Player Box (42);Special Package 
+1415;New Player Box (50);Special Package
+1416;;
+1417;;
+1418;;
+1419;;
+1420;;
+1421;;
+1422;;
+1423;;
+1424;;
+1425;;
+1426;;
+1427;;
+1428;;
+1429;;
+1430;;
+1431;;
+1432;;
+1433;;
+1434;;
+1435;;
+1436;;
+1437;;
+1438;;
+1439;;
+1440;;
+1441;;
+1442;;
+1443;;
+1444;;
+1445;;
+1446;;
+1447;;
+1448;;
+1449;;
+1450;;
+1451;;
+1452;;
+1453;;
+1454;;
+1455;;
+1456;;
+1457;;
+1458;;
+1459;;
+1460;;
+1461;;
+1462;;
+1463;;
+1464;;
+1465;;
+1466;;
+1467;;
+1468;;
+1469;;
+1470;;
+1471;;
+1472;;
+1473;;
+1474;;
+1475;;
+1476;;
+1477;;
+1478;;
+1479;;
+1480;;
+1481;;
+1482;;
+1483;;
+1484;;
+1485;;
+1486;;
+1487;;
+1488;;
+1489;;
+1490;;
+1491;;
+1492;;
+1493;;
+1494;Super Boss Event Reward;Noble Brawler Box
+1495;Super Boss Event Reward;Super Fighter Box
+1496;Super Boss Event Reward;Crucible Gladiator Box
+1497;Super Boss Event Reward;Super Catalyst Box
+1498;Super Boss Event Reward;Super Paradigmatic Crate
+1499;Halloween 2012;Arachnid (Permanent:In-Game)
+1500;Halloween 2012;Heburkal's Pet (Permanent:In-Game)
+1501;Winter Event 2010;Penguin Racer
+1502;Winter Event 2010;Cherry Berry Pie
+1503;Winter Event 2010;Ski Uniform Box
+1504;Winter Event 2010;Ski Boots Box
+1505;Winter Event 2010;Figure Skating Outfit Box
+1506;Winter Event 2010;Ice Skates Box
+1507;Winter Event 2010;Pennants Box
+1508;Winter Event 2010;Biathlon Bullet
+1509;Back-To-School 2011;Chemistry Box
+1510;Item Mall - September 2011;Box of Values
+1511;Point Push Promotion - September 2011;Box of Beta Mach's
+1512;Item Mall - September 2011;Hat Box
+1513;Item Mall - Sales Push Only Item;Blue Astarot Wings (Mini) Box
+1514;Valentines 2012 Summon Pet;Lil'Qpid Summon Book
+1515;Valentines 2012;Lovely Firecracker Pack
+1516;Valentines 2012;Healing Hearts Pack
+1517;Valentines 2012;Firecracker Crate
+1518;Valentines 2012;PDA Pack
+1519;Valentines 2012;Heart Ammo Crate
+1520;Valentines 2012;Power of Love
+1521;Summer 2012;Luau Box
+1522;Summer 2012;Summer Blessing
+1523;10-1523;Magical Box of Friendliness
+1524;10-1524;Delightful Costume Box
+1525;10-1525;Terrific Tail Box
+1526;10-1526;Wonderful Wig Box
+1527;Sea of Dawn Soldier Box Teir 1;Heavy Frost Armor Box
+1528;Sea of Dawn Hawker Box Teir 1;Leather Frost Armor Box
+1529;Sea of Dawn Dealer Box Teir 1;Sturdy Frost Armor Box
+1530;Sea of Dawn Muse Box Teir 1;Light Frost Armor Box
+1531;Sea of Dawn Soldier Box Teir 2;Exalted Heavy Frost Armor Box
+1532;Sea of Dawn Hawker Box Teir 2;Exalted Leather Frost Armor Box
+1533;Sea of Dawn Dealer Box Teir 2;Exalted Sturdy Frost Armor Box
+1534;Sea of Dawn Muse Box Teir 2;Exalted Light Frost Armor Box
+1535;Cave of Ulverick;Arachnid (Permanent:In-Game)
+1536;Halls of Oblivion Mount;Arcane Rift Guardian (Permenant:In-Game)
+1537;Sea of Dawn Mount;Frozen Sentinel (Permanent:In-Game)
+1538;Sikuku Underground Prison Mount;Bone Spider (Permanent:In-Game)
+1539;Pirate Event 2014;Locked Pirate Treasure Chest
+1540;Pirate Event 2014;Pirate Booty Bag
+1541;Pirate Event 2014;Pirate Frigate Box
+1542;Winter Event 2010;Ice Fishing Net
+1543;Honor Exchange;Honor Exchange
+1544;Valor Exchange;Valor Exchange
+1545;Sikuku Catacombs Trinket;Rod of Subjugation
+1546;Medal of Diplomacy Package;Medal of Diplomacy Package
+1547;Halloween 2015;Spooky Looking LockBox
+1548;Halloween 2015;Spooky Looking Box
+1549;Thanksgiving Event 2015 Quest Reward;Thankful Harvest Crate
+1550;Festival of Thanks Event HP Food;Turkey with Gravy
+1551;Festival of Thanks Event MP Food;Butternut Squash Soup
+1552;Festival of Thanks Event HP Potion;Pumpkin Pie
+1553;Festival of Thanks Event MP Potion;Cranberry Sauce
+1554;;
+1555;;
+1556;;
+1557;Item Mall Skills;Advanced Hustle Chant
+1558;Item Mall Skills;Advanced Precision Chant
+1559;Item Mall Skills;Advanced Resilience Chant
+1560;Item Mall Skills;Advanced Battle Chant
+1561;Item Mall Skills;Advanced Critical Chant
+1562;Item Mall Skills;Advanced Evasive Chant
+1563;Item Mall Skills;Advanced Wallop Chant
+1564;Item Mall Skills;Advanced Valkyrie Chant
+1565;Item Mall Skills;Advanced Resistance Chant
+1566;Item Mall Skills;Advanced Angelic Chant
+1567;Item Mall Skills;Advanced Blessed Body Chant
+1568;Item Mall Skills;Advanced Blessed Mind Chant
+1569;;
+1570;;
+1571;;
+1572;;
+1573;;
+1574;;
+1575;;
+1576;;
+1577;;
+1578;;
+1579;;
+1580;;
+1581;;
+1582;;
+1583;;
+1584;;
+1585;;
+1586;;
+1587;;
+1588;;
+1589;;
+1590;;
+1591;;
+1592;;
+1593;;
+1594;;
+1595;;
+1596;;
+1597;;
+1598;;
+1599;;
+1600;;
+1601;;
+1602;;
+1603;;
+1604;;
+1605;;
+1606;;
+1607;;
+1608;;
+1609;;
+1610;;
+1611;;
+1612;;
+1613;;
+1614;;
+1615;;
+1616;;
+1617;;
+1618;;
+1619;;
+1620;;
+1621;;
+1622;;
+1623;;
+1624;;
+1625;;
+1626;;
+1627;;
+1628;;
+1629;;
+1630;;
+1631;;
+1632;Pick-up / Volatile;Valor (+1)
+1633;Pick-up / Volatile;Valor (+2)
+1634;Pick-up / Volatile;Valor (+3)
+1635;Pick-up / Volatile;Valor (+5)
+1636;Pick-up / Volatile;Valor (+7)
+1637;Pick-up / Volatile;Valor (+10)
+1638;Pick-up / Volatile;Valor (+15)
+1639;Pick-up / Volatile;Valor (+20)
+1640;Pick-up / Volatile;Valor (+25)
+1641;Pick-up / Volatile;Valor (+30)
+1642;Pick-up / Volatile;Valor (+100)
+1643;;
+1644;;
+1645;;
+1646;;
+1647;;
+1648;;
+1649;;
+1650;;
+1651;;
+1652;;
+1653;;
+1654;;
+1655;;
+1656;;
+1657;;
+1658;;
+1659;;
+1660;;
+1661;;
+1662;;
+1663;;
+1664;;
+1665;;
+1666;;
+1667;;
+1668;;
+1669;;
+1670;;
+1671;;
+1672;;
+1673;;
+1674;;
+1675;;
+1676;;
+1677;;
+1678;PvP Buff Potion (Zulie);Max HP Battle Potion
+1679;PvP Buff Potion (Zulie);Max MP Battle Potion
+1680;PvP Buff Potion (Zulie);Movement Battle Potion
+1681;PvP Buff Potion (Zulie);Defense Battle Potion
+1682;PvP Buff Potion (Zulie);Attack Battle Potion
+1683;PvP Buff Potion (Zulie);Magic Resistance Battle Potion
+1684;PvP Buff Potion (Zulie);Accuracy Battle Potion
+1685;PvP Buff Potion (Zulie);Dodge Battle Potion
+1686;PvP Buff Potion (Zulie);Attack Speed Battle Potion
+1687;PvP Buff Potion (Zulie);Critical Battle Potion
+1688;PvP Buff Potion (Zulie);Damage Enhancement Battle Potion
+1689;PvP Buff Potion (Zulie);Stat Enhancement Battle Potion
+1690;;
+1691;;
+1692;;
+1693;;
+1694;;
+1695;;
+1696;;
+1697;;
+1698;PvP Buff Potion (Honor);Battle Combat Potion
+1699;PvP Buff Potion (Honor);Enlightenment Combat Potion
+1700;PvP Buff Potion (Honor);Reinforcement Combat Potion
+1701;PvP Buff Potion (Honor);Cunning Combat Potion
+1702;PvP Buff Potion (Honor);Swift Combat Potion
+1703;PvP Buff Potion (Honor);Divine Combat Potion
+1704;;
+1705;;
+1706;;
+1707;;
+1708;;
+1709;;
+1710;;
+1711;;
+1712;;
+1713;;
+1714;;
+1715;;
+1716;;
+1717;;
+1718;;
+1719;;
+1720;PvP Currency;Crystal Defenders Badge of Honor
+1721;PvP Currency;Draconis Peaks Badge of Honor
+1722;PvP Currency;Akram Arena Badge of Honor
+1723;;
+1724;;
+1725;;
+1726;;
+1727;;
+1728;;
+1729;;
+1730;;
+1731;;
+1732;;
+1733;;
+1734;;
+1735;;
+1736;;
+1737;;
+1738;;
+1739;;
+1740;Valor Purchase - Enchantment Scroll;Blank Enchantment Scroll
+1741;Valor (Not Sold Directly) - Enchantment Scroll;Imbued Enchantment Scroll
+1742;;
+1743;;
+1744;;
+1745;;
+1746;;
+1747;;
+1748;;
+1749;;
+1750;Elemental Scroll;Nullified Scroll of Offensive Elements
+1751;Elemental Scroll;Magical Scroll of Offensive Elements
+1752;Elemental Scroll;Flaming Scroll of Offensive Elements
+1753;Elemental Scroll;Soaked Scroll of Offensive Elements
+1754;Elemental Scroll;Earthen Scroll of Offensive Elements
+1755;Elemental Scroll;Windy Scroll of Offensive Elements
+1756;Elemental Scroll;Spiritual Scroll of Offensive Elements
+1757;Elemental Scroll;Poisonous Scroll of Offensive Elements
+1758;Elemental Scroll;Ghostly Scroll of Offensive Elements
+1759;;
+1760;;
+1761;;
+1762;;
+1763;;
+1764;;
+1765;;
+1766;;
+1767;;
+1768;;
+1769;;
+1770;Elemental Scroll;Nullified Scroll of Defensive Elements
+1771;Elemental Scroll;Magical Scroll of Defensive Elements
+1772;Elemental Scroll;Flaming Scroll of Defensive Elements
+1773;Elemental Scroll;Soaked Scroll of Defensive Elements
+1774;Elemental Scroll;Earthen Scroll of Defensive Elements
+1775;Elemental Scroll;Windy Scroll of Defensive Elements
+1776;Elemental Scroll;Spiritual Scroll of Defensive Elements
+1777;Elemental Scroll;Poisonous Scroll of Defensive Elements
+1778;Elemental Scroll;Ghostly Scroll of Defensive Elements
+1779;;
+1780;;
+1781;;
+1782;;
+1783;;
+1784;;
+1785;;
+1786;;
+1787;;
+1788;;
+1789;;
+1790;;
+1791;;
+1792;;
+1793;;
+1794;;
+1795;;
+1796;;
+1797;;
+1798;;
+1799;;
+1800;;
+1801;;
+1802;;
+1803;;
+1804;;
+1805;;
+1806;;
+1807;;
+1808;;
+1809;;
+1810;;
+1811;;
+1812;;
+1813;;
+1814;;
+1815;;
+1816;;
+1817;;
+1818;;
+1819;;
+1820;;
+1821;;
+1822;;
+1823;;
+1824;;
+1825;;
+1826;;
+1827;;
+1828;;
+1829;;
+1830;;
+1831;;
+1832;;
+1833;;
+1834;;
+1835;;
+1836;;
+1837;;
+1838;;
+1839;;
+1840;;
+1841;;
+1842;;
+1843;;
+1844;;
+1845;;
+1846;;
+1847;;
+1848;;
+1849;;
+1850;;
+1851;;
+1852;;
+1853;;
+1854;;
+1855;;
+1856;;
+1857;;
+1858;;
+1859;;
+1860;;
+1861;;
+1862;;
+1863;;
+1864;;
+1865;;
+1866;;
+1867;;
+1868;;
+1869;;
+1870;;
+1871;;
+1872;;
+1873;;
+1874;;
+1875;;
+1876;;
+1877;;
+1878;;
+1879;;
+1880;;
+1881;;
+1882;;
+1883;;
+1884;;
+1885;;
+1886;;
+1887;;
+1888;;
+1889;;
+1890;;
+1891;;
+1892;;
+1893;;
+1894;;
+1895;;
+1896;;
+1897;;
+1898;;
+1899;;
+1900;;
+1901;;
+1902;;
+1903;;
+1904;;
+1905;;
+1906;;
+1907;;
+1908;;
+1909;;
+1910;;
+1911;;
+1912;;
+1913;;
+1914;;
+1915;;
+1916;;
+1917;Item Mall - Enchantment Scroll;Blank Enchantment Scroll
+1918;Item Mall (Not Sold Directly) - Enchantment Scroll;Imbued Enchantment Scroll
+1919;;
+1920;;
+1921;;
+1922;;
+1923;;
+1924;;
+1925;;
+1926;;
+1927;;
+1928;Refine Glow Color;White Refine Glow Painter
+1929;Refine Glow Color;Red Refine Glow Painter
+1930;Refine Glow Color;Blue Refine Glow Painter
+1931;Refine Glow Color;Yellow Refine Glow Painter
+1932;Refine Glow Color;Purple Refine Glow Painter
+1933;Refine Glow Color;Light Blue Refine Glow Painter
+1934;Refine Glow Color;Green Refine Glow Painter
+1935;Refine Glow Color;Orange Refine Glow Painter
+1936;Refine Glow Color;Pink Refine Glow Painter
+1937;;
+1938;;
+1939;;
+1940;;
+1941;;
+1942;;
+1943;;
+1944;;
+1945;;
+1946;;
+1947;;
+1948;Status Effect - Base Item Drop Rate;Medal of Prosperity
+1949;Status Effect - Item Drop Quantity;Medal of Abundance
+1950;Status Effect - Common Item Drop Rate;Medal of Common Gathering
+1951;Status Effect - Uncommon Item Drop Rate;Medal of Uncommon Gathering
+1952;Status Effect - Rare Item Drop Rate;Medal of Rare Gathering
+1953;Status Effect - Very Rare Item Drop Rate;Medal of Very Rare Gathering
+1954;Status Effect - Epic Item Drop Rate;Medal of Epic Gathering
+1955;Status Effect - Legendary Item Drop Rate;Medal of Legendary Gathering
+1956;Status Effect - Clan Point Bonus Rate;Medal of Diplomacy
+1957;;
+1958;;
+1959;;
+1960;;
+1961;;
+1962;;
+1963;;
+1964;;
+1965;;
+1966;;
+1967;;
+1968;;
+1969;;
+1970;;
+1971;;
+1972;;
+1973;;
+1974;;
+1975;;
+1976;;
+1977;;
+1978;;
+1979;;
+1980;;
+1981;;
+1982;;
+1983;;
+1984;;
+1985;;
+1986;;
+1987;;
+1988;;
+1989;;
+1990;;
+1991;;
+1992;;
+1993;;
+1994;;
+1995;;
+1996;;
+1997;Premium Daily Box;Spring Premium Daily Box
+1998;Premium Daily Box;Summer Premium Daily Box
+1999;Premium Daily Box;Autumn Premium Daily Box
+2000;Premium Daily Box;Winter Premium Daily Box
+2001;Item Mall - Special Event (Dec 2010);HP&MP Booster
+2002;Item Mall - Special Event (Dec 2010);Speed Booster
+2003;Item Mall - Special Event (Dec 2010);Akram Storage Coupon
+2004;Item Mall - Special Event (Dec 2010);Perfect Separation Drill
+2005;Item Mall - Special Event (Dec 2010);Job Skill Reset Book
+2006;Item Mall Skill Box Discounted (Dec 2010);Advanced Hustle Charm
+2007;Item Mall Skill Box Discounted (Dec 2010);Advanced Precision Charm
+2008;Item Mall Skill Box Discounted (Dec 2010);Advanced Resilience Charm
+2009;Item Mall Skill Box Discounted (Dec 2010);Advanced Battle Charm
+2010;Item Mall Skill Box Discounted (Dec 2010);Advanced Critical Charm
+2011;Item Mall Skill Box Discounted (Dec 2010);Advanced Evasive Charm
+2012;Item Mall Skill Box Discounted (Dec 2010);Advanced Clobber Charm
+2013;Item Mall Skill Box Discounted (Dec 2010);Advanced Valkyrie Charm
+2014;Item Mall Skill Box Discounted (Dec 2010);Soul Restore
+2015;Item Mall Item Discounted (Dec 2010);Snowman Shop Coupon
+2016;Item Mall - Monster Costume;Monster Madness Box
+2017;Item Mall - Monster Costume;Monster Box D
+2018;Item Mall - Monster Costume;Monster Box C
+2019;Item Mall - Monster Costume;Monster Box B
+2020;Item Mall - Monster Costume;Monster Box A
+2021;Item Mall - St. Patricks Lucky Box;St. Patricks Lucky Box
+2022;Item Mall - March Lucky Box;March Lucky Box
+2023;Item Mall - April Lucky Box;April Lucky Box
+2024;Item Mall - Red Luchador Set;Rojo Luchador Set
+2025;Item Mall - Green Luchador Set;Verde Luchador Set
+2026;Item Mall - Blue Luchador Set;Azul Luchador Set
+2027;Item Mall - Captain Zack Outfit;Captain Zack Outfit
+2028;Item Mall - Box of Plutorunes;Box of Plutorunes
+2029;Item Mall - Box of Venurunes;Box of Venurunes
+2030;Item Mall - Box of Saturunes;Box of Saturunes
+2031;Item Mall - Weekend Warrior Box;Weekend Warrior Box
+2032;Item Mall - Box of Trainee Medals;Box of Trainee Medals
+2033;Item Mall - Box of Medal of Fortune;Box of Medal of Fortune
+2034;Item Mall - Truck Bot Costume;Truck Bot Costume
+2035;Item Mall - Sport Bot Costume;Sport Bot Costume
+2036;Item Mall - Truck Bot Headpieces;Truck Bot Headpieces
+2037;Item Mall - Sport Bot Headpieces;Sport Bot Headpieces
+2038;Item Mall - Wizard's Costume;Wizard's Costume
+2039;Item Mall - Halloween Costume 2011;Love Story Costume
+2040;Item Mall - Halloween Box;Enchanted Box of Spooky
+2041;Event - NPC Sell Event 2011;Jeweled Box
+2042;Item Mall - Thanksgiving 2011;Box of Giving
+2043;Item Mall - November 2011;Equipment Chest
+2044;Premium Daily Box;Premium Daily Box
+2045;Item Mall - Christmas 2011;Merry Christmas Box
+2046;Halloween 2013;Frozen Corpse Costume Box
+2047;Winter Premium Daily Box - Reward;Pink Santa Outfit
+2048;Fire Rescue Outfit Box (1/2);Fire Rescue Outfit Box (1/2)
+2049;Fire Rescue Outfit Box (2/2);Fire Rescue Outfit Box (2/2)
+2050;Fire Fighter Outfit Box (1/2);Fire Fighter Outfit Box (1/2)
+2051;Fire Fighter Outfit Box (2/2);Fire Fighter Outfit Box (2/2)
+2052;Hat Gift Box;Hat Gift Box
+2053;Winter Box;Winter Box
+2054;Doctor Costume Box;Doctor Costume Box
+2055;Leap Year Box;Leap Year Box
+2056;Box of Hats;Box of Hats
+2057;April Lucky Box 2012;Summer Sun Box
+2058;Item Mall;Premium Coin
+2059;May Lucky Box 2012;Box of Gears
+2060;May Lucky Box 2012;Judy's Box
+2061;June Lucky Box 2012;Seraph's Pride
+2062;Box of 6 Shop Coupons;Box of Shops
+2063;Item Mall Costume;Shark Costume
+2064;July Lucky Box 2012;Disguise Box
+2065;August Lucky Box 2012;Back-to-School Box
+2066;August Moldie Package;Moldie Package
+2067;Halloween 2012;Trick or Treat Halloween Box
+2068;Halloween 2012;Bundled Trick or Treat Halloween Box
+2069;Fall Adventure Box;Fall Adventure Box
+2070;Item Mall Winter Sale 2012;Moldie Shop Coupon (Sale Box)
+2071;Item Mall Winter Sale 2012;Fish Shop Coupon (Sale Box)
+2072;Item Mall Winter Sale 2012;Panda Shop Coupon (Sale Box)
+2073;Item Mall Winter Sale 2012;Igloo Shop Coupon (Sale Box)
+2074;Item Mall Winter Sale 2012;Snowman Shop Coupon (Sale Box)
+2075;;
+2076;;
+2077;;
+2078;;
+2079;;
+2080;Item Mall Winter Sale 2012;Autumn Holiday Lucky Box
+2081;Item Mall Winter Sale 2012;Arua's Winter Adventure Box
+2082;Item Mall Winter Sale 2012;Hebarn's Winter Domination Box
+2083;IM Christmas Costume Box 2012;Gingerbread Costume Box
+2084;IM Christmas Costume Box 2012;Cocoa Gingerbread Costume Box
+2085;IM Christmas Costume Box 2012;Vanilla Gingerbread Costume Box 
+2086;IM Christmas Costume Box 2012;Blue Santa Costume Box
+2087;IM Christmas Costume Box 2012;Christmas Cart Box
+2088;UGC Promotion;Holiday Gift Box
+2089;UGC Promotion;Prince Loderic's Stash
+2090;Summer Beachwear;Black Beachwear Box
+2091;Summer Beachwear;Blue Beachwear Box
+2092;Summer Beachwear;Green Beachwear Box
+2093;Summer Beachwear;Purple Beachwear Box
+2094;IM Mini-Astarow Wings of Cataclysm Box;Mini-Astarot Wings of Cataclysm Box
+2095;IM Big Astarot Wings of Cataclysm Box;Big Astarot Wings of Cataclysm Box
+2096;IM Big Astarot Wings of Sentiment Box;Big Astarot Wings of Sentiment Box
+2097;Item Mall Costume Box;Cute Cat Costume Box
+2098;Item Mall Costume Box;Cute Cow Costume Box
+2099;Item Mall Costume Box;Cute Dog Costume Box
+2100;25% Off Sales Box;Re-Roll Hammer (100)
+2101;25% Off Sales Box;Blank Enchantment Scroll (10)
+2102;25% Off Sales Box;Farmer's Package
+2103;Contents of Farmer's Package (2/3);Farmer's Package (pt.2)
+2104;Contents of Farmer's Package (3/3);Farmer's Package (pt.3)
+2105;25% Off Sales Box;Item Unbinder (20)
+2106;25% Off Sales Box;Account Storage Expansion (5)
+2107;25% Off Sales Box;Character Storage Expansion (10)
+2108;Item Mall Costume Box 50% Off;Cute Cat Costume Box
+2109;Item Mall Costume Box 50% Off;Cute Cow Costume Box
+2110;Item Mall Costume Box 50% Off;Cute Dog Costume Box
+2111;Valentines Premium Daily Box;Valentines Premium Daily Box
+2112;Item Mall - Box of Medal of Diplomacy;Box of Medal of Diplomacy
+2113;Box of Ribbons;Box of Ribbons
+2114;Captain's Booty;Captain's Booty
+2115;Halloween Premium Daily Box;Halloween Premium Daily Box
+2116;Black Friday Box 1;Black Friday: Fox Costume
+2117;Black Friday Box 2;Black Friday: Cute Dragon Costume
+2118;Black Friday Box 3;Black Friday: Lolita Costume
+2119;Black Friday Box 4;Black Friday: Blue Baseball Uniform
+2120;Black Friday Box 5;Black Friday: Red Football Uniform
+2121;Black Friday Box 6;Black Friday: Hunter Costume
+2122;Black Friday Box 7;Black Friday: Truck Bot Costume
+2123;Black Friday Box 8;Black Friday: Sport Bot Costume
+2124;Black Friday Box 9;Black Friday: Steampunk Warrior Costume
+2125;Black Friday Box 10;Black Friday: Heavenly Soldier Costume
+2126;Small box of Small Wings;Small box of Small Wings
+2127;Lucky Spin Discount Box;Lucky Spin Coin Discount Box
+2128;Item Mall Discount Box;Adventurer's Booster Pack
+2129;Contents of Adventurer's Booster Pack;Adventurer's Booster Pack (pt.2)
+2130;Item Mall Discount Box;Adventurer's Cuisine Pack
+2131;Item Mall Discount Box;Silver Keychain
+2132;Item Mall Discount Box;Golden Keychain
+2133;Box of Guardian Wings;Box of Guardian Wings
+2134;Box of Gearwork Wings;Box of Gearwork Wings
+2135;Box of Gearflight Backshield;Box of Gearflight Backshield
+2136;Box of Winged Goggles;Box of Winged Goggles
+2137;Box of Clockwork Hunting Hat;Box of Clockwork Hunting Hat
+2138;Lucky Gear Box;Lucky Gear Box
+2139;Cloudy Lucky Box;Cloudy Lucky Box
+2140;Hardcore Lucky Box;Hardcore Lucky Box
+2141;Box of Skullhead Wings;Box of Skullhead Wings
+2142;Box of Autumn Wings;Box of Autumn Wings
+2143;Box of Feathered Capes;Box of Feathered Capes
+2144;;
+2145;;
+2146;;
+2147;;
+2148;;
+2149;;
+2150;;
+2151;;
+2152;;
+2153;;
+2154;;
+2155;;
+2156;;
+2157;;
+2158;;
+2159;;
+2160;;
+2161;;
+2162;;
+2163;;
+2164;;
+2165;;
+2166;;
+2167;;
+2168;;
+2169;;
+2170;;
+2171;;
+2172;;
+2173;;
+2174;;
+2175;;
+2176;;
+2177;;
+2178;;
+2179;;
+2180;;
+2181;;
+2182;;
+2183;;
+2184;;
+2185;;
+2186;;
+2187;;
+2188;;
+2189;;
+2190;;
+2191;;
+2192;;
+2193;;
+2194;;
+2195;;
+2196;;
+2197;;
+2198;;
+2199;Halloween Event - Item Mall Pills;
+2200;;Bat Booster
+2201;;Candy Booster
+2202;;Pumpkin Booster
+2203;;Skeleton Booster
+2204;;Witch Booster
+2205;;
+2206;;
+2207;;
+2208;;
+2209;;
+2210;;
+2211;;
+2212;;
+2213;;
+2214;;
+2215;;
+2216;;
+2217;;
+2218;;
+2219;;
+2220;;
+2221;;
+2222;;
+2223;;
+2224;;
+2225;;
+2226;;
+2227;;
+2228;;
+2229;;
+2230;;
+2231;;
+2232;;
+2233;;
+2234;;
+2235;;
+2236;;
+2237;;
+2238;;
+2239;;
+2240;;
+2241;;
+2242;;
+2243;;
+2244;;
+2245;;
+2246;;
+2247;;
+2248;;
+2249;;
+2250;;
+2251;;
+2252;;
+2253;;
+2254;;
+2255;;
+2256;;
+2257;;
+2258;;
+2259;;
+2260;;
+2261;;
+2262;;
+2263;;
+2264;;
+2265;;
+2266;;
+2267;;
+2268;;
+2269;;
+2270;;
+2271;;
+2272;;
+2273;;
+2274;;
+2275;;
+2276;;
+2277;;
+2278;;
+2279;Game Arena Quest Items;
+2280;Halls of Oblivion;Tolken's Riftometer
+2281;Sikuku Catacombs;Rod of Subjugation
+2282;;
+2283;;
+2284;;
+2285;;
+2286;;
+2287;;
+2288;;
+2289;;
+2290;;
+2291;;
+2292;;
+2293;;
+2294;;
+2295;;
+2296;;
+2297;;
+2298;;
+2299;;
+2300;Valor Shop Goods;
+2301;;Valor HP Potion
+2302;;Valor MP Potion
+2303;;Valor HP Food
+2304;;Valor MP Food
+2305;;
+2306;;
+2307;;
+2308;;
+2309;;
+2310;;
+2311;;
+2312;;
+2313;;
+2314;;
+2315;;
+2316;;
+2317;;
+2318;;
+2319;;
+2320;;
+2321;;
+2322;;
+2323;;
+2324;;
+2325;;
+2326;;
+2327;;
+2328;;
+2329;;
+2330;;
+2331;;
+2332;;
+2333;;
+2334;;
+2335;;
+2336;;
+2337;;
+2338;;
+2339;;
+2340;;
+2341;;
+2342;;
+2343;;
+2344;;
+2345;;
+2346;;
+2347;;
+2348;;
+2349;;
+2350;;
+2351;;
+2352;;
+2353;;
+2354;;
+2355;;
+2356;;
+2357;;
+2358;;
+2359;;
+2360;;
+2361;;
+2362;;
+2363;;
+2364;;
+2365;;
+2366;;
+2367;;
+2368;;
+2369;;
+2370;;
+2371;;
+2372;;
+2373;;
+2374;;
+2375;;
+2376;;
+2377;;
+2378;;
+2379;;
+2380;;
+2381;;
+2382;;
+2383;;
+2384;;
+2385;;
+2386;;
+2387;;
+2388;;
+2389;;
+2390;;
+2391;;
+2392;;
+2393;;
+2394;;
+2395;;
+2396;;
+2397;;
+2398;;
+2399;;
+2400;;
+2401;;
+2402;;
+2403;;
+2404;;
+2405;;
+2406;;
+2407;;
+2408;;
+2409;;
+2410;;
+2411;;
+2412;;
+2413;;
+2414;;
+2415;;
+2416;;
+2417;;
+2418;;
+2419;;
+2420;;
+2421;;
+2422;;
+2423;;
+2424;;
+2425;;
+2426;;
+2427;;
+2428;;
+2429;;
+2430;;
+2431;;
+2432;;
+2433;;
+2434;;
+2435;;
+2436;;
+2437;;
+2438;;
+2439;;
+2440;;
+2441;;
+2442;;
+2443;;
+2444;;
+2445;;
+2446;;
+2447;;
+2448;;
+2449;;
+2450;;
+2451;;
+2452;;
+2453;;
+2454;;
+2455;;
+2456;;
+2457;;
+2458;;
+2459;;
+2460;;
+2461;;
+2462;;
+2463;;
+2464;;
+2465;;
+2466;;
+2467;;
+2468;;
+2469;;
+2470;;
+2471;;
+2472;;
+2473;;
+2474;;
+2475;;
+2476;;
+2477;;
+2478;;
+2479;;
+2480;;
+2481;;
+2482;;
+2483;;
+2484;;
+2485;;
+2486;;
+2487;;
+2488;;
+2489;;
+2490;;
+2491;;
+2492;;
+2493;;
+2494;;
+2495;;
+2496;;
+2497;;
+2498;;
+2499;;
+2500;;
+2501;;
+2502;;
+2503;;
+2504;;
+2505;;
+2506;;
+2507;;
+2508;;
+2509;;
+2510;;
+2511;;
+2512;;
+2513;;
+2514;;
+2515;;
+2516;;
+2517;;
+2518;;
+2519;;
+2520;;
+2521;;
+2522;;
+2523;;
+2524;;
+2525;;
+2526;;
+2527;;
+2528;;
+2529;;
+2530;;
+2531;;
+2532;;
+2533;;
+2534;;
+2535;;
+2536;;
+2537;;
+2538;;
+2539;;
+2540;;
+2541;;
+2542;;
+2543;;
+2544;;
+2545;;
+2546;;
+2547;;
+2548;;
+2549;;
+2550;;
+2551;;
+2552;;
+2553;;
+2554;;
+2555;;
+2556;;
+2557;;
+2558;;
+2559;;
+2560;;
+2561;;
+2562;;
+2563;;
+2564;;
+2565;;
+2566;;
+2567;;
+2568;;
+2569;;
+2570;;
+2571;;
+2572;;
+2573;;
+2574;;
+2575;;
+2576;;
+2577;;
+2578;;
+2579;;
+2580;;
+2581;;
+2582;;
+2583;;
+2584;;
+2585;;
+2586;;
+2587;;
+2588;;
+2589;;
+2590;;
+2591;;
+2592;;
+2593;;
+2594;;
+2595;;
+2596;;
+2597;;
+2598;;
+2599;;
+2600;;
+2601;;
+2602;;
+2603;;
+2604;;
+2605;;
+2606;;
+2607;;
+2608;;
+2609;;
+2610;;
+2611;;
+2612;;
+2613;;
+2614;;
+2615;;
+2616;;
+2617;;
+2618;;
+2619;;
+2620;;
+2621;;
+2622;;
+2623;;
+2624;;
+2625;;
+2626;;
+2627;;
+2628;;
+2629;;
+2630;;
+2631;;
+2632;;
+2633;;
+2634;;
+2635;;
+2636;;
+2637;;
+2638;;
+2639;;
+2640;;
+2641;;
+2642;;
+2643;;
+2644;;
+2645;;
+2646;;
+2647;;
+2648;;
+2649;;
+2650;;
+2651;;
+2652;;
+2653;;
+2654;;
+2655;;
+2656;;
+2657;;
+2658;;
+2659;;
+2660;;
+2661;;
+2662;;
+2663;;
+2664;;
+2665;;
+2666;;
+2667;;
+2668;;
+2669;;
+2670;;
+2671;;
+2672;;
+2673;;
+2674;;
+2675;;
+2676;;
+2677;;
+2678;;
+2679;;
+2680;;
+2681;;
+2682;;
+2683;;
+2684;;
+2685;;
+2686;;
+2687;;
+2688;;
+2689;;
+2690;;
+2691;;
+2692;;
+2693;;
+2694;;
+2695;;
+2696;;
+2697;;
+2698;;
+2699;;
+2700;;
+2701;;
+2702;;
+2703;;
+2704;;
+2705;;
+2706;;
+2707;;
+2708;;
+2709;;
+2710;;
+2711;;
+2712;;
+2713;;
+2714;;
+2715;;
+2716;;
+2717;;
+2718;;
+2719;;
+2720;;
+2721;;
+2722;;
+2723;;
+2724;;
+2725;;
+2726;;
+2727;;
+2728;;
+2729;;
+2730;;
+2731;;
+2732;;
+2733;;
+2734;;
+2735;;
+2736;;
+2737;;
+2738;;
+2739;;
+2740;;
+2741;;
+2742;;
+2743;;
+2744;;
+2745;;
+2746;;
+2747;;
+2748;;
+2749;;
+2750;;
+2751;;
+2752;;
+2753;;
+2754;;
+2755;;
+2756;;
+2757;;
+2758;;
+2759;;
+2760;;
+2761;;
+2762;;
+2763;;
+2764;;
+2765;;
+2766;;
+2767;;
+2768;;
+2769;;
+2770;;
+2771;;
+2772;;
+2773;;
+2774;;
+2775;;
+2776;;
+2777;;
+2778;;
+2779;;
+2780;;
+2781;;
+2782;;
+2783;;
+2784;;
+2785;;
+2786;;
+2787;;
+2788;;
+2789;;
+2790;;
+2791;;
+2792;;
+2793;;
+2794;;
+2795;;
+2796;;
+2797;;
+2798;;
+2799;;
+2800;;
+2801;;
+2802;;
+2803;;
+2804;;
+2805;;
+2806;;
+2807;;
+2808;;
+2809;;
+2810;;
+2811;;
+2812;;
+2813;;
+2814;;
+2815;;
+2816;;
+2817;;
+2818;;
+2819;;
+2820;;
+2821;;
+2822;;
+2823;;
+2824;;
+2825;;
+2826;;
+2827;;
+2828;;
+2829;;
+2830;;
+2831;;
+2832;;
+2833;;
+2834;;
+2835;;
+2836;;
+2837;;
+2838;;
+2839;;
+2840;;
+2841;;
+2842;;
+2843;;
+2844;;
+2845;;
+2846;;
+2847;;
+2848;;
+2849;;
+2850;;
+2851;;
+2852;;
+2853;;
+2854;;
+2855;;
+2856;;
+2857;;
+2858;;
+2859;;
+2860;;
+2861;;
+2862;;
+2863;;
+2864;;
+2865;;
+2866;;
+2867;;
+2868;;
+2869;;
+2870;;
+2871;;
+2872;;
+2873;;
+2874;;
+2875;;
+2876;;
+2877;;
+2878;;
+2879;;
+2880;;
+2881;;
+2882;;
+2883;;
+2884;;
+2885;;
+2886;;
+2887;;
+2888;;
+2889;;
+2890;;
+2891;;
+2892;;
+2893;;
+2894;;
+2895;;
+2896;;
+2897;;
+2898;;
+2899;;
+2900;;
+2901;;
+2902;;
+2903;;
+2904;;
+2905;;
+2906;;
+2907;;
+2908;;
+2909;;
+2910;;
+2911;;
+2912;;
+2913;;
+2914;;
+2915;;
+2916;;
+2917;;
+2918;;
+2919;;
+2920;;
+2921;;
+2922;;
+2923;;
+2924;;
+2925;;
+2926;;
+2927;;
+2928;;
+2929;;
+2930;;
+2931;;
+2932;;
+2933;;
+2934;;
+2935;;
+2936;;
+2937;;
+2938;;
+2939;;
+2940;;
+2941;;
+2942;;
+2943;;
+2944;;
+2945;;
+2946;;
+2947;;
+2948;;
+2949;;
+2950;;
+2951;;
+2952;;
+2953;;
+2954;;
+2955;;
+2956;;
+2957;;
+2958;;
+2959;;
+2960;;
+2961;;
+2962;;
+2963;;
+2964;;
+2965;;
+2966;;
+2967;;
+2968;;
+2969;;
+2970;;
+2971;;
+2972;;
+2973;;
+2974;;
+2975;;
+2976;;
+2977;;
+2978;;
+2979;;
+2980;;
+2981;;
+2982;;
+2983;;
+2984;;
+2985;;
+2986;;
+2987;;
+2988;;
+2989;;
+2990;;
+2991;;
+2992;;
+2993;;
+2994;;
+2995;;
+2996;;
+2997;;
+2998;;
+2999;;
+3000;;
+3001;;
+3002;;
+3003;;
+3004;;
+3005;;
+3006;;
+3007;;
+3008;;
+3009;;
+3010;;
+3011;;
+3012;;
+3013;;
+3014;;
+3015;;
+3016;;
+3017;;
+3018;;
+3019;;
+3020;;
+3021;;
+3022;;
+3023;;
+3024;;
+3025;;
+3026;;
+3027;;
+3028;;
+3029;;
+3030;;
+3031;;
+3032;;
+3033;;
+3034;;
+3035;;
+3036;;
+3037;;
+3038;;
+3039;;
+3040;;
+3041;;
+3042;;
+3043;;
+3044;;
+3045;;
+3046;;
+3047;;
+3048;;
+3049;;
+3050;;
+3051;;
+3052;;
+3053;;
+3054;;
+3055;;
+3056;;
+3057;;
+3058;;
+3059;;
+3060;;
+3061;;
+3062;;
+3063;;
+3064;;
+3065;;
+3066;;
+3067;;
+3068;;
+3069;;
+3070;;
+3071;;
+3072;;
+3073;;
+3074;;
+3075;;
+3076;;
+3077;;
+3078;;
+3079;;
+3080;;
+3081;;
+3082;;
+3083;;
+3084;;
+3085;;
+3086;;
+3087;;
+3088;;
+3089;;
+3090;;
+3091;;
+3092;;
+3093;;
+3094;;
+3095;;
+3096;;
+3097;;
+3098;;
+3099;;
+3100;;
+3101;;
+3102;;
+3103;;
+3104;;
+3105;;
+3106;;
+3107;;
+3108;;
+3109;;
+3110;;
+3111;;
+3112;;
+3113;;
+3114;;
+3115;;
+3116;;
+3117;;
+3118;;
+3119;;
+3120;;
+3121;;
+3122;;
+3123;;
+3124;;
+3125;;
+3126;;
+3127;;
+3128;;
+3129;;
+3130;;
+3131;;
+3132;;
+3133;;
+3134;;
+3135;;
+3136;;
+3137;;
+3138;;
+3139;;
+3140;;
+3141;;
+3142;;
+3143;;
+3144;;
+3145;;
+3146;;
+3147;;
+3148;;
+3149;;
+3150;;
+3151;;
+3152;;
+3153;;
+3154;;
+3155;;
+3156;;
+3157;;
+3158;;
+3159;;
+3160;;
+3161;;
+3162;;
+3163;;
+3164;;
+3165;;
+3166;;
+3167;;
+3168;;
+3169;;
+3170;;
+3171;;
+3172;;
+3173;;
+3174;;
+3175;;
+3176;;
+3177;;
+3178;;
+3179;;
+3180;;
+3181;;
+3182;;
+3183;;
+3184;;
+3185;;
+3186;;
+3187;;
+3188;;
+3189;;
+3190;;
+3191;;
+3192;;
+3193;;
+3194;;
+3195;;
+3196;;
+3197;;
+3198;;
+3199;;
+3200;;
+3201;;
+3202;;
+3203;;
+3204;;
+3205;;
+3206;;
+3207;;
+3208;;
+3209;;
+3210;;
+3211;;
+3212;;
+3213;;
+3214;;
+3215;;
+3216;;
+3217;;
+3218;;
+3219;;
+3220;;
+3221;;
+3222;;
+3223;;
+3224;;
+3225;;
+3226;;
+3227;;
+3228;;
+3229;;
+3230;;
+3231;;
+3232;;
+3233;;
+3234;;
+3235;;
+3236;;
+3237;;
+3238;;
+3239;;
+3240;;
+3241;;
+3242;;
+3243;;
+3244;;
+3245;;
+3246;;
+3247;;
+3248;;
+3249;;
+3250;;
+3251;;
+3252;;
+3253;;
+3254;;
+3255;;
+3256;;
+3257;;
+3258;;
+3259;;
+3260;;
+3261;;
+3262;;
+3263;;
+3264;;
+3265;;
+3266;;
+3267;;
+3268;;
+3269;;
+3270;;
+3271;;
+3272;;
+3273;;
+3274;;
+3275;;
+3276;;
+3277;;
+3278;;
+3279;;
+3280;;
+3281;;
+3282;;
+3283;;
+3284;;
+3285;;
+3286;;
+3287;;
+3288;;
+3289;;
+3290;;
+3291;;
+3292;;
+3293;;
+3294;;
+3295;;
+3296;;
+3297;;
+3298;;
+3299;;
+3300;;
+3301;;
+3302;;
+3303;;
+3304;;
+3305;;
+3306;;
+3307;;
+3308;;
+3309;;
+3310;;
+3311;;
+3312;;
+3313;;
+3314;;
+3315;;
+3316;;
+3317;;
+3318;;
+3319;;
+3320;;
+3321;;
+3322;;
+3323;;
+3324;;
+3325;;
+3326;;
+3327;;
+3328;;
+3329;;
+3330;;
+3331;;
+3332;;
+3333;;
+3334;;
+3335;;
+3336;;
+3337;;
+3338;;
+3339;;
+3340;;
+3341;;
+3342;;
+3343;;
+3344;;
+3345;;
+3346;;
+3347;;
+3348;;
+3349;;
+3350;;
+3351;;
+3352;;
+3353;;
+3354;;
+3355;;
+3356;;
+3357;;
+3358;;
+3359;;
+3360;;
+3361;;
+3362;;
+3363;;
+3364;;
+3365;;
+3366;;
+3367;;
+3368;;
+3369;;
+3370;;
+3371;;
+3372;;
+3373;;
+3374;;
+3375;;
+3376;;
+3377;;
+3378;;
+3379;;
+3380;;
+3381;;
+3382;;
+3383;;
+3384;;
+3385;;
+3386;;
+3387;;
+3388;;
+3389;;
+3390;;
+3391;;
+3392;;
+3393;;
+3394;;
+3395;;
+3396;;
+3397;;
+3398;;
+3399;;
+3400;;
+3401;;
+3402;;
+3403;;
+3404;;
+3405;;
+3406;;
+3407;;
+3408;;
+3409;;
+3410;;
+3411;;
+3412;;
+3413;;
+3414;;
+3415;;
+3416;;
+3417;;
+3418;;
+3419;;
+3420;;
+3421;;
+3422;;
+3423;;
+3424;;
+3425;;
+3426;;
+3427;;
+3428;;
+3429;;
+3430;;
+3431;;
+3432;;
+3433;;
+3434;;
+3435;;
+3436;;
+3437;;
+3438;;
+3439;;
+3440;;
+3441;;
+3442;;
+3443;;
+3444;;
+3445;;
+3446;;
+3447;;
+3448;;
+3449;;
+3450;;
+3451;;
+3452;;
+3453;;
+3454;;
+3455;;
+3456;;
+3457;;
+3458;;
+3459;;
+3460;;
+3461;;
+3462;;
+3463;;
+3464;;
+3465;;
+3466;;
+3467;;
+3468;;
+3469;;
+3470;;
+3471;;
+3472;;
+3473;;
+3474;;
+3475;;
+3476;;
+3477;;
+3478;;
+3479;;
+3480;;
+3481;;
+3482;;
+3483;;
+3484;;
+3485;;
+3486;;
+3487;;
+3488;;
+3489;;
+3490;;
+3491;;
+3492;;
+3493;;
+3494;;
+3495;;
+3496;;
+3497;;
+3498;;
+3499;;
+3500;;
+3501;;
+3502;;
+3503;;
+3504;;
+3505;;
+3506;;
+3507;;
+3508;;
+3509;;
+3510;;
+3511;;
+3512;;
+3513;;
+3514;;
+3515;;
+3516;;
+3517;;
+3518;;
+3519;;
+3520;;
+3521;;
+3522;;
+3523;;
+3524;;
+3525;;
+3526;;
+3527;;
+3528;;
+3529;;
+3530;;
+3531;;
+3532;;
+3533;;
+3534;;
+3535;;
+3536;;
+3537;;
+3538;;
+3539;;
+3540;;
+3541;;
+3542;;
+3543;;
+3544;;
+3545;;
+3546;;
+3547;;
+3548;;
+3549;;
+3550;;
+3551;;
+3552;;
+3553;;
+3554;;
+3555;;
+3556;;
+3557;;
+3558;;
+3559;;
+3560;;
+3561;;
+3562;;
+3563;;
+3564;;
+3565;;
+3566;;
+3567;;
+3568;;
+3569;;
+3570;;
+3571;;
+3572;;
+3573;;
+3574;;
+3575;;
+3576;;
+3577;;
+3578;;
+3579;;
+3580;;
+3581;;
+3582;;
+3583;;
+3584;;
+3585;;
+3586;;
+3587;;
+3588;;
+3589;;
+3590;;
+3591;;
+3592;;
+3593;;
+3594;;
+3595;;
+3596;;
+3597;;
+3598;;
+3599;;
+3600;;
+3601;;
+3602;;
+3603;;
+3604;;
+3605;;
+3606;;
+3607;;
+3608;;
+3609;;
+3610;;
+3611;;
+3612;;
+3613;;
+3614;;
+3615;;
+3616;;
+3617;;
+3618;;
+3619;;
+3620;;
+3621;;
+3622;;
+3623;;
+3624;;
+3625;;
+3626;;
+3627;;
+3628;;
+3629;;
+3630;;
+3631;;
+3632;;
+3633;;
+3634;;
+3635;;
+3636;;
+3637;;
+3638;;
+3639;;
+3640;;
+3641;;
+3642;;
+3643;;
+3644;;
+3645;;
+3646;;
+3647;;
+3648;;
+3649;;
+3650;;
+3651;;
+3652;;
+3653;;
+3654;;
+3655;;
+3656;;
+3657;;
+3658;;
+3659;;
+3660;;
+3661;;
+3662;;
+3663;;
+3664;;
+3665;;
+3666;;
+3667;;
+3668;;
+3669;;
+3670;;
+3671;;
+3672;;
+3673;;
+3674;;
+3675;;
+3676;;
+3677;;
+3678;;
+3679;;
+3680;;
+3681;;
+3682;;
+3683;;
+3684;;
+3685;;
+3686;;
+3687;;
+3688;;
+3689;;
+3690;;
+3691;;
+3692;;
+3693;;
+3694;;
+3695;;
+3696;;
+3697;;
+3698;;
+3699;;
+3700;;
+3701;;
+3702;;
+3703;;
+3704;;
+3705;;
+3706;;
+3707;;
+3708;;
+3709;;
+3710;;
+3711;;
+3712;;
+3713;;
+3714;;
+3715;;
+3716;;
+3717;;
+3718;;
+3719;;
+3720;;
+3721;;
+3722;;
+3723;;
+3724;;
+3725;;
+3726;;
+3727;;
+3728;;
+3729;;
+3730;;
+3731;;
+3732;;
+3733;;
+3734;;
+3735;;
+3736;;
+3737;;
+3738;;
+3739;;
+3740;;
+3741;;
+3742;;
+3743;;
+3744;;
+3745;;
+3746;;
+3747;;
+3748;;
+3749;;
+3750;;
+3751;;
+3752;;
+3753;;
+3754;;
+3755;;
+3756;;
+3757;;
+3758;;
+3759;;
+3760;;
+3761;;
+3762;;
+3763;;
+3764;;
+3765;;
+3766;;
+3767;;
+3768;;
+3769;;
+3770;;
+3771;;
+3772;;
+3773;;
+3774;;
+3775;;
+3776;;
+3777;;
+3778;;
+3779;;
+3780;;
+3781;;
+3782;;
+3783;;
+3784;;
+3785;;
+3786;;
+3787;;
+3788;;
+3789;;
+3790;;
+3791;;
+3792;;
+3793;;
+3794;;
+3795;;
+3796;;
+3797;;
+3798;;
+3799;;
+3800;;
+3801;;
+3802;;
+3803;;
+3804;;
+3805;;
+3806;;
+3807;;
+3808;;
+3809;;
+3810;;
+3811;;
+3812;;
+3813;;
+3814;;
+3815;;
+3816;;
+3817;;
+3818;;
+3819;;
+3820;;
+3821;;
+3822;;
+3823;;
+3824;;
+3825;;
+3826;;
+3827;;
+3828;;
+3829;;
+3830;;
+3831;;
+3832;;
+3833;;
+3834;;
+3835;;
+3836;;
+3837;;
+3838;;
+3839;;
+3840;;
+3841;;
+3842;;
+3843;;
+3844;;
+3845;;
+3846;;
+3847;;
+3848;;
+3849;;
+3850;;
+3851;;
+3852;;
+3853;;
+3854;;
+3855;;
+3856;;
+3857;;
+3858;;
+3859;;
+3860;;
+3861;;
+3862;;
+3863;;
+3864;;
+3865;;
+3866;;
+3867;;
+3868;;
+3869;;
+3870;;
+3871;;
+3872;;
+3873;;
+3874;;
+3875;;
+3876;;
+3877;;
+3878;;
+3879;;
+3880;;
+3881;;
+3882;;
+3883;;
+3884;;
+3885;;
+3886;;
+3887;;
+3888;;
+3889;;
+3890;;
+3891;;
+3892;;
+3893;;
+3894;;
+3895;;
+3896;;
+3897;;
+3898;;
+3899;;
+3900;;
+3901;;
+3902;;
+3903;;
+3904;;
+3905;;
+3906;;
+3907;;
+3908;;
+3909;;
+3910;;
+3911;;
+3912;;
+3913;;
+3914;;
+3915;;
+3916;;
+3917;;
+3918;;
+3919;;
+3920;;
+3921;;
+3922;;
+3923;;
+3924;;
+3925;;
+3926;;
+3927;;
+3928;;
+3929;;
+3930;;
+3931;;
+3932;;
+3933;;
+3934;;
+3935;;
+3936;;
+3937;;
+3938;;
+3939;;
+3940;;
+3941;;
+3942;;
+3943;;
+3944;;
+3945;;
+3946;;
+3947;;
+3948;;
+3949;;
+3950;;
+3951;;
+3952;;
+3953;;
+3954;;
+3955;;
+3956;;
+3957;;
+3958;;
+3959;;
+3960;;
+3961;;
+3962;;
+3963;;
+3964;;
+3965;;
+3966;;
+3967;;
+3968;;
+3969;;
+3970;;
+3971;;
+3972;;
+3973;;
+3974;;
+3975;;
+3976;;
+3977;;
+3978;;
+3979;;
+3980;;
+3981;;
+3982;;
+3983;;
+3984;;
+3985;;
+3986;;
+3987;;
+3988;;
+3989;;
+3990;;
+3991;;
+3992;;
+3993;;
+3994;;
+3995;;
+3996;;
+3997;;
+3998;;
+3999;;
+4000;Valor Passives;Deflection Blessing
+4001;Unique Skills - Common;(PvP) Mana Break
+4002;Unique Skills - Common;(PvM) Anti Magic Shell
+4003;Valor Passives;Swift Blessing
+4004;Valor Passives;Nimble Blessing
+4005;Valor Passives;Shield Blessing
+4006;Valor Passives;Protection Blessing
+4007;Valor Passives;Marksmen Blessing
+4008;Valor Passives;Intense Blessing
+4009;Valor Passives;Novice Swiftness Training
+4010;Valor Passives;Apprentice Swiftness Training
+4011;Valor Passives;Disciple Swiftness Training
+4012;Valor Passives;Adept Swiftness Training
+4013;Valor Passives;Master Swiftness Training
+4014;Valor Passives;Novice Nimbleness Training
+4015;Valor Passives;Apprentice Nimbleness Training
+4016;Valor Passives;Disciple Nimbleness Training
+4017;Valor Passives;Adept Nimbleness Training
+4018;Valor Passives;Master Nimbleness Training
+4019;Valor Passives;Novice Shielding Training
+4020;Valor Passives;Apprentice Shielding Training
+4021;Valor Passives;Disciple Shielding Training
+4022;Valor Passives;Adept Shielding Training
+4023;Valor Passives;Master Shielding Training
+4024;Valor Passives;Novice Protection  Training
+4025;Valor Passives;Apprentice Protection  Training
+4026;Valor Passives;Disciple Protection  Training
+4027;Valor Passives;Adept Protection  Training
+4028;Valor Passives;Master Protection  Training
+4029;Valor Passives;Novice Marksmen  Training
+4030;Valor Passives;Apprentice Marksmen  Training
+4031;Valor Passives;Disciple Marksmen  Training
+4032;Valor Passives;Adept Marksmen  Training
+4033;Valor Passives;Master Marksmen  Training
+4034;Valor Passives;Novice Intensity Training
+4035;Valor Passives;Apprentice Intensity Training
+4036;Valor Passives;Disciple Intensity Training
+4037;Valor Passives;Adept Intensity Training
+4038;Valor Passives;Master Intensity Training
+4039;Valor Passives;Novice Deflection Training
+4040;Valor Passives;Apprentice Deflection Training
+4041;Valor Passives;Disciple Deflection Training
+4042;Valor Passives;Adept Deflection Training
+4043;Valor Passives;Master Deflection Training
+4044;Valor Passives;Grand Master Swiftness Training
+4045;Valor Passives;Grand Master Nimbleness Training
+4046;Valor Passives;Grand Master Shielding Training
+4047;Valor Passives;Grand Master Protection  Training
+4048;Valor Passives;Grand Master Marksmen  Training
+4049;Valor Passives;Grand Master Intensity Training
+4050;Valor Passives;Grand Master Deflection Training
+4051;Valor Passives;Supreme Master Swiftness Training
+4052;Valor Passives;Supreme Master Nimbleness Training
+4053;Valor Passives;Supreme Master Shielding Training
+4054;Valor Passives;Supreme Master Protection  Training
+4055;Valor Passives;Supreme Master Marksmen  Training
+4056;Valor Passives;Supreme Master Intensity Training
+4057;Valor Passives;Supreme Master Deflection Training
+4058;;
+4059;;
+4060;;
+4061;;
+4062;;
+4063;;
+4064;;
+4065;;
+4066;;
+4067;;
+4068;;
+4069;;
+4070;;
+4071;;
+4072;;
+4073;;
+4074;;
+4075;;
+4076;;
+4077;;
+4078;;
+4079;;
+4080;;
+4081;;
+4082;;
+4083;;
+4084;;
+4085;;
+4086;;
+4087;;
+4088;;
+4089;;
+4090;;
+4091;;
+4092;;
+4093;;
+4094;;
+4095;;
+4096;;
+4097;;
+4098;;
+4099;;
+4100;;
+4101;;
+4102;;
+4103;;
+4104;;
+4105;;
+4106;;
+4107;;
+4108;;
+4109;;
+4110;;
+4111;;
+4112;;
+4113;;
+4114;;
+4115;;
+4116;;
+4117;;
+4118;;
+4119;;
+4120;;
+4121;;
+4122;;
+4123;;
+4124;;
+4125;;
+4126;;
+4127;;
+4128;;
+4129;;
+4130;;
+4131;;
+4132;;
+4133;;
+4134;;
+4135;;
+4136;;
+4137;;
+4138;;
+4139;;
+4140;;
+4141;;
+4142;;
+4143;;
+4144;;
+4145;;
+4146;;
+4147;;
+4148;;
+4149;;
+4150;;
+4151;;
+4152;;
+4153;;
+4154;;
+4155;;
+4156;;
+4157;;
+4158;;
+4159;;
+4160;;
+4161;;
+4162;;
+4163;;
+4164;;
+4165;;
+4166;;
+4167;;
+4168;;
+4169;;
+4170;;
+4171;;
+4172;;
+4173;;
+4174;;
+4175;;
+4176;;
+4177;;
+4178;;
+4179;;
+4180;;
+4181;;
+4182;;
+4183;;
+4184;;
+4185;;
+4186;;
+4187;;
+4188;;
+4189;;
+4190;;
+4191;;
+4192;;
+4193;;
+4194;;
+4195;;
+4196;;
+4197;;
+4198;;
+4199;;
+4200;;
+4201;;
+4202;;
+4203;;
+4204;;
+4205;;
+4206;;
+4207;;
+4208;;
+4209;;
+4210;;
+4211;;
+4212;;
+4213;;
+4214;;
+4215;;
+4216;;
+4217;;
+4218;;
+4219;;
+4220;;
+4221;;
+4222;;
+4223;;
+4224;;
+4225;;
+4226;;
+4227;;
+4228;;
+4229;;
+4230;;
+4231;;
+4232;;
+4233;;
+4234;;
+4235;;
+4236;;
+4237;;
+4238;;
+4239;;
+4240;;
+4241;;
+4242;;
+4243;;
+4244;;
+4245;;
+4246;;
+4247;;
+4248;;
+4249;;
+4250;;
+4251;Adamantine Fist;Adamantine Fist
+4252;Gaurdian's Might;Guardian's Might
+4253;Shield Spikes;Shield Spikes
+4254;(PvP) Lightning Crasher;(PvP) Lightning Crasher
+4255;(PvP) Trap Arrow;(PvP) Trap Arrow
+4256;(PvP) Shield Throw;(PvP) Shield Throw
+4257;(PvM) Impact Wave;(PvM) Impact Wave
+4258;(PvM) Soul Wreck;(PvM) Soul Wreck
+4259;(PvM) Shield Bash;(PvM) Shield Bash
+4260;Honor Passive;One-Handed Weapon Iron Blessing
+4261;Honor Passive;One-Handed Weapon Wind Blessing
+4262;Honor Passive;Novice One-Handed Weapon Striking Training
+4263;Honor Passive;Apprentice One-Handed Weapon Striking Training
+4264;Honor Passive;Disciple One-Handed Weapon Striking Training
+4265;Honor Passive;Adept One-Handed Weapon Striking Training
+4266;Honor Passive;Master One-Handed Weapon Striking Training
+4267;Honor Passive;Novice One-Handed Weapon Wielding Training
+4268;Honor Passive;Apprentice One-Handed Weapon Wielding Training
+4269;Honor Passive;Disciple One-Handed Weapon Wielding Training
+4270;Honor Passive;Adept One-Handed Weapon Wielding Training
+4271;Honor Passive;Master One-Handed Weapon Wielding Training
+4272;Honor Passive;Grand Master One-Handed Weapon Striking Training
+4273;Honor Passive;Supreme Master One-Handed Weapon Striking Training
+4274;Honor Passive;Grand Master One-Handed Weapon Wielding Training
+4275;Honor Passive;Supreme Master One-Handed Weapon Wielding Training
+4276;;
+4277;;
+4278;;
+4279;;
+4280;;
+4281;;
+4282;;
+4283;;
+4284;;
+4285;;
+4286;;
+4287;;
+4288;;
+4289;;
+4290;;
+4291;;
+4292;;
+4293;;
+4294;;
+4295;;
+4296;;
+4297;;
+4298;;
+4299;;
+4300;;
+4301;Champion Training ;Champion Training 
+4302;Warrior's Menace;Warrior's Menace
+4303;Berserk ;Berserk 
+4304;(PvP) Geon Archangel Crumpler;(PvP) Geon Archangel Crumpler
+4305;(PvP) Longinus' Strike;(PvP) Longinus' Strike
+4306;(PvP) Weapon Launcher;(PvP) Weapon Launcher
+4307;(PvM) Combat Howl;(PvM) Combat Howl
+4308;(PvM) Seismic Impact;(PvM) Seismic Impact
+4309;(PvM) Combat Scream;(PvM) Combat Scream
+4310;(PvM) Longinus' Strike;(PvM) Longinus' Strike
+4311;(PvM) Combat Shout;(PvM) Combat Shout
+4312;(PvM) Champion Strike;(PvM) Champion Strike
+4313;Honor Passive;Two-Handed Sword Iron Blessing
+4314;Honor Passive;Two-Handed Sword Wind Blessing
+4315;Honor Passive;Two-Handed Spear Iron Blessing
+4316;Honor Passive;Two-Handed Spear Wind Blessing
+4317;Honor Passive;Two-Handed Axe Iron Blessing
+4318;Honor Passive;Two-Handed Axe Wind Blessing
+4319;Honor Passive;Novice Two-Handed Sword Striking Training
+4320;Honor Passive;Apprentice Two-Handed Sword Striking Training
+4321;Honor Passive;Disciple Two-Handed Sword Striking Training
+4322;Honor Passive;Adept Two-Handed Sword Striking Training
+4323;Honor Passive;Master Two-Handed Sword Striking Training
+4324;Honor Passive;Novice Two-Handed Sword Wielding Training
+4325;Honor Passive;Apprentice Two-Handed Sword Wielding Training
+4326;Honor Passive;Disciple Two-Handed Sword Wielding Training
+4327;Honor Passive;Adept Two-Handed Sword Wielding Training
+4328;Honor Passive;Master Two-Handed Sword Wielding Training
+4329;Honor Passive;Novice Two-Handed Spear Striking Training
+4330;Honor Passive;Apprentice Two-Handed Spear Striking Training
+4331;Honor Passive;Disciple Two-Handed Spear Striking Training
+4332;Honor Passive;Adept Two-Handed Spear Striking Training
+4333;Honor Passive;Master Two-Handed Spear Striking Training
+4334;Honor Passive;Novice Two-Handed Spear Wielding Training
+4335;Honor Passive;Apprentice Two-Handed Spear Wielding Training
+4336;Honor Passive;Disciple Two-Handed Spear Wielding Training
+4337;Honor Passive;Adept Two-Handed Spear Wielding Training
+4338;Honor Passive;Master Two-Handed Spear Wielding Training
+4339;Honor Passive;Novice Two-Handed Axe Striking Training
+4340;Honor Passive;Apprentice Two-Handed Axe Striking Training
+4341;Honor Passive;Disciple Two-Handed Axe Striking Training
+4342;Honor Passive;Adept Two-Handed Axe Striking Training
+4343;Honor Passive;Master Two-Handed Axe Striking Training
+4344;Honor Passive;Novice Two-Handed Axe Wielding Training
+4345;Honor Passive;Apprentice Two-Handed Axe Wielding Training
+4346;Honor Passive;Disciple Two-Handed Axe Wielding Training
+4347;Honor Passive;Adept Two-Handed Axe Wielding Training
+4348;Honor Passive;Master Two-Handed Axe Wielding Training
+4349;Honor Passive;Grand Master Two-Handed Sword Striking Training
+4350;Honor Passive;Supreme Master Two-Handed Sword Striking Training
+4351;Honor Passive;Grand Master Two-Handed Spear Striking Training
+4352;Honor Passive;Supreme Master Two-Handed Spear Striking Training
+4353;Honor Passive;Grand Master Two-Handed Axe Striking Training
+4354;Honor Passive;Supreme Master Two-Handed Axe Striking Training
+4355;Honor Passive;Grand Master Two-Handed Sword Wielding Training
+4356;Honor Passive;Supreme Master Two-Handed Sword Wielding Training
+4357;Honor Passive;Grand Master Two-Handed Spear Wielding Training
+4358;Honor Passive;Supreme Master Two-Handed Spear Wielding Training
+4359;Honor Passive;Grand Master Two-Handed Axe Wielding Training
+4360;Honor Passive;Supreme Master Two-Handed Axe Wielding Training
+4361;;
+4362;;
+4363;;
+4364;;
+4365;;
+4366;;
+4367;;
+4368;;
+4369;;
+4370;;
+4371;;
+4372;;
+4373;;
+4374;;
+4375;;
+4376;;
+4377;;
+4378;;
+4379;;
+4380;;
+4381;;
+4382;;
+4383;;
+4384;;
+4385;;
+4386;;
+4387;;
+4388;;
+4389;;
+4390;;
+4391;;
+4392;;
+4393;;
+4394;;
+4395;;
+4396;;
+4397;;
+4398;;
+4399;;
+4400;;
+4401;;
+4402;;
+4403;;
+4404;;
+4405;;
+4406;;
+4407;;
+4408;;
+4409;;
+4410;;
+4411;;
+4412;;
+4413;;
+4414;;
+4415;;
+4416;;
+4417;;
+4418;;
+4419;;
+4420;;
+4421;;
+4422;;
+4423;;
+4424;;
+4425;;
+4426;;
+4427;;
+4428;;
+4429;;
+4430;;
+4431;;
+4432;;
+4433;;
+4434;;
+4435;;
+4436;;
+4437;;
+4438;;
+4439;;
+4440;;
+4441;;
+4442;;
+4443;;
+4444;;
+4445;;
+4446;;
+4447;;
+4448;;
+4449;;
+4450;;
+4451;Teachings of the Magi;Teachings of the Magi
+4452;Technique of the Magi;Technique of the Magi
+4453;(PvP) Glaciating Chill;(PvP) Glaciating Chill
+4454;(PvP) Cold Snap;(PvP) Cold Snap
+4455;(PvP) Soul Shock;(PvP) Soul Shock
+4456;(PvP) Thunder Storm;(PvP) Thunder Storm
+4457;(PvP) Mana Burn;(PvP) Mana Burn
+4458;(PvP) Meteorite Flow;(PvP) Meteorite Flow
+4459;(PvP) Elemental Spike;(PvP) Elemental Spike
+4460;(PvP) Elemental Wave;(PvP) Elemental Wave
+4461;(PvM) Frost Ring;(PvM) Frost Ring
+4462;(PvM) Permafrost Chill;(PvM) Permafrost Chill
+4463;(PvM) Thunder Storm;(PvM) Thunder Storm
+4464;(PvM) Soul Shock;(PvM) Soul Shock
+4465;(PvM) Fireball;(PvM) Fireball
+4466;(PvM) Meteorite Flow;(PvM) Meteorite Flow
+4467;(PvM) Elemental Wave;(PvM) Elemental Wave
+4468;(PvM) Elemental Spike;(PvM) Elemental Spike
+4469;Honor Passive;Staff Iron Blessing
+4470;Honor Passive;Staff Wind Blessing
+4471;Honor Passive;Novice Staff Striking Training
+4472;Honor Passive;Apprentice Staff Striking Training
+4473;Honor Passive;Disciple Staff Striking Training
+4474;Honor Passive;Adept Staff Striking Training
+4475;Honor Passive;Master Staff Striking Training
+4476;Honor Passive;Novice Staff Wielding Training
+4477;Honor Passive;Apprentice Staff Wielding Training
+4478;Honor Passive;Disciple Staff Wielding Training
+4479;Honor Passive;Adept Staff Wielding Training
+4480;Honor Passive;Master Staff Wielding Training
+4481;Honor Passive;Grand Master Staff Striking Training
+4482;Honor Passive;Supreme Master Staff Striking Training
+4483;Honor Passive;Grand Master Staff Wielding Training
+4484;Honor Passive;Supreme Master Staff Wielding Training
+4485;;
+4486;;
+4487;;
+4488;;
+4489;;
+4490;;
+4491;;
+4492;;
+4493;;
+4494;;
+4495;;
+4496;;
+4497;;
+4498;;
+4499;;
+4500;;
+4501;Summoner's Gift;Summoner's Gift
+4502;Quick Medic;Quick Medic
+4503;Battle Ritual ;Battle Ritual 
+4504;Enlightenment Ritual ;Enlightenment Ritual 
+4505;Reinforcement Ritual ;Reinforcement Ritual 
+4506;Cunning Ritual ;Cunning Ritual 
+4507;Swift Ritual ;Swift Ritual 
+4508;Divine Ritual ;Divine Ritual 
+4509;Integrity;Integrity
+4510;Purify;Purify
+4511;(PvP) Poison Cloud;(PvP) Poison Cloud
+4512;Honor Passive;Wand Iron Blessing
+4513;Honor Passive;Wand Wind Blessing
+4514;Honor Passive;Novice Wand Striking Training
+4515;Honor Passive;Apprentice Wand Striking Training
+4516;Honor Passive;Disciple Wand Striking Training
+4517;Honor Passive;Adept Wand Striking Training
+4518;Honor Passive;Master Wand Striking Training
+4519;Honor Passive;Novice Wand Wielding Training
+4520;Honor Passive;Apprentice Wand Wielding Training
+4521;Honor Passive;Disciple Wand Wielding Training
+4522;Honor Passive;Adept Wand Wielding Training
+4523;Honor Passive;Master Wand Wielding Training
+4524;Honor Passive;Grand Master Wand Striking Training
+4525;Honor Passive;Supreme Master Wand Striking Training
+4526;Honor Passive;Grand Master Wand Wielding Training
+4527;Honor Passive;Supreme Master Wand Wielding Training
+4528;;
+4529;;
+4530;;
+4531;;
+4532;;
+4533;;
+4534;;
+4535;;
+4536;;
+4537;;
+4538;;
+4539;;
+4540;;
+4541;;
+4542;;
+4543;;
+4544;;
+4545;;
+4546;;
+4547;;
+4548;;
+4549;;
+4550;;
+4551;;
+4552;;
+4553;;
+4554;;
+4555;;
+4556;;
+4557;;
+4558;;
+4559;;
+4560;;
+4561;;
+4562;;
+4563;;
+4564;;
+4565;;
+4566;;
+4567;;
+4568;;
+4569;;
+4570;;
+4571;;
+4572;;
+4573;;
+4574;;
+4575;;
+4576;;
+4577;;
+4578;;
+4579;;
+4580;;
+4581;;
+4582;;
+4583;;
+4584;;
+4585;;
+4586;;
+4587;;
+4588;;
+4589;;
+4590;;
+4591;;
+4592;;
+4593;;
+4594;;
+4595;;
+4596;;
+4597;;
+4598;;
+4599;;
+4600;;
+4601;;
+4602;;
+4603;;
+4604;;
+4605;;
+4606;;
+4607;;
+4608;;
+4609;;
+4610;;
+4611;;
+4612;;
+4613;;
+4614;;
+4615;;
+4616;;
+4617;;
+4618;;
+4619;;
+4620;;
+4621;;
+4622;;
+4623;;
+4624;;
+4625;;
+4626;;
+4627;;
+4628;;
+4629;;
+4630;;
+4631;;
+4632;;
+4633;;
+4634;;
+4635;;
+4636;;
+4637;;
+4638;;
+4639;;
+4640;;
+4641;;
+4642;;
+4643;;
+4644;;
+4645;;
+4646;;
+4647;;
+4648;;
+4649;;
+4650;;
+4651;Fury;Fury
+4652;Wired;Wired
+4653;(PvP) Flame Falcon;(PvP) Flame Falcon
+4654;(PvP) Screw Attack;(PvP) Screw Attack
+4655;(PvP) Circle Break ;(PvP) Circle Break 
+4656;(PvP) Bloody Assault;(PvP) Bloody Assault
+4657;(PvM) Tornado Slash;(PvM) Tornado Slash
+4658;Raider's Accordance;Raider's Accordance
+4659;(PvM) Bloody Assault;(PvM) Bloody Assault
+4660;Cripling Storm;Crippling Storm
+4661;(PvM) Sucker Punch ;(PvM) Sucker Punch 
+4662;(PvM) Mystic Knife;(PvM) Mystic Knife
+4663;Stealth;Stealth
+4664;Honor Passive;Katar Iron Blessing
+4665;Honor Passive;Katar Wind Blessing
+4666;Honor Passive;Dual Wield Iron Blessing
+4667;Honor Passive;Dual Wield Wind Blessing
+4668;Honor Passive;Novice Katar Striking Training
+4669;Honor Passive;Apprentice Katar Striking Training
+4670;Honor Passive;Disciple Katar Striking Training
+4671;Honor Passive;Adept Katar Striking Training
+4672;Honor Passive;Master Katar Striking Training
+4673;Honor Passive;Novice Katar Wielding Training
+4674;Honor Passive;Apprentice Katar Wielding Training
+4675;Honor Passive;Disciple Katar Wielding Training
+4676;Honor Passive;Adept Katar Wielding Training
+4677;Honor Passive;Master Katar Wielding Training
+4678;Honor Passive;Novice Dual Wield Striking Training
+4679;Honor Passive;Apprentice Dual Wield Striking Training
+4680;Honor Passive;Disciple Dual Wield Striking Training
+4681;Honor Passive;Adept Dual Wield Striking Training
+4682;Honor Passive;Master Dual Wield Striking Training
+4683;Honor Passive;Novice Dual Wield Wielding Training
+4684;Honor Passive;Apprentice Dual Wield Wielding Training
+4685;Honor Passive;Disciple Dual Wield Wielding Training
+4686;Honor Passive;Adept Dual Wield Wielding Training
+4687;Honor Passive;Master Dual Wield Wielding Training
+4688;(PVP) Shield Bash;(PVP) Shield Bash
+4689;(PvM) Taunt Shot;(PvM) Taunt Shot
+4690;Honor Passive;Grand Master Katar Striking Training
+4691;Honor Passive;Supreme Master Katar Striking Training
+4692;Honor Passive;Grand Master Dual Wield Striking Training
+4693;Honor Passive;Supreme Master Dual Wield Striking Training
+4694;Honor Passive;Grand Master Katar Wielding Training
+4695;Honor Passive;Supreme Master Katar Wielding Training
+4696;Honor Passive;Grand Master Dual Wield Wielding Training
+4697;Honor Passive;Supreme Master Dual Wield Wielding Training
+4698;;
+4699;;
+4700;;
+4701;Swift Movements;Swift Movements
+4702;Sharpened Focus ;Sharpened Focus 
+4703;(PvP) Impact Arrow;(PvP) Impact Arrow
+4704;(PvM) Impact Arrow;(PvM) Impact Arrow
+4705;Reflective Guard ;Reflective Guard 
+4706;Poison Arrow Shower;Poison Arrow Shower
+4707;(PvM) Web Arrow;(PvM) Web Arrow
+4708;(PvP) Web Arrow;(PvP) Web Arrow
+4709;Honor Passive;Bow Iron Blessing
+4710;Honor Passive;Bow Wind Blessing
+4711;Honor Passive;Novice Bow Striking Training
+4712;Honor Passive;Apprentice Bow Striking Training
+4713;Honor Passive;Disciple Bow Striking Training
+4714;Honor Passive;Adept Bow Striking Training
+4715;Honor Passive;Master Bow Striking Training
+4716;Honor Passive;Novice Bow Wielding Training
+4717;Honor Passive;Apprentice Bow Wielding Training
+4718;Honor Passive;Disciple Bow Wielding Training
+4719;Honor Passive;Adept Bow Wielding Training
+4720;Honor Passive;Master Bow Wielding Training
+4721;Honor Passive;Grand Master Bow Striking Training
+4722;Honor Passive;Supreme Master Bow Striking Training
+4723;Honor Passive;Grand Master Bow Wielding Training
+4724;Honor Passive;Supreme Master Bow Wielding Training
+4725;;
+4726;;
+4727;;
+4728;;
+4729;;
+4730;;
+4731;;
+4732;;
+4733;;
+4734;;
+4735;;
+4736;;
+4737;;
+4738;;
+4739;;
+4740;;
+4741;;
+4742;;
+4743;;
+4744;;
+4745;;
+4746;;
+4747;;
+4748;;
+4749;;
+4750;;
+4751;;
+4752;;
+4753;;
+4754;;
+4755;;
+4756;;
+4757;;
+4758;;
+4759;;
+4760;;
+4761;;
+4762;;
+4763;;
+4764;;
+4765;;
+4766;;
+4767;;
+4768;;
+4769;;
+4770;;
+4771;;
+4772;;
+4773;;
+4774;;
+4775;;
+4776;;
+4777;;
+4778;;
+4779;;
+4780;;
+4781;;
+4782;;
+4783;;
+4784;;
+4785;;
+4786;;
+4787;;
+4788;;
+4789;;
+4790;;
+4791;;
+4792;;
+4793;;
+4794;;
+4795;;
+4796;;
+4797;;
+4798;;
+4799;;
+4800;;
+4801;;
+4802;;
+4803;;
+4804;;
+4805;;
+4806;;
+4807;;
+4808;;
+4809;;
+4810;;
+4811;;
+4812;;
+4813;;
+4814;;
+4815;;
+4816;;
+4817;;
+4818;;
+4819;;
+4820;;
+4821;;
+4822;;
+4823;;
+4824;;
+4825;;
+4826;;
+4827;;
+4828;;
+4829;;
+4830;;
+4831;;
+4832;;
+4833;;
+4834;;
+4835;;
+4836;;
+4837;;
+4838;;
+4839;;
+4840;;
+4841;;
+4842;;
+4843;;
+4844;;
+4845;;
+4846;;
+4847;;
+4848;;
+4849;;
+4850;;
+4851;Haggling Intent;Haggling Intent
+4852;Focused Dealings ;Focused Dealings 
+4853;(PvP) Zulie Stun;(PvP) Zulie Stun
+4854;(PvP) Flame Cannon Splash;(PvP) Flame Cannon Splash
+4855;Augmenting Reflection;Augmenting Reflection
+4856;Illusion Reflection;Illusion Reflection
+4857;Dual Rigging;Dual Rigging
+4858;Layer Step;Layer Step
+4859;Honor Passive;Launcher Iron Blessing
+4860;Honor Passive;Launcher Wind Blessing
+4861;Honor Passive;Novice Launcher Striking Training
+4862;Honor Passive;Apprentice Launcher Striking Training
+4863;Honor Passive;Disciple Launcher Striking Training
+4864;Honor Passive;Adept Launcher Striking Training
+4865;Honor Passive;Master Launcher Striking Training
+4866;Honor Passive;Novice Launcher Wielding Training
+4867;Honor Passive;Apprentice Launcher Wielding Training
+4868;Honor Passive;Disciple Launcher Wielding Training
+4869;Honor Passive;Adept Launcher Wielding Training
+4870;Honor Passive;Master Launcher Wielding Training
+4871;Honor Passive;Grand Master Launcher Striking Training
+4872;Honor Passive;Supreme Master Launcher Striking Training
+4873;Honor Passive;Grand Master Launcher Wielding Training
+4874;Honor Passive;Supreme Master Launcher Wielding Training
+4875;;
+4876;;
+4877;;
+4878;;
+4879;;
+4880;;
+4881;;
+4882;;
+4883;;
+4884;;
+4885;;
+4886;;
+4887;;
+4888;;
+4889;;
+4890;;
+4891;;
+4892;;
+4893;;
+4894;;
+4895;;
+4896;;
+4897;;
+4898;;
+4899;;
+4900;;
+4901;Hands of a Crafter ;Hands of a Crafter 
+4902;Sensable Target Pricing ;Sensible Target Pricing 
+4903;(PvP) Hypno Shot;(PvP) Hypno Shot
+4904;(PvP) Magic Shot;(PvP) Magic Shot
+4905;Summon Judgement;Summon Judgment
+4906;(PvM) Daze Attack;(PvM) Daze Attack
+4907;(PvM) Poison Shot;(PvM) Poison Shot
+4908;Honor Passive;Gun Iron Blessing
+4909;Honor Passive;Gun Wind Blessing
+4910;Honor Passive;Novice Gun Striking Training
+4911;Honor Passive;Apprentice Gun Striking Training
+4912;Honor Passive;Disciple Gun Striking Training
+4913;Honor Passive;Adept Gun Striking Training
+4914;Honor Passive;Master Gun Striking Training
+4915;Honor Passive;Novice Gun Wielding Training
+4916;Honor Passive;Apprentice Gun Wielding Training
+4917;Honor Passive;Disciple Gun Wielding Training
+4918;Honor Passive;Adept Gun Wielding Training
+4919;Honor Passive;Master Gun Wielding Training
+4920;Honor Passive;Grand Master Gun Striking Training
+4921;Honor Passive;Supreme Master Gun Striking Training
+4922;Honor Passive;Grand Master Gun Wielding Training
+4923;Honor Passive;Supreme Master Gun Wielding Training
+4924;;
+4925;;
+4926;;
+4927;;
+4928;;
+4929;;
+4930;;
+4931;;
+4932;;
+4933;;
+4934;;
+4935;;
+4936;;
+4937;;
+4938;;
+4939;;
+4940;;
+4941;;
+4942;;
+4943;;
+4944;;
+4945;;
+4946;;
+4947;;
+4948;;
+4949;;
+4950;;
+4951;;
+4952;;
+4953;;
+4954;;
+4955;;
+4956;;
+4957;;
+4958;;
+4959;;
+4960;;
+4961;;
+4962;;
+4963;;
+4964;;
+4965;;
+4966;;
+4967;;
+4968;;
+4969;;
+4970;;
+4971;;
+4972;;
+4973;;
+4974;;
+4975;;
+4976;;
+4977;;
+4978;;
+4979;;
+4980;;
+4981;;
+4982;;
+4983;;
+4984;;
+4985;;
+4986;;
+4987;;
+4988;;
+4989;;
+4990;;
+4991;;
+4992;;
+4993;;
+4994;;
+4995;;
+4996;;
+4997;;
+4998;;
+4999;;
+5000;;
+5001;10:5001;(PvP) Mana Break Tome
+5002;10:5002;(PvM) Anti Magic Shell Tome
+5003;;
+5004;;
+5005;;
+5006;;
+5007;;
+5008;;
+5009;;Novice Swiftness Training
+5010;;Apprentice Swiftness Training
+5011;;Disciple Swiftness Training
+5012;;Adept Swiftness Training
+5013;;Master Swiftness Training
+5014;;Novice Nimbleness Training
+5015;;Apprentice Nimbleness Training
+5016;;Disciple Nimbleness Training
+5017;;Adept Nimbleness Training
+5018;;Master Nimbleness Training
+5019;;Novice Shielding Training
+5020;;Apprentice Shielding Training
+5021;;Disciple Shielding Training
+5022;;Adept Shielding Training
+5023;;Master Shielding Training
+5024;;Novice Protection  Training
+5025;;Apprentice Protection  Training
+5026;;Disciple Protection  Training
+5027;;Adept Protection  Training
+5028;;Master Protection  Training
+5029;;Novice Marksmen  Training
+5030;;Apprentice Marksmen  Training
+5031;;Disciple Marksmen  Training
+5032;;Adept Marksmen  Training
+5033;;Master Marksmen  Training
+5034;;Novice Intensity Training
+5035;;Apprentice Intensity Training
+5036;;Disciple Intensity Training
+5037;;Adept Intensity Training
+5038;;Master Intensity Training
+5039;;Novice Deflection Training
+5040;;Apprentice Deflection Training
+5041;;Disciple Deflection Training
+5042;;Adept Deflection Training
+5043;;Master Deflection Training
+5044;;Grand Master Swiftness Training
+5045;;Grand Master Nimbleness Training
+5046;;Grand Master Shielding Training
+5047;;Grand Master Protection  Training
+5048;;Grand Master Marksmen  Training
+5049;;Grand Master Intensity Training
+5050;;Grand Master Deflection Training
+5051;;Supreme Master Swiftness Training
+5052;;Supreme Master Nimbleness Training
+5053;;Supreme Master Shielding Training
+5054;;Supreme Master Protection  Training
+5055;;Supreme Master Marksmen  Training
+5056;;Supreme Master Intensity Training
+5057;;Supreme Master Deflection Training
+5058;;
+5059;;
+5060;;
+5061;;
+5062;;
+5063;;
+5064;;
+5065;;
+5066;;
+5067;;
+5068;;
+5069;;
+5070;;
+5071;;
+5072;;
+5073;;
+5074;;
+5075;;
+5076;;
+5077;;
+5078;;
+5079;;
+5080;;
+5081;;
+5082;;
+5083;;
+5084;;
+5085;;
+5086;;
+5087;;
+5088;;
+5089;;
+5090;;
+5091;;
+5092;;
+5093;;
+5094;;
+5095;;
+5096;;
+5097;;
+5098;;
+5099;;
+5100;;
+5101;;
+5102;;
+5103;;
+5104;;
+5105;;
+5106;;
+5107;;
+5108;;
+5109;;
+5110;;
+5111;;
+5112;;
+5113;;
+5114;;
+5115;;
+5116;;
+5117;;
+5118;;
+5119;;
+5120;;
+5121;;
+5122;;
+5123;;
+5124;;
+5125;;
+5126;;
+5127;;
+5128;;
+5129;;
+5130;;
+5131;;
+5132;;
+5133;;
+5134;;
+5135;;
+5136;;
+5137;;
+5138;;
+5139;;
+5140;;
+5141;;
+5142;;
+5143;;
+5144;;
+5145;;
+5146;;
+5147;;
+5148;;
+5149;;
+5150;;
+5151;;
+5152;;
+5153;;
+5154;;
+5155;;
+5156;;
+5157;;
+5158;;
+5159;;
+5160;;
+5161;;
+5162;;
+5163;;
+5164;;
+5165;;
+5166;;
+5167;;
+5168;;
+5169;;
+5170;;
+5171;;
+5172;;
+5173;;
+5174;;
+5175;;
+5176;;
+5177;;
+5178;;
+5179;;
+5180;;
+5181;;
+5182;;
+5183;;
+5184;;
+5185;;
+5186;;
+5187;;
+5188;;
+5189;;
+5190;;
+5191;;
+5192;;
+5193;;
+5194;;
+5195;;
+5196;;
+5197;;
+5198;;
+5199;;
+5200;;
+5201;;
+5202;;
+5203;;
+5204;;
+5205;;
+5206;;
+5207;;
+5208;;
+5209;;
+5210;;
+5211;10:5211;Sacrifice Tome
+5212;;
+5213;;
+5214;;
+5215;;
+5216;;
+5217;;
+5218;;
+5219;;
+5220;;
+5221;;
+5222;;
+5223;;
+5224;;
+5225;;
+5226;;
+5227;;
+5228;;
+5229;;
+5230;;
+5231;;
+5232;;
+5233;;
+5234;;
+5235;;
+5236;;
+5237;;
+5238;;
+5239;;
+5240;;
+5241;;
+5242;;
+5243;;
+5244;;
+5245;;
+5246;;
+5247;;
+5248;;
+5249;;
+5250;;
+5251;10:5251;Adamantine Fist Tome
+5252;10:5252;Guardian's Might Tome
+5253;10:5253;Shield Spikes Tome
+5254;10:5254;(PvP) Lightning Crasher Tome
+5255;10:5255;(PvP) Trap Arrow Tome
+5256;10:5256;(PvP) Shield Throw Tome
+5257;10:5257;(PvM) Impact Wave Tome
+5258;10:5258;(PvM) Soul Wreck Tome
+5259;10:5259;(PvM) Shield Bash Tome
+5260;;
+5261;;
+5262;;Novice One-Handed Weapon Striking Training
+5263;;Apprentice One-Handed Weapon Striking Training
+5264;;Disciple One-Handed Weapon Striking Training
+5265;;Adept One-Handed Weapon Striking Training
+5266;;Master One-Handed Weapon Striking Training
+5267;;Novice One-Handed Weapon Wielding Training
+5268;;Apprentice One-Handed Weapon Wielding Training
+5269;;Disciple One-Handed Weapon Wielding Training
+5270;;Adept One-Handed Weapon Wielding Training
+5271;;Master One-Handed Weapon Wielding Training
+5272;;Grand Master One-Handed Weapon Striking Training
+5273;;Supreme Master One-Handed Weapon Striking Training
+5274;;Grand Master One-Handed Weapon Wielding Training
+5275;;Supreme Master One-Handed Weapon Wielding Training
+5276;;
+5277;;
+5278;;
+5279;;
+5280;;
+5281;;
+5282;;
+5283;;
+5284;;
+5285;;
+5286;;
+5287;;
+5288;;
+5289;;
+5290;;
+5291;;
+5292;;
+5293;;
+5294;;
+5295;;
+5296;;
+5297;;
+5298;;
+5299;;
+5300;;
+5301;10:5301;Champion Training Tome
+5302;10:5302;Warrior's Menace Tome
+5303;10:5303;Berserk Tome
+5304;10:5304;(PvP) Geon Archangel Crumpler Tome
+5305;10:5305;(PvP) Longinus' Strike Tome
+5306;10:5306;(PvP) Weapon Launcher Tome
+5307;10:5307;(PvM) Combat Howl Tome
+5308;10:5308;(PvM) Seismic Impact Tome
+5309;10:5309;(PvM) Combat Scream Tome
+5310;10:5310;(PvM) Longinus' Strike Tome
+5311;10:5311;(PvM) Combat Shout Tome
+5312;10:5312;(PvM) Champion Strike Tome
+5313;;
+5314;;
+5315;;
+5316;;
+5317;;
+5318;;
+5319;;Novice Two-Handed Sword Striking Training
+5320;;Apprentice Two-Handed Sword Striking Training
+5321;;Disciple Two-Handed Sword Striking Training
+5322;;Adept Two-Handed Sword Striking Training
+5323;;Master Two-Handed Sword Striking Training
+5324;;Novice Two-Handed Sword Wielding Training
+5325;;Apprentice Two-Handed Sword Wielding Training
+5326;;Disciple Two-Handed Sword Wielding Training
+5327;;Adept Two-Handed Sword Wielding Training
+5328;;Master Two-Handed Sword Wielding Training
+5329;;Novice Two-Handed Spear Striking Training
+5330;;Apprentice Two-Handed Spear Striking Training
+5331;;Disciple Two-Handed Spear Striking Training
+5332;;Adept Two-Handed Spear Striking Training
+5333;;Master Two-Handed Spear Striking Training
+5334;;Novice Two-Handed Spear Wielding Training
+5335;;Apprentice Two-Handed Spear Wielding Training
+5336;;Disciple Two-Handed Spear Wielding Training
+5337;;Adept Two-Handed Spear Wielding Training
+5338;;Master Two-Handed Spear Wielding Training
+5339;;Novice Two-Handed Axe Striking Training
+5340;;Apprentice Two-Handed Axe Striking Training
+5341;;Disciple Two-Handed Axe Striking Training
+5342;;Adept Two-Handed Axe Striking Training
+5343;;Master Two-Handed Axe Striking Training
+5344;;Novice Two-Handed Axe Wielding Training
+5345;;Apprentice Two-Handed Axe Wielding Training
+5346;;Disciple Two-Handed Axe Wielding Training
+5347;;Adept Two-Handed Axe Wielding Training
+5348;;Master Two-Handed Axe Wielding Training
+5349;;Grand Master Two-Handed Sword Striking Training
+5350;;Supreme Master Two-Handed Sword Striking Training
+5351;;Grand Master Two-Handed Spear Striking Training
+5352;;Supreme Master Two-Handed Spear Striking Training
+5353;;Grand Master Two-Handed Axe Striking Training
+5354;;Supreme Master Two-Handed Axe Striking Training
+5355;;Grand Master Two-Handed Sword Wielding Training
+5356;;Supreme Master Two-Handed Sword Wielding Training
+5357;;Grand Master Two-Handed Spear Wielding Training
+5358;;Supreme Master Two-Handed Spear Wielding Training
+5359;;Grand Master Two-Handed Axe Wielding Training
+5360;;Supreme Master Two-Handed Axe Wielding Training
+5361;;
+5362;;
+5363;;
+5364;;
+5365;;
+5366;;
+5367;;
+5368;;
+5369;;
+5370;;
+5371;;
+5372;;
+5373;;
+5374;;
+5375;;
+5376;;
+5377;;
+5378;;
+5379;;
+5380;;
+5381;;
+5382;;
+5383;;
+5384;;
+5385;;
+5386;;
+5387;;
+5388;;
+5389;;
+5390;;
+5391;;
+5392;;
+5393;;
+5394;;
+5395;;
+5396;;
+5397;;
+5398;;
+5399;;
+5400;;
+5401;10:5401;Soul Recall Tome
+5402;;
+5403;;
+5404;;
+5405;;
+5406;;
+5407;;
+5408;;
+5409;;
+5410;;
+5411;;
+5412;;
+5413;;
+5414;;
+5415;;
+5416;;
+5417;;
+5418;;
+5419;;
+5420;;
+5421;;
+5422;;
+5423;;
+5424;;
+5425;;
+5426;;
+5427;;
+5428;;
+5429;;
+5430;;
+5431;;
+5432;;
+5433;;
+5434;;
+5435;;
+5436;;
+5437;;
+5438;;
+5439;;
+5440;;
+5441;;
+5442;;
+5443;;
+5444;;
+5445;;
+5446;;
+5447;;
+5448;;
+5449;;
+5450;;
+5451;10:5451;Teachings of the Magi Tome
+5452;10:5452;Technique of the Magi Tome
+5453;10:5453;(PvP) Glaciating Chill Tome
+5454;10:5454;(PvP) Cold Snap Tome
+5455;10:5455;(PvP) Soul Shock Tome
+5456;10:5456;(PvP) Thunder Storm Tome
+5457;10:5457;(PvP) Mana Burn Tome
+5458;10:5458;(PvP) Meteorite Flow Tome
+5459;10:5459;(PvP) Elemental Spike Tome
+5460;10:5460;(PvP) Elemental Wave Tome
+5461;10:5461;(PvM) Frost Ring Tome
+5462;10:5462;(PvM) Permafrost Chill Tome
+5463;10:5463;(PvM) Thunder Storm Tome
+5464;10:5464;(PvM) Soul Shock Tome
+5465;10:5465;(PvM) Fireball Tome
+5466;10:5466;(PvM) Meteorite Flow Tome
+5467;10:5467;(PvM) Elemental Wave Tome
+5468;10:5468;(PvM) Elemental Spike Tome
+5469;;
+5470;;
+5471;;Novice Staff Striking Training
+5472;;Apprentice Staff Striking Training
+5473;;Disciple Staff Striking Training
+5474;;Adept Staff Striking Training
+5475;;Master Staff Striking Training
+5476;;Novice Staff Wielding Training
+5477;;Apprentice Staff Wielding Training
+5478;;Disciple Staff Wielding Training
+5479;;Adept Staff Wielding Training
+5480;;Master Staff Wielding Training
+5481;;Grand Master Staff Striking Training
+5482;;Supreme Master Staff Striking Training
+5483;;Grand Master Staff Wielding Training
+5484;;Supreme Master Staff Wielding Training
+5485;;
+5486;;
+5487;;
+5488;;
+5489;;
+5490;;
+5491;;
+5492;;
+5493;;
+5494;;
+5495;;
+5496;;
+5497;;
+5498;;
+5499;;
+5500;;
+5501;10:5501;Summoner's Gift Tome
+5502;10:5502;Quick Medic Tome
+5503;10:5503;Battle Ritual Tome
+5504;10:5504;Enlightenment Ritual Tome
+5505;10:5505;Reinforcement Ritual Tome
+5506;10:5506;Cunning Ritual Tome
+5507;10:5507;Swift Ritual Tome
+5508;10:5508;Divine Ritual Tome
+5509;10:5509;Integrity Tome
+5510;10:5510;Purify Tome
+5511;10:5511;(PvP) Poison Cloud Tome
+5512;;
+5513;;
+5514;;Novice Wand Striking Training
+5515;;Apprentice Wand Striking Training
+5516;;Disciple Wand Striking Training
+5517;;Adept Wand Striking Training
+5518;;Master Wand Striking Training
+5519;;Novice Wand Wielding Training
+5520;;Apprentice Wand Wielding Training
+5521;;Disciple Wand Wielding Training
+5522;;Adept Wand Wielding Training
+5523;;Master Wand Wielding Training
+5524;;Grand Master Wand Striking Training
+5525;;Supreme Master Wand Striking Training
+5526;;Grand Master Wand Wielding Training
+5527;;Supreme Master Wand Wielding Training
+5528;;
+5529;;
+5530;;
+5531;;
+5532;;
+5533;;
+5534;;
+5535;;
+5536;;
+5537;;
+5538;;
+5539;;
+5540;;
+5541;;
+5542;;
+5543;;
+5544;;
+5545;;
+5546;;
+5547;;
+5548;;
+5549;;
+5550;;
+5551;;
+5552;;
+5553;;
+5554;;
+5555;;
+5556;;
+5557;;
+5558;;
+5559;;
+5560;;
+5561;;
+5562;;
+5563;;
+5564;;
+5565;;
+5566;;
+5567;;
+5568;;
+5569;;
+5570;;
+5571;;
+5572;;
+5573;;
+5574;;
+5575;;
+5576;;
+5577;;
+5578;;
+5579;;
+5580;;
+5581;;
+5582;;
+5583;;
+5584;;
+5585;;
+5586;;
+5587;;
+5588;;
+5589;;
+5590;;
+5591;;
+5592;;
+5593;;
+5594;;
+5595;;
+5596;;
+5597;;
+5598;;
+5599;;
+5600;;
+5601;10:5601;Call Beast Tome
+5602;;
+5603;;
+5604;;
+5605;;
+5606;;
+5607;;
+5608;;
+5609;;
+5610;;
+5611;;
+5612;;
+5613;;
+5614;;
+5615;;
+5616;;
+5617;;
+5618;;
+5619;;
+5620;;
+5621;;
+5622;;
+5623;;
+5624;;
+5625;;
+5626;;
+5627;;
+5628;;
+5629;;
+5630;;
+5631;;
+5632;;
+5633;;
+5634;;
+5635;;
+5636;;
+5637;;
+5638;;
+5639;;
+5640;;
+5641;;
+5642;;
+5643;;
+5644;;
+5645;;
+5646;;
+5647;;
+5648;;
+5649;;
+5650;;
+5651;10:5651;Fury Tome
+5652;10:5652;Wired Tome
+5653;10:5653;(PvP) Flame Falcon Tome
+5654;10:5654;(PvP) Screw Attack Tome
+5655;10:5655;(PvP) Circle Break Tome
+5656;10:5656;(PvP) Bloody Assault Tome
+5657;10:5657;(PvM) Tornado Slash Tome
+5658;10:5658;Raider's Accordance Tome
+5659;10:5659;(PvM) Bloody Assault Tome
+5660;10:5660;Crippling Storm Tome
+5661;10:5661;(PvM) Sucker Punch Tome
+5662;10:5662;(PvM) Mystic Knife Tome
+5663;10:5663;Stealth Tome
+5664;;
+5665;;
+5666;;
+5667;;
+5668;;Novice Katar Striking Training
+5669;;Apprentice Katar Striking Training
+5670;;Disciple Katar Striking Training
+5671;;Adept Katar Striking Training
+5672;;Master Katar Striking Training
+5673;;Novice Katar Wielding Training
+5674;;Apprentice Katar Wielding Training
+5675;;Disciple Katar Wielding Training
+5676;;Adept Katar Wielding Training
+5677;;Master Katar Wielding Training
+5678;;Novice Dual Wield Striking Training
+5679;;Apprentice Dual Wield Striking Training
+5680;;Disciple Dual Wield Striking Training
+5681;;Adept Dual Wield Striking Training
+5682;;Master Dual Wield Striking Training
+5683;;Novice Dual Wield Wielding Training
+5684;;Apprentice Dual Wield Wielding Training
+5685;;Disciple Dual Wield Wielding Training
+5686;;Adept Dual Wield Wielding Training
+5687;;Master Dual Wield Wielding Training
+5688;Item Mall - (PVP) Shield Bash Tome;(PVP) Shield Bash Tome
+5689;Item Mall - (PvM) Taunt Shot Tome;(PvM) Taunt Shot Tome
+5690;;Grand Master Katar Striking Training
+5691;;Supreme Master Katar Striking Training
+5692;;Grand Master Dual Wield Striking Training
+5693;;Supreme Master Dual Wield Striking Training
+5694;;Grand Master Katar Wielding Training
+5695;;Supreme Master Katar Wielding Training
+5696;;Grand Master Dual Wield Wielding Training
+5697;;Supreme Master Dual Wield Wielding Training
+5698;;
+5699;;
+5700;;
+5701;10:5701;Swift Movements Tome
+5702;10:5702;Sharpened Focus Tome
+5703;10:5703;(PvP) Impact Arrow Tome
+5704;10:5704;(PvM) Impact Arrow Tome
+5705;10:5705;Reflective Guard Tome
+5706;10:5706;Poison Arrow Shower Tome
+5707;10:5707;(PvM) Web Arrow Tome
+5708;10:5708;(PvP) Web Arrow Tome
+5709;;
+5710;;
+5711;;Novice Bow Striking Training
+5712;;Apprentice Bow Striking Training
+5713;;Disciple Bow Striking Training
+5714;;Adept Bow Striking Training
+5715;;Master Bow Striking Training
+5716;;Novice Bow Wielding Training
+5717;;Apprentice Bow Wielding Training
+5718;;Disciple Bow Wielding Training
+5719;;Adept Bow Wielding Training
+5720;;Master Bow Wielding Training
+5721;;Grand Master Bow Striking Training
+5722;;Supreme Master Bow Striking Training
+5723;;Grand Master Bow Wielding Training
+5724;;Supreme Master Bow Wielding Training
+5725;;
+5726;;
+5727;;
+5728;;
+5729;;
+5730;;
+5731;;
+5732;;
+5733;;
+5734;;
+5735;;
+5736;;
+5737;;
+5738;;
+5739;;
+5740;;
+5741;;
+5742;;
+5743;;
+5744;;
+5745;;
+5746;;
+5747;;
+5748;;
+5749;;
+5750;;
+5751;;
+5752;;
+5753;;
+5754;;
+5755;;
+5756;;
+5757;;
+5758;;
+5759;;
+5760;;
+5761;;
+5762;;
+5763;;
+5764;;
+5765;;
+5766;;
+5767;;
+5768;;
+5769;;
+5770;;
+5771;;
+5772;;
+5773;;
+5774;;
+5775;;
+5776;;
+5777;;
+5778;;
+5779;;
+5780;;
+5781;;
+5782;;
+5783;;
+5784;;
+5785;;
+5786;;
+5787;;
+5788;;
+5789;;
+5790;;
+5791;;
+5792;;
+5793;;
+5794;;
+5795;;
+5796;;
+5797;;
+5798;;
+5799;;
+5800;;
+5801;10:5801;Face Item Craft Tome
+5802;;
+5803;;
+5804;;
+5805;;
+5806;;
+5807;;
+5808;;
+5809;;
+5810;;
+5811;10:5811;Accessory Craft Tome
+5812;;
+5813;;
+5814;;
+5815;;
+5816;;
+5817;;
+5818;;
+5819;;
+5820;;
+5821;;
+5822;;
+5823;;
+5824;;
+5825;;
+5826;;
+5827;;
+5828;;
+5829;;
+5830;;
+5831;;
+5832;;
+5833;;
+5834;;
+5835;;
+5836;;
+5837;;
+5838;;
+5839;;
+5840;;
+5841;;
+5842;;
+5843;;
+5844;;
+5845;;
+5846;;
+5847;;
+5848;;
+5849;;
+5850;;
+5851;10:5851;Haggling Intent Tome
+5852;10:5852;Focused Dealings Tome
+5853;10:5853;(PvP) Zulie Stun Tome
+5854;10:5854;(PvP) Flame Cannon Splash Tome
+5855;10:5855;Augmenting Reflection Tome
+5856;10:5856;Illusion Reflection Tome
+5857;10:5857;Dual Rigging Tome
+5858;10:5858;Layer Step Tome
+5859;;
+5860;;
+5861;;Novice Launcher Striking Training
+5862;;Apprentice Launcher Striking Training
+5863;;Disciple Launcher Striking Training
+5864;;Adept Launcher Striking Training
+5865;;Master Launcher Striking Training
+5866;;Novice Launcher Wielding Training
+5867;;Apprentice Launcher Wielding Training
+5868;;Disciple Launcher Wielding Training
+5869;;Adept Launcher Wielding Training
+5870;;Master Launcher Wielding Training
+5871;;Grand Master Launcher Striking Training
+5872;;Supreme Master Launcher Striking Training
+5873;;Grand Master Launcher Wielding Training
+5874;;Supreme Master Launcher Wielding Training
+5875;;
+5876;;
+5877;;
+5878;;
+5879;;
+5880;;
+5881;;
+5882;;
+5883;;
+5884;;
+5885;;
+5886;;
+5887;;
+5888;;
+5889;;
+5890;;
+5891;;
+5892;;
+5893;;
+5894;;
+5895;;
+5896;;
+5897;;
+5898;;
+5899;;
+5900;;
+5901;10:5901;Hands of a Crafter Tome
+5902;10:5902;Sensible Target Pricing Tome
+5903;10:5903;(PvP) Hypno Shot Tome
+5904;10:5904;(PvP) Magic Shot Tome
+5905;10:5905;Summon Judgment Tome
+5906;10:5906;(PvM) Daze Attack Tome
+5907;10:5907;(PvM) Poison Shot Tome
+5908;;
+5909;;
+5910;;Novice Gun Striking Training
+5911;;Apprentice Gun Striking Training
+5912;;Disciple Gun Striking Training
+5913;;Adept Gun Striking Training
+5914;;Master Gun Striking Training
+5915;;Novice Gun Wielding Training
+5916;;Apprentice Gun Wielding Training
+5917;;Disciple Gun Wielding Training
+5918;;Adept Gun Wielding Training
+5919;;Master Gun Wielding Training
+5920;;Grand Master Gun Striking Training
+5921;;Supreme Master Gun Striking Training
+5922;;Grand Master Gun Wielding Training
+5923;;Supreme Master Gun Wielding Training
+5924;;

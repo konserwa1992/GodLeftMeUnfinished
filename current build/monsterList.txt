@@ -1,0 +1,4451 @@
+1;(1) Mini-Jelly Bean (Basic)
+2;(9) Jelly Bean (Basic)
+3;(10) Jelly Nut (Basic)
+4;(11) Royal Jelly Bean (Warrior)
+5;(12) Red Jelly Bean (Fighter)
+6;(1) Lizard (Basic)
+7;(1) Desert Lizard (Basic)
+8;(1) Butterfly (Basic)
+9;(1) Butterfly (Basic)
+10;(2) Butterfly (Basic)
+11;(3) Mini-Choropy (Basic)
+12;(4) Choropy (Basic)
+13;(5) Mother Choropy (Guard)
+15;(4) Spotted Choropy (Guard)
+21;(8) Pumpkin (Basic)
+22;(9) Big Pumpkin (Guard)
+23;(10) Elder Pumpkin (Fighter)
+24;(10) Cowboy Pumpkin (King-Basic)
+31;(30) Dalping (Basic)
+32;(31) Ranger Dalping (Ranger)
+33;(32) Hunter Dalping (Hunter)
+34;(33) Dalping Leader (Leader-Magician)
+35;(29) Baby Dalping (Basic)
+36;(31) Dalping Guard (Guard)
+37;(31) Dalping Fighter (Fighter)
+38;(32) Dalping Warrior (Warrior)
+39;(35) Dalping Captain (Captain-Warrior)
+41;(6) Flanae (Basic)
+42;(7) Elder Flanae (Ranger)
+43;(16) Red Flanae (Ranger)
+44;(29) Old Flanae (Warrior)
+45;(30) Big Flanae (Leader-Ranger)
+46;(40) NO NAME FOUND (Guard)
+51;(51) Smouly (Basic)
+52;(51) Elder Smouly (Ranger)
+53;(53) Old Smouly (Ranger)
+57;(13) Worker Bee (Basic)
+58;(14) Warrior Bee (Warrior)
+59;(15) Hunter Bee (Hunter)
+60;(15) Soldier Bee (Guard)
+61;(7) Young Honey Bee (Basic)
+62;(12) Honey Bee (Basic)
+63;(18) Young Hornet (Fighter)
+64;(19) Hornet (Warrior)
+65;(17) Honey Bee (Basic)
+67;(41) Queen Honey Bee Worker (Captain-Magician)
+68;(41) Queen Bibi's Helper (SubBoss-Magician)
+69;(41) Queen Bibi (King-Magician)
+70;(11) Young Red Pomic (Basic)
+71;(10) Young Pomic (Basic)
+72;(11) Pomic (Basic)
+73;(12) Red Pomic (Fighter)
+74;(10) Pomic Recruit (Guard)
+75;(13) Red Pomic Recruit (Ranger)
+76;(31) Pomic Giant (King-Warrior)
+77;(13) Red Pomic Officer (Leader-Warrior)
+78;(14) Red Pomic General (Captain-Hunter)
+79;(15) Red Pomic King (King-Fighter)
+81;(33) Beetle (Basic)
+82;(35) Beetle Fighter (Fighter)
+84;(36) Turtle (Basic)
+85;(36) Turtle Guard (Guard)
+87;(35) Beetle Warrior (Warrior)
+88;(35) Beetle Guard (Guard)
+91;(33) Honey Rackie (Basic)
+92;(35) Rackie Hooligan (Warrior)
+93;(28) Fighter Rackie (Fighter)
+94;(25) Rackie Hooligan (Warrior)
+95;(18) Purified Rackie (Basic)
+96;(35) Hunter Rackie (Hunter)
+97;(18) Purified Rackie (Warrior)
+98;(18) Purified Rackie (Fighter)
+99;(18) Purified Rackie (Hunter)
+101;(22) Woopie (Warrior)
+102;(23) Woopie Chef (Ranger)
+103;(24) Woopie Glutton (Leader-Guard)
+111;(49) Moldie (Basic)
+112;(50) Coal Mine Moldie (Guard)
+113;(51) Gold Mine Moldie (Warrior)
+114;(52) Captain Moldie (Captain-Fighter)
+121;(73) Krawfy (Fighter)
+122;(74) Krawfy Warrior (Warrior)
+123;(77) Krawfy Captain (Captain-Warrior)
+127;(68) Krawfy Warrior (Warrior)
+128;(70) Doonga Hunter (Hunter)
+129;(74) Krawfy Captain (Captain-Warrior)
+130;(76) Doonga Captain (Captain-Warrior)
+131;(41) Mini-Porkie (Basic)
+132;(44) Porkie (Fighter)
+133;(45) Porkie Hooligan (Warrior)
+134;(48) Grunter (Guard)
+135;(49) Grunter Fighter (Fighter)
+136;(49) Grunter Warrior (Warrior)
+138;(50) Grunter Leader (Captain-Guard)
+139;(51) Grunter Captain (Captain-Fighter)
+141;(74) Kaiman (Fighter)
+142;(78) Kaiman Guard (Guard)
+143;(81) Kaiman Warrior (Warrior)
+144;(76) Kaiman Ranger (Ranger)
+145;(80) Kaiman Hunter (Hunter)
+151;(60) Doonga (Basic)
+152;(61) Elder Doonga (Fighter)
+153;(69) Doonga Origin (Warrior)
+154;(62) Doonga Fighter (Fighter)
+155;(65) Doonga Warrior (Warrior)
+156;(70) Doonga Hunter (Hunter)
+157;(64) Doonga Ranger (Ranger)
+158;(67) Doonga Captain (Captain-Warrior)
+159;(72) Master Doonga (Leader-Fighter)
+161;(82) Jewel Golem (Basic)
+162;(85) Junon's Golem (Fighter)
+163;(86) Master Golem (Warrior)
+164;(87) Stone Golem (Guard)
+165;(89) Elder Stone Golem (Fighter)
+166;(93) Master Stone Golem (Captain-Guard)
+169;(91) Blood Golem Guardian (Captain-Guard)
+171;(37) Aqua Guard (Guard)
+172;(38) Aqua Warrior (Warrior)
+173;(48) Aqua Captain (Captain-Fighter)
+175;(38) Aqua Ranger (Ranger)
+176;(48) Aqua Hunter (Hunter)
+177;(36) Aqua Hunter (Hunter)
+178;(40) Aqua Captain (Captain-Fighter)
+179;(42) Coal Mine Moldie (Guard)
+180;(45) Captain Moldie (Captain-Fighter)
+181;(51) Small Clown (Basic)
+182;(52) Clown (Guard)
+183;(54) Fighter Clown (Fighter)
+185;(56) Ranger Clown (Ranger)
+186;(59) Hunter Clown (Hunter)
+187;(53) Grunter Warrior (Warrior)
+188;(56) Old Smouly (Leader-Hunter)
+189;(59) Hunter Clown (Hunter)
+190;(62) Grunter Captain (Captain-Fighter)
+192;(82) Elder Stone Golem (Fighter)
+193;(84) Junon's Golem (SubBoss-Ranger)
+194;(87) Master Stone Golem (SubBoss-Guard)
+196;(212) Goblin Guard (Guard)
+197;(215) Goblin Mage (Magician)
+198;(218) Goblin Leader (Leader-Fighter)
+199;(222) Grand Goblin King (King-Warrior)
+201;(95) Worm Dragon (SubBoss-Warrior)
+202;(90) Little Worm Dragon (Warrior)
+203;(13) Jelly King (King-Basic)
+204;(32) Wandering Rackie (Basic)
+205;(25) Woopie King (King-Fighter)
+206;(50) Wild Gorilla (Leader-Basic)
+207;(47) Aqua King (King-Warrior)
+208;(57) Guardian Tree (King-Hunter)
+209;(52) Grunter King (King-Fighter)
+210;(35) Scarab (Warrior)
+211;(78) Doonga King (King-Fighter)
+212;(80) Krawfy King (King-Warrior)
+213;(48) Aqua Giant (King-Fighter)
+215;(46) Aqua Guardian (SubBoss-Guard)
+216;(103) Grunter Guardian (SubBoss-Guard)
+217;(154) Krawfy Guardian (SubBoss-Guard)
+218;(201) Golem Guardian (SubBoss-Guard)
+219;(220) Goblin Guardian (SubBoss-Guard)
+222;(60) Grunter King (King-Fighter)
+223;(75) Krawfy King (King-Fighter)
+226;(7) Flanae (null)
+227;(7) Flanae (null)
+228;(8) Elder Flanae (null)
+229;(16) Red Flanae (null)
+230;(23) Melendino (SubBoss-Warrior)
+231;(35) Zombie (Captain-Warrior)
+232;(110) Elite Wolverine (Elite-Fighter)
+233;(125) Elite Elder Mammoth (Elite-Guard)
+234;(140) Elite Tyrant Warship (Elite-Magician)
+235;(155) Elite Behemoth King (Elite-Warrior)
+236;(1) Xita Flower (null)
+237;(1) Xita Flower (null)
+238;(1) Xita Flower (null)
+239;(1) Xita Flower (null)
+240;(1) Xita Flower (null)
+241;(105) Melendino (SubBoss-Warrior)
+242;(120) Melendino (SubBoss-Warrior)
+250;(1) Xita Flower (null)
+251;(48) Candle Ghost (Magician)
+252;(75) Electric Ghost (Magician)
+254;(74) Stone Golem (Guard)
+256;(63) Needle Bat (Basic)
+257;(66) BloodBat (Ranger)
+258;(71) Elder BloodBat (Fighter)
+261;(45) Goblin Jar (Guard)
+262;(50) Goblin Pet (Guard)
+271;(66) Goblin Worker (Basic)
+272;(67) Coal Mine Goblin Worker (Guard)
+273;(67) Gold Mine Goblin Worker (Fighter)
+274;(68) Goblin Server (Basic)
+275;(69) Gold Mine Goblin Server (Ranger)
+276;(69) Goblin Guard (Guard)
+277;(70) Gem Goblin Guard (Guard)
+278;(70) Goblin Warrior (Warrior)
+279;(72) Gem Goblin Warrior (Warrior)
+280;(73) Coal Mine Goblin Guard (Guard)
+281;(74) Goblin Mage (Magician)
+282;(75) Gem Goblin Mage (Magician)
+283;(76) Gold Mine Goblin Mage (Magician)
+284;(95) Goblin Leader (Leader-Fighter)
+286;(80) Master Goblin (SubBoss-Fighter)
+287;(99) Grand Goblin King (King-Warrior)
+293;(1) Ice Spirit (Basic)
+294;(10) Firecracker Penguin (null)
+295;(90) Grand Duke (null)
+296;(1) Gate Crasher (null)
+297;(1) Ice Spirit (Basic)
+298;(1) Mr. Baggie (null)
+299;(1) Mr. Cannie (Basic)
+300;(1) Mr. Baggie (Basic)
+301;(8) Mini Bee (Basic)
+302;(12) Mini Bee (Basic)
+303;(1) Rudolph Santa (Christmas)
+304;(120) Rudolph Santa (Christmas)
+305;(90) Skeleton (Christmas)
+306;(35) Woopie Hooligan (Leader-Basic)
+307;(75) Woopie Hooligan (Leader-Basic)
+308;(105) Woopie Hooligan (Leader-Basic)
+309;(40) Cherry Smouly (Christmas)
+310;(60) Cherry Smouly (Christmas)
+311;(80) Cherry Smouly (Christmas)
+312;(100) Cherry Smouly (Christmas)
+313;(120) Cherry Smouly (Christmas)
+314;(240) Giant Rudolph Santa (Christmas)
+315;(1) Fire Fly (Basic)
+316;(1) Butterfly (Basic)
+317;(1) Butterfly (Basic)
+318;(1) Butterfly (Basic)
+319;(1) Tropical Fish (Basic)
+320;(1) Tropical Fish (Basic)
+321;(1) Tropical Fish (Basic)
+322;(1) Mr. Cannie (Basic)
+323;(1) Mr. Large Cannie (Basic)
+324;(1) Mr. Large Baggie (Basic)
+325;(79) Rune Stone (null)
+326;(80) Green Crystal (null)
+327;(80) Blue Crystal (null)
+328;(80) Red Crystal (null)
+329;(80) White Crystal (null)
+331;(72) Slag (Basic)
+332;(74) Elder Slag (Basic)
+335;(84) Wolverine (Captain-Basic)
+336;(77) Wolf (Fighter)
+337;(79) Lunar Wolf (Fighter)
+338;(82) Shadow Wolf (Warrior)
+339;(80) Lunar Wolf (Fighter)
+340;(83) Shadow Wolf (Warrior)
+341;(92) Yeti (Fighter)
+342;(93) Yeti Hunter (Hunter)
+343;(94) Yeti Guard (Guard)
+344;(97) Yeti Captain (Leader-Warrior)
+346;(96) Ruper Mage (Magician)
+347;(97) Ruper Wizard (Magician)
+348;(101) Ruper Captain (Captain-Ranger)
+349;(98) Ruper Wizard (Magician)
+350;(109) Varus (King-Magician)
+351;(102) Yeti Rider (Basic)
+352;(109) Rider Wizard (Magician)
+353;(111) Rider Captain (Captain-Warrior)
+356;(117) Tyrant King (King-Magician)
+357;(113) Tyrant (Captain-Magician)
+358;(113) Tyrant (Captain-Magician)
+361;(125) Frost Wyrm (Guard)
+362;(126) Elder Frost Wyrm (Magician)
+365;(83) Vulcan (Basic)
+366;(86) Vulcan Leader (Leader-Guard)
+367;(89) Titan (Leader-Guard)
+368;(116) Winter Maul (Fighter)
+369;(121) Winter Maul Leader (Leader-Fighter)
+370;(95) Basilisk (Ranger)
+371;(102) Basilisk Captain (Captain-Ranger)
+372;Basilisk (null)
+373;(90) Dreadnaught (Warrior)
+374;(91) Dreadnaught King (King-Fighter)
+375;(81) Mini Mammoth (Basic)
+376;(84) Mammoth (Fighter)
+377;(85) Poisoned Mammoth (Fighter)
+378;(86) Lunaris Mammoth (Warrior)
+379;(87) Elder Mammoth (SubBoss-Fighter)
+380;(115) Rubrum (King-Warrior)
+381;(115) Behemoth (King-Warrior)
+382;(125) Rutum (King-Warrior)
+383;(135) Behemoth King (King-Warrior)
+384;(92) Illusion Ghost (Magician)
+385;(107) Illusion Ghost (Magician)
+386;(117) Illusion Ghost (Magician)
+387;(127) Illusion Ghost (Magician)
+388;(135) Electric Ghost (Magician)
+389;(112) Wolf Keeper (Warrior)
+390;(117) Wolf Keeper (Warrior)
+391;(99) Silver Yeti (Warrior)
+392;(105) Golden Yeti (Leader-Warrior)
+393;(110) Silver Rider (Warrior)
+394;(112) Golden Rider (Leader-Warrior)
+395;(145) Astarot (SubBoss-Warrior)
+396;(155) Astarot King (King-Warrior)
+397;(124) Tirwin (Magician)
+401;(47) Junon's Aqua (SubBoss-Fighter)
+402;(49) Junon's Grunter (SubBoss-Fighter)
+403;(60) Junon's Tree (SubBoss-Fighter)
+404;(70) Junon's Kaiman (SubBoss-Fighter)
+405;(85) Junon's Krawfy (SubBoss-Fighter)
+406;(76) Junon's Doongoliath (SubBoss-Fighter)
+407;(85) Junon's Doonga (SubBoss-Fighter)
+408;(103) Junon's Worm Dragon (SubBoss-Warrior)
+409;(101) Junon's Golem (SubBoss-Guard)
+410;(113) Junon's Goblin King (SubBoss-Fighter)
+412;(110) Junon's Goblin King (SubBoss-Fighter)
+413;(110) Junon's Goblin King (SubBoss-Fighter)
+414;(110) Junon's Goblin King (SubBoss-Fighter)
+415;(110) Junon's Goblin King (SubBoss-Fighter)
+416;(110) Junon's Goblin King (SubBoss-Fighter)
+417;(110) Junon's Goblin King (SubBoss-Fighter)
+418;(110) Junon's Goblin King (SubBoss-Fighter)
+419;(110) Junon's Goblin King (SubBoss-Warrior)
+420;(110) Junon's Goblin King (SubBoss-Fighter)
+421;(110) Junon's Goblin King (King-Fighter)
+422;(110) Junon's Goblin King (King-Fighter)
+423;(110) Junon's Goblin King (King-Fighter)
+435;(87) Flaming Pumpkin (Fighter)
+436;(88) Pumpkin Ghost (Warrior)
+437;(92) Giant Pumpkin (Leader-Warrior)
+438;(95) Evil Jack (Captain-Warrior)
+439;(95) Red Pomic Officer (Fighter)
+440;(97) Red Pomic Leader (Leader-Fighter)
+441;(100) Red Pomic Captain (Captain-Fighter)
+442;(98) Antares (Fighter)
+443;(98) Poisoned Antares (Warrior)
+444;(100) Giant Antares (Leader-Fighter)
+445;(107) Poison Master (SubBoss-Guard)
+446;(98) Scavenger (Fighter)
+447;(101) Dark Scavenger (Leader-Fighter)
+448;(105) Sandstorm Scavenger (Captain-Fighter)
+449;(120) Lord Storm (King-Warrior)
+451;(80) Seal Stone (null)
+452;(88) Seal Stone (null)
+453;(100) Seal Stone (null)
+454;(108) Seal Stone (null)
+455;(120) Seal Stone (null)
+456;(128) Seal Stone (null)
+457;(140) Seal Stone (null)
+458;(210) Ritual Stone (null)
+461;(86) Budeater (SubBoss-Guard)
+462;(84) Budeater (Magician)
+463;(84) Budeater (Basic)
+464;(84) Budeater (Basic)
+465;(94) Budeater (Basic)
+466;(104) Budeater (Basic)
+467;(114) Budeater (Basic)
+471;(78) Tirwin (Magician)
+472;(86) Tirwin (Magician)
+473;(98) Tirwin (Magician)
+474;(106) Tirwin (Magician)
+475;(118) Tirwin (Magician)
+476;(126) Tirwin (Magician)
+477;(136) Tirwin (Magician)
+478;(146) Tirwin (Magician)
+479;(156) Tirwin (Magician)
+480;(166) Tirwin (Magician)
+481;(82) Tirwin (Warrior)
+482;(88) Tirwin (Warrior)
+483;(102) Tirwin (Warrior)
+484;(108) Tirwin (Warrior)
+485;(122) Tirwin (Warrior)
+486;(128) Tirwin (Warrior)
+487;(138) Tirwin (Warrior)
+488;(148) Tirwin (Warrior)
+489;(158) Tirwin (Warrior)
+490;(168) Tirwin (Warrior)
+491;(76) Tirwin (Hunter)
+492;(83) Tirwin (Hunter)
+493;(96) Tirwin (Hunter)
+494;(103) Tirwin (Hunter)
+495;(116) Tirwin (Hunter)
+496;(123) Tirwin (Hunter)
+497;(133) Tirwin (Hunter)
+498;(143) Tirwin (Hunter)
+499;(153) Tirwin (Hunter)
+500;(163) Tirwin (Hunter)
+501;(150) Warbiz (Fighter)
+502;(153) Warbiz (Warrior)
+503;(165) Warbiz (Warrior)
+506;(135) Hornet (Warrior)
+507;(148) Hornet (Warrior)
+508;(160) Hornet (Warrior)
+511;(151) Pincer (Warrior)
+512;(152) Pincer Queen (SubBoss-Fighter)
+516;(153) Hook (Warrior)
+517;(154) King Hook (Captain-Warrior)
+521;(155) Nepenthes (Fighter)
+526;(156) Poison Weaver (Guard)
+527;(150) Plunder (Fighter)
+529;(157) Predator (Warrior)
+536;(158) Sikuku Spearman (Basic)
+537;(159) Sikuku Fighter (Fighter)
+538;(160) Sikuku Leader (Leader-Fighter)
+539;(165) Sikuku Veteran (SubBoss-Fighter)
+540;(170) Sikuku Elite Fighter (King-Warrior)
+541;(180) Sikuku Elite King (King-Hunter)
+542;(160) Sikuku Hunter (Basic)
+543;(161) Sikuku Tracker (Warrior)
+544;(162) Sikuku Captain (Captain-Warrior)
+545;(163) Sikuku Butcher (Warrior)
+548;(164) Sikuku Assassin (Hunter)
+549;(175) Sikuku Elite Assassin (SubBoss-Hunter)
+553;(165) Sikuku Shaman (Magician)
+554;(166) Sikuku Psychic (Magician)
+555;(167) Sikuku Elder (Leader-Ranger)
+556;
+557;
+558;(178) Turak (Warrior)
+559;(179) King Turak (King-Warrior)
+560;(180) King Turak (King-Warrior)
+561;
+562;
+563;
+564;
+565;(140) Blue Elemental (Magician)
+566;(145) Red Elemental (Magician)
+567;
+568;
+569;
+570;
+571;(147) Rotten Tree (Basic)
+572;(157) Rotten Elemental (Basic)
+573;
+574;(168) Sikuku Tiger Rider (Ranger)
+575;(169) Sikuku Tiger Interceptor (Hunter)
+576;(170) Sikuku Tiger Captain (Captain-Hunter)
+601;(100) NO NAME FOUND (Basic)
+602;(100) NO NAME FOUND (Basic)
+603;(100) NO NAME FOUND (Basic)
+604;(100) NO NAME FOUND (Basic)
+605;(100) NO NAME FOUND (Basic)
+606;
+607;(35) Riddler Jelly Bean (Basic)
+608;(40) Riddler Jelly Bean (Basic)
+609;(45) Riddler Jelly Bean (Basic)
+610;(50) Riddler Jelly Bean (Basic)
+611;(55) Riddler Jelly Bean (Basic)
+612;(60) Riddler Jelly Bean (Basic)
+613;(65) Riddler Jelly Bean (Basic)
+614;(70) Riddler Jelly Bean (Basic)
+615;(75) Riddler Jelly Bean (Basic)
+616;(80) Riddler Jelly Bean (Basic)
+617;(85) Riddler Jelly Bean (Basic)
+618;(90) Riddler Jelly Bean (Basic)
+619;(50) Dreadful Glutton (SubBoss-Fighter)
+620;(70) Dreadful Glutton (SubBoss-Fighter)
+621;(90) Dreadful Glutton (SubBoss-Fighter)
+622;(40) Red Jelly King's Henchman (SubBoss-Fighter)
+623;(50) Red Jelly King's Henchman (SubBoss-Fighter)
+624;(60) Grim Hemmz's Henchman (SubBoss-Fighter)
+625;(70) Grim Hemmz's Henchman (SubBoss-Fighter)
+626;(80) Adamantium Golem's Henchman (SubBoss-Fighter)
+627;(90) Adamantium Golem's Henchman (SubBoss-Fighter)
+628;(50) Red Jelly King (King-Fighter)
+629;(70) Grim Hemmz (King-Fighter)
+630;(90) Adamantium Golem (King-Fighter)
+631;(117) Shaman Ghost (Fighter)
+632;(118) Shaman Poltergeist (Magician)
+633;(119) Evil Shaman's Spirit (Magician)
+634;(119) Venom Ghost (Warrior)
+635;(117) Spirit of the Berkana Book (Magician)
+636;(118) Spirit of the Cursed Book (Magician)
+637;(121) Secret Book of Venom (Fighter)
+638;(122) Fanatic Shaman (Magician)
+639;(123) Shamanic Prophet (Leader-Magician)
+640;(124) Pastor of the Abyss (Leader-Magician)
+641;(123) Fearful Allurer (Leader-Magician)
+642;(124) Silent Allurer (Leader-Magician)
+643;(122) Insane Shaman (Magician)
+644;(124) Shaman Zombie (Fighter)
+645;(125) Shaman Soldier (Warrior)
+646;(127) Moon Knight (Warrior)
+647;(128) Moon Guardian (Warrior)
+648;(131) Frozen Tumbler (Warrior)
+649;(130) Heavy Tumbler (Leader-Guard)
+650;(133) Frozen Statue (Warrior)
+651;(135) Berkana Stone (Captain-Guard)
+652;(136) Frozen Stone Sculpture (Captain-Guard)
+653;(148) Moon Brother Dagaz (King-Guard)
+654;(147) Moon Sister Inguz (King-Hunter)
+655;(150) Sword Master Emil (King-Warrior)
+656;(152) Moon Pastor Laguz (King-Fighter)
+657;(158) Budeater (Guard)
+658;(159) Tirwin (Magician)
+659;(140) Moon Child Summon Statue (Guard)
+660;(85) Blue Dragon (King-Fighter)
+661;(85) Red Dragon (King-Fighter)
+662;(70) Dragon Egg (Magician)
+663;(80) Hatchling (Magician)
+664;
+665;(125) Blue Dragon (King-Fighter)
+666;(125) Red Dragon (King-Fighter)
+667;(135) Dragon Egg (Magician)
+668;(115) Hatchling (Magician)
+669;
+670;
+671;(190) Blue Dragon (King-Warrior)
+672;(190) Red Dragon (King-Warrior)
+673;(200) Dragon Egg (Magician)
+674;(180) Hatchling (Magician)
+675;
+676;(70) Blue Dragon (King-Warrior)
+677;(70) Red Dragon (King-Warrior)
+678;(80) Dragon Egg (Magician)
+679;(60) Hatchling (Magician)
+680;(151) Yigore Ghost (Magician)
+681;(155) Yigore Ghost (Magician)
+682;(159) Yigore Ghost (Magician)
+683;(163) Yigore Ghost (Magician)
+684;(167) Yigore Ghost (Magician)
+685;(171) Yigore Ghost (Magician)
+686;(175) Yigore Ghost (Magician)
+687;(179) Yigore Ghost (Magician)
+688;(183) Yigore Ghost (Magician)
+689;(187) Yigore Ghost (Magician)
+690;(191) Yigore Ghost (Magician)
+691;(195) Yigore Ghost (Magician)
+692;(199) Yigore Ghost (Magician)
+693;(203) Yigore Ghost (Magician)
+694;(150) Blue Dragon (King-Magician)
+695;(150) Red Dragon (King-Magician)
+696;(150) Dragon Egg (Magician)
+697;(150) Hatchling (Magician)
+698;(207) Yigore Ghost (Magician)
+699;(211) Yigore Ghost (Magician)
+700;
+701;(1) Ghost Seed (Basic)
+702;(40) Ghost Seed (Basic)
+703;(90) Lunar Soul (Basic)
+704;(60) Ghost Seed (Basic)
+705;(136) Ghost Seed (Basic)
+706;(162) Ghost Seed (Basic)
+707;(90) Ghost Seed (Basic)
+708;(90) Ghost Seed (Basic)
+709;(90) Ghost Seed (Basic)
+710;(90) Ghost Seed (Basic)
+711;(19) Candle Ghost (Magician)
+712;(23) Candle Ghost (Magician)
+713;(27) Candle Ghost (Magician)
+714;(31) Candle Ghost (Magician)
+715;(35) Candle Ghost (Magician)
+716;(39) Candle Ghost (Magician)
+717;(43) Candle Ghost (Magician)
+718;(47) Candle Ghost (Magician)
+719;(51) Candle Ghost (Magician)
+720;(55) Candle Ghost (Magician)
+721;(59) Candle Ghost (Magician)
+722;(63) Candle Ghost (Magician)
+723;(67) Candle Ghost (Magician)
+724;(71) Candle Ghost (Magician)
+725;(75) Candle Ghost (Magician)
+726;(79) Candle Ghost (Magician)
+727;(83) Candle Ghost (Magician)
+728;(87) Candle Ghost (Magician)
+729;(91) Candle Ghost (Magician)
+730;(95) Candle Ghost (Magician)
+731;(99) Candle Ghost (Magician)
+732;(75) Electric Ghost (Magician)
+733;(79) Electric Ghost (Magician)
+734;(83) Electric Ghost (Magician)
+735;(87) Electric Ghost (Magician)
+736;(91) Electric Ghost (Magician)
+737;(95) Electric Ghost (Magician)
+738;(99) Electric Ghost (Magician)
+739;(103) Electric Ghost (Magician)
+740;(107) Electric Ghost (Magician)
+741;(111) Electric Ghost (Magician)
+742;(115) Electric Ghost (Magician)
+743;(119) Electric Ghost (Magician)
+744;(123) Electric Ghost (Magician)
+745;(127) Electric Ghost (Magician)
+746;(131) Electric Ghost (Magician)
+747;(135) Electric Ghost (Magician)
+748;(139) Electric Ghost (Magician)
+749;(143) Electric Ghost (Magician)
+750;(147) Electric Ghost (Magician)
+751;(90) Ghost Rackie (Basic)
+752;(90) Ghost Rackie (Basic)
+753;(90) Ghost Rackie (Basic)
+754;(90) Ghost Rackie (Basic)
+755;(14) Demoniac Cheney (Basic)
+756;(14) Infernal Shirley (Basic)
+757;(14) Berserk Arisa (Basic)
+758;(15) Infected Pomic (Basic)
+759;
+760;(72) Supreme Goblin Warrior (Basic)
+761;(100) Supreme Krawfy King (Basic)
+762;(100) Supreme Stone Golem (Basic)
+763;(100) Supreme Doonga (Basic)
+764;
+765;
+766;
+767;
+768;
+769;
+770;
+771;Third Eye (Summon)
+772;Third Eye (Summon)
+773;Third Eye (Summon)
+774;Third Eye (Summon)
+775;Third Eye (Summon)
+776;
+777;
+778;
+779;
+780;
+781;Wizard Eye (Summon)
+782;Wizard Eye (Summon)
+783;Wizard Eye (Summon)
+784;Wizard Eye (Summon)
+785;Wizard Eye (Summon)
+786;Twilight Flame (Summon)
+787;Twilight Flame (Summon)
+788;Twilight Flame (Summon)
+789;Twilight Flame (Summon)
+790;Twilight Flame (Summon)
+791;Salamander Flame (Summon)
+792;Salamander Flame (Summon)
+793;Salamander Flame (Summon)
+794;Salamander Flame (Summon)
+795;Salamander Flame (Summon)
+796;Mana Flame (Summon)
+797;Mana Flame (Summon)
+798;Mana Flame (Summon)
+799;Mana Flame (Summon)
+800;Mana Flame (Summon)
+801;Campfire (Summon)
+802;Bonfire (Summon)
+803;Bonfire (Summon)
+804;Bonfire (Summon)
+805;Bonfire (Summon)
+806;Bonfire (Summon)
+807;Bonfire (Summon)
+808;Bonfire (Summon)
+809;Bonfire (Summon)
+810;Bonfire (Summon)
+811;Butter Fly (Summon)
+812;Butter Fly (Summon)
+813;Butter Fly (Summon)
+814;Butter Fly (Summon)
+815;Butter Fly (Summon)
+816;Butter Fly (Summon)
+817;Butter Fly (Summon)
+818;Butter Fly (Summon)
+819;Butter Fly (Summon)
+820;Butter Fly (Summon)
+821;Phantom Sword (Summon)
+822;Phantom Sword (Summon)
+823;Phantom Sword (Summon)
+824;Phantom Sword (Summon)
+825;Phantom Sword (Summon)
+826;Phantom Shield (Summon)
+827;Phantom Shield (Summon)
+828;Phantom Shield (Summon)
+829;Phantom Shield (Summon)
+830;Phantom Shield (Summon)
+831;Firegon (Summon)
+832;Firegon (Summon)
+833;Firegon (Summon)
+834;Firegon (Summon)
+835;Firegon (Summon)
+836;Ice Dragon  (Summon)
+837;Ice Dragon  (Summon)
+838;Ice Dragon  (Summon)
+839;Ice Dragon  (Summon)
+840;Ice Dragon  (Summon)
+841;Fire Elemental (Summon)
+842;Fire Elemental (Summon)
+843;Fire Elemental (Summon)
+844;Fire Elemental (Summon)
+845;Fire Elemental (Summon)
+846;Earth Elemental (Summon)
+847;Earth Elemental (Summon)
+848;Earth Elemental (Summon)
+849;Earth Elemental (Summon)
+850;Earth Elemental (Summon)
+851;Wind Elemental (Summon)
+852;Wind Elemental (Summon)
+853;Wind Elemental (Summon)
+854;Wind Elemental (Summon)
+855;Wind Elemental (Summon)
+856;Ice Elemental (Summon)
+857;Ice Elemental (Summon)
+858;Ice Elemental (Summon)
+859;Ice Elemental (Summon)
+860;Ice Elemental (Summon)
+861;Mercenary Warrior (Summon)
+862;Mercenary Warrior (Summon)
+863;Mercenary Warrior (Summon)
+864;Mercenary Warrior (Summon)
+865;Mercenary Warrior (Summon)
+866;Mercenary Hunter (Summon)
+867;Mercenary Hunter (Summon)
+868;Mercenary Hunter (Summon)
+869;Mercenary Hunter (Summon)
+870;Mercenary Hunter (Summon)
+871;Dread Knight (Summon)
+872;Dread Knight (Summon)
+873;Dread Knight (Summon)
+874;Dread Knight (Summon)
+875;Dread Knight (Summon)
+876;Terror Knight (Summon)
+877;Terror Knight (Summon)
+878;Terror Knight (Summon)
+879;Terror Knight (Summon)
+880;Terror Knight (Summon)
+881;Hawk (Summon)
+882;Hawk (Summon)
+883;Hawk (Summon)
+884;Hawk (Summon)
+885;Hawk (Summon)
+886;Hawk (Summon)
+887;Hawk (Summon)
+888;Hawk (Summon)
+889;Hawk (Summon)
+890;Hawk (Summon)
+891;Beast (Summon)
+892;Beast (Summon)
+893;Beast (Summon)
+894;Beast (Summon)
+895;Beast (Summon)
+896;Beast (Summon)
+897;Beast (Summon)
+898;Beast (Summon)
+899;Beast (Summon)
+900;Beast (Summon)
+901;(26) Jelly Bean (Basic)
+902;(28) JellyNut (Basic)
+903;(27) Choropy (Basic)
+904;(30) Pumpkin (Basic)
+905;(42) Dalping (Basic)
+906;(32) HoneyBee (Basic)
+907;(38) Hornet (Basic)
+908;(35) Pomic (Basic)
+909;(36) Pomic Soldier (Basic)
+910;(41) Beetle (Basic)
+911;(45) Turtle (Basic)
+912;(39) Crack (Basic)
+913;(44) Rackie (Basic)
+914;(38) Woopie (Basic)
+915;(53) Moldie (Basic)
+916;(74) Krawfy (Basic)
+917;(50) Porkie (Basic)
+918;(56) Grunter (Basic)
+919;(65) Grunter Leader (Basic)
+920;(70) Kaiman (Basic)
+921;(67) Doonga (Basic)
+922;(72) Doonga Warrior (Basic)
+923;(79) Doonga Captain (Basic)
+924;(62) Jewel Golem (Basic)
+925;(48) Aqua Guarder (Basic)
+926;(59) Clown (Basic)
+927;(62) Candle Ghost (Magician)
+928;(62) Goblin Worker (Basic)
+929;(75) Goblin Guarder (Basic)
+930;(78) Goblin Warrior (Basic)
+931;(82) Slag (Basic)
+932;(87) Lunar Wolf (Basic)
+933;(91) Yeti (Basic)
+934;(94) Yeti Hunter (Basic)
+935;(97) Yeti Guard (Basic)
+936;(100) Yeti Rider (Basic)
+937;(104) Goblin King (Basic)
+938;(70) Cherry Blossom Smouly (Basic)
+939;(200) Goddess Arua (Basic)
+940;(200) NO NAME FOUND (Basic)
+941;(200) Lucky Ghost (Basic)
+942;Judgment Knight (Summon)
+943;(147) Mummy (Fighter)
+944;(149) Mummy Ranger (Ranger)
+945;(149) Mummy Soldier (Warrior)
+946;(152) Mummy Commander (Leader-Warrior)
+947;(160) Mummy King (King-Fighter)
+948;(147) Mammy (Fighter)
+949;(148) Mammy Soldier (Warrior)
+950;(150) Mammy Ranger (Ranger)
+951;(151) Mammy Mystic (Magician)
+952;(162) Mammy Queen (King-Fighter)
+953;(157) Clay Golem (Guard)
+954;(157) Sand Golem (Warrior)
+955;(160) Iron Golem (Leader-Guard)
+956;(161) Boulder Golem (Captain-Guard)
+957;(164) Lava Golem (SubBoss-Fighter)
+958;(160) Stone Jackal Guardian (Guard)
+959;(162) Stone Falcon Guardian (Hunter)
+960;(164) Stone Berserker Guardian (Captain-Warrior)
+961;(166) Stone Moongate Guardian (SubBoss-Fighter)
+962;(167) Arcane Priest Hathor (SubBoss-Fighter)
+963;(175) Arcane King Khaldun (King-Fighter)
+964;(260) Mini Super Chicken Monster (Fighter)
+965;(260) Super Chicken Monster (King)
+966;(53) Lil' Qpid (King)
+967;(148) Spotted Scavenger (Fighter)
+968;(155) Tomb Scavenger (Fighter)
+969;(158) Hammerhead Scavenger (Fighter)
+970;(260) Mini Super Terrasaurus (Captain-Fighter)
+971;(3) NO NAME FOUND (Basic)
+972;(260) Super Terrasaurus (King-Ranger)
+973;(77) Wolf (Basic)
+974;(84) Mammoth (Basic)
+975;(90) Dreadnaught (Basic)
+976;(111) Lunaris Bear (Basic)
+977;(200) Wrealith Hatchling (Fighter)
+978;(218) Mastyx (Guard)
+979;(203) Desert Asper (Fighter)
+980;(213) Desert Scavenger (Basic)
+981;(250) Mini Super Elemental (Fighter)
+982;(250) Super Elemental (King)
+983;(250) Little Super Moldie (Fighter)
+984;(250) Super Scuba Moldie (King)
+985;(250) Giant Mother Choropy (King)
+986;(250) Giant JellyBean (King)
+987;(250) Giant Elemental (King)
+988;(80) Mini Worm Dragon  (Fighter)
+989;(150) Worm Dragon Commander (Captain-Magician)
+990;(220) Super Worm Dragon (King)
+991;(19) NO NAME FOUND (Basic)
+992;(30) Christmas Tree (Basic)
+993;(19) NO NAME FOUND (Basic)
+994;(30) Easter Bunny (Basic)
+995;(30) Easter Egg (Basic)
+996;(150) Moss Golem (King)
+997;(150) Nepenthes (King)
+998;(190) Turak (King)
+999;(220) Executor Kera (King-Hunter)
+1000;(160) Executor Kera (King-Hunter)
+1001;[Village Chief] Cornell (NPC)
+1002;[Akram Kingdom Minister] Warren (NPC)
+1003;[Junon Order Co-Founder] Francis (NPC)
+1004;[Ferrell Guild Staff] Crow (NPC)
+1005;[Righteous Crusader] Leonard (NPC)
+1006;[Arumic Merchant] Tryteh (NPC)
+1007;[Gypsy Merchant] Mina (NPC)
+1008;[Weapon Seller] Raffle (NPC)
+1009;[Armor Seller] Carrion (NPC)
+1010;[Designer] Keenu (NPC)
+1011;[Eccentric Inventor] Spero (NPC)
+1012;[Ferrell Guild Staff] Ulysses (NPC)
+1013;[Tavern Owner] Sharlin (NPC)
+1014;[Guide] Lena (NPC)
+1015;[Resident] Luth (NPC)
+1016;[Livestock Farmer] Lampa (NPC)
+1017;[Teleporter] Selladin (NPC)
+1018;[Cornell's Grandson] Cheney (NPC)
+1019;[Lena's Sister] Shirley (NPC)
+1020;[Keenu's Daughter] Arisa (NPC)
+1021;[Boy by the Cart]Huey (NPC)
+1022;Gate (NPC)
+1023;Gate (NPC)
+1024;NO NAME FOUND (NPC)
+1025;NO NAME FOUND (NPC)
+1026;NO NAME FOUND (NPC)
+1027;NO NAME FOUND (NPC)
+1028;[Archaeologist] Kentucky Jones
+1029;[Herbalist] Helianthus
+1030;[Visitor Guide] Arua's Fairy (NPC)
+1031;[Visitor Guide] Ronway (NPC)
+1032;[Akram Minister] Mairard (NPC)
+1033;[Righteous Crusader] Port (NPC)
+1034;[Smith] Ronk (NPC)
+1035;[Little Street Vendor] Pony (NPC)
+1036;[Ferrell Guild Staff] Seyon (NPC)
+1037;[Old Fisherman] Myad (NPC)
+1038;[Village Chief] Gray (NPC)
+1039;[Fruit Store] Reene (NPC)
+1040;[Novice Designer] Cassirin (NPC)
+1041;[Old Man] Myad (NPC)
+1042;[Ferrell Guild Storage Keeper] Fabrizio (NPC)
+1043;[Junon RPS] Sherisse (NPC)
+1044;[Clown Throw] Mildred (NPC)
+1045;[Pick-A-Card] Alejandro (NPC)
+1046;[Pie Crush] Tony (NPC)
+1047;[Chicken Races] Hig (NPC)
+1048;[Digging for Treasure] Augustus (NPC)
+1049;[Scavenger Hunt] Pirelli (NPC)
+1050;[Festival Manager] Lero (NPC)
+1051;[Arumic Researcher] Lutis (NPC)
+1052;[Mountain Guide] Shannon (NPC)
+1053;[Cleric] Karitte (NPC)
+1054;[Concession Stand] Lizzy (NPC)
+1055;[Festival Manager] Lero (NPC)
+1056;[Soldier Trainer] Murphy (NPC)
+1057;[Muse Trainer] Media (NPC)
+1058;[Hawker Trainer] Connor (NPC)
+1059;[Dealer Trainer] Titania (NPC)
+1060;[Pumpkin Farmer] Claude (NPC)
+1061;[Ferrell Guild Staff] Belz (NPC)
+1062;[Smith] Punwell (NPC)
+1063;[Little Street Vendor] Mile (NPC)
+1064;[Weapon Craftsman] Mairath (NPC)
+1065;[Path Guard] Bert (NPC)
+1066;[Old Fisherman] Sal (NPC)
+1067;[Breezy Hills Militia] Mercucio (NPC)
+1068;[Referee] Godefrey (NPC)
+1069;[Referee] Jeannot (NPC)
+1070;[Breezy Hills Militia] Rahl (NPC)
+1071;[Ferrell Guild Merchant] Lina (NPC)
+1072;[Gypsy Merchant] Methio (NPC)
+1073;[Ikaness Staff] Orias (NPC)
+1074;[El Verloon Tourism Board] Caraan (NPC)
+1075;[Archaeologist] Williams (NPC)
+1076;[Archaeologist] Jorgus (NPC)
+1077;[Orlean Ambassador] Bond (NPC)
+1078;[Arua's Servant] Serenity (NPC)
+1079;[Hebarn's Vassal] Starburner (NPC)
+1080;[Premium Shop] Lyon (NPC)
+1081;[Mayor] Darren (NPC)
+1082;[Guide] Eva (NPC)
+1083;[Akram King] Loderic (NPC)
+1084;[Akram Minister] Gamp (NPC)
+1085;[Akram Minister] Nell (NPC)
+1086;[Referee] Rodath (NPC)
+1087;[Referee] Windall (NPC)
+1088;[Founder of Junon Order] Raw (NPC)
+1089;[Manager of Ferrell] Arothel (NPC)
+1090;[Righteous Crusader] Gawain (NPC)
+1091;[Arumic Merchant] Chelsie (NPC)
+1092;[Gypsy Merchant] Bellia (NPC)
+1093;[Weapon Merchant] Crune (NPC)
+1094;[Armor Merchant] Saki (NPC)
+1095;[Designer] Lisa (NPC)
+1096;[Ferrell Guild Merchant] Mildun (NPC)
+1097;[Tavern Owner] Harin (NPC)
+1098;[Ferrell Guild Staff] Kiroth (NPC)
+1099;[Ferrell Guild Staff] Hayen (NPC)
+1100;[Ferrell Guild Staff] Itz (NPC)
+1101;[Little Street Vendor] Tom (NPC)
+1102;[Little Street Vendor] Jerry (NPC)
+1103;[Poet] Dante (NPC)
+1104;[Historian] Jones (NPC)
+1105;[Resident] Blue (NPC)
+1106;[Resident] Mint (NPC)
+1107;[Livestock Farmer] Sicru (NPC)
+1108;[Akram Ambassador] Adalric (NPC)
+1109;[Junon Order Elder] Gorthein (NPC)
+1110;[Ferrell Guild Staff] Charrs (NPC)
+1111;[Righteous Crusader] Huffe (NPC)
+1112;[Arumic Researcher] Carasia (NPC)
+1113;[Premium Exchanger] Anthonios (NPC)
+1114;[Fruit Cart] Feuey (NPC)
+1115;[Clan Manager] Burtland (NPC)
+1116;[Soldier] Odelo (NPC)
+1117;[Soldier] Winters (NPC)
+1118;[Interplanetary Guide] Alphonso (NPC)
+1119;[Teleporter] Idiosel (NPC)
+1120;[Clan Clerk] Regina (NPC)
+1121;[Ikaness Staff] Shroon (NPC)
+1122;[Mountain Guide] Pein (NPC)
+1123;[Gypsy Merchant] Edone (NPC)
+1124;[Clan Info] Regina (NPC)
+1125;[Vicious Captain] Ruven (NPC)
+1126;[Eccentric Painter] Gero (NPC)
+1127;[Shop Waitress] Betty (NPC)
+1128;[Storage Keeper] Marcus (NPC)
+1129;[Blacksmith] Brock (NPC)
+1130;[Gypsy Merchant] Tobar (NPC)
+1131;[Mountain Guide] Kay (NPC)
+1132;[Stranded Resident] Morgan (NPC)
+1133;[Livestock Farmer] Enu (NPC)
+1134;[Resident] Rudolfo (NPC)
+1135;[Fruit Seller] Magdalena (NPC)
+1136;[Tragic Lover] Alex (NPC)
+1137;[Tavern Owner] Harin (NPC)
+1138;[Smith] Rockwell (NPC)
+1139;[Weapon Merchant] Dune (NPC)
+1140;[El Verloon Tour Guide] Franklin
+1141;[Righteous Crusader] Gallahad (NPC)
+1142;[Akram Minister] Luce (NPC)
+1143;[Ferrell Guild Merchant ] Bith (NPC)
+1144;[Resident] Hotch (NPC)
+1145;[Tourist] Linda
+1146;[Tourist] Rick
+1147;[Mountain Guide] Stephano
+1148;[Frightened Guard] Canterbury
+1149;[Referee] Windall (NPC)
+1150;
+1151;[Ferrell Guild Merchant] Med (NPC)
+1152;
+1153;
+1154;[Dead Priest] Lantore (NPC)
+1155;[Ranger] Paul (NPC)
+1156;[Town Girl] Lithia (NPC)
+1157;[Ghost] Harry (NPC)
+1158;
+1159;
+1160;
+1161;[Clan House Manager] Kushard (NPC)
+1162;[Clan House Soldier] Jason (NPC)
+1163;
+1164;[Event Info] Lilly (NPC)
+1165;[Lunaris Bear Throw] Mighail (NPC)
+1166;[Penguin Races] Penny (NPC)
+1167;[Snowplowing for Treasure] Magnus (NPC)
+1168;[Lunaris RPS] Evanna (NPC)
+1169;[Snowmobile Races] Chilly (NPC)
+1170;[Snow Valley Biathlon] Viktoria (NPC)
+1171;[Eucar Judge] Ishtal (NPC)
+1172;[Akram Ambassador] Eliot (NPC)
+1173;[Arumic Prophet] Olleck Basilasi (NPC)
+1174;[Ice Fishing] Val (NPC)
+1175;[Cherry Berry Pie Crush] Anya (NPC)
+1176;[Cherry Berry Pie Crush] Anya (NPC)
+1177;[Cherry Berry Pie Crush] Anya (NPC)
+1178;[Cherry Berry Pie Crush] Anya (NPC)
+1179;
+1180;[Ferrell Guild Banker] Andre (NPC)
+1181;[Smith] Pavrick (NPC)
+1182;[Gentleman Explorer] Toffee Coffington (NPC)
+1183;[Gentleman Explorer] Wilhelm Coffington (NPC)
+1184;[Ferrell Guild Staff] Sergei (NPC)
+1185;[Arumic Merchant] Pabel (NPC)
+1186;[Tavern Owner] Anzhelika (NPC)
+1187;[Gentleman Explorer] Nicholai Coffington (NPC)
+1188;[Interplanetary Guide] Illiya (NPC)
+1189;[Akram Prince] Loderic (NPC)
+1190;[Lost Lunaris Girl] Kiroro (NPC)
+1191;[Shamanist] Est (NPC)
+1192;[Magic Scholar] Ivanov (NPC)
+1193;[Lunar Tower Girl] Kiroro (NPC)
+1194;[Livestock Farmer] Kapeka (NPC)
+1195;(200) Goddess Luna (Basic)
+1196;[Shamanist Ambassador] Khiya (NPC)
+1197;
+1198;
+1199;
+1200;[Mysterious Traveler] Edeline (NPC)
+1201;[Event Info] Judy (NPC)
+1202;[Event Info] Felice Fete (NPC)
+1203;[Event Info] Lucille Fete (NPC)
+1204;[Beach Resident] Judith (NPC)
+1205;[Event Info] Santa Claus (NPC)
+1206;[Event Info] Loelsch (NPC)
+1207;NO NAME FOUND (NPC)
+1208;[Cosmic Vassal] Little Angel of Junon (NPC)
+1209;NO NAME FOUND (NPC)
+1210;[Beach Resident] Casey Jean (NPC)
+1211;[Righteous Crusader] Harold Evan (NPC)
+1212;[Arumic Researcher] Catherine Clara (NPC)
+1213;[Ferrell Guild Staff] Gilbert (NPC)
+1214;[Junon Order Elder] Oscar Patrick (NPC)
+1215;[Akram Ambassador] Jacklyn Cooper (NPC)
+1216;[Beach Resident] Judith (NPC)
+1217;[Messenger of Love] Qpid (NPC)
+1218;
+1219;[Interplanetary Guide] Chacha (NPC)
+1220;[Raknu Chief] Darka Khan (NPC)
+1221;[Raknu Warrior] Jeffrey Lloyd (NPC)
+1222;[Storage Keeper] Dustin Leta (NPC)
+1223;[Smith] Nel Eldora (NPC)
+1224;[Chef] Peppie (NPC)
+1225;Statue Head (NPC)
+1226;(165) Corruption (Elite)
+1227;(180) Sikuku Thief (Elite)
+1228;[Raknu Captain Guard] Komo (NPC)
+1229;[Raknu Warrior] Toanu (NPC)
+1230;[Raknu Warrior] Guanu (NPC)
+1231;[Raknu Warrior] Gelta (NPC)
+1232;[Raknu Warrior] Sorita (NPC)
+1233;[Raknu Warrior] Kin (NPC)
+1234;[Raknu Resident] Dunga (NPC)
+1235;[Raknu Resident] Stone Head (NPC)
+1236;[Raknu Resident] Jerrita (NPC)
+1237;[Raknu Resident] Netty (NPC)
+1238;[Raknu Resident] Grammy (NPC)
+1239;
+1240;[Monkey] Charlie Longtail (NPC)
+1241;NO NAME FOUND (NPC)
+1242;
+1243;[Patrol Dog] Max (NPC)
+1244;[Patrol Dog] Stephen (NPC)
+1245;[Sikuku Tracker] Akuku (NPC)
+1246;
+1247;[Smith] Kojo (NPC)
+1248;[Cleric] Maria (NPC)
+1249;[Ruins Curator] Hope (NPC)
+1250;[Mountain Guide] Bennett  (NPC)
+1251;[Cleric] Jude (NPC)
+1252;[Sikuku Chief] Namiel Char (NPC)
+1253;[Bird] Hawker (NPC)
+1254;[Sikuku Warrior] Ruduck (NPC)
+1255;[Sikuku Warrior] Yak (NPC)
+1256;[Sikuku Warrior] Seka (NPC)
+1257;[Sikuku Warrior] Kilie (NPC)
+1258;[Sikuku Resident] Martie (NPC)
+1259;[Sikuku Resident] Carl (NPC)
+1260;[Sikuku Resident] Parah (NPC)
+1261;[Sikuku Resident] Shilma (NPC)
+1262;[Sikuku Warrior] Wounded Soldier (NPC)
+1263;[Sikuku Warrior] Wounded Soldier (NPC)
+1264;
+1265;[Arumic Researcher] Redford (NPC)
+1266;[Critically Wounded] Nukie (NPC)
+1267;(260) Mini Super Thief Bug (Fighter)
+1268;(260) Super Thief Bug (King)
+1269;NO NAME FOUND (NPC)
+1270;NO NAME FOUND (NPC)
+1271;NO NAME FOUND (NPC)
+1272;(260) Super Pumpkin Lord (King)
+1273;(260) Super Bruce (King)
+1274;(260) Super Mini Bruce (Captain-Fighter)
+1275;(1) Chick (Basic)
+1276;(1) Chicken (Basic)
+1277;(3) Devil Pest Butterfly (Basic)
+1278;(9) Little Spotted Choropy (Guard)
+1279;(10) Clay Walker (Basic)
+1280;(11) Stony Walker (Guard)
+1281;(12) Blood Jelly (Fighter)
+1282;(11) Red Pomic Fighter (Basic)
+1283;(14) Devil Pest Little Bee (Fighter)
+1284;(14) Little Cowboy Pumpkin (Warrior)
+1285;(13) Honey Bee (Basic)
+1286;(14) Young Hornet (Fighter)
+1287;(20) Little Woopie (Basic)
+1288;(15) Woopie (Basic)
+1289;(21) Assistant Chef Woopie (Hunter)
+1290;(17) Hornet (Warrior)
+1291;(19) Woopie Glutton (Leader-Fighter)
+1292;(27) Pomic Soldier (Basic)
+1293;(27) Red Pomic Soldier (Basic)
+1294;(28) Red Flanae (Fighter)
+1295;(12) Pomic Cadet (Fighter)
+1296;(12) Red Pomic Cadet (Hunter)
+1297;(10) Pomic Fighter (Ranger)
+1298;(12) Pomic Officer (Leader-Fighter)
+1299;(27) Pomic General (Captain-Ranger)
+1300;(28) Pomic King (King-Guard)
+1301;(21) Wandering Rackie (Basic)
+1302;(32) Vagabond Rackie (Fighter)
+1303;(23) Vagabond Rackie (Fighter)
+1304;(34) Honey Rackie (Basic)
+1305;(39) Fighter Rackie (Fighter)
+1306;(40) Assassin Rackie (Hunter)
+1307;(33) Little Beetle (Basic)
+1308;(22) Beetle (Basic)
+1309;(34) Beetle Fighter (Fighter)
+1310;(35) Little Turtle (Basic)
+1311;(26) Little Turtle (Basic)
+1312;(28) Turtle (Basic)
+1313;(39) Devil Pest Honey Bee (Fighter)
+1314;(40) Devil Pest Hornet (Warrior)
+1315;(41) Devil Pest Hornet (Warrior)
+1316;(45) Aqua Assassin (Hunter)
+1317;(46) Aqua Scout (Fighter)
+1318;(47) Aqua Hunter (Hunter)
+1319;(46) Aqua Swordsman (Warrior)
+1320;(47) Aqua Swordsman (Warrior)
+1321;(48) Aqua Guardian (Captain-Guard)
+1322;(42) Mini-Porkie (Basic)
+1323;(43) Porkie (Fighter)
+1324;(45) Crazy Porkie (Warrior)
+1325;(47) Grunter (Guard)
+1326;(51) Grunter Guardian (Captain-Guard)
+1327;(49) Giant Grunter (King-Fighter)
+1328;(49) Little Moldie (Basic)
+1329;(53) Manager Moldie (King-Fighter)
+1330;(49) Little Smouly (Basic)
+1331;(50) Little Smouly (Basic)
+1332;(50) Smouly (Basic)
+1333;(51) Stray Smouly (Fighter)
+1334;(52) Old Smouly (Fighter)
+1335;(53) Decrepit Smouly (Warrior)
+1336;(54) Cherry Smouly (Warrior)
+1337;(55) Cherry Smouly (Warrior)
+1338;(56) Giant Smouly (Leader-Hunter)
+1339;(53) Clown (Guard)
+1340;(55) Fighter Clown (Fighter)
+1341;(57) Ranger Clown (Ranger)
+1342;(58) Clown Swordsman (Leader-Fighter)
+1343;(60) Wise Clown (King-Warrior)
+1344;(58) Doonga (Basic)
+1345;(59) Doonga (Basic)
+1346;(63) Doonga Fighter (Fighter)
+1347;(66) Doonga Leader (Leader-Warrior)
+1348;(68) Doonga Captain (Captain-Warrior)
+1349;(71) Doonga Hunter (Hunter)
+1350;(73) Master Doonga (Leader-Fighter)
+1351;(74) Doonga Assassin (Ranger)
+1352;(75) Doonga Assassin (Ranger)
+1353;(76) Doonga Swordsman (Warrior)
+1354;(77) Doonga Swordsman (Warrior)
+1355;(83) Doonga King (King-Fighter)
+1356;(70) Little Krawfy (Basic)
+1357;(71) Little Krawfy (Basic)
+1358;(72) Krawfy (Fighter)
+1359;(75) Krawfy Warrior (Warrior)
+1360;(76) Krawfy Swordsman (Warrior)
+1361;(78) Krawfy Captain (Captain-Warrior)
+1362;(86) Giant Krawfy (King-Fighter)
+1363;(72) Little Kaiman (Basic)
+1364;(73) Little Kaiman (Basic)
+1365;(75) Kaiman (Fighter)
+1366;(77) Kaiman Ranger (Ranger)
+1367;(79) Kaiman Guard (Guard)
+1368;(82) Kaiman Swordsman (Leader-Fighter)
+1369;(83) Giant Kaiman Ranger (King-Hunter)
+1370;(83) Jewel Golem (Basic)
+1371;(84) Golem (Guard)
+1372;(87) Master Golem (Warrior)
+1373;(91) Giant Golem (SubBoss-Fighter)
+1374;(88) Golem Origin (Warrior)
+1375;(89) Blood Golem (Leader-Guard)
+1376;(90) Blood Golem (Leader-Guard)
+1377;(92) Blood Golem Guardian (Captain-Guard)
+1378;(93) Grand Master Golem (King-Fighter)
+1379;(85) Little Stone Golem (Basic)
+1380;(86) Little Stone Golem (Basic)
+1381;(88) Stone Golem (Guard)
+1382;(90) Canyon Golem (Warrior)
+1383;(91) Canyon Golem (Warrior)
+1384;(92) Master Stone Golem (Captain-Guard)
+1385;(99) Giant Stone Golem (King-Fighter)
+1386;(91) Little Worm Dragon (Guard)
+1387;(95) Worm Dragon (Warrior)
+1388;(100) Giant Worm Dragon (King-Fighter)
+1389;(57) Goblin Pong (Basic)
+1390;(59) Goblin Tong (Guard)
+1391;(62) Goblin Tong (Fighter)
+1392;(58) Needle Bat (Warrior)
+1393;(58) Little Goblin (Basic)
+1394;(60) Little Goblin Worker (Basic)
+1395;(61) Little Goblin Mace (Fighter)
+1396;(61) Little Goblin Sword (Fighter)
+1397;(62) Little Goblin Spear (Warrior)
+1398;(63) Little Goblin Throw (Ranger)
+1399;(64) Little Goblin Guard (Guard)
+1400;(65) Little Goblin Magician (Magician)
+1401;(65) Little Goblin Double Sword (Warrior)
+1402;(72) Little Goblin Double Mace (King-Fighter)
+1403;(71) Goblin Sword (Fighter)
+1404;(71) Goblin Mace (Warrior)
+1405;(73) Goblin Polearm (Leader-Warrior)
+1406;(75) Goblin Knuckler (Warrior)
+1407;(77) Goblin Wizard (Magician)
+1408;(79) Gem Goblin Wizard (Captain-Magician)
+1409;(87) Grand Goblin Wizard (King-Magician)
+1410;(25) Pomic Scout (Ranger)
+1411;(25) Red Pomic Scout (Hunter)
+1412;(26) Red Pomic Infiltrator (Warrior)
+1413;(26) Pomic Infiltrator (Fighter)
+1414;(25) Pomic Fighter (Fighter)
+1415;(24) Woopie Prince (SubBoss-Basic)
+1416;
+1417;
+1418;
+1419;
+1420;
+1421;(73) Slag (Basic)
+1422;(75) Devil Pest Slag (Guard)
+1423;(76) Little Wolf (Basic)
+1424;(78) Starving Wolf (Fighter)
+1425;(81) Little Wolverine (Warrior)
+1426;(82) Mini Mammoth (Basic)
+1427;(83) Poisoned Mini Mammoth (Basic)
+1428;(85) Wolf King (King-Fighter)
+1429;(91) Woolly Mammoth (King-Warrior)
+1430;(87) Vulcan (Fighter)
+1431;(88) Vulcan King (King-Magician)
+1432;(90) Hell Mag (Guard)
+1433;(90) Little Hell Mag (Warrior)
+1434;(94) Big Hell Mag (SubBoss-Fighter)
+1435;(89) Junior Dreadnaught (Fighter)
+1436;(91) Yeti Kid (Basic)
+1437;(95) Assistant Ruper Magician (Basic)
+1438;(96) Yeti Warrior (Warrior)
+1439;(100) Ruper Magician (Magician)
+1440;(103) Angry Yeti Rider (Warrior)
+1441;(104) Angry Elder Yeti Rider  (Warrior)
+1442;(106) Giant Golden Yeti (Leader-Warrior)
+1443;(108) Yeti Rider Magician (Magician)
+1444;(105) Yeti Rider Spearman (Warrior)
+1445;(106) Yeti Rider Horseman (Captain-Magician)
+1446;
+1447;
+1448;
+1449;
+1450;(111) Lunaris Bear (Basic)
+1451;(112) Gangster Henchman Rico (Basic)
+1452;(113) Gangster Henchman Suave (Fighter)
+1453;(114) Gangster Pang Will (Fighter)
+1454;(115) Gangster Pang Al (Warrior)
+1455;(116) Gangster Pang Knuckle Al (Warrior)
+1456;(117) Gangster Pang Little Jack (Leader-Fighter)
+1457;(119) Gangster Pang Jack (Captain-Ranger)
+1458;(118) Penguin Artillery (Hunter)
+1459;(120) Penguin Swordsman (Fighter)
+1460;(121) Penguin Warrior (Warrior)
+1461;(122) Penguin Samurai (Leader-Warrior)
+1462;(123) Penguin Commander (Captain-Warrior)
+1463;(121) Igloo Tangle (Fighter)
+1464;(124) Igloo Turtle (Warrior)
+1465;(124) Penguin King (King-Fighter)
+1466;(124) Little Frost Wyrm (Magician)
+1467;(127) Frozen Drake (Magician)
+1468;(128) Drake King (King-Magician)
+1469;
+1470;
+1471;(1) Stolen Soccer Ball (Basic)
+1472;(30) Soccer Ball PET (Basic)
+1473;Melendino (NPC)
+1474;(1) Christmas Tree (Basic)
+1475;(2) Christmas Tree (Basic)
+1476;(3) Christmas Tree (Basic)
+1477;(4) Christmas Tree (Basic)
+1478;(5) Christmas Tree (Basic)
+1479;(6) Christmas Tree (Basic)
+1480;(7) Christmas Tree (Basic)
+1481;(8) Christmas Tree (Basic)
+1482;(9) Christmas Tree (Basic)
+1483;(10) Christmas Tree (Basic)
+1484;(11) Christmas Tree (Basic)
+1485;(12) Christmas Tree (Basic)
+1486;(13) Christmas Tree (Basic)
+1487;(14) Christmas Tree (Basic)
+1488;(15) Christmas Tree (Basic)
+1489;(16) Christmas Tree (Basic)
+1490;[Evil Reindeer] Bob (NPC)
+1491;[Traveler] Garlen (NPC)
+1492;[Monster Coin Trader] Dahved (NPC)
+1493;[Monster Coin Trader] Vedad (NPC)
+1494;[Monster Coin Trader] Dedev (NPC)
+1495;[Monster Coin Trader] Dyv'd (NPC)
+1496;[Monster Coin Trader] Daih'vyd (NPC)
+1497;[Valor Quest Giver] Roen (NPC)
+1498;
+1499;
+1500;
+1501;Captive Doogoliath (NPC)
+1502;[Event] Santa Claus (NPC)
+1503;
+1504;
+1505;
+1506;
+1507;
+1508;
+1509;
+1510;
+1511;[Ferrell Guild Staff] Peron (NPC)
+1512;[Ferrell Guild Staff] Robin (NPC)
+1513;[Ferrell Guild Staff] Rooen (NPC)
+1514;
+1515;
+1516;
+1517;
+1518;
+1519;
+1520;
+1521;(74) Little Reindeer (Basic)
+1522;(75) Little Reindeer (Basic)
+1523;(76) Reindeer (Fighter)
+1524;(77) Angry Reindeer (Warrior)
+1525;(106) Thorn Hound (Guard)
+1526;(107) Thorn Hound (Guard)
+1527;(107) Frozen Thorn (Warrior)
+1528;(108) Frozen Thorn (Warrior)
+1529;(108) Little Sabertooth (Warrior)
+1530;(109) Little Sabertooth (Warrior)
+1531;(110) Sabertooth (Leader-Fighter)
+1532;(111) Little Frozen Tooth (Captain-Fighter)
+1533;(111) Little Frozen Tooth (Captain-Fighter)
+1534;(12) Little Bebeg (Basic)
+1535;(12) Bebeg (Guard)
+1536;(121) Bebeg (Guard)
+1537;(124) Bebeg Fighter (Fighter)
+1538;(125) Bebeg Warrior (Warrior)
+1539;(123) Little Mountain Bebeg (Fighter)
+1540;(122) Mountain Bebeg  Warrior (Warrior)
+1541;(125) Mountain Bebeg Leader (Leader-Warrior)
+1542;(112) Frozen Tooth (King-Fighter)
+1543;(126) Mountain Bebeg (King-Fighter)
+1544;
+1545;
+1546;
+1547;
+1548;
+1549;
+1550;(170) Sikuku Hunter Tiger (Ranger)
+1551;(171) Sikuku Tracker Tiger (Hunter)
+1552;(172) Sikuku Tiger Captain (Captain-Ranger)
+1553;(173) Sikuku Assassin Lion (Hunter)
+1554;(174) Sikuku Assassin Lion (Hunter)
+1555;(175) Sikuku Assassin Lion Leader (Leader-Ranger)
+1556;(176) Sikuku Assassin Lion Leader (Leader-Ranger)
+1557;(177) Sikuku Assassin Lion Captain (Captain-Hunter)
+1558;(178) Sikuku Assassin Lion Captain (Captain-Hunter)
+1559;(179) Sikuku Gargoyle (Fighter)
+1560;(180) Sikuku Gargoyle (Fighter)
+1561;(181) Sikuku Gargoyle Hunter (Hunter)
+1562;(182) Sikuku Gargoyle Hunter (Hunter)
+1563;(183) Sikuku Gargoyle Fighter (Warrior)
+1564;(184) Sikuku Gargoyle Fighter (Warrior)
+1565;(185) Sikuku Gargoyle Shaman (Magician)
+1566;(186) Sikuku Gargoyle Shaman (Magician)
+1567;(187) Sikuku Destroyer (Warrior)
+1568;(188) Sikuku Destroyer (Warrior)
+1569;(189) Sikuku Killer (Leader-Hunter)
+1570;(190) Sikuku Killer (Leader-Hunter)
+1571;(195) Sikuku Elite Slaughterer (SubBoss-Fighter)
+1572;(200) Cursed Ent Vagabond (King-Guard)
+1573;
+1574;
+1575;
+1576;(190) Ikaness Worker (Guard)
+1577;(191) Ikaness Miner (Fighter)
+1578;(192) Ikaness Leader (Magician)
+1579;(193) Ikaness Guard (Magician)
+1580;(194) Ikaness Soldier (Warrior)
+1581;(195) Ikaness Engineer (Hunter)
+1582;(205) Ikaness Heavygear (King-Guard)
+1583;(196) Orpe (Magician)
+1584;(197) Eudy (Ranger)
+1585;(198) Orpe Lukete (Magician)
+1586;(198) Eudy Lukete (Hunter)
+1587;(199) Fallen Ent (Guard)
+1588;(200) Melt Dizzle (Warrior)
+1589;(200) Melt Dut (Fighter)
+1590;(200) Moss Ent (Captain-Warrior)
+1591;(210) Moss Golem (King-Magician)
+1592;
+1593;
+1594;
+1595;
+1596;
+1597;(45) Aqua Guard (Guard)
+1598;(45) Aqua Warrior (Warrior)
+1599;(45) Aqua Ranger (Ranger)
+1600;(33) Aqua Guard (Guard)
+1601;(36) Aqua Warrior (Warrior)
+1602;(38) Aqua Ranger (Ranger)
+1603;(38) Aqua Hunter (Hunter)
+1604;(42) Aqua Captain (Captain-Fighter)
+1605;(48) Aqua King (King-Fighter)
+1606;(37) Moldie (Basic)
+1607;(38) Coal Mine Moldie (Guard)
+1608;(39) Gold Mine Moldie (Warrior)
+1609;(40) Captain Moldie (Captain-Fighter)
+1610;
+1611;(91) Grunter (Guard)
+1612;(94) Grunter Fighter (Fighter)
+1613;(96) Grunter Warrior (Warrior)
+1614;(99) Grunter Leader (Leader-Fighter)
+1615;(100) Grunter Captain (Captain-Fighter)
+1616;(105) Grunter King (King-Fighter)
+1617;(51) Small Clown (Basic)
+1618;(52) Clown (Guard)
+1619;(54) Fighter Clown (Fighter)
+1620;(56) Ranger Clown (Ranger)
+1621;(59) Hunter Clown (Hunter)
+1622;
+1623;(60) Doonga (Basic)
+1624;(61) Elder Doonga (Fighter)
+1625;(62) Doonga Fighter (Fighter)
+1626;(67) Doonga Captain (Captain-Warrior)
+1627;(69) Doonga Origin (Warrior)
+1628;(70) Doonga Hunter (Hunter)
+1629;
+1630;(189) Stone Golem (Guard)
+1631;(191) Elder Stone Golem (Fighter)
+1632;(194) Blood Golem Guardian (Captain-Guard)
+1633;(197) Master Stone Golem (Captain-Guard)
+1634;(203) Grand Master Golem (King-Guard)
+1635;(133) Tirwin (Hunter)
+1636;(136) Tirwin (Magician)
+1637;(138) Tirwin (Warrior)
+1638;(143) Tirwin (Hunter)
+1639;(146) Tirwin (Magician)
+1640;(148) Tirwin (Warrior)
+1641;
+1642;(135) Electric Ghost (Magician)
+1643;(136) Electric Ghost (Magician)
+1644;(138) Electric Ghost (Magician)
+1645;(140) Electric Ghost (Magician)
+1646;(145) Electric Ghost (Magician)
+1647;(150) Electric Ghost (Magician)
+1648;
+1649;(40) Red Jelly King's Henchman (SubBoss-Fighter)
+1650;(50) Red Jelly King's Henchman (SubBoss-Fighter)
+1651;(50) Red Jelly King (King-Fighter)
+1652;
+1653;(60) Grim Hemmz's Henchman (SubBoss-Fighter)
+1654;(70) Grim Hemmz's Henchman (SubBoss-Fighter)
+1655;(70) Grim Hemmz (King-Fighter)
+1656;
+1657;(80) Adamantium Golem's Henchman (SubBoss-Fighter)
+1658;(90) Adamantium Golem's Henchman (SubBoss-Fighter)
+1659;(90) Adamantium Golem (King-Guard)
+1660;
+1661;(50) Dreadful Glutton (SubBoss-Fighter)
+1662;(70) Dreadful Glutton (SubBoss-Fighter)
+1663;(90) Dreadful Glutton (SubBoss-Fighter)
+1664;
+1665;(124) Tirwin (Magician)
+1666;(145) Astarot (SubBoss-Warrior)
+1667;(155) Astarot King (King-Fighter)
+1668;
+1669;
+1670;(35) Riddler Jelly Bean (Basic)
+1671;(40) Riddler Jelly Bean (Basic)
+1672;(45) Riddler Jelly Bean (Basic)
+1673;(50) Riddler Jelly Bean (Basic)
+1674;(55) Riddler Jelly Bean (Basic)
+1675;(60) Riddler Jelly Bean (Basic)
+1676;(65) Riddler Jelly Bean (Basic)
+1677;(70) Riddler Jelly Bean (Basic)
+1678;(75) Riddler Jelly Bean (Basic)
+1679;(80) Riddler Jelly Bean (Basic)
+1680;(85) Riddler Jelly Bean (Basic)
+1681;(90) Riddler Jelly Bean (Basic)
+1682;
+1683;(139) Little Krawfy (Basic)
+1684;(142) Krawfy (Fighter)
+1685;(145) Krawfy Warrior (Warrior)
+1686;(146) Krawfy Swordsman (Warrior)
+1687;(150) Krawfy Captain (Captain-Warrior)
+1688;(156) Krawfy King (King-Fighter)
+1689;(74) Kaiman (Fighter)
+1690;(78) Kaiman Guard (Guard)
+1691;(81) Kaiman Warrior (Warrior)
+1692;(82) Kaiman Swordsman (Leader-Fighter)
+1693;(76) Kaiman Ranger (Ranger)
+1694;(80) Kaiman Hunter (Hunter)
+1695;(196) Worm Dragon (SubBoss-Magician)
+1696;(188) Little Worm Dragon (Guard)
+1697;
+1698;
+1699;
+1700;
+1701;(190) King Hook (SubBoss-Fighter)
+1702;(195) Predator (SubBoss-Fighter)
+1703;(194) Sikuku Tiger Captain (SubBoss-Fighter)
+1704;(197) Bebeg (SubBoss-Fighter)
+1705;(200) Sikuku Veteran (King-Warrior)
+1706;(202) Sikuku Elite Fighter (King-Ranger)
+1707;(205) King Turak (King-Warrior)
+1708;(210) Moss Golem (King-Guard)
+1709;
+1710;
+1711;(187) Raknu Prisoner (Basic)
+1712;(189) Raknu Prisoner (Basic)
+1713;(191) Sikuku Cannibal (Warrior)
+1714;(193) Sikuku Jailer (Fighter)
+1715;(195) Sikuku Guard (Guard)
+1716;(197) Sikuku Warden (Warrior)
+1717;(198) Sikuku Predator (Hunter)
+1718;(201) Sikuku Cannibal Chef (SubBoss-Guard)
+1719;(220) Queen Kera (King-Hunter)
+1720;(186) Skeleton (Basic)
+1721;(196) Sikuku Infiltrator (Hunter)
+1722;
+1723;
+1724;
+1725;
+1726;
+1727;
+1728;
+1729;
+1730;
+1731;
+1732;
+1733;
+1734;
+1735;
+1736;
+1737;
+1738;
+1739;
+1740;
+1741;
+1742;
+1743;
+1744;
+1745;
+1746;
+1747;
+1748;
+1749;
+1750;Halloween Sign - Beware!
+1751;Halloween Sign - Happy Halloween
+1752;Halloween Sign - Happy Halloween
+1753;Halloween Sign - Happy Halloween
+1754;Halloween Sign - Happy Halloween
+1755;Halloween Sign - Happy Halloween
+1756;Halloween Sign - Happy Halloween
+1757;
+1758;
+1759;
+1760;
+1761;
+1762;
+1763;
+1764;
+1765;
+1766;
+1767;
+1768;
+1769;
+1770;
+1771;
+1772;
+1773;
+1774;
+1775;
+1776;
+1777;
+1778;
+1779;
+1780;[Visitor Guide] Arua's Fairy (NPC) 1-50
+1781;[Visitor Guide] Arua's Fairy (NPC) 51-100
+1782;[Visitor Guide] Arua's Fairy (NPC) 101-150
+1783;[Visitor Guide] Arua's Fairy (NPC) 151-200
+1784;[Visitor Guide] Arua's Fairy (NPC) 200
+1785;
+1786;
+1787;
+1788;
+1789;
+1790;[Ghost] Harry (NPC)
+1791;
+1792;
+1793;
+1794;
+1795;
+1796;(207) Sikuku Swamper (Fighter)
+1797;(209) Sikuku Shamen Elder (Captain-Magician)
+1798;(215) Sikuku Ancient (Magician)
+1799;(220) Sikuku Witch Doctor (SubBoss-Magician)
+1800;(205) Devil Pest Butterfly (Basic)
+1801;(208) Elder Warbiz (Ranger)
+1802;(203) Mini-Warbiz (Basic)
+1803;(210) Tigris (Ranger)
+1804;(214) Tigris Captain (Captain-Ranger)
+1805;(214) Pantharis (Fighter)
+1806;(219) Pantharis King (King-Warrior)
+1807;(212) Terrapin (Guard)
+1808;(215) Terrapin Captain (Captain-Guard)
+1809;(210) Arachnid (Basic)
+1810;(214) Giant Arachnid (SubBoss-Ranger)
+1811;(214) Aplysia (Magician)
+1812;(220) Aplysia King (King-Magician)
+1813;(215) Bone Spider (Fighter)
+1814;(222) Bone Spider King (King-Magician)
+1815;(211) Sikuku Predator Elder (Captain-Hunter)
+1816;(215) Sikuku High Chief (Captain-Warrior)
+1817;(225) Sikuku Grand Master (King-Hunter)
+1818;
+1819;(216) Devil Pest Pantharis (Hunter)
+1820;(212) Devil Pest Arachnid (Warrior)
+1821;(217) Devil Pest Bone Spider (Hunter)
+1822;(210) Sikuku Sentinel (Guard)
+1823;(212) Sikuku Champion (Warrior)
+1824;(214) Sikuku Lookout (Hunter)
+1825;(215) Sikuku High Chief (Elite-Warrior)
+1826;(225) Sikuku Grand Master (Elite-Hunter)
+1827;
+1828;
+1829;
+1830;(230) Chief Turak (Elite-Warrior) - Maze Boss
+1831;
+1832;
+1833;
+1834;
+1835;
+1836;
+1837;
+1838;
+1839;
+1840;
+1841;
+1842;
+1843;
+1844;(74) Scuba Moldie (Basic)
+1845;(1) Mini-Jelly Bean (Basic)
+1846;(9) Jelly Bean (Basic)
+1847;(10) Jelly Nut (Basic)
+1848;(3) Mini-Choropy (Basic)
+1849;(4) Choropy (Basic)
+1850;(61) Mini-Jelly Bean (Ranger)
+1851;(69) Jelly Bean (Fighter)
+1852;(70) Jelly Nut (Warrior)
+1853;(73) Mini-Choropy (Ranger)
+1854;(74) Choropy (Guard)
+1855;(126) Mini-Jelly Bean (Leader-Ranger)
+1856;(134) Jelly Bean (Leader-Fighter)
+1857;(135) Jelly Nut (Leader-Warrior)
+1858;(133) Mini-Choropy (Leader-Ranger)
+1859;(134) Choropy (Leader-Guard)
+1860;(186) Mini-Jelly Bean (Captain-Ranger)
+1861;(194) Jelly Bean (Captain-Fighter)
+1862;(200) Jelly Nut (Captain-Warrior)
+1863;(210) Mini-Choropy (Captain-Ranger)
+1864;(215) Choropy (Captain-Guard)
+1865;(245) Mini-Jelly Bean (SubBoss-Ranger)
+1866;(250) Jelly Bean (SubBoss-Fighter)
+1867;(255) Jelly Nut (SubBoss-Warrior)
+1868;(260) Mini-Choropy (SubBoss-Ranger)
+1869;(265) Choropy (SubBoss-Guard)
+1870;
+1871;
+1872;
+1873;
+1874;
+1875;
+1876;
+1877;
+1878;
+1879;
+1880;
+1881;
+1882;
+1883;
+1884;
+1885;
+1886;
+1887;
+1888;
+1889;
+1890;
+1891;
+1892;
+1893;
+1894;
+1895;
+1896;
+1897;
+1898;
+1899;
+1900;
+1901;
+1902;
+1903;
+1904;
+1905;
+1906;
+1907;
+1908;
+1909;
+1910;
+1911;
+1912;
+1913;
+1914;
+1915;
+1916;
+1917;
+1918;
+1919;
+1920;
+1921;
+1922;
+1923;
+1924;
+1925;
+1926;
+1927;
+1928;
+1929;
+1930;
+1931;
+1932;
+1933;
+1934;
+1935;
+1936;
+1937;
+1938;
+1939;
+1940;
+1941;
+1942;
+1943;
+1944;
+1945;
+1946;
+1947;
+1948;
+1949;
+1950;
+1951;
+1952;
+1953;
+1954;
+1955;
+1956;
+1957;
+1958;
+1959;
+1960;
+1961;
+1962;
+1963;
+1964;
+1965;
+1966;
+1967;
+1968;
+1969;
+1970;
+1971;
+1972;
+1973;
+1974;
+1975;
+1976;
+1977;
+1978;
+1979;
+1980;[Archaeologist] Tolken (NPC)
+1981;
+1982;
+1983;
+1984;
+1985;
+1986;
+1987;
+1988;
+1989;
+1990;[Battlemaster] Esmee (NPC)
+1991;[Battlemaster] Rubee (NPC)
+1992;[Battlemaster] Amber (NPC)
+1993;[Battlemaster] Sappho (NPC)
+1994;
+1995;
+1996;
+1997;
+1998;
+1999;
+2000;
+2001;[Honor Items] Henry (NPC)
+2002;[Honor Weapons] William (NPC)
+2003;[Honor Armors] Theodor (NPC)
+2004;[Battle Merchant] Rena (NPC)
+2005;[Rena's Summon] Third Eye (NPC)
+2006;
+2007;
+2008;
+2009;
+2010;[Valor Skills] Greyson (NPC)
+2011;[Valor Materials] Mason (NPC)
+2012;[Valor Weapons] Jason (NPC)
+2013;[Valor Armors] Carson (NPC)
+2014;[Valor Weapons] Fergson (NPC)
+2015;
+2016;
+2017;
+2018;
+2019;
+2020;
+2021;
+2022;
+2023;
+2024;
+2025;
+2026;
+2027;
+2028;
+2029;
+2030;
+2031;
+2032;
+2033;
+2034;
+2035;
+2036;
+2037;
+2038;
+2039;
+2040;
+2041;
+2042;
+2043;
+2044;
+2045;
+2046;(250) Scuba Moldie (King)
+2047;(250) Metal Moldie (King)
+2048;(250) Leprechaun (King)
+2049;
+2050;
+2051;
+2052;
+2053;
+2054;
+2055;
+2056;
+2057;
+2058;
+2059;
+2060;
+2061;
+2062;
+2063;
+2064;
+2065;
+2066;
+2067;
+2068;
+2069;
+2070;[Garden Watcher] Selema (NPC)
+2071;
+2072;
+2073;
+2074;
+2075;
+2076;
+2077;
+2078;
+2079;
+2080;
+2081;
+2082;
+2083;
+2084;
+2085;
+2086;
+2087;
+2088;
+2089;
+2090;
+2091;
+2092;
+2093;
+2094;
+2095;
+2096;
+2097;
+2098;
+2099;
+2100;[Desert Explorer] Bryll (NPC)
+2101;[Interplanetary Guide] Nova (NPC)
+2102;[Wandering Rifter] Nimbo (NPC)
+2103;[Dread Captain] Bruise (NPC)
+2104;[First Mate] Bighand Jack (NPC)
+2105;[Deckhand] Skully (NPC)
+2106;[Astrophysicist] Dr. Ega (NPC)
+2107;NO NAME FOUND (NPC)
+2108;NO NAME FOUND (NPC)
+2109;NO NAME FOUND (NPC)
+2110;NO NAME FOUND (NPC)
+2111;[Lojala Blackbear Captain] Skualo (NPC)
+2112;[Lojala Trader] Brizo (NPC)
+2113;[Lojala Storage Keeper] Ventego (NPC)
+2114;[Lojala Smith] Ekblovo (NPC)
+2115;[Fidelulo Blackbear Leader] Fulmo (NPC)
+2116;NO NAME FOUND (NPC)
+2117;NO NAME FOUND (NPC)
+2118;NO NAME FOUND (NPC)
+2119;NO NAME FOUND (NPC)
+2120;[Invention] CG-3 (NPC)
+2121;[Pharaoh Queen] Alana (NPC)
+2122;[Weapon Merchant] Huzam (NPC)
+2123;[Gunsmith] Rahd (NPC)
+2124;[Armor Merchant] Azim (NPC)
+2125;[Oro Bar Owner] Sahrazod (NPC)
+2126;[Manager of Ferrell] Ishmat (NPC)
+2127;[Smith] Mahyr (NPC)
+2128;[Mechanic] Kreinto (NPC)
+2129;[Stargazer] Nubo (NPC)
+2130;[Ikaness Staff] Galiya (NPC)
+2131;[Gypsy Merchant] Nadeem (NPC)
+2132;[Livestock Farmer] Hafis (NPC)
+2133;[Junon Order Elder] Hameed (NPC)
+2134;[Arumic Researcher] Fahimah (NPC)
+2135;[Righteous Crusader] Rahnan (NPC)
+2136;[Ferrell Guild Staff] Kareem (NPC)
+2137;[Event Guide] Jalilla (NPC)
+2138;[Lojala Blackbear Leader] Tondro (NPC)
+2139;[Royal Vizier] Kaltet XIV (NPC)
+2140;[Royal Vizier] Satet XIV (NPC)
+2141;[Orlean Ambassador] Solara (NPC)
+2142;[Orlean Ambassador] Lynd (NPC)
+2143;[Ministry of War] Hando (NPC)
+2144;[Ministry of Politics] Herune (NPC)
+2145;[Ministry of Commerce] Renet (NPC)
+2146;[Ministry of Judicial Order] Ibis (NPC)
+2147;[Ministry of Science] Banti (NPC)
+2148;[Ministry of Magic] Omon (NPC)
+2149;[Ministry of Medicine] Rahena (NPC)
+2150;[Ministry of Agriculture] Aquila (NPC)
+2151;[Mechanic's Dog] Chopper (NPC)
+2152;[Akram Ambassador] Ramsey (NPC)
+2153;Hebarn Saboteur (NPC)
+2154;Arua Interrogator (NPC)
+2155;(220) Hebarn Saboteur (Elite)
+2156;(220) Arua Interrogator (Elite)
+2157;[Hebarn's Vassal] Tama (NPC)
+2158;[Hebarn's Vassal] Nysaa (NPC)
+2159;[Hebarn's Vassal] Rexanne (NPC)
+2160;[Hebarn's Vassal] Nonus (NPC)
+2161;[Hebarn's Vassal] Uros (NPC)
+2162;[Hebarn's Vassal] Onur (NPC)
+2163;
+2164;
+2165;
+2166;[Arua's Servant] Meryem (NPC)
+2167;[Arua's Servant] Henda (NPC)
+2168;[Arua's Servant] Miho (NPC)
+2169;[Arua's Servant] Goran (NPC)
+2170;[Arua's Servant] Lugus (NPC)
+2171;[Arua's Servant] Ohad (NPC)
+2172;
+2173;
+2174;
+2175;
+2176;
+2177;(220) Venomous Hooded Asper (Basic)
+2178;(220) Hungry Desert Scavenger (Basic)
+2179;(240) NO NAME FOUND (Basic)
+2180;
+2181;Cactus (NPC)
+2182;Orlaneum Crystal (NPC)
+2183;
+2184;
+2185;
+2186;
+2187;
+2188;Hebarn Saboteur (NPC)
+2189;Arua Interrogator (NPC)
+2190;(220) Hebarn Saboteur (Elite)
+2191;(220) Arua Interrogator (Elite)
+2192;Hebarn Saboteur (NPC)
+2193;Arua Interrogator (NPC)
+2194;(220) Hebarn Saboteur (Elite)
+2195;(220) Arua Interrogator (Elite)
+2196;
+2197;(205) Baby Desert Asper (Basic)
+2198;(207) Desert Asper (Fighter)
+2199;(209) Vicious Desert Asper (Fighter)
+2200;(212) Elder Desert Asper (Warrior)
+2201;(207) Hooded Asper (Ranger)
+2202;(210) Hooded Asper Hunter (Hunter)
+2203;(212) Hooded Asper Assassin (Ranger)
+2204;(215) Hooded Asper Leader (Leader-Ranger)
+2205;(217) Crowned Asper (Fighter)
+2206;(220) Crowned Asper Commander (Captain-Fighter)
+2207;(225) Crowned Asper King (King-Magician)
+2208;
+2209;
+2210;
+2211;(236) Venerable Snapper (Basic)
+2212;(239) Venerable Snapper Guard (Guard)
+2213;(240) Venerable Snapper Healer (Guard)
+2214;(241) Wise Venerable Snapper (Magician)
+2215;(235) Barbed Snapper (Guard)
+2216;(238) Barbed Snapper Warrior (Warrior)
+2217;(241) Barbed Snapper Brute (Leader-Guard)
+2218;(243) Fiery Snapper (Warrior)
+2219;(245) Fiery Snapper Leader (Leader-Magician)
+2220;(247) Fiery Snapper Captain (Captain-Magician)
+2221;(250) Giant Fiery Snapper (King-Magician)
+2222;
+2223;
+2224;
+2225;(227) Mini-Devourer (Fighter)
+2226;(236) Grand Master Devourer (King-Hunter)
+2227;(230) Devourer (Warrior)
+2228;
+2229;
+2230;(183) Shadow Ghost (Magician)
+2231;(187) Shadow Ghost (Magician)
+2232;(191) Shadow Ghost (Magician)
+2233;(195) Shadow Ghost (Magician)
+2234;(199) Shadow Ghost (Magician)
+2235;(203) Shadow Ghost (Magician)
+2236;(207) Shadow Ghost (Magician)
+2237;(211) Shadow Ghost (Magician)
+2238;(215) Shadow Ghost (Magician)
+2239;(219) Shadow Ghost (Magician)
+2240;
+2241;
+2242;
+2243;
+2244;
+2245;(225) Desert Scavenger (Basic)
+2246;(230) Agitated Desert Scavenger (Warrior)
+2247;(235) Desert Scavenger King (King-Fighter)
+2248;
+2249;
+2250;
+2251;(211) Drytail Scorpio (Basic)
+2252;(214) Stingertail Scorpio (Fighter)
+2253;(216) Goldentail Scorpio (Warrior)
+2254;(226) Poisontail Scorpio King (King-Warrior)
+2255;
+2256;
+2257;(244) Mastyx (Guard)
+2258;(246) Archaic Mastyx (Leader-Guard)
+2259;(253) Prehistoric Mastyx King (King-Ranger)
+2260;
+2261;
+2262;
+2263;(245) Terrasaurus (Basic)
+2264;(248) Terrasaurus Predator (Captain-Fighter)
+2265;(255) Fearsome Terrasaurus King (King-Ranger)
+2266;
+2267;
+2268;
+2269;(250) Serpent Watcher Saa (King)
+2270;(250) Serpent Watcher Kaa (King)
+2271;
+2272;
+2273;
+2274;(245) Armastyx (Guard)
+2275;(247) Stealthed Armastyx (Leader-Guard)
+2276;(255) Camouflaged Armastyx King (King-Ranger)
+2277;
+2278;
+2279;(218) Golden Scarab (Guard)
+2280;(222) Golden Scarab Warrior (Leader-Warrior)
+2281;(226) Golden Scarab King (King-Warrior)
+2282;
+2283;
+2284;(217) Darkened Scorpio (Warrior)
+2285;(220) Darkened Stingertail Scorpio (Leader-Fighter)
+2286;(217) Darkened Crowned Asper (Fighter)
+2287;(220) Darkened Hooded Asper (Leader-Ranger)
+2288;
+2289;
+2290;(226) Ikaness Sand Tiller (Guard)
+2291;(229) Ikaness Ore Miner (Fighter)
+2292;(232) Ikaness Overseer (Magician)
+2293;(234) Ikaness Warden (Magician)
+2294;(233) Ikaness Sweeper (Warrior)
+2295;(235) Ikaness Mechanic (Hunter)
+2296;(238) Ikaness Mecha (King-Guard)
+2297;
+2298;
+2299;
+2300;
+2301;
+2302;
+2303;(250) Wandering Devourer (King-Hunter)
+2304;
+2305;(250) Wandering Asper (King-Magician)
+2306;(250) Wandering Golden Scarab (King-Warrior)
+2307;
+2308;(250) Wandering Snapper (King-Magician)
+2309;(250) Wandering Mastyx (King-Ranger)
+2310;(250) Wandering Terrasaurus (King-Ranger)
+2311;
+2312;
+2313;
+2314;
+2315;
+2316;
+2317;
+2318;
+2319;
+2320;
+2321;
+2322;
+2323;
+2324;
+2325;
+2326;
+2327;
+2328;
+2329;
+2330;
+2331;
+2332;
+2333;
+2334;
+2335;
+2336;
+2337;
+2338;
+2339;
+2340;
+2341;
+2342;
+2343;
+2344;
+2345;
+2346;
+2347;
+2348;
+2349;
+2350;
+2351;
+2352;
+2353;
+2354;
+2355;
+2356;
+2357;
+2358;
+2359;
+2360;
+2361;
+2362;
+2363;
+2364;
+2365;
+2366;
+2367;
+2368;
+2369;
+2370;
+2371;
+2372;
+2373;
+2374;
+2375;
+2376;
+2377;
+2378;
+2379;
+2380;
+2381;
+2382;
+2383;
+2384;
+2385;
+2386;
+2387;
+2388;
+2389;
+2390;
+2391;
+2392;
+2393;
+2394;
+2395;
+2396;
+2397;
+2398;
+2399;
+2400;
+2401;
+2402;
+2403;
+2404;
+2405;
+2406;
+2407;
+2408;
+2409;
+2410;
+2411;
+2412;
+2413;
+2414;
+2415;
+2416;
+2417;
+2418;
+2419;
+2420;
+2421;
+2422;
+2423;
+2424;
+2425;
+2426;
+2427;
+2428;
+2429;
+2430;
+2431;
+2432;
+2433;
+2434;
+2435;
+2436;
+2437;
+2438;
+2439;
+2440;
+2441;
+2442;
+2443;
+2444;
+2445;
+2446;
+2447;
+2448;
+2449;
+2450;
+2451;
+2452;
+2453;
+2454;
+2455;
+2456;
+2457;
+2458;
+2459;
+2460;
+2461;
+2462;
+2463;
+2464;
+2465;
+2466;
+2467;
+2468;
+2469;
+2470;
+2471;
+2472;
+2473;
+2474;
+2475;
+2476;
+2477;
+2478;
+2479;
+2480;
+2481;
+2482;
+2483;
+2484;
+2485;
+2486;
+2487;
+2488;
+2489;
+2490;
+2491;
+2492;
+2493;
+2494;
+2495;
+2496;
+2497;
+2498;
+2499;
+2500;
+2501;
+2502;
+2503;
+2504;
+2505;
+2506;
+2507;
+2508;
+2509;
+2510;
+2511;
+2512;
+2513;
+2514;
+2515;
+2516;
+2517;
+2518;
+2519;
+2520;
+2521;
+2522;
+2523;
+2524;
+2525;
+2526;
+2527;
+2528;
+2529;
+2530;
+2531;
+2532;
+2533;
+2534;
+2535;
+2536;
+2537;
+2538;
+2539;
+2540;
+2541;
+2542;
+2543;
+2544;
+2545;
+2546;
+2547;
+2548;
+2549;
+2550;
+2551;
+2552;
+2553;
+2554;
+2555;
+2556;
+2557;
+2558;
+2559;
+2560;
+2561;
+2562;
+2563;
+2564;
+2565;
+2566;
+2567;
+2568;
+2569;
+2570;
+2571;
+2572;
+2573;
+2574;
+2575;
+2576;
+2577;
+2578;
+2579;
+2580;
+2581;
+2582;
+2583;
+2584;
+2585;
+2586;
+2587;
+2588;
+2589;
+2590;
+2591;
+2592;
+2593;
+2594;
+2595;
+2596;
+2597;
+2598;
+2599;
+2600;
+2601;
+2602;
+2603;
+2604;
+2605;
+2606;
+2607;
+2608;
+2609;
+2610;
+2611;
+2612;
+2613;
+2614;
+2615;
+2616;
+2617;
+2618;
+2619;
+2620;
+2621;
+2622;
+2623;
+2624;
+2625;
+2626;
+2627;
+2628;
+2629;
+2630;
+2631;
+2632;
+2633;
+2634;
+2635;
+2636;
+2637;
+2638;
+2639;
+2640;
+2641;
+2642;
+2643;
+2644;
+2645;
+2646;
+2647;
+2648;
+2649;
+2650;
+2651;
+2652;
+2653;
+2654;
+2655;
+2656;
+2657;
+2658;
+2659;
+2660;
+2661;
+2662;
+2663;
+2664;
+2665;
+2666;
+2667;
+2668;
+2669;
+2670;
+2671;
+2672;
+2673;
+2674;
+2675;
+2676;
+2677;
+2678;
+2679;
+2680;
+2681;
+2682;
+2683;
+2684;
+2685;
+2686;
+2687;
+2688;
+2689;
+2690;
+2691;
+2692;
+2693;
+2694;
+2695;
+2696;
+2697;
+2698;
+2699;
+2700;
+2701;
+2702;
+2703;
+2704;
+2705;
+2706;
+2707;
+2708;
+2709;
+2710;
+2711;
+2712;
+2713;
+2714;
+2715;
+2716;
+2717;
+2718;
+2719;
+2720;
+2721;
+2722;
+2723;
+2724;
+2725;
+2726;
+2727;
+2728;
+2729;
+2730;
+2731;
+2732;
+2733;
+2734;
+2735;
+2736;
+2737;
+2738;
+2739;
+2740;
+2741;
+2742;
+2743;
+2744;
+2745;
+2746;
+2747;
+2748;
+2749;
+2750;
+2751;
+2752;
+2753;
+2754;
+2755;
+2756;
+2757;
+2758;
+2759;
+2760;
+2761;
+2762;
+2763;
+2764;
+2765;
+2766;
+2767;
+2768;
+2769;
+2770;
+2771;
+2772;
+2773;
+2774;
+2775;
+2776;
+2777;
+2778;
+2779;
+2780;
+2781;
+2782;
+2783;
+2784;
+2785;
+2786;
+2787;
+2788;
+2789;
+2790;
+2791;
+2792;
+2793;
+2794;
+2795;
+2796;
+2797;
+2798;
+2799;Trap Summons
+2800;Steel Trap Lv1 (Summon)
+2801;Steel Trap Lv2 (Summon)
+2802;Steel Trap Lv3 (Summon)
+2803;Steel Trap Lv4 (Summon)
+2804;Steel Trap Lv5 (Summon)
+2805;Flash Trap Lv1 (Summon)
+2806;Flash Trap Lv2 (Summon)
+2807;Flash Trap Lv3 (Summon)
+2808;Flash Trap Lv4 (Summon)
+2809;Flash Trap Lv5 (Summon)
+2810;Siphon Trap Lv1 (Summon)
+2811;Siphon Trap Lv2 (Summon)
+2812;Siphon Trap Lv3 (Summon)
+2813;Siphon Trap Lv4 (Summon)
+2814;Siphon Trap Lv5 (Summon)
+2815;Freezing Trap Lv1 (Summon)
+2816;Freezing Trap Lv2 (Summon)
+2817;Freezing Trap Lv3 (Summon)
+2818;Freezing Trap Lv4 (Summon)
+2819;Freezing Trap Lv5 (Summon)
+2820;Sand Trap Lv1 (Summon)
+2821;Sand Trap Lv2 (Summon)
+2822;Sand Trap Lv3 (Summon)
+2823;Sand Trap Lv4 (Summon)
+2824;Sand Trap Lv5 (Summon)
+2825;
+2826;
+2827;
+2828;
+2829;
+2830;
+2831;
+2832;
+2833;
+2834;
+2835;
+2836;
+2837;
+2838;
+2839;
+2840;
+2841;
+2842;
+2843;
+2844;
+2845;
+2846;
+2847;
+2848;
+2849;
+2850;
+2851;
+2852;
+2853;
+2854;
+2855;
+2856;
+2857;
+2858;
+2859;
+2860;
+2861;
+2862;
+2863;
+2864;
+2865;
+2866;
+2867;
+2868;
+2869;
+2870;
+2871;
+2872;
+2873;
+2874;
+2875;
+2876;
+2877;
+2878;
+2879;
+2880;
+2881;
+2882;
+2883;
+2884;
+2885;
+2886;
+2887;
+2888;
+2889;
+2890;
+2891;
+2892;
+2893;
+2894;
+2895;
+2896;
+2897;
+2898;
+2899;
+2900;
+2901;
+2902;
+2903;
+2904;
+2905;
+2906;
+2907;
+2908;
+2909;
+2910;
+2911;
+2912;
+2913;
+2914;
+2915;
+2916;
+2917;
+2918;
+2919;
+2920;
+2921;
+2922;
+2923;
+2924;
+2925;
+2926;
+2927;
+2928;
+2929;
+2930;
+2931;
+2932;
+2933;
+2934;
+2935;
+2936;
+2937;
+2938;
+2939;
+2940;
+2941;
+2942;
+2943;
+2944;
+2945;
+2946;
+2947;
+2948;
+2949;
+2950;
+2951;
+2952;
+2953;
+2954;
+2955;
+2956;
+2957;
+2958;
+2959;
+2960;
+2961;
+2962;
+2963;
+2964;
+2965;
+2966;
+2967;
+2968;
+2969;
+2970;
+2971;
+2972;
+2973;
+2974;
+2975;
+2976;
+2977;
+2978;
+2979;
+2980;
+2981;
+2982;
+2983;
+2984;
+2985;
+2986;
+2987;
+2988;
+2989;
+2990;
+2991;
+2992;
+2993;
+2994;
+2995;
+2996;
+2997;
+2998;
+2999;
+3000;(10) Pirate Thief Bug (Basic)
+3001;(100) Lucky Pig (Basic)
+3002;(100) Lucky Pig (Basic)
+3003;(100) Leprechaun (Basic)
+3004;(100) Clown Dummy (Basic)
+3005;(100) Game Fish (Basic)
+3006;(100) Game Fish (Basic)
+3007;(100) Lunaris Bear (Basic)
+3008;(100) Target (Basic)
+3009;(80) Baby Arachnis (Basic)
+3010;(130) Poisonous Arachnis (Basic)
+3011;(170) Heburkal's Pet (King)
+3012;(110) Heburkal's Minion (Captain-Fighter)
+3013;(120) Heburkal's Minion (Captain-Fighter)
+3014;(100) Target (Basic)
+3015;(100) Target (Basic)
+3016;(250) Grand Pumpkin (King)
+3017;(10) White Rabbit (Basic)
+3018;(190) Heburkal (King)
+3019;Woopie King (NPC)
+3020;[Captain] Peg Leg (NPC)
+3021;[Knight of Junon Order] Sammodell (NPC)
+3022;[Arumic Mercenary] Turenth (NPC)
+3023;[Righteous Crusader] Norg (NPC)
+3024;[Ferrell Bank Guard] Arnold (NPC)
+3025;
+3026;(190) Third Mate Pirate Thief Bug (Captain-Fighter)
+3027;(195) Second Mate Pirate Thief Bug (Captain-Magician)
+3028;(210) First Mate Pirate Thief Bug (SubBoss-Hunter)
+3029;(250) Captain Pirate Thief Bug (King)
+3030;
+3031;(8) Clam (Basic)
+3032;(60) Bruce (King)
+3033;(250) Pinkheart Pork-Fiend (King)
+3034;Santa's Reindeer (NPC)
+3035;(75) Giant Chicken Monster (King)
+3036;(40) Baby Chicken Monster (Basic)
+3037;
+3038;
+3039;
+3040;Christmas Event Spawn Control NPC1
+3041;Christmas Event Spawn Control NPC2
+3042;Easter Event Spawn Control NPC3
+3043;Spawn Control NPC4
+3044;Pirate Event Spawn Control (NPC)
+3045;
+3046;
+3047;
+3048;
+3049;
+3050;(1) Christmas Present (Christmas)
+3051;(1) Christmas Present (Christmas)
+3052;(1) Christmas Present (Christmas)
+3053;(1) Christmas Present (Christmas)
+3054;(1) Christmas Present (Christmas)
+3055;(1) Christmas Present (Christmas)
+3056;(1) Christmas Present (Christmas)
+3057;(1) Christmas Present (Christmas)
+3058;(1) Christmas Present (Christmas)
+3059;(1) Christmas Present (Christmas)
+3060;(1) Christmas Present (Christmas)
+3061;(1) Christmas Present (Christmas)
+3062;(1) Christmas Present (Christmas)
+3063;(1) Christmas Present (Christmas)
+3064;(1) Christmas Present (Christmas)
+3065;(1) Christmas Present (Christmas)
+3066;(1) Christmas Present (Christmas)
+3067;(1) Christmas Present (Christmas)
+3068;(1) Christmas Present (Christmas)
+3069;(1) Christmas Present (Christmas)
+3070;(1) Christmas Present (Christmas)
+3071;(1) Christmas Present (Christmas)
+3072;(1) Christmas Present (Christmas)
+3073;(1) Christmas Present (Christmas)
+3074;(1) Christmas Present (Christmas)
+3075;(1) Christmas Present (Christmas)
+3076;(1) Christmas Present (Christmas)
+3077;(1) Christmas Present (Christmas)
+3078;(1) Christmas Present (Christmas)
+3079;(1) Christmas Present (Christmas)
+3080;(1) Christmas Present (Christmas)
+3081;(1) Christmas Present (Christmas)
+3082;(1) Christmas Present (Christmas)
+3083;(1) Christmas Present (Christmas)
+3084;(1) Christmas Present (Christmas)
+3085;(1) Christmas Present (Christmas)
+3086;(1) Christmas Present (Christmas)
+3087;(1) Christmas Present (Christmas)
+3088;(1) Christmas Present (Christmas)
+3089;(1) Christmas Present (Christmas)
+3090;(1) Christmas Present (Christmas)
+3091;
+3092;
+3093;
+3094;
+3095;
+3096;
+3097;
+3098;
+3099;
+3100;Metal Moldy (NPC)
+3101;(1) Yellow Easter Egg (Easter)
+3102;(1) Green Easter Egg (Easter)
+3103;(1) Blue Easter Egg (Easter)
+3104;(1) Red Easter Egg (Easter)
+3105;(1) Purple Easter Egg (Easter)
+3106;(1) Orange Easter Egg (Easter)
+3107;
+3108;
+3109;
+3110;[Visitor Guide] Hebarn's Fairy (NPC)
+3111;[Captive Fairy] Arua's Fairy (NPC)
+3112;(47) Red Aqua King (King-Warrior)
+3113;(1) Tropical Fish (Basic)
+3114;
+3115;
+3116;
+3117;
+3118;
+3119;
+3120;
+3121;
+3122;
+3123;
+3124;
+3125;
+3126;
+3127;
+3128;
+3129;
+3130;
+3131;
+3132;
+3133;
+3134;
+3135;
+3136;
+3137;
+3138;
+3139;
+3140;
+3141;
+3142;
+3143;
+3144;
+3145;
+3146;
+3147;
+3148;
+3149;
+3150;
+3151;
+3152;
+3153;
+3154;
+3155;
+3156;
+3157;
+3158;
+3159;
+3160;
+3161;
+3162;
+3163;
+3164;
+3165;
+3166;
+3167;
+3168;
+3169;
+3170;
+3171;
+3172;
+3173;
+3174;
+3175;
+3176;
+3177;
+3178;
+3179;
+3180;
+3181;
+3182;
+3183;
+3184;
+3185;
+3186;
+3187;
+3188;
+3189;
+3190;
+3191;
+3192;
+3193;
+3194;
+3195;
+3196;
+3197;
+3198;
+3199;
+3200;
+3201;
+3202;
+3203;
+3204;
+3205;
+3206;
+3207;
+3208;
+3209;
+3210;
+3211;
+3212;
+3213;
+3214;
+3215;
+3216;
+3217;
+3218;
+3219;
+3220;
+3221;
+3222;
+3223;
+3224;
+3225;
+3226;
+3227;
+3228;
+3229;
+3230;
+3231;
+3232;
+3233;
+3234;
+3235;
+3236;
+3237;
+3238;
+3239;
+3240;
+3241;
+3242;
+3243;
+3244;
+3245;
+3246;
+3247;
+3248;
+3249;
+3250;
+3251;
+3252;
+3253;
+3254;
+3255;
+3256;
+3257;
+3258;
+3259;
+3260;
+3261;
+3262;
+3263;
+3264;
+3265;
+3266;
+3267;
+3268;
+3269;
+3270;
+3271;
+3272;
+3273;
+3274;
+3275;
+3276;
+3277;
+3278;
+3279;
+3280;
+3281;
+3282;
+3283;
+3284;
+3285;
+3286;
+3287;
+3288;
+3289;
+3290;
+3291;
+3292;
+3293;
+3294;
+3295;
+3296;
+3297;
+3298;
+3299;
+3300;
+3301;
+3302;
+3303;
+3304;
+3305;
+3306;
+3307;
+3308;
+3309;
+3310;
+3311;
+3312;
+3313;
+3314;
+3315;
+3316;
+3317;
+3318;
+3319;
+3320;
+3321;
+3322;
+3323;
+3324;
+3325;
+3326;
+3327;
+3328;
+3329;
+3330;
+3331;
+3332;
+3333;
+3334;
+3335;
+3336;
+3337;
+3338;
+3339;
+3340;
+3341;
+3342;
+3343;
+3344;
+3345;
+3346;
+3347;
+3348;
+3349;
+3350;
+3351;
+3352;
+3353;
+3354;
+3355;
+3356;
+3357;
+3358;
+3359;
+3360;
+3361;
+3362;
+3363;
+3364;
+3365;
+3366;
+3367;
+3368;
+3369;
+3370;
+3371;
+3372;
+3373;
+3374;
+3375;
+3376;
+3377;
+3378;
+3379;
+3380;
+3381;
+3382;
+3383;
+3384;
+3385;
+3386;
+3387;
+3388;
+3389;
+3390;
+3391;
+3392;
+3393;
+3394;
+3395;
+3396;
+3397;
+3398;
+3399;
+3400;
+3401;
+3402;
+3403;
+3404;
+3405;
+3406;
+3407;
+3408;
+3409;
+3410;
+3411;
+3412;
+3413;
+3414;
+3415;
+3416;
+3417;
+3418;
+3419;
+3420;
+3421;
+3422;
+3423;
+3424;
+3425;
+3426;
+3427;
+3428;
+3429;
+3430;
+3431;
+3432;
+3433;
+3434;
+3435;
+3436;
+3437;
+3438;
+3439;
+3440;
+3441;
+3442;
+3443;
+3444;
+3445;
+3446;
+3447;
+3448;
+3449;
+3450;
+3451;
+3452;
+3453;
+3454;
+3455;
+3456;
+3457;
+3458;
+3459;
+3460;
+3461;
+3462;
+3463;
+3464;
+3465;
+3466;
+3467;
+3468;
+3469;
+3470;
+3471;
+3472;
+3473;
+3474;
+3475;
+3476;
+3477;
+3478;
+3479;
+3480;
+3481;
+3482;
+3483;
+3484;
+3485;
+3486;
+3487;
+3488;
+3489;
+3490;
+3491;
+3492;
+3493;
+3494;
+3495;
+3496;
+3497;
+3498;
+3499;
+3500;(44) Smouly (Basic)
+3501;(38) Guardian of Red Heart (Basic)
+3502;(40) Shroon (Magician)
+3503;(110) Shroon (Magician)
+3504;(99) Silver Yeti (Warrior)
+3505;(105) Golden Yeti (Leader-Warrior)
+3506;(92) Yeti (Fighter)
+3507;(110) Crystal Golem (Leader-Guard)
+3508;
+3509;
+3510;
+3511;
+3512;
+3513;
+3514;
+3515;
+3516;
+3517;
+3518;
+3519;
+3520;
+3521;
+3522;
+3523;
+3524;
+3525;
+3526;
+3527;
+3528;Crystal Defenders
+3529;
+3530;(140) Sunrise Crystal (null)
+3531;(140) Sunset Crystal (null)
+3532;(140) Dusk Crystal (null)
+3533;
+3534;(180) Sunrise Crystal (null)
+3535;(180) Sunset Crystal (null)
+3536;(180) Dusk Crystal (null)
+3537;
+3538;(200) Sunrise Crystal (null)
+3539;(200) Sunset Crystal (null)
+3540;(200) Dusk Crystal (null)
+3541;
+3542;(220) Sunrise Crystal (null)
+3543;(220) Sunset Crystal (null)
+3544;(220) Dusk Crystal (null)
+3545;
+3546;(230) Sunrise Crystal (null)
+3547;(230) Sunset Crystal (null)
+3548;(230) Dusk Crystal (null)
+3549;
+3550;(250) Sunrise Crystal (null)
+3551;(250) Sunset Crystal (null)
+3552;(250) Dusk Crystal (null)
+3553;
+3554;
+3555;
+3556;
+3557;
+3558;
+3559;
+3560;
+3561;
+3562;
+3563;
+3564;
+3565;Silky Cobweb (NPC)
+3566;Giant Cobweb (NPC)
+3567;(150) Anansi Hatchling (Basic)
+3568;(151) Anansi Crawler (Fighter)
+3569;(153) Anansi Trapper (Ranger)
+3570;(160) Anansi Recluse (SubBoss-Fighter)
+3571;(152) Arachne Hatchling (Basic)
+3572;(156) Arachne Venomfang (Guard)
+3573;(159) Arachne Tormentor (Hunter)
+3574;(165) Arachne Recluse (SubBoss-Fighter)
+3575;(175) Ulverick (King-Warrior)
+3576;(165) Ulverick's Minion (Warrior)
+3577;
+3578;
+3579;
+3580;(250) Anansi Hatchling (Basic)
+3581;(252) Anansi Crawler (Fighter)
+3582;(254) Anansi Trapper (Ranger)
+3583;(260) Anansi Recluse (SubBoss-Fighter)
+3584;(255) Arachne Hatchling (Basic)
+3585;(257) Arachne Venomfang (Guard)
+3586;(257) Arachne Tormentor (Hunter)
+3587;(270) Arachne Recluse (SubBoss-Fighter)
+3588;(275) Ulverick (King-Warrior)
+3589;(265) Ulverick's Minion (Warrior)
+3590;
+3591;
+3592;Inactive Stand (NPC)
+3593;Active Stand (NPC)
+3594;Flaming Barrier (NPC)
+3595;Weak Dimensional Rift (NPC)
+3596;Ceramic Urn (NPC)
+3597;Sealed Tomb (NPC)
+3598;Open Tomb (NPC)
+3599;Destroyed Tomb (NPC)
+3600;Dimensional Rift (NPC)
+3601;
+3602;(170) Loyal Clay Servant (Guard)
+3603;(171) Loyal Sandstone Servant (Warrior)
+3604;(174) Loyal Ironfist Enforcer (Leader-Guard)
+3605;(175) Loyal Boulderfist Enforcer (Captain-Guard)
+3606;(180) Arcane Rift Guardian (SubBoss-Magician)
+3607;
+3608;(172) Imperial Stone Jackal (Guard)
+3609;(175) Imperial Stone Falcon (Hunter)
+3610;(177) Imperial Stone Berserker (Captain-Warrior)
+3611;(179) Imperial Stone Moonguard (Captain-Guard)
+3612;(185) Arcane Rift Keeper (SubBoss-Magician)
+3613;
+3614;(180) Royal Mummy (Fighter)
+3615;(181) Royal Mummy Ranger (Ranger)
+3616;(183) Royal Mummy Soldier (Warrior)
+3617;(185) Royal Mummy Commander (Leader-Fighter)
+3618;(190) Royal Mummy King (King-Warrior)
+3619;
+3620;(180) Royal Mammy (Fighter)
+3621;(181) Royal Mammy Ranger (Ranger)
+3622;(183) Royal Mammy Soldier (Warrior)
+3623;(185) Royal Mammy Mystic (Leader-Magician)
+3624;(190) Royal Mammy Queen (King-Magician)
+3625;
+3626;(185) Disturbed Mummy (Leader-Fighter)
+3627;
+3628;(245) Loyal Clay Servant (Guard)
+3629;(247) Loyal Sandstone Servant (Warrior)
+3630;(250) Loyal Ironfist Enforcer (Leader-Guard)
+3631;(255) Loyal Boulderfist Enforcer (Captain-Guard)
+3632;(260) Arcane Rift Guardian (SubBoss-Magician)
+3633;
+3634;(247) Imperial Stone Jackal (Guard)
+3635;(249) Imperial Stone Falcon (Hunter)
+3636;(260) Imperial Stone Berserker (Captain-Warrior)
+3637;(260) Imperial Stone Moonguard (Captain-Guard)
+3638;(265) Arcane Rift Keeper (SubBoss-Magician)
+3639;
+3640;(250) Royal Mummy (Fighter)
+3641;(252) Royal Mummy Ranger (Ranger)
+3642;(250) Royal Mummy Soldier (Warrior)
+3643;(255) Royal Mummy Commander (Leader-Fighter)
+3644;(270) Royal Mummy King (King-Warrior)
+3645;
+3646;(250) Royal Mammy (Fighter)
+3647;(252) Royal Mammy Ranger (Ranger)
+3648;(255) Royal Mammy Soldier (Warrior)
+3649;(255) Royal Mammy Mystic (Leader-Magician)
+3650;(270) Royal Mammy Queen (King-Magician)
+3651;
+3652;(260) Disturbed Mummy (Leader-Fighter)
+3653;
+3654;
+3655;
+3656;
+3657;
+3658;
+3659;
+3660;
+3661;
+3662;
+3663;
+3664;
+3665;
+3666;
+3667;
+3668;
+3669;
+3670;
+3671;
+3672;
+3673;
+3674;
+3675;
+3676;
+3677;
+3678;
+3679;
+3680;
+3681;
+3682;
+3683;
+3684;
+3685;
+3686;
+3687;
+3688;
+3689;
+3690;
+3691;
+3692;
+3693;
+3694;
+3695;
+3696;
+3697;
+3698;
+3699;Icy Prison (NPC)
+3700;[Celestial Soul] Luna (NPC)
+3701;Lunar Soul (NPC)
+3702;Wrealith Egg (NPC)
+3703;
+3704;Wall (NPC)
+3705;
+3706;(190) Frigid Sentinel (Ranger)
+3707;(193) Frozen Sentinel (Leader-Hunter)
+3708;(200) Teiwaz Fragment (NPC)
+3709;(197) Wisp Spirit (Magician)
+3710;(201) Vengeful Wisp Spirit (Leader-Magician)
+3711;(200) Wrealith Hatchling (Fighter)
+3712;(204) Wrealith (Warrior)
+3713;(207) Wrealith Wyvern (SubBoss-Warrior)
+3714;(210) Fallen Judge Talratha (King-Warrior)
+3715;(208) Judgment Blade (Warrior)
+3716;
+3717;
+3718;
+3719;
+3720;
+3721;
+3722;
+3723;
+3724;
+3725;
+3726;
+3727;(250) Frigid Sentinel (Ranger)
+3728;(252) Frozen Sentinel (Leader-Hunter)
+3729;(260) Teiwaz Fragment (NPC)
+3730;(252) Wisp Spirit (Magician)
+3731;(255) Vengeful Wisp Spirit (Leader-Magician)
+3732;(252) Wrealith Hatchling (Fighter)
+3733;(252) Wrealith (Warrior)
+3734;(270) Wrealith Wyvern (SubBoss-Warrior)
+3735;(275) Fallen Judge Talratha (King-Warrior)
+3736;(300) Judgment Blade (Warrior)
+3737;
+3738;
+3739;
+3740;
+3741;
+3742;
+3743;
+3744;
+3745;
+3746;
+3747;
+3748;
+3749;
+3750;
+3751;
+3752;
+3753;
+3754;Draconic Rune (NPC)
+3755;
+3756;Red Dragon Egg (NPC)
+3757;Blue Dragon Egg (NPC)
+3758;Lost Dragon Egg (NPC)
+3759;Red Dragon Egg (Contested) (NPC)
+3760;Blue Dragon Egg (Contested) (NPC)
+3761;Lost Dragon Egg (Contested) (NPC)
+3762;
+3763;(150) Red Dragon (null)
+3764;(150) Blue Dragon (null)
+3765;
+3766;(190) Red Dragon (null)
+3767;(190) Blue Dragon (null)
+3768;
+3769;(210) Red Dragon (null)
+3770;(210) Blue Dragon (null)
+3771;
+3772;(230) Red Dragon (null)
+3773;(230) Blue Dragon (null)
+3774;
+3775;(240) Red Dragon (null)
+3776;(240) Blue Dragon (null)
+3777;
+3778;(260) Red Dragon (null)
+3779;(260) Blue Dragon (null)
+3780;
+3781;
+3782;
+3783;
+3784;
+3785;
+3786;
+3787;
+3788;Akram Arena
+3789;
+3790;(140) Sunrise Crystal (null)
+3791;(140) Sunset Crystal (null)
+3792;(140) Dusk Crystal (null)
+3793;
+3794;(180) Sunrise Crystal (null)
+3795;(180) Sunset Crystal (null)
+3796;(180) Dusk Crystal (null)
+3797;
+3798;(200) Sunrise Crystal (null)
+3799;(200) Sunset Crystal (null)
+3800;(200) Dusk Crystal (null)
+3801;
+3802;(220) Sunrise Crystal (null)
+3803;(220) Sunset Crystal (null)
+3804;(220) Dusk Crystal (null)
+3805;
+3806;(230) Sunrise Crystal (null)
+3807;(230) Sunset Crystal (null)
+3808;(230) Dusk Crystal (null)
+3809;
+3810;(250) Sunrise Crystal (null)
+3811;(250) Sunset Crystal (null)
+3812;(250) Dusk Crystal (null)
+3813;
+3814;
+3815;
+3816;
+3817;
+3818;
+3819;
+3820;
+3821;
+3822;
+3823;Sewer Crate (NPC)
+3824;Slime Covered Sewer Crate (NPC)
+3825;Floor Drain (NPC)
+3826;Boss Gate (NPC)
+3827;Sewer Gate (NPC)
+3828;Drain Gate (NPC)
+3829;
+3830;Gloopy's Exoskeleton (King-Guard)
+3831;Gloop Pile (NPC)
+3832;
+3833;(258) Gloopy Glob (Basic)
+3834;(260) Gloopy (King-Guard)
+3835;
+3836;(260) Dark Shaman Ranka (King-Magician)
+3837;Devilrot Pile (Large) (NPC)
+3838;(258) Devilrot Sprite (Fighter)
+3839;(258) Devilrot Essence (Basic)
+3840;Devilrot Bomb (NPC)
+3841;Devilrot Pile (Small) (NPC)
+3842;
+3843;(260) Executor Ul'gath (King-Fighter)
+3844;(260) Executor Ul'gath (Stunned) (King-Fighter)
+3845;
+3846;
+3847;
+3848;[Raknu Commander] Khono (Captured) (NPC)
+3849;[Raknu Commander] Khono (Escort) (NPC)
+3850;[Raknu Warrior] Palga (Captured) (NPC)
+3851;[Raknu Warrior] Palga (Escort) (NPC)
+3852;[Raknu Warrior] Buanu (Captured) (NPC)
+3853;[Raknu Warrior] Buanu (Escort) (NPC)
+3854;[Raknu Warrior] Nuno (Captured) (NPC)
+3855;[Raknu Warrior] Nuno (Escort) (NPC)
+3856;
+3857;Gloopy (Scripted Event) (NPC)
+3858;
+3859;[Raknu Commander] Darka Ghi (NPC)
+3860;[Raknu Warrior] Chuan (NPC)
+3861;[Raknu Warrior] Linga (NPC)
+3862;[Raknu Warrior] Yulago (NPC)
+3863;
+3864;[Archaeologist] Digby (Entrance) (NPC)
+3865;[Archaeologist] Digby (Escort) (NPC)
+3866;
+3867;Dark Shaman Ranka (Scripted Event) (NPC)
+3868;Chief Turak (Scripted Event) (NPC)
+3869;
+3870;(250) Ephlysia (Basic)
+3871;(250) Slimy Ephlysia (Ranger)
+3872;(250) Viscous Ephlysia (Hunter)
+3873;(250) Unstable Ephlysia (Magician)
+3874;(250) Absorbent Ephlysia (Captain-Guard)
+3875;(250) Wandering Ephlysia (SubBoss-Warrior)
+3876;
+3877;(250) Subjugated Ephlysia (Basic)
+3878;(250) Sikuku Subjugator (Magician)
+3879;(250) Raknu Defiler (Fighter)
+3880;(250) Raknu Expeller (Fighter)
+3881;Raknu Spit Pile (NPC)
+3882;(250) Sikuku Guardsman (Guard)
+3883;(250) Sikuku Shooter (Hunter)
+3884;(250) Sikuku Guardsman (Quest) (Guard)
+3885;
+3886;
+3887;
+3888;
+3889;
+3890;
+3891;
+3892;
+3893;
+3894;
+3895;
+3896;
+3897;
+3898;
+3899;
+3900;
+3901;
+3902;
+3903;
+3904;
+3905;
+3906;
+3907;
+3908;
+3909;
+3910;
+3911;
+3912;
+3913;
+3914;
+3915;
+3916;
+3917;
+3918;
+3919;
+3920;
+3921;
+3922;
+3923;
+3924;
+3925;
+3926;
+3927;
+3928;
+3929;
+3930;
+3931;
+3932;
+3933;
+3934;
+3935;
+3936;
+3937;
+3938;
+3939;
+3940;
+3941;
+3942;
+3943;
+3944;
+3945;
+3946;
+3947;
+3948;
+3949;
+3950;
+3951;
+3952;
+3953;
+3954;
+3955;
+3956;
+3957;
+3958;
+3959;
+3960;
+3961;
+3962;
+3963;
+3964;
+3965;
+3966;
+3967;
+3968;
+3969;
+3970;
+3971;
+3972;
+3973;
+3974;
+3975;
+3976;
+3977;
+3978;
+3979;
+3980;
+3981;
+3982;
+3983;
+3984;
+3985;
+3986;
+3987;
+3988;
+3989;
+3990;
+3991;
+3992;
+3993;
+3994;
+3995;
+3996;
+3997;
+3998;
+3999;
+4000;Mounts Section
+4001;Larva
+4002;Sabertooth
+4003;Runa Wolf
+4004;Moldie
+4005;Krawfy (Red)
+4006;Krawfy (Green)
+4007;Chicken
+4008;Bulldog
+4009;Mammoth
+4010;Pantharis
+4011;Arcane Rift Guardian
+4012;Arachnid
+4013;Heburkal's Pet
+4014;Bone Spider
+4015;Kera's Pet
+4016;Arcane Rift Seeker
+4017;Frozen Sentinel
+4018;Reindeer 
+4019;Angry Reindeer 
+4020;Tigris
+4021;Black Tigris
+4022;White Tigris
+4023;Black Chicken
+4024;White Chicken
+4025;Dreadnaught
+4026;Candle Ghost
+4027;Illusion Ghost
+4028;Electric Ghost
+4029;Shadow Ghost
+4030;Yigore Ghost
+4031;Eudy Wings
+4032;Orphe Wings
+4033;Pegasus Eudy Wings
+4034;Blitzen
+4035;Comet
+4036;Cupid
+4037;Dancer
+4038;Dasher
+4039;Donder
+4040;Prancer
+4041;Rudolph
+4042;Vixen
+4043;Blue Dragon
+4044;Red Dragon
+4045;Naughty Dragon
+4046;Zephyr Dragon
+4047;Precious Dragon
+4048;Earth Dragon
+4049;Thunder Dragon
+4050;Volcanic Dragon
+4051;Arctic Dragon
+4052;Spiky Dragon
+4053;Lucky Dragon
+4054;Dark Magic Dragon
+4055;Thief Bug
+4056;Warhip Mount
+4057;Ikanese Mech
+4058;Chicken Monster
+4059;Scuba Moldie
+4060;Leprechaun
+4061;Red Leprechaun
+4062;Penguin Cannoneer
+4063;Pinkheart Pork-Fiend
+4064;Antares
+4065;Armored Antares
+4066;Scorpio
+4067;Dark Scorpio
+4068;Golden Leprechaun
+4069;Devourer
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;Animated Wings
+1387;Fairy Wing
+1387;Nymph Wing
+1387;Butterfly Wing
+1387;Little Angel Wing
+1387;Little Devil Wing
+1387;Crow Wing
+1387;Angel Wing
+1387;Devil Wing
+1387;Worm Dragon Wing
+1387;Astarot Wing
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+1387;Jeff Backpack
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;

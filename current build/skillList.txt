@@ -1,0 +1,8520 @@
+0;
+1;
+2;
+3;
+4;
+5;
+6;
+7;
+8;
+9;
+10;
+11;Basic skills;Sit
+12;Pick Up
+13;Normal Attack
+14;Party
+15;Trade
+16;Vending
+17;Self Target
+18;Disassemble
+19;Ride Request
+20;Target Enemy
+21;Jump
+22;Target Ally
+23;Despawn Summons
+24;
+25;Hi!
+26;Grateful Bow
+27;Laugh
+28;Applause
+29;Kiss
+30;Fight Cheer
+31;Tantrum
+32;Breakdown
+33;Gracious Bow
+34;Kick
+35;
+36;
+37;
+38;
+39;
+40;
+41;
+42;
+43;
+44;
+45;
+46;
+47;
+48;
+49;
+50;Item Mall;PAT Painting
+51;
+52;
+53;
+54;
+55;
+56;
+57;
+58;
+59;
+60;
+61;
+62;
+63;
+64;
+65;
+66;
+67;
+68;
+69;
+70;
+71;
+72;
+73;
+74;
+75;
+76;
+77;
+78;
+79;
+80;
+81;
+82;
+83;
+84;
+85;
+86;
+87;
+88;
+89;
+90;
+91;
+92;
+93;
+94;
+95;
+96;
+97;
+98;
+99;
+100;
+101;Dual Scratch
+102;Stone Throw 
+103;
+104;
+105;
+106;
+107;
+108;
+109;
+110;
+111;
+112;
+113;
+114;
+115;
+116;
+117;
+118;
+119;
+120;
+121;
+122;
+123;
+124;
+125;
+126;
+127;
+128;
+129;
+130;
+131;
+132;
+133;
+134;
+135;
+136;
+137;
+138;
+139;
+140;
+141;
+142;
+143;
+144;
+145;
+146;
+147;
+148;
+149;
+150;
+151;
+152;
+153;
+154;
+155;
+156;
+157;
+158;
+159;
+160;
+161;
+162;
+163;
+164;
+165;
+166;
+167;
+168;
+169;
+170;
+171;
+172;
+173;
+174;
+175;
+176;
+177;
+178;
+179;
+180;
+181;
+182;
+183;
+184;
+185;
+186;
+187;
+188;
+189;
+190;
+191;
+192;
+193;
+194;
+195;
+196;
+197;
+198;
+199;Soldier Class;
+200;Soldier - Common;Taunt
+201;Taunt
+202;Taunt
+203;Taunt
+204;Taunt
+205;Soldier - Common;Repose
+206;Passive;Repose
+207;Repose
+208;Repose
+209;Repose
+210;Soldier - Common;Physical Training
+211;Passive;Physical Training
+212;Physical Training
+213;Physical Training
+214;Physical Training
+215;Soldier - Common;Defense Training
+216;Passive;Defense Training
+217;Defense Training
+218;Defense Training
+219;Defense Training
+220;Soldier - Common;Strength Training
+221;Passive;Strength Training
+222;Strength Training
+223;Strength Training
+224;Strength Training
+225;Soldier - Common;Power Overflow
+226;Active Buff;Power Overflow
+227;Power Overflow
+228;Power Overflow
+229;Power Overflow
+230;Soldier - Common;Durability Assist
+231;Active Buff;Durability Assist
+232;Durability Assist
+233;Durability Assist
+234;Durability Assist
+235;Soldier - Common;Staminal Assist
+236;Active Buff;Staminal Assist
+237;Staminal Assist
+238;Staminal Assist
+239;Staminal Assist
+240;Soldier - Common;Rally Shout
+241;Active Buff;Rally Shout
+242;Rally Shout
+243;Rally Shout
+244;Rally Shout
+245;Soldier - Common;Battle Howl
+246;Active Debuff;Battle Howl
+247;Battle Howl
+248;Battle Howl
+249;Battle Howl
+250;Soldier - Common;Battle Scream
+251;Active Debuff;Battle Scream
+252;Battle Scream
+253;Battle Scream
+254;Battle Scream
+255;Soldier - Common;Battle Cry
+256;Active Debuff;Battle Cry
+257;Battle Cry
+258;Battle Cry
+259;Battle Cry
+260;Soldier - Common;Battle Alertness
+261;Active Debuff;Battle Alertness
+262;Battle Alertness
+263;Battle Alertness
+264;Battle Alertness
+265;Soldier - One Hand;One-Hand Weapon Training
+266;Passive;One-Hand Weapon Training
+267;One-Hand Weapon Training
+268;One-Hand Weapon Training
+269;One-Hand Weapon Training
+270;Soldier - One Hand;One-Hand Weapon Handling
+271;Passive;One-Hand Weapon Handling
+272;One-Hand Weapon Handling
+273;One-Hand Weapon Handling
+274;One-Hand Weapon Handling
+275;Soldier - One Hand;One-Hand Weapon Accuracy
+276;Passive;One-Hand Weapon Accuracy
+277;One-Hand Weapon Accuracy
+278;One-Hand Weapon Accuracy
+279;One-Hand Weapon Accuracy
+280;Soldier - One Hand;Double Attack
+281;Active Attack;Double Attack
+282;Double Attack
+283;Double Attack
+284;Double Attack
+285;Soldier - One Hand;Fatal Thrust
+286;Active Attack;Fatal Thrust
+287;Fatal Thrust
+288;Fatal Thrust
+289;Fatal Thrust
+290;Soldier - One Hand;Sweeping Strike
+291;Active Attack;Sweeping Strike
+292;Sweeping Strike
+293;Sweeping Strike
+294;Sweeping Strike
+295;Soldier - One Hand;Absorptive Assault
+296;Active Attack;Absorptive Assault
+297;Absorptive Assault
+298;Absorptive Assault
+299;Absorptive Assault
+300;Soldier - One Hand;Sword Force
+301;Active Magic Attack;Sword Force
+302;Sword Force
+303;Sword Force
+304;Sword Force
+305;Soldier - One Hand;Shield Mastery
+306;Passive;Shield Mastery
+307;Shield Mastery
+308;Shield Mastery
+309;Shield Mastery
+310;Soldier - One Hand;Block Training
+311;Passive;Block Training
+312;Block Training
+313;Block Training
+314;Block Training
+315;Soldier - One Hand;Shield Jab
+316;Active Attack;Shield Jab
+317;Shield Jab
+318;Shield Jab
+319;Shield Jab
+320;Soldier - One Hand;Shield Stun
+321;Active Attack;Shield Stun
+322;Shield Stun
+323;Shield Stun
+324;Shield Stun
+325;Soldier - One Hand;Shield Slam
+326;Active Attack;Shield Slam
+327;Shield Slam
+328;Shield Slam
+329;Shield Slam
+330;Soldier - One Hand;Guard
+331;Active Buff;Guard
+332;Guard
+333;Guard
+334;Guard
+335;Soldier - One Hand;Crossbow Training
+336;Passive;Crossbow Training
+337;Crossbow Training
+338;Crossbow Training
+339;Crossbow Training
+340;Soldier - One Hand;Bolt Reloading
+341;Passive;Bolt Reloading
+342;Bolt Reloading
+343;Bolt Reloading
+344;Bolt Reloading
+345;Soldier - One Hand;Crossbow Accuracy
+346;Passive;Crossbow Accuracy
+347;Crossbow Accuracy
+348;Crossbow Accuracy
+349;Crossbow Accuracy
+350;Soldier - One Hand;Crossbow Piercing
+351;Passive;Crossbow Piercing
+352;Crossbow Piercing
+353;Crossbow Piercing
+354;Crossbow Piercing
+355;Soldier - One Hand;Double Shot
+356;Active Attack;Double Shot
+357;Double Shot
+358;Double Shot
+359;Double Shot
+360;Soldier - One Hand;Trap Arrow
+361;Active Attack;Trap Arrow
+362;Trap Arrow
+363;Trap Arrow
+364;Trap Arrow
+365;Soldier - One Hand;Poisoned Shot
+366;Active Attack;Poisoned Shot
+367;Poisoned Shot
+368;Poisoned Shot
+369;Poisoned Shot
+370;Soldier - One Hand;Critical Shot
+371;Active Attack;Critical Shot
+372;Critical Shot
+373;Critical Shot
+374;Critical Shot
+375;Soldier - Two Hand;Two-Handed Sword Mastery
+376;Passive;Two-Handed Sword Mastery
+377;Two-Handed Sword Mastery
+378;Two-Handed Sword Mastery
+379;Two-Handed Sword Mastery
+380;Soldier - Two Hand;Two-Handed Sword Accuracy
+381;Passive;Two-Handed Sword Accuracy
+382;Two-Handed Sword Accuracy
+383;Two-Handed Sword Accuracy
+384;Two-Handed Sword Accuracy
+385;Soldier - Two Hand;Sword Piercing
+386;Passive;Sword Piercing
+387;Sword Piercing
+388;Sword Piercing
+389;Sword Piercing
+390;Soldier - Two Hand;Piercing Strike
+391;Active Attack;Piercing Strike
+392;Piercing Strike
+393;Piercing Strike
+394;Piercing Strike
+395;Soldier - Two Hand;Voltage Crash
+396;Active Attack;Voltage Crash
+397;Voltage Crash
+398;Voltage Crash
+399;Voltage Crash
+400;Soldier - Two Hand;Sword Force
+401;Active Magic Attack;Sword Force
+402;Sword Force
+403;Sword Force
+404;Sword Force
+405;Soldier - Two Hand;Tremor Impact
+406;Active Attack;Tremor Impact
+407;Tremor Impact
+408;Tremor Impact
+409;Tremor Impact
+410;Soldier - Two Hand;Quake Impact
+411;Active Attack;Quake Impact
+412;Quake Impact
+413;Quake Impact
+414;Quake Impact
+415;Soldier - Two Hand;Spear Training
+416;Passive;Spear Training
+417;Spear Training
+418;Spear Training
+419;Spear Training
+420;Soldier - Two Hand;Spear Speed
+421;Passive;Spear Speed
+422;Spear Speed
+423;Spear Speed
+424;Spear Speed
+425;Soldier - Two Hand;Spear AoE Range
+426;Passive;Spear AoE Range
+427;Spear AoE Range
+428;Spear AoE Range
+429;Spear AoE Range
+430;Soldier - Two Hand;Spear Strike
+431;Active Attack;Spear Strike
+432;Spear Strike
+433;Spear Strike
+434;Spear Strike
+435;Soldier - Two Hand;Piercing Stab
+436;Active Attack;Piercing Stab
+437;Piercing Stab
+438;Piercing Stab
+439;Piercing Stab
+440;Soldier - Two Hand;Fire Sweep
+441;Active Attack AoE;Fire Sweep
+442;Fire Sweep
+443;Fire Sweep
+444;Fire Sweep
+445;Soldier - Two Hand;Wind Sweep
+446;Active Attack AoE;Wind Sweep
+447;Wind Sweep
+448;Wind Sweep
+449;Wind Sweep
+450;Soldier - Two Hand;Ice Sweep
+451;Active Attack AoE;Ice Sweep
+452;Ice Sweep
+453;Ice Sweep
+454;Ice Sweep
+455;Soldier - Two Hand;Axe Training
+456;Passive;Axe Training
+457;Axe Training
+458;Axe Training
+459;Axe Training
+460;Soldier - Two Hand;Sharpened Axe
+461;Passive;Sharpened Axe
+462;Sharpened Axe
+463;Sharpened Axe
+464;Sharpened Axe
+465;Soldier - Two Hand;Weighted Axe Head
+466;Passive;Weighted Axe Head
+467;Weighted Axe Head
+468;Weighted Axe Head
+469;Weighted Axe Head
+470;Soldier - Two Hand;Leap Attack
+471;Active Attack;Leap Attack
+472;Leap Attack
+473;Leap Attack
+474;Leap Attack
+475;Soldier - Two Hand;Overhead Attack
+476;Active Attack;Overhead Attack
+477;Overhead Attack
+478;Overhead Attack
+479;Overhead Attack
+480;Soldier - Two Hand;Overhead Trounce
+481;Active Attack;Overhead Trounce
+482;Overhead Trounce
+483;Overhead Trounce
+484;Overhead Trounce
+485;Soldier - Two Hand;Weapon Toss
+486;Active Attack;Weapon Toss
+487;Weapon Toss
+488;Weapon Toss
+489;Weapon Toss
+490;Soldier - Two Hand;Axe Storm
+491;Active Attack;Axe Storm
+492;Axe Storm
+493;Axe Storm
+494;Axe Storm
+495;Soldier - Two Hand;Two Hand Training ATK
+496;Passive;Two Hand Training ATK
+497;Two Hand Training ATK
+498;Two Hand Training ATK
+499;Two Hand Training ATK
+500;Soldier - Two Hand;Two Hand Finess
+501;Passive;Two Hand Finess
+502;Two Hand Finess
+503;Two Hand Finess
+504;Two Hand Finess
+505;Soldier - Two Hand;Two Hand Grip Training
+506;Passive;Two Hand Grip Training
+507;Two Hand Grip Training
+508;Two Hand Grip Training
+509;Two Hand Grip Training
+510;Soldier - Knight;Advanced One-Handed Mastery
+511;Passive;Advanced One-Handed Mastery
+512;Advanced One-Handed Mastery
+513;Advanced One-Handed Mastery
+514;Advanced One-Handed Mastery
+515;Soldier - Knight;Advanced One-Handed Finesse
+516;Passive;Advanced One-Handed Finesse
+517;Advanced One-Handed Finesse
+518;Advanced One-Handed Finesse
+519;Advanced One-Handed Finesse
+520;Soldier - Knight;Battle Training (Accuracy)
+521;Passive;Battle Training (Accuracy)
+522;Battle Training (Accuracy)
+523;Battle Training (Accuracy)
+524;Battle Training (Accuracy)
+525;Soldier - Knight;Lightning Crasher
+526;Active Attack;Lightning Crasher
+527;Lightning Crasher
+528;Lightning Crasher
+529;Lightning Crasher
+530;Soldier - Knight;Soul Wreck
+531;Active Magic Attack;Soul Wreck
+532;Soul Wreck
+533;Soul Wreck
+534;Soul Wreck
+535;Soldier - Knight;Crushing Impact
+536;Active Attack;Crushing Impact
+537;Crushing Impact
+538;Crushing Impact
+539;Crushing Impact
+540;Soldier - Knight;Swords of Divinity
+541;Passive;Swords of Divinity
+542;Swords of Divinity
+543;Swords of Divinity
+544;Swords of Divinity
+545;Soldier - Knight;Impact Wave
+546;Passive;Impact Wave
+547;Impact Wave
+548;Impact Wave
+549;Impact Wave
+550;Soldier - Knight;Advanced Defense Training
+551;Passive;Advanced Defense Training
+552;Advanced Defense Training
+553;Advanced Defense Training
+554;Advanced Defense Training
+555;Soldier - Knight;Advanced Shield Block
+556;Passive;Advanced Shield Block
+557;Advanced Shield Block
+558;Advanced Shield Block
+559;Advanced Shield Block
+560;Soldier - Knight;Protection
+561;Active Buff;Protection
+562;Protection
+563;Protection
+564;Protection
+565;Soldier - Knight;Shield Reflect
+566;Active Buff;Shield Reflect
+567;Shield Reflect
+568;Shield Reflect
+569;Shield Reflect
+570;Soldier - Knight;Shield Lunge
+571;Active Attack;Shield Lunge
+572;Shield Lunge
+573;Shield Lunge
+574;Shield Lunge
+575;Soldier - Knight;Shield Bash
+576;Active Attack;Shield Bash
+577;Shield Bash
+578;Shield Bash
+579;Shield Bash
+580;Soldier - Knight;Shield Throw
+581;Active Attack;Shield Throw
+582;Shield Throw
+583;Shield Throw
+584;Shield Throw
+585;Soldier - Knight;Crossbow Mastery
+586;Passive;Crossbow Mastery
+587;Crossbow Mastery
+588;Crossbow Mastery
+589;Crossbow Mastery
+590;Soldier - Knight;Crossbow ASPD
+591;Passive;Crossbow ASPD
+592;Crossbow ASPD
+593;Crossbow ASPD
+594;Crossbow ASPD
+595;Soldier - Knight;Crossbow Accuracy
+596;Passive;Crossbow Accuracy
+597;Crossbow Accuracy
+598;Crossbow Accuracy
+599;Crossbow Accuracy
+600;Soldier - Knight;Crossbow Piercing
+601;Passive;Crossbow Piercing
+602;Crossbow Piercing
+603;Crossbow Piercing
+604;Crossbow Piercing
+605;Soldier - Knight;Focus Shot
+606;Active Attack;Focus Shot
+607;Focus Shot
+608;Focus Shot
+609;Focus Shot
+610;Soldier - Knight;Magic Shot
+611;Active Attack;Magic Shot
+612;Magic Shot
+613;Magic Shot
+614;Magic Shot
+615;Soldier - Knight;Fire Shot
+616;Active Attack;Fire Shot
+617;Fire Shot
+618;Fire Shot
+619;Fire Shot
+620;Soldier - Knight;Rain of Arrows
+621;Active Attack;Rain of Arrows
+622;Rain of Arrows
+623;Rain of Arrows
+624;Rain of Arrows
+625;Soldier - Knight;HP Passive
+626;Passive;HP Passive
+627;HP Passive
+628;HP Passive
+629;HP Passive
+630;Soldier - Knight;Defensive Stance
+631;Passive;Defensive Stance
+632;Defensive Stance
+633;Defensive Stance
+634;Defensive Stance
+635;Soldier - Champion;Advanced Two-Handed Mastery
+636;Passive;Advanced Two-Handed Mastery
+637;Advanced Two-Handed Mastery
+638;Advanced Two-Handed Mastery
+639;Advanced Two-Handed Mastery
+640;Soldier - Champion;Advanced Two-Handed Accuracy
+641;Passive;Advanced Two-Handed Accuracy
+642;Advanced Two-Handed Accuracy
+643;Advanced Two-Handed Accuracy
+644;Advanced Two-Handed Accuracy
+645;Champion - 2H Sword;Advanced Two-Handed Piercing
+646;Passive;Advanced Two-Handed Piercing
+647;Advanced Two-Handed Piercing
+648;Advanced Two-Handed Piercing
+649;Advanced Two-Handed Piercing
+650;Soldier - Champion;Advanced Two-Handed Skill Power
+651;Passive;Advanced Two-Handed Skill Power
+652;Advanced Two-Handed Skill Power
+653;Advanced Two-Handed Skill Power
+654;Advanced Two-Handed Skill Power
+655;Soldier - Champion;Geon Archangel Crumpler
+656;Active Attack;Geon Archangel Crumpler
+657;Geon Archangel Crumpler
+658;Geon Archangel Crumpler
+659;Geon Archangel Crumpler
+660;Soldier - Champion;Voltage Crush
+661;Active Attack;Voltage Crush
+662;Voltage Crush
+663;Voltage Crush
+664;Voltage Crush
+665;Soldier - Champion;Soul Wreck
+666;Active Magic Attack;Soul Wreck
+667;Soul Wreck
+668;Soul Wreck
+669;Soul Wreck
+670;Soldier - Champion;Seismic Strike
+671;Active Attack;Seismic Strike
+672;Seismic Strike
+673;Seismic Strike
+674;Seismic Strike
+675;Soldier - Champion;Seismic Impact
+676;Active Attack;Seismic Impact
+677;Seismic Impact
+678;Seismic Impact
+679;Seismic Impact
+680;Soldier - Champion;Advanced Spear Mastery
+681;Passive;Advanced Spear Mastery
+682;Advanced Spear Mastery
+683;Advanced Spear Mastery
+684;Advanced Spear Mastery
+685;Soldier - Champion;Spear Mastery ASPD
+686;Passive;Spear Mastery ASPD
+687;Spear Mastery ASPD
+688;Spear Mastery ASPD
+689;Spear Mastery ASPD
+690;Soldier - Champion;Spear Mastery AoE Range
+691;Passive;Spear Mastery AoE Range
+692;Spear Mastery AoE Range
+693;Spear Mastery AoE Range
+694;Spear Mastery AoE Range
+695;Soldier - Champion;Spear Deflection Stance
+696;Passive;Spear Deflection Stance
+697;Spear Deflection Stance
+698;Spear Deflection Stance
+699;Spear Deflection Stance
+700;Soldier - Champion;Raging Spear Strike
+701;Active Attack;Raging Spear Strike
+702;Raging Spear Strike
+703;Raging Spear Strike
+704;Raging Spear Strike
+705;Soldier - Champion;Longinus' Strike
+706;Active Attack;Longinus' Strike
+707;Longinus' Strike
+708;Longinus' Strike
+709;Longinus' Strike
+710;Soldier - Champion;Dance of Flames
+711;Active Attack;Dance of Flames
+712;Dance of Flames
+713;Dance of Flames
+714;Dance of Flames
+715;Soldier - Champion;Dance of Wind
+716;Active Attack;Dance of Wind
+717;Dance of Wind
+718;Dance of Wind
+719;Dance of Wind
+720;Soldier - Champion;Dance of Ice
+721;Active Attack;Dance of Ice
+722;Dance of Ice
+723;Dance of Ice
+724;Dance of Ice
+725;Soldier - Champion;Advanced Axe Mastery
+726;Passive;Advanced Axe Mastery
+727;Advanced Axe Mastery
+728;Advanced Axe Mastery
+729;Advanced Axe Mastery
+730;Soldier - Champion;Axe Mastery Critical Chance
+731;Passive;Axe Mastery Critical Chance
+732;Axe Mastery Critical Chance
+733;Axe Mastery Critical Chance
+734;Axe Mastery Critical Chance
+735;Soldier - Champion;Axe Mastery Critical Damage
+736;Passive;Axe Mastery Critical Damage
+737;Axe Mastery Critical Damage
+738;Axe Mastery Critical Damage
+739;Axe Mastery Critical Damage
+740;Soldier - Champion;Axe Fury
+741;Passive;Axe Fury
+742;Axe Fury
+743;Axe Fury
+744;Axe Fury
+745;Soldier - Champion;Champion Hit
+746;Active Attack;Champion Hit
+747;Champion Hit
+748;Champion Hit
+749;Champion Hit
+750;Soldier - Champion;Champion Strike
+751;Active Attack;Champion Strike
+752;Champion Strike
+753;Champion Strike
+754;Champion Strike
+755;Soldier - Champion;Final Strike
+756;Active Attack;Final Strike
+757;Final Strike
+758;Final Strike
+759;Final Strike
+760;Soldier - Champion;Weapon Launcher
+761;Active Attack;Weapon Launcher
+762;Weapon Launcher
+763;Weapon Launcher
+764;Weapon Launcher
+765;Soldier - Champion;Axe Wrath
+766;Active Attack;Axe Wrath
+767;Axe Wrath
+768;Axe Wrath
+769;Axe Wrath
+770;Soldier - Champion;Combat Howl
+771;Debuff;Combat Howl
+772;Combat Howl
+773;Combat Howl
+774;Combat Howl
+775;Soldier - Champion;Combat Scream
+776;Debuff;Combat Scream
+777;Combat Scream
+778;Combat Scream
+779;Combat Scream
+780;Soldier - Champion;Combat Shout
+781;Debuff;Combat Shout
+782;Combat Shout
+783;Combat Shout
+784;Combat Shout
+785;Soldier - Champion;Berserker's Cry
+786;Debuff;Berserker's Cry
+787;Berserker's Cry
+788;Berserker's Cry
+789;Berserker's Cry
+790;Soldier - Champion;Berserk
+791;Buff;Berserk
+792;Berserk
+793;Berserk
+794;Berserk
+795;Soldier - Champion;Battle Mastery
+796;Passive;Battle Mastery
+797;Battle Mastery
+798;Battle Mastery
+799;Battle Mastery
+800;Soldier - Champion;Champion's Footing
+801;Passive;Champion's Footing
+802;Champion's Footing
+803;Champion's Footing
+804;Champion's Footing
+805;
+806;
+807;
+808;
+809;
+810;
+811;
+812;
+813;
+814;
+815;
+816;
+817;
+818;
+819;
+820;
+821;
+822;
+823;
+824;Muse Class;
+825;Muse Common;Mana Conservation
+826;Passive;Mana Conservation
+827;Mana Conservation
+828;Mana Conservation
+829;Mana Conservation
+830;Muse Common;Meditation
+831;Passive;Meditation
+832;Meditation
+833;Meditation
+834;Meditation
+835;Muse Common;Mana Pool
+836;Passive;Mana Pool
+837;Mana Pool
+838;Mana Pool
+839;Mana Pool
+840;Muse Common;Mystic Armor Training
+841;Passive;Mystic Armor Training
+842;Mystic Armor Training
+843;Mystic Armor Training
+844;Mystic Armor Training
+845;Muse Common;Knowledge Training
+846;Passive;Knowledge Training
+847;Knowledge Training
+848;Knowledge Training
+849;Knowledge Training
+850;Muse Common;Spirit of the Magi
+851;Passive;Spirit of the Magi
+852;Spirit of the Magi
+853;Spirit of the Magi
+854;Spirit of the Magi
+855;Muse Common;Mana Shield
+856;Active Buff;Mana Shield
+857;Mana Shield
+858;Mana Shield
+859;Mana Shield
+860;Muse Common;Gift of Knowledge
+861;Active Buff;Gift of Knowledge
+862;Gift of Knowledge
+863;Gift of Knowledge
+864;Gift of Knowledge
+865;Muse Common;Mental Focus
+866;Active Buff;Mental Focus
+867;Mental Focus
+868;Mental Focus
+869;Mental Focus
+870;Muse Common;Mystic Eye
+871;Active Debuff;Mystic Eye
+872;Mystic Eye
+873;Mystic Eye
+874;Mystic Eye
+875;Muse - Offensive;Staff Mastery
+876;Passive;Staff Mastery
+877;Staff Mastery
+878;Staff Mastery
+879;Staff Mastery
+880;Muse - Offensive;Spell Mastery
+881;Passive;Spell Mastery
+882;Spell Mastery
+883;Spell Mastery
+884;Spell Mastery
+885;Muse - Offensive;Staff Channelling
+886;Passive;Staff Channelling
+887;Staff Channelling
+888;Staff Channelling
+889;Staff Channelling
+890;Muse - Offensive;Staff Attunement
+891;Passive;Staff Attunement
+892;Staff Attunement
+893;Staff Attunement
+894;Staff Attunement
+895;Muse - Offensive;Staff Projection
+896;Passive;Staff Projection
+897;Staff Projection
+898;Staff Projection
+899;Staff Projection
+900;Muse - Offensive;Sorcerer's Sight
+901;Passive;Sorcerer's Sight
+902;Sorcerer's Sight
+903;Sorcerer's Sight
+904;Sorcerer's Sight
+905;Muse - Offensive;Ice Bolt
+906;Active Magic Attack;Ice Bolt
+907;Ice Bolt
+908;Ice Bolt
+909;Ice Bolt
+910;Muse - Offensive;Frostbiter
+911;Active Magic Attack;Frostbiter
+912;Frostbiter
+913;Frostbiter
+914;Frostbiter
+915;Muse - Offensive;Hailstorm
+916;Active AoE Attack;Hailstorm
+917;Hailstorm
+918;Hailstorm
+919;Hailstorm
+920;Muse - Offensive;Icy Hailstorm
+921;Active AoE Attack;Icy Hailstorm
+922;Icy Hailstorm
+923;Icy Hailstorm
+924;Icy Hailstorm
+925;Muse - Offensive;Voltage Bolt
+926;Active Magic Attack;Voltage Bolt
+927;Voltage Bolt
+928;Voltage Bolt
+929;Voltage Bolt
+930;Muse - Offensive;Voltage Jolt
+931;Active Magic Attack;Voltage Jolt
+932;Voltage Jolt
+933;Voltage Jolt
+934;Voltage Jolt
+935;Muse - Offensive;Wind Storm
+936;Active Attack;Wind Storm
+937;Wind Storm
+938;Wind Storm
+939;Wind Storm
+940;Muse - Offensive;Tornado
+941;Active Attack;Tornado
+942;Tornado
+943;Tornado
+944;Tornado
+945;Muse - Offensive;Fire Bolt
+946;Active Magic Attack;Fire Bolt
+947;Fire Bolt
+948;Fire Bolt
+949;Fire Bolt
+950;Muse Offensive;Hellfire
+951;Active Magic Attack;Hellfire
+952;Hellfire
+953;Hellfire
+954;Hellfire
+955;Muse - Offensive;Fire Ring
+956;Active Magic Attack;Fire Ring
+957;Fire Ring
+958;Fire Ring
+959;Fire Ring
+960;Muse - Offensive;Meteorite Strike
+961;Active Magic Attack;Meteorite Strike
+962;Meteorite Strike
+963;Meteorite Strike
+964;Meteorite Strike
+965;Muse - Offensive;Mana Bolt
+966;Active Magic Attack;Mana Bolt
+967;Mana Bolt
+968;Mana Bolt
+969;Mana Bolt
+970;Muse - Offensive;Mana Spear
+971;Active Magic Attack;Mana Spear
+972;Mana Spear
+973;Mana Spear
+974;Mana Spear
+975;Muse Supportive;Wand Mastery
+976;Passive;Wand Mastery
+977;Wand Mastery
+978;Wand Mastery
+979;Wand Mastery
+980;Muse Supportive;Wand Accuracy
+981;Passive;Wand Accuracy
+982;Wand Accuracy
+983;Wand Accuracy
+984;Wand Accuracy
+985;Muse Supportive;Wand Speed
+986;Passive;Wand Speed
+987;Wand Speed
+988;Wand Speed
+989;Wand Speed
+990;Muse Supportive;Wand Range
+991;Passive;Wand Range
+992;Wand Range
+993;Wand Range
+994;Wand Range
+995;Muse Supportive;Mana Crux
+996;Passive;Mana Crux
+997;Mana Crux
+998;Mana Crux
+999;Mana Crux
+1000;Muse Supportive;Mystic Deflection
+1001;Passive;Mystic Deflection
+1002;Mystic Deflection
+1003;Mystic Deflection
+1004;Mystic Deflection
+1005;Muse Supportive;Mystic Guard
+1006;Passive;Mystic Guard
+1007;Mystic Guard
+1008;Mystic Guard
+1009;Mystic Guard
+1010;Muse Supportive;Summon Training
+1011;Passive;Summon Training
+1012;Summon Training
+1013;Summon Training
+1014;Summon Training
+1015;Muse Supportive;Summon Phantom Sword
+1016;Summon;Summon Phantom Sword
+1017;Summon Phantom Sword
+1018;Summon Phantom Sword
+1019;Summon Phantom Sword
+1020;Muse Supportive;Summon Phantom Shield
+1021;Summon;Summon Phantom Shield
+1022;Summon Phantom Shield
+1023;Summon Phantom Shield
+1024;Summon Phantom Shield
+1025;Muse Supportive;Bonfire
+1026;Summon;Bonfire
+1027;Bonfire
+1028;Bonfire
+1029;Bonfire
+1030;Muse Supportive;Cure
+1031;Active Supportive;Cure
+1032;Cure
+1033;Cure
+1034;Cure
+1035;Muse Supportive;Heal
+1036;Active Supportive;Heal
+1037;Heal
+1038;Heal
+1039;Heal
+1040;Muse Supportive;Heal (Party)
+1041;Active recovery;Heal (Party)
+1042;Heal (Party)
+1043;Heal (Party)
+1044;Heal (Party)
+1045;Muse Supportive;Restore
+1046;Active Supportive;Restore
+1047;Restore
+1048;Restore
+1049;Restore
+1050;Muse Supportive;Restore (Party)
+1051;Active recovery;Restore (Party)
+1052;Restore (Party)
+1053;Restore (Party)
+1054;Restore (Party)
+1055;Muse Supportive;Soul Revive
+1056;Active recovery;Soul Revive
+1057;Soul Revive
+1058;Soul Revive
+1059;Soul Revive
+1060;Muse Supportive;Sleep
+1061;Active Status Effect;Sleep
+1062;Sleep
+1063;Sleep
+1064;Sleep
+1065;Muse Supportive;Wallop Charm
+1066;Active Buff;Wallop Charm
+1067;Wallop Charm
+1068;Wallop Charm
+1069;Wallop Charm
+1070;Muse Supportive;Wallop Chant
+1071;Active Buff Party;Wallop Chant
+1072;Wallop Chant
+1073;Wallop Chant
+1074;Wallop Chant
+1075;Muse Supportive;Precision Charm
+1076;Active Buff;Precision Charm
+1077;Precision Charm
+1078;Precision Charm
+1079;Precision Charm
+1080;Muse Supportive;Precision Chant
+1081;Active Buff;Precision Chant
+1082;Precision Chant
+1083;Precision Chant
+1084;Precision Chant
+1085;Muse Supportive;Blessed Body Charm
+1086;Active Buff;Blessed Body Charm
+1087;Blessed Body Charm
+1088;Blessed Body Charm
+1089;Blessed Body Charm
+1090;Muse Supportive;Blessed Body Chant
+1091;Active Buff;Blessed Body Chant
+1092;Blessed Body Chant
+1093;Blessed Body Chant
+1094;Blessed Body Chant
+1095;Muse Supportive;Blessed Mind Charm
+1096;Active Buff;Blessed Mind Charm
+1097;Blessed Mind Charm
+1098;Blessed Mind Charm
+1099;Blessed Mind Charm
+1100;Muse Supportive;Blessed Mind Chant
+1101;Active Buff;Blessed Mind Chant
+1102;Blessed Mind Chant
+1103;Blessed Mind Chant
+1104;Blessed Mind Chant
+1105;Muse Supportive;Resilience Charm
+1106;Active Buff;Resilience Charm
+1107;Resilience Charm
+1108;Resilience Charm
+1109;Resilience Charm
+1110;Muse Supportive;Resilience Chant
+1111;Active Buff;Resilience Chant
+1112;Resilience Chant
+1113;Resilience Chant
+1114;Resilience Chant
+1115;Muse Supportive;Resistance Charm
+1116;Active Buff;Resistance Charm
+1117;Resistance Charm
+1118;Resistance Charm
+1119;Resistance Charm
+1120;Muse Supportive;Resistance Chant
+1121;Active Buff;Resistance Chant
+1122;Resistance Chant
+1123;Resistance Chant
+1124;Resistance Chant
+1125;Muse - Mage;Staff Combat Mastery
+1126;Passive;Staff Combat Mastery
+1127;Staff Combat Mastery
+1128;Staff Combat Mastery
+1129;Staff Combat Mastery
+1130;Muse - Mage;Spell Mastery
+1131;Passive;Spell Mastery
+1132;Spell Mastery
+1133;Spell Mastery
+1134;Spell Mastery
+1135;Muse - Mage;Mana Reservoir
+1136;Passive;Mana Reservoir
+1137;Mana Reservoir
+1138;Mana Reservoir
+1139;Mana Reservoir
+1140;Muse - Mage;Staff Unity
+1141;Passive;Staff Unity
+1142;Staff Unity
+1143;Staff Unity
+1144;Staff Unity
+1145;Muse - Mage;Reach of the Magi
+1146;Passive;Reach of the Magi
+1147;Reach of the Magi
+1148;Reach of the Magi
+1149;Reach of the Magi
+1150;Muse - Mage;Mana Stream
+1151;Passive;Mana Stream
+1152;Mana Stream
+1153;Mana Stream
+1154;Mana Stream
+1155;Muse - Mage;Clarity of Sight
+1156;Passive;Clarity of Sight
+1157;Clarity of Sight
+1158;Clarity of Sight
+1159;Clarity of Sight
+1160;Muse - Mage;Sight of the Magi
+1161;Passive;Sight of the Magi
+1162;Sight of the Magi
+1163;Sight of the Magi
+1164;Sight of the Magi
+1165;Muse - Mage;Aural Pierce
+1166;Active Debuff;Aural Pierce
+1167;Aural Pierce
+1168;Aural Pierce
+1169;Aural Pierce
+1170;Muse - Mage;Fierce Cudgeling
+1171;Active Attack;Fierce Cudgeling
+1172;Fierce Cudgeling
+1173;Fierce Cudgeling
+1174;Fierce Cudgeling
+1175;Muse - Mage;Staff Stun
+1176;Active Attack;Staff Stun
+1177;Staff Stun
+1178;Staff Stun
+1179;Staff Stun
+1180;Muse - Mage;Freezing Chill
+1181;Active Magic Attack;Freezing Chill
+1182;Freezing Chill
+1183;Freezing Chill
+1184;Freezing Chill
+1185;Muse - Mage;Glaciating Chill
+1186;Active Magic Attack;Glaciating Chill
+1187;Glaciating Chill
+1188;Glaciating Chill
+1189;Glaciating Chill
+1190;Muse - Mage;Frost Ring
+1191;Active AoE Attack;Frost Ring
+1192;Frost Ring
+1193;Frost Ring
+1194;Frost Ring
+1195;Muse - Mage;Cold Snap
+1196;Active Attack;Cold Snap
+1197;Cold Snap
+1198;Cold Snap
+1199;Cold Snap
+1200;Muse - Mage;Permafrost Chill
+1201;Active Magic Attack;Permafrost Chill
+1202;Permafrost Chill
+1203;Permafrost Chill
+1204;Permafrost Chill
+1205;Muse - Mage;Soul Shock
+1206;Active Magic Attack;Soul Shock
+1207;Soul Shock
+1208;Soul Shock
+1209;Soul Shock
+1210;Muse - Mage;Soul Electric
+1211;Active Magic Attack;Soul Electric
+1212;Soul Electric
+1213;Soul Electric
+1214;Soul Electric
+1215;Muse - Mage;Tempest
+1216;Active Attack;Tempest
+1217;Tempest
+1218;Tempest
+1219;Tempest
+1220;Muse - Mage;Hurricane
+1221;Active Attack;Hurricane
+1222;Hurricane
+1223;Hurricane
+1224;Hurricane
+1225;Muse - Mage;Thunder Storm
+1226;Active AoE Attack;Thunder Storm
+1227;Thunder Storm
+1228;Thunder Storm
+1229;Thunder Storm
+1230;Muse - Mage;Mana Burn
+1231;Active Magic Attack;Mana Burn
+1232;Mana Burn
+1233;Mana Burn
+1234;Mana Burn
+1235;Muse - Mage;Fireball
+1236;Active Magic Attack;Fireball
+1237;Fireball
+1238;Fireball
+1239;Fireball
+1240;Muse - Mage;Inferno
+1241;Active Magic Attack;Inferno
+1242;Inferno
+1243;Inferno
+1244;Inferno
+1245;Muse - Mage;Meteorite Flow
+1246;Active AoE Attack;Meteorite Flow
+1247;Meteorite Flow
+1248;Meteorite Flow
+1249;Meteorite Flow
+1250;Muse - Mage;Blaze
+1251;Active Attack;Blaze
+1252;Blaze
+1253;Blaze
+1254;Blaze
+1255;Muse - Mage;Elemental Bolt
+1256;Active Magic Attack;Elemental Bolt
+1257;Elemental Bolt
+1258;Elemental Bolt
+1259;Elemental Bolt
+1260;Muse - Mage;Elemental Spike
+1261;Active Magic Attack;Elemental Spike
+1262;Elemental Spike
+1263;Elemental Spike
+1264;Elemental Spike
+1265;Muse - Mage;Elemental Wave
+1266;Active Attack;Elemental Wave
+1267;Elemental Wave
+1268;Elemental Wave
+1269;Elemental Wave
+1270;Muse - Cleric;Wand Control
+1271;Passive;Wand Control
+1272;Wand Control
+1273;Wand Control
+1274;Wand Control
+1275;Muse - Cleric;Wand Piercing
+1276;Passive;Wand Piercing
+1277;Wand Piercing
+1278;Wand Piercing
+1279;Wand Piercing
+1280;Muse - Cleric;Wand Speed
+1281;Passive;Wand Speed
+1282;Wand Speed
+1283;Wand Speed
+1284;Wand Speed
+1285;Muse - Cleric;Cleric's Intensity
+1286;Passive;Cleric's Intensity
+1287;Cleric's Intensity
+1288;Cleric's Intensity
+1289;Cleric's Intensity
+1290;Muse - Cleric;Mystic Deviation
+1291;Passive;Mystic Deviation
+1292;Mystic Deviation
+1293;Mystic Deviation
+1294;Mystic Deviation
+1295;Muse - Cleric;Mystic Safeguard
+1296;Passive;Mystic Safeguard
+1297;Mystic Safeguard
+1298;Mystic Safeguard
+1299;Mystic Safeguard
+1300;Muse - Cleric;Mana Convergence
+1301;Passive;Mana Convergence
+1302;Mana Convergence
+1303;Mana Convergence
+1304;Mana Convergence
+1305;Muse - Cleric;Dragon Skin
+1306;Passive;Dragon Skin
+1307;Dragon Skin
+1308;Dragon Skin
+1309;Dragon Skin
+1310;Muse - Cleric;Mystic Armor
+1311;Passive;Mystic Armor
+1312;Mystic Armor
+1313;Mystic Armor
+1314;Mystic Armor
+1315;Muse - Cleric;Mana Wave
+1316;Active Magic Attack;Mana Wave
+1317;Mana Wave
+1318;Mana Wave
+1319;Mana Wave
+1320;Muse - Cleric;Voltage Storm
+1321;Active AoE Attack;Voltage Storm
+1322;Voltage Storm
+1323;Voltage Storm
+1324;Voltage Storm
+1325;Muse - Cleric;Sleep Cloud
+1326;Active Attack;Sleep Cloud
+1327;Sleep Cloud
+1328;Sleep Cloud
+1329;Sleep Cloud
+1330;Muse - Cleric;Summon Mastery
+1331;Passive;Summon Mastery
+1332;Summon Mastery
+1333;Summon Mastery
+1334;Summon Mastery
+1335;Muse - Cleric;Salamander Flame
+1336;?≫곕???;Salamander Flame
+1337;Salamander Flame
+1338;Salamander Flame
+1339;Salamander Flame
+1340;Muse - Cleric;Mana Flame
+1341;?≫곕???;Mana Flame
+1342;Mana Flame
+1343;Mana Flame
+1344;Mana Flame
+1345;Muse - Cleric;Summon Earth Elemental
+1346;?≫곕???;Summon Earth Elemental
+1347;Summon Earth Elemental
+1348;Summon Earth Elemental
+1349;Summon Earth Elemental
+1350;Muse - Cleric;Summon Fire Elemental
+1351;?≫곕???;Summon Fire Elemental
+1352;Summon Fire Elemental
+1353;Summon Fire Elemental
+1354;Summon Fire Elemental
+1355;Muse - Cleric;Summon Firegon
+1356;?≫곕???;Summon Firegon
+1357;Summon Firegon
+1358;Summon Firegon
+1359;Summon Firegon
+1360;Muse - Cleric;Summon Ice Dragon
+1361;?≫곕???;Summon Ice Dragon
+1362;Summon Ice Dragon
+1363;Summon Ice Dragon
+1364;Summon Ice Dragon
+1365;Muse - Cleric;Healer's Touch
+1366;Passive;Healer's Touch
+1367;Healer's Touch
+1368;Healer's Touch
+1369;Healer's Touch
+1370;Muse - Cleric;Recovery
+1371;Active recovery;Recovery
+1372;Recovery
+1373;Recovery
+1374;Recovery
+1375;Muse - Cleric;Recovery (Party)
+1376;Active recovery;Recovery (Party)
+1377;Recovery (Party)
+1378;Recovery (Party)
+1379;Recovery (Party)
+1380;Muse - Cleric;Integrity
+1381;Active recovery;Integrity
+1382;Integrity
+1383;Integrity
+1384;Integrity
+1385;Muse - Cleric;Integrity (Party)
+1386;Active recovery;Integrity (Party)
+1387;Integrity (Party)
+1388;Integrity (Party)
+1389;Integrity (Party)
+1390;Muse - Cleric;Heavenly Grace
+1391;Active recovery;Heavenly Grace
+1392;Heavenly Grace
+1393;Heavenly Grace
+1394;Heavenly Grace
+1395;Muse - Cleric;Purify
+1396;Active Buff;Purify
+1397;Purify
+1398;Purify
+1399;Purify
+1400;Muse - Cleric;Soul Doubt
+1401;Active Debuff;Soul Doubt
+1402;Soul Doubt
+1403;Soul Doubt
+1404;Soul Doubt
+1405;Muse - Cleric;Battle Charm
+1406;Active Buff;Battle Charm
+1407;Battle Charm
+1408;Battle Charm
+1409;Battle Charm
+1410;Muse - Cleric;Battle Chant
+1411;Active Buff;Battle Chant
+1412;Battle Chant
+1413;Battle Chant
+1414;Battle Chant
+1415;Muse - Cleric;Hustle Charm
+1416;Active Buff;Hustle Charm
+1417;Hustle Charm
+1418;Hustle Charm
+1419;Hustle Charm
+1420;Muse - Cleric;Hustle Chant
+1421;Active Buff;Hustle Chant
+1422;Hustle Chant
+1423;Hustle Chant
+1424;Hustle Chant
+1425;Muse - Cleric;Critical Charm
+1426;Active Buff;Critical Charm
+1427;Critical Charm
+1428;Critical Charm
+1429;Critical Charm
+1430;Muse - Cleric;Critical Chant
+1431;Active Buff;Critical Chant
+1432;Critical Chant
+1433;Critical Chant
+1434;Critical Chant
+1435;Muse - Cleric;Evasive Charm
+1436;Active Buff;Evasive Charm
+1437;Evasive Charm
+1438;Evasive Charm
+1439;Evasive Charm
+1440;Muse - Cleric;Evasive Chant
+1441;Active Buff;Evasive Chant
+1442;Evasive Chant
+1443;Evasive Chant
+1444;Evasive Chant
+1445;Muse - Cleric;Valkyrie Charm
+1446;Active Buff;Valkyrie Charm
+1447;Valkyrie Charm
+1448;Valkyrie Charm
+1449;Valkyrie Charm
+1450;Muse - Cleric;Valkyrie Chant
+1451;Active Buff;Valkyrie Chant
+1452;Valkyrie Chant
+1453;Valkyrie Chant
+1454;Valkyrie Chant
+1455;Muse - Cleric;Angelic Charm
+1456;Active Buff;Angelic Charm
+1457;Angelic Charm
+1458;Angelic Charm
+1459;Angelic Charm
+1460;Muse - Cleric;Angelic Chant
+1461;Active Buff;Angelic Chant
+1462;Angelic Chant
+1463;Angelic Chant
+1464;Angelic Chant
+1465;Muse - Mage;Fortified Mana Shield
+1466;Active Buff;Fortified Mana Shield
+1467;Fortified Mana Shield
+1468;Fortified Mana Shield
+1469;Fortified Mana Shield
+1470;Muse - Mage;Sorcery Mastery
+1471;Passive Buff;Sorcery Mastery
+1472;Sorcery Mastery
+1473;Sorcery Mastery
+1474;Sorcery Mastery
+1475;Muse - Mage;Fire Mastery
+1476;Passive Buff;Fire Mastery
+1477;Fire Mastery
+1478;Fire Mastery
+1479;Fire Mastery
+1480;Muse - Mage;Wind Mastery
+1481;Passive Buff;Wind Mastery
+1482;Wind Mastery
+1483;Wind Mastery
+1484;Wind Mastery
+1485;Muse - Mage;Water Mastery
+1486;Passive Buff;Water Mastery
+1487;Water Mastery
+1488;Water Mastery
+1489;Water Mastery
+1490;
+1491;
+1492;
+1493;
+1494;
+1495;
+1496;
+1497;
+1498;
+1499;Hawker Class;
+1500;Hawker Common;Sprint
+1501;Passive;Sprint
+1502;Sprint
+1503;Sprint
+1504;Sprint
+1505;Hawker Common;Rapid Twitch
+1506;Active Buff;Rapid Twitch
+1507;Rapid Twitch
+1508;Rapid Twitch
+1509;Rapid Twitch
+1510;Hawker Common;Quick Reflexes
+1511;Passive;Quick Reflexes
+1512;Quick Reflexes
+1513;Quick Reflexes
+1514;Quick Reflexes
+1515;Hawker Common;Combat Mastery
+1516;Passive;Combat Mastery
+1517;Combat Mastery
+1518;Combat Mastery
+1519;Combat Mastery
+1520;Hawker Common;Hawker Accordance
+1521;Active Buff;Hawker Accordance
+1522;Hawker Accordance
+1523;Hawker Accordance
+1524;Hawker Accordance
+1525;Hawker Common;Dexterity Training
+1526;Passive;Dexterity Training
+1527;Dexterity Training
+1528;Dexterity Training
+1529;Dexterity Training
+1530;Hawker Common;Hawker's Guile
+1531;Active Buff;Hawker's Guile
+1532;Hawker's Guile
+1533;Hawker's Guile
+1534;Hawker's Guile
+1535;Hawker Common;Backpack Training
+1536;Passive;Backpack Training
+1537;Backpack Training
+1538;Backpack Training
+1539;Backpack Training
+1540;Hawker Common;Mana Profit
+1541;Passive;Mana Profit
+1542;Mana Profit
+1543;Mana Profit
+1544;Mana Profit
+1545;Hawker Common;Mana Fountain
+1546;Passive;Mana Fountain
+1547;Mana Fountain
+1548;Mana Fountain
+1549;Mana Fountain
+1550;Hawker Common;Second Sight
+1551;Active Debuff;Second Sight
+1552;Second Sight
+1553;Second Sight
+1554;Second Sight
+1555;Hawker Bow;Bow Training
+1556;Passive;Bow Training
+1557;Bow Training
+1558;Bow Training
+1559;Bow Training
+1560;Hawker Bow;Sharp Eyes
+1561;Passive;Sharp Eyes
+1562;Sharp Eyes
+1563;Sharp Eyes
+1564;Sharp Eyes
+1565;Hawker Bow;Sharpened Tips
+1566;Passive;Sharpened Tips
+1567;Sharpened Tips
+1568;Sharpened Tips
+1569;Sharpened Tips
+1570;Hawker Bow;Quick Hands
+1571;Passive;Quick Hands
+1572;Quick Hands
+1573;Quick Hands
+1574;Quick Hands
+1575;Hawker Bow;Longbow
+1576;Passive;Longbow
+1577;Longbow
+1578;Longbow
+1579;Longbow
+1580;Hawker Bow;Critical Focus
+1581;Active Buff;Critical Focus
+1582;Critical Focus
+1583;Critical Focus
+1584;Critical Focus
+1585;Hawker Bow;Aimed Shot
+1586;Active Attack;Aimed Shot
+1587;Aimed Shot
+1588;Aimed Shot
+1589;Aimed Shot
+1590;Hawker Bow;Double Arrow
+1591;Active Attack;Double Arrow
+1592;Double Arrow
+1593;Double Arrow
+1594;Double Arrow
+1595;Hawker Bow;Stun Arrow
+1596;Active Attack;Stun Arrow
+1597;Stun Arrow
+1598;Stun Arrow
+1599;Stun Arrow
+1600;Hawker Bow;Clamp Arrow
+1601;Active Attack;Clamp Arrow
+1602;Clamp Arrow
+1603;Clamp Arrow
+1604;Clamp Arrow
+1605;Hawker Bow;Shackle Arrow
+1606;Active Attack;Shackle Arrow
+1607;Shackle Arrow
+1608;Shackle Arrow
+1609;Shackle Arrow
+1610;Hawker Bow;Fire Arrow
+1611;Active Attack;Fire Arrow
+1612;Fire Arrow
+1613;Fire Arrow
+1614;Fire Arrow
+1615;Hawker Bow;Ice Arrow
+1616;Active Attack;Ice Arrow
+1617;Ice Arrow
+1618;Ice Arrow
+1619;Ice Arrow
+1620;Hawker Bow;Wind Arrow
+1621;Active Attack;Wind Arrow
+1622;Wind Arrow
+1623;Wind Arrow
+1624;Wind Arrow
+1625;Hawker Crossbow;Crossbow Training
+1626;Passive;Crossbow Training
+1627;Crossbow Training
+1628;Crossbow Training
+1629;Crossbow Training
+1630;Hawker Crossbow;Sight Scope
+1631;Passive;Sight Scope
+1632;Sight Scope
+1633;Sight Scope
+1634;Sight Scope
+1635;Hawker Crossbow;Tipped Arrows
+1636;Passive;Tipped Arrows
+1637;Tipped Arrows
+1638;Tipped Arrows
+1639;Tipped Arrows
+1640;Hawker Crossbow;Shield Blocking
+1641;Passive;Shield Blocking
+1642;Shield Blocking
+1643;Shield Blocking
+1644;Shield Blocking
+1645;Hawker Crossbow;Steady Arm
+1646;Passive;Steady Arm
+1647;Steady Arm
+1648;Steady Arm
+1649;Steady Arm
+1650;Hawker Crossbow;Crossbowman's Guard
+1651;Active Buff;Crossbowman's Guard
+1652;Crossbowman's Guard
+1653;Crossbowman's Guard
+1654;Crossbowman's Guard
+1655;Hawker Crossbow;Aimed Shot
+1656;Active Attack;Aimed Shot
+1657;Aimed Shot
+1658;Aimed Shot
+1659;Aimed Shot
+1660;Hawker Crossbow;Double Arrow
+1661;Active Attack;Double Arrow
+1662;Double Arrow
+1663;Double Arrow
+1664;Double Arrow
+1665;Hawker Crossbow;Stun Arrow
+1666;Active Attack;Stun Arrow
+1667;Stun Arrow
+1668;Stun Arrow
+1669;Stun Arrow
+1670;Hawker Crossbow;Clamp Arrow
+1671;Active Attack;Clamp Arrow
+1672;Clamp Arrow
+1673;Clamp Arrow
+1674;Clamp Arrow
+1675;Hawker Crossbow;Shackle Arrow
+1676;Active Attack;Shackle Arrow
+1677;Shackle Arrow
+1678;Shackle Arrow
+1679;Shackle Arrow
+1680;Hawker Crossbow;Shield Strike
+1681;Active Attack;Shield Strike
+1682;Shield Strike
+1683;Shield Strike
+1684;Shield Strike
+1685;Hawker Crossbow;Shield Slam
+1686;Active Attack;Shield Slam
+1687;Shield Slam
+1688;Shield Slam
+1689;Shield Slam
+1690;Hawker Crossbow;Shield Stun
+1691;Active Attack;Shield Stun
+1692;Shield Stun
+1693;Shield Stun
+1694;Shield Stun
+1695;Hawker Katar;Katar Training
+1696;Passive;Katar Training
+1697;Katar Training
+1698;Katar Training
+1699;Katar Training
+1700;Hawker Katar;Cunning
+1701;Passive;Cunning
+1702;Cunning
+1703;Cunning
+1704;Cunning
+1705;Hawker Katar;Katar Swiftness
+1706;Passive;Katar Swiftness
+1707;Katar Swiftness
+1708;Katar Swiftness
+1709;Katar Swiftness
+1710;Hawker Katar;Sharpened Blades
+1711;Passive;Sharpened Blades
+1712;Sharpened Blades
+1713;Sharpened Blades
+1714;Sharpened Blades
+1715;Hawker Katar;Critical Strikes
+1716;Passive;Critical Strikes
+1717;Critical Strikes
+1718;Critical Strikes
+1719;Critical Strikes
+1720;Hawker Katar;Katar Upper
+1721;Active Attack;Katar Upper
+1722;Katar Upper
+1723;Katar Upper
+1724;Katar Upper
+1725;Hawker Katar;Focused Impact
+1726;Active Attack;Focused Impact
+1727;Focused Impact
+1728;Focused Impact
+1729;Focused Impact
+1730;Hawker Katar;Flame Hawk
+1731;Active Magic Attack;Flame Hawk
+1732;Flame Hawk
+1733;Flame Hawk
+1734;Flame Hawk
+1735;Hawker Katar;Katar Spin
+1736;Active Skill;Katar Spin
+1737;Katar Spin
+1738;Katar Spin
+1739;Katar Spin
+1740;Hawker Katar;Stealth
+1741;Active Skill;Stealth
+1742;Stealth
+1743;Stealth
+1744;Stealth
+1745;Hawker Katar;Blind
+1746;Active Debuff;Blind
+1747;Blind
+1748;Blind
+1749;Blind
+1750;Hawker Dual Weapon;Dual Weapon Mastery
+1751;Passive;Dual Weapon Mastery
+1752;Dual Weapon Mastery
+1753;Dual Weapon Mastery
+1754;Dual Weapon Mastery
+1755;Hawker Dual Weapon;Dual Striking
+1756;Passive;Dual Striking
+1757;Dual Striking
+1758;Dual Striking
+1759;Dual Striking
+1760;Hawker Dual Weapon;Weighted Blows
+1761;Passive;Weighted Blows
+1762;Weighted Blows
+1763;Weighted Blows
+1764;Weighted Blows
+1765;Hawker Dual Weapon;Weapon Guard
+1766;Passive;Weapon Guard
+1767;Weapon Guard
+1768;Weapon Guard
+1769;Weapon Guard
+1770;Hawker Dual Weapon;Piercing Blows
+1771;Passive;Piercing Blows
+1772;Piercing Blows
+1773;Piercing Blows
+1774;Piercing Blows
+1775;Hawker Dual Weapon;Heavy Strike
+1776;Active Attack;Heavy Strike
+1777;Heavy Strike
+1778;Heavy Strike
+1779;Heavy Strike
+1780;Hawker Dual Weapon;Dividing Cleave
+1781;Active Attack;Dividing Cleave
+1782;Dividing Cleave
+1783;Dividing Cleave
+1784;Dividing Cleave
+1785;Hawker Melee Combat;Spiral Kick
+1786;Active Skill;Spiral Kick
+1787;Spiral Kick
+1788;Spiral Kick
+1789;Spiral Kick
+1790;Hawker Melee Combat;Whirling Strikes
+1791;Active Skill;Whirling Strikes
+1792;Whirling Strikes
+1793;Whirling Strikes
+1794;Whirling Strikes
+1795;Hawker Melee Combat;Weaken
+1796;Debuff;Weaken
+1797;Weaken
+1798;Weaken
+1799;Weaken
+1800;Hawker Melee Combat;Mirror Phantasm
+1801;Buff;Mirror Phantasm
+1802;Mirror Phantasm
+1803;Mirror Phantasm
+1804;Mirror Phantasm
+1805;Hawker Melee Combat;Double Slash
+1806;Active Attack;Double Slash
+1807;Double Slash
+1808;Double Slash
+1809;Double Slash
+1810;Hawker Melee Combat;Poison Knife
+1811;Active Magic Attack;Poison Knife
+1812;Poison Knife
+1813;Poison Knife
+1814;Poison Knife
+1815;Scout Bow;Bow Expertise
+1816;Passive;Bow Expertise
+1817;Bow Expertise
+1818;Bow Expertise
+1819;Bow Expertise
+1820;Scout Bow;Motion Prediction
+1821;Passive;Motion Prediction
+1822;Motion Prediction
+1823;Motion Prediction
+1824;Motion Prediction
+1825;Scout Bow;Sharpened Tips
+1826;Passive;Sharpened Tips
+1827;Sharpened Tips
+1828;Sharpened Tips
+1829;Sharpened Tips
+1830;Scout Bow;Quick Hands
+1831;Passive;Quick Hands
+1832;Quick Hands
+1833;Quick Hands
+1834;Quick Hands
+1835;Scout Bow;Longbow
+1836;Passive;Longbow
+1837;Longbow
+1838;Longbow
+1839;Longbow
+1840;Scout Bow;Camouflage
+1841;Active Skill;Camouflage
+1842;Camouflage
+1843;Camouflage
+1844;Camouflage
+1845;Scout Bow;Triple Arrow
+1846;Active Attack;Triple Arrow
+1847;Triple Arrow
+1848;Triple Arrow
+1849;Triple Arrow
+1850;Scout Bow;Entangling Arrow
+1851;Active Attack;Entangling Arrow
+1852;Entangling Arrow
+1853;Entangling Arrow
+1854;Entangling Arrow
+1855;Scout Bow;Poison Arrow
+1856;Active Attack;Poison Arrow
+1857;Poison Arrow
+1858;Poison Arrow
+1859;Poison Arrow
+1860;Scout Bow;Phoenix Arrow
+1861;Active Attack;Phoenix Arrow
+1862;Phoenix Arrow
+1863;Phoenix Arrow
+1864;Phoenix Arrow
+1865;Scout Bow;Impact Arrow
+1866;Active Attack;Impact Arrow
+1867;Impact Arrow
+1868;Impact Arrow
+1869;Impact Arrow
+1870;Scout Bow;Arrow Shower
+1871;Active AoE Attack;Arrow Shower
+1872;Arrow Shower
+1873;Arrow Shower
+1874;Arrow Shower
+1875;Scout Crossbow;Crossbow Expertise
+1876;Passive;Crossbow Expertise
+1877;Crossbow Expertise
+1878;Crossbow Expertise
+1879;Crossbow Expertise
+1880;Scout Crossbow;Hawk Eyes
+1881;Passive;Hawk Eyes
+1882;Hawk Eyes
+1883;Hawk Eyes
+1884;Hawk Eyes
+1885;Scout Crossbow;Razor Tips
+1886;Passive;Razor Tips
+1887;Razor Tips
+1888;Razor Tips
+1889;Razor Tips
+1890;Scout Crossbow;Shield Defense
+1891;Passive;Shield Defense
+1892;Shield Defense
+1893;Shield Defense
+1894;Shield Defense
+1895;Scout Crossbow;Offhand Expertise
+1896;Passive;Offhand Expertise
+1897;Offhand Expertise
+1898;Offhand Expertise
+1899;Offhand Expertise
+1900;Scout Crossbow;Shield Reflect
+1901;Active Buff;Shield Reflect
+1902;Shield Reflect
+1903;Shield Reflect
+1904;Shield Reflect
+1905;Scout Crossbow;Triple Arrow
+1906;Active Attack;Triple Arrow
+1907;Triple Arrow
+1908;Triple Arrow
+1909;Triple Arrow
+1910;Scout Crossbow;Entangling Arrow
+1911;Active Attack;Entangling Arrow
+1912;Entangling Arrow
+1913;Entangling Arrow
+1914;Entangling Arrow
+1915;Scout Crossbow;Poison Arrow
+1916;Active Attack;Poison Arrow
+1917;Poison Arrow
+1918;Poison Arrow
+1919;Poison Arrow
+1920;Scout Crossbow;Arrow Shower
+1921;Active AoE Attack;Arrow Shower
+1922;Arrow Shower
+1923;Arrow Shower
+1924;Arrow Shower
+1925;Scout Crossbow;Shield Lunge
+1926;Active Attack;Shield Lunge
+1927;Shield Lunge
+1928;Shield Lunge
+1929;Shield Lunge
+1930;Scout Crossbow;Shield Bash
+1931;Active Attack;Shield Bash
+1932;Shield Bash
+1933;Shield Bash
+1934;Shield Bash
+1935;Scout;Call Hawk
+1936;Summon;Call Hawk
+1937;Call Hawk
+1938;Call Hawk
+1939;Call Hawk
+1940;Scout;Sharpened Claws
+1941;Passive;Sharpened Claws
+1942;Sharpened Claws
+1943;Sharpened Claws
+1944;Sharpened Claws
+1945;Scout;Beast Eyes
+1946;Passive;Beast Eyes
+1947;Beast Eyes
+1948;Beast Eyes
+1949;Beast Eyes
+1950;Scout;Steel Trap
+1951;Summon;Steel Trap
+1952;Steel Trap
+1953;Steel Trap
+1954;Steel Trap
+1955;Scout;Flash Trap
+1956;Summon;Flash Trap
+1957;Flash Trap
+1958;Flash Trap
+1959;Flash Trap
+1960;Scout;Siphon Trap
+1961;Summon;Siphon Trap
+1962;Siphon Trap
+1963;Siphon Trap
+1964;Siphon Trap
+1965;Raider Katar;Katar Training
+1966;Passive;Katar Training
+1967;Katar Training
+1968;Katar Training
+1969;Katar Training
+1970;Raider Katar;Cunning
+1971;Passive;Cunning
+1972;Cunning
+1973;Cunning
+1974;Cunning
+1975;Raider Katar;Katar Swiftness
+1976;Passive;Katar Swiftness
+1977;Katar Swiftness
+1978;Katar Swiftness
+1979;Katar Swiftness
+1980;Raider Katar;Sharpened Blades
+1981;Passive;Sharpened Blades
+1982;Sharpened Blades
+1983;Sharpened Blades
+1984;Sharpened Blades
+1985;Raider Katar;Critical Strikes
+1986;Passive;Critical Strikes
+1987;Critical Strikes
+1988;Critical Strikes
+1989;Critical Strikes
+1990;Raider Katar;Flame Slash
+1991;Active Attack;Flame Slash
+1992;Flame Slash
+1993;Flame Slash
+1994;Flame Slash
+1995;Raider Katar;Flame Falcon
+1996;Active Magic Attack;Flame Falcon
+1997;Flame Falcon
+1998;Flame Falcon
+1999;Flame Falcon
+2000;Raider Katar;Phoenix Slash
+2001;Active Attack;Phoenix Slash
+2002;Phoenix Slash
+2003;Phoenix Slash
+2004;Phoenix Slash
+2005;Raider Katar;Crazy-style Slash
+2006;Active Attack;Crazy-style Slash
+2007;Crazy-style Slash
+2008;Crazy-style Slash
+2009;Crazy-style Slash
+2010;Raider Katar;Screw Attack
+2011;Active Attack;Screw Attack
+2012;Screw Attack
+2013;Screw Attack
+2014;Screw Attack
+2015;Raider Katar;Tornado Slash
+2016;Active Skill;Tornado Slash
+2017;Tornado Slash
+2018;Tornado Slash
+2019;Tornado Slash
+2020;Raider Katar;Cloaking
+2021;Active Skill;Cloaking
+2022;Cloaking
+2023;Cloaking
+2024;Cloaking
+2025;Raider Katar;Vicious Accordance
+2026;Active Buff;Vicious Accordance
+2027;Vicious Accordance
+2028;Vicious Accordance
+2029;Vicious Accordance
+2030;Raider Katar;Critical Accordance
+2031;Active Buff;Critical Accordance
+2032;Critical Accordance
+2033;Critical Accordance
+2034;Critical Accordance
+2035;Raider Dual Weapon;Dual Weapon Mastery
+2036;Passive;Dual Weapon Mastery
+2037;Dual Weapon Mastery
+2038;Dual Weapon Mastery
+2039;Dual Weapon Mastery
+2040;Raider Dual Weapon;Dual Striking
+2041;Passive;Dual Striking
+2042;Dual Striking
+2043;Dual Striking
+2044;Dual Striking
+2045;Raider Dual Weapon;Weighted Blows
+2046;Passive;Weighted Blows
+2047;Weighted Blows
+2048;Weighted Blows
+2049;Weighted Blows
+2050;Raider Dual Weapon;Weapon Guard
+2051;Passive;Weapon Guard
+2052;Weapon Guard
+2053;Weapon Guard
+2054;Weapon Guard
+2055;Raider Dual Weapon;Piercing Blows
+2056;Passive;Piercing Blows
+2057;Piercing Blows
+2058;Piercing Blows
+2059;Piercing Blows
+2060;Raider Dual Weapon;Combo Strike
+2061;Active Attack;Combo Strike
+2062;Combo Strike
+2063;Combo Strike
+2064;Combo Strike
+2065;Raider Dual Weapon;Bloody Assault
+2066;Active Attack;Bloody Assault
+2067;Bloody Assault
+2068;Bloody Assault
+2069;Bloody Assault
+2070;Raider Dual Weapon;Freezing Assault
+2071;Active Attack;Freezing Assault
+2072;Freezing Assault
+2073;Freezing Assault
+2074;Freezing Assault
+2075;Raider Dual Weapon;Circle Break
+2076;Active Skill;Circle Break
+2077;Circle Break
+2078;Circle Break
+2079;Circle Break
+2080;Raider Dual Weapon;Quick-style Assault
+2081;Active Attack;Quick-style Assault
+2082;Quick-style Assault
+2083;Quick-style Assault
+2084;Quick-style Assault
+2085;Raider Dual Weapon;Frenzy Assault
+2086;Active Skill;Frenzy Assault
+2087;Frenzy Assault
+2088;Frenzy Assault
+2089;Frenzy Assault
+2090;Raider Dual Weapon;Mental Storm
+2091;Active Debuff;Mental Storm
+2092;Mental Storm
+2093;Mental Storm
+2094;Mental Storm
+2095;Raider Dual Weapon;Enfeeblement
+2096;Active Debuff;Enfeeblement
+2097;Enfeeblement
+2098;Enfeeblement
+2099;Enfeeblement
+2100;Raider Dual Weapon;Evasive Guard
+2101;Active Skill;Evasive Guard
+2102;Evasive Guard
+2103;Evasive Guard
+2104;Evasive Guard
+2105;Raider;Triple Slash
+2106;Active Attack;Triple Slash
+2107;Triple Slash
+2108;Triple Slash
+2109;Triple Slash
+2110;Raider;Sucker Punch
+2111;Active Attack;Sucker Punch
+2112;Sucker Punch
+2113;Sucker Punch
+2114;Sucker Punch
+2115;Raider;Venom Knife
+2116;Active Magic Attack;Venom Knife
+2117;Venom Knife
+2118;Venom Knife
+2119;Venom Knife
+2120;Raider;Mystic Knife
+2121;Active Magic Attack;Mystic Knife
+2122;Mystic Knife
+2123;Mystic Knife
+2124;Mystic Knife
+2125;Raider;Raider's Reflexes
+2126;Passive;Raider's Reflexes
+2127;Raider's Reflexes
+2128;Raider's Reflexes
+2129;Raider's Reflexes
+2130;Raider;Raider's Haste
+2131;Passive;Raider's Haste
+2132;Raider's Haste
+2133;Raider's Haste
+2134;Raider's Haste
+2135;Raider Katar;Adrenaline Rush
+2136;Passive Buff;Adrenaline Rush
+2137;Adrenaline Rush
+2138;Adrenaline Rush
+2139;Adrenaline Rush
+2140;Raider Dual Weapon;Shattering Blows
+2141;Passive Buff;Shattering Blows
+2142;Shattering Blows
+2143;Shattering Blows
+2144;Shattering Blows
+2145;Scout;Freezing Trap
+2146;Summon;Freezing Trap
+2147;Freezing Trap
+2148;Freezing Trap
+2149;Freezing Trap
+2150;Scout;Sand Trap
+2151;Summon;Sand Trap
+2152;Sand Trap
+2153;Sand Trap
+2154;Sand Trap
+2155;Hawker Basic Skill;Enhance Reflexes
+2156;Enhance Reflexes
+2157;Enhance Reflexes
+2158;Enhance Reflexes
+2159;Enhance Reflexes
+2160;
+2161;
+2162;
+2163;
+2164;
+2165;
+2166;
+2167;
+2168;
+2169;
+2170;
+2171;
+2172;
+2173;
+2174;
+2175;
+2176;
+2177;
+2178;
+2179;
+2180;
+2181;
+2182;
+2183;
+2184;
+2185;
+2186;
+2187;
+2188;
+2189;
+2190;
+2191;
+2192;
+2193;
+2194;
+2195;
+2196;
+2197;
+2198;
+2199;Dealer Class;
+2200;Dealer Common;Dealer's Influence
+2201;Active Buff;Dealer's Influence
+2202;Dealer's Influence
+2203;Dealer's Influence
+2204;Dealer's Influence
+2205;Dealer Common;Salesman Gait
+2206;Passive;Salesman Gait
+2207;Salesman Gait
+2208;Salesman Gait
+2209;Salesman Gait
+2210;Dealer Common;Discount
+2211;Passive;Discount
+2212;Discount
+2213;Discount
+2214;Discount
+2215;Dealer Common;Backpack Mastery
+2216;Passive;Backpack Mastery
+2217;Backpack Mastery
+2218;Backpack Mastery
+2219;Backpack Mastery
+2220;Dealer Common;Sense of a Deal
+2221;Passive;Sense of a Deal
+2222;Sense of a Deal
+2223;Sense of a Deal
+2224;Sense of a Deal
+2225;Dealer Common;Focused Concentration
+2226;Passive;Focused Concentration
+2227;Focused Concentration
+2228;Focused Concentration
+2229;Focused Concentration
+2230;Dealer Common;Words of Suggestion
+2231;Active Buff;Words of Suggestion
+2232;Words of Suggestion
+2233;Words of Suggestion
+2234;Words of Suggestion
+2235;Dealer Common;Guided Focus
+2236;Active Buff;Guided Focus
+2237;Guided Focus
+2238;Guided Focus
+2239;Guided Focus
+2240;Dealer Offensive Gun;Gun Training
+2241;Passive;Gun Training
+2242;Gun Training
+2243;Gun Training
+2244;Gun Training
+2245;Dealer Offensive Gun;Trigger Finger
+2246;Passive;Trigger Finger
+2247;Trigger Finger
+2248;Trigger Finger
+2249;Trigger Finger
+2250;Dealer Offensive Gun;Gun Scope
+2251;Passive;Gun Scope
+2252;Gun Scope
+2253;Gun Scope
+2254;Gun Scope
+2255;Dealer Offensive Gun;Extended Barrel
+2256;Passive;Extended Barrel
+2257;Extended Barrel
+2258;Extended Barrel
+2259;Extended Barrel
+2260;Dealer - Gun;Piercing Rounds
+2261;Passive;Piercing Rounds
+2262;Piercing Rounds
+2263;Piercing Rounds
+2264;Piercing Rounds
+2265;Dealer Offensive Gun;Twin Shot
+2266;Active Attack;Twin Shot
+2267;Twin Shot
+2268;Twin Shot
+2269;Twin Shot
+2270;Dealer Offensive Gun;Marksman's Shot
+2271;Active Attack;Marksman's Shot
+2272;Marksman's Shot
+2273;Marksman's Shot
+2274;Marksman's Shot
+2275;Dealer Offensive Gun;Wild Shot
+2276;Active Attack;Wild Shot
+2277;Wild Shot
+2278;Wild Shot
+2279;Wild Shot
+2280;Dealer Offensive Gun;Magic Bullet
+2281;Active Attack;Magic Bullet
+2282;Magic Bullet
+2283;Magic Bullet
+2284;Magic Bullet
+2285;Dealer Offensive Gun;Sniping
+2286;Active Attack;Sniping
+2287;Sniping
+2288;Sniping
+2289;Sniping
+2290;Dealer Offensive Launcher;Launcher Training
+2291;Passive;Launcher Training
+2292;Launcher Training
+2293;Launcher Training
+2294;Launcher Training
+2295;Dealer Offensive Launcher;Packed Powder
+2296;Passive;Packed Powder
+2297;Packed Powder
+2298;Packed Powder
+2299;Packed Powder
+2300;Dealer Offensive Launcher;Explosive Ammo
+2301;Passive;Explosive Ammo
+2302;Explosive Ammo
+2303;Explosive Ammo
+2304;Explosive Ammo
+2305;Dealer Offensive Launcher;Shrapnel
+2306;Passive;Shrapnel
+2307;Shrapnel
+2308;Shrapnel
+2309;Shrapnel
+2310;Dealer Offensive Launcher;Art of Boom
+2311;Passive;Art of Boom
+2312;Art of Boom
+2313;Art of Boom
+2314;Art of Boom
+2315;Dealer Offensive Launcher;Twin Shot
+2316;Active Attack;Twin Shot
+2317;Twin Shot
+2318;Twin Shot
+2319;Twin Shot
+2320;Dealer Offensive Launcher;Loaded Barrel
+2321;Active Attack;Loaded Barrel
+2322;Loaded Barrel
+2323;Loaded Barrel
+2324;Loaded Barrel
+2325;Dealer Offensive Launcher;Cannon Blast
+2326;Active Attack;Cannon Blast
+2327;Cannon Blast
+2328;Cannon Blast
+2329;Cannon Blast
+2330;Dealer Offensive Launcher;Fire in the hole!
+2331;Active Attack;Fire in the hole!
+2332;Fire in the hole!
+2333;Fire in the hole!
+2334;Fire in the hole!
+2335;Dealer Offensive Launcher;Demolition Expertise
+2336;Active Attack;Demolition Expertise
+2337;Demolition Expertise
+2338;Demolition Expertise
+2339;Demolition Expertise
+2340;Dealer Crafting;Craftsman's Talent
+2341;Passive;Craftsman's Talent
+2342;Craftsman's Talent
+2343;Craftsman's Talent
+2344;Craftsman's Talent
+2345;Dealer Crafting  Reserved;Summon HP
+2346;Passive;Summon HP
+2347;Summon HP
+2348;Summon HP
+2349;Summon HP
+2350;Dealer Crafting  Reserved;Summon Defense
+2351;Passive;Summon Defense
+2352;Summon Defense
+2353;Summon Defense
+2354;Summon Defense
+2355;Dealer Crafting  Reserved;Summon Attack Power
+2356;Passive;Summon Attack Power
+2357;Summon Attack Power
+2358;Summon Attack Power
+2359;Summon Attack Power
+2360;Dealer Crafting  Reserved;Summon Attack Speed
+2361;Passive;Summon Attack Speed
+2362;Summon Attack Speed
+2363;Summon Attack Speed
+2364;Summon Attack Speed
+2365;Dealer Crafting;Employ Warrior
+2366;Summon;Employ Warrior
+2367;Employ Warrior
+2368;Employ Warrior
+2369;Employ Warrior
+2370;Dealer Crafting;Employ Hunter
+2371;Summon;Employ Hunter
+2372;Employ Hunter
+2373;Employ Hunter
+2374;Employ Hunter
+2375;Dealer Crafting  Reserved;Gadget - Attack Power
+2376;Summon;Gadget - Attack Power
+2377;Gadget - Attack Power
+2378;Gadget - Attack Power
+2379;Gadget - Attack Power
+2380;Dealer Crafting  Reserved;Gadget - Accuracy
+2381;Summon;Gadget - Accuracy
+2382;Gadget - Accuracy
+2383;Gadget - Accuracy
+2384;Gadget - Accuracy
+2385;Dealer Crafting  Reserved;Gadget - Restore HP
+2386;Summon;Gadget - Restore HP
+2387;Gadget - Restore HP
+2388;Gadget - Restore HP
+2389;Gadget - Restore HP
+2390;Dealer Crafting  Reserved;Gadget - Restore MP
+2391;Summon;Gadget - Restore MP
+2392;Gadget - Restore MP
+2393;Gadget - Restore MP
+2394;Gadget - Restore MP
+2395;Dealer Crafting  Reserved;Embue Weapon : Earth
+2396;Active Buff;Embue Weapon : Earth
+2397;Embue Weapon : Earth
+2398;Embue Weapon : Earth
+2399;Embue Weapon : Earth
+2400;Dealer Crafting  Reserved;Embue Weapon : Wind
+2401;Active Buff;Embue Weapon : Wind
+2402;Embue Weapon : Wind
+2403;Embue Weapon : Wind
+2404;Embue Weapon : Wind
+2405;Dealer Crafting  Reserved;Embue Weapon : Fire
+2406;Active Buff;Embue Weapon : Fire
+2407;Embue Weapon : Fire
+2408;Embue Weapon : Fire
+2409;Embue Weapon : Fire
+2410;Dealer Crafting  Reserved;Embue Weapon : Water
+2411;Active Buff;Embue Weapon : Water
+2412;Embue Weapon : Water
+2413;Embue Weapon : Water
+2414;Embue Weapon : Water
+2415;Dealer Crafting  Reserved;Bomb Crafting
+2416;Crafting;Bomb Crafting
+2417;Bomb Crafting
+2418;Bomb Crafting
+2419;Bomb Crafting
+2420;Dealer Bourgeois Gun;Ace Gunner
+2421;Passive;Ace Gunner
+2422;Ace Gunner
+2423;Ace Gunner
+2424;Ace Gunner
+2425;Dealer Bourgeois Gun;Veteran Sniper
+2426;Passive;Veteran Sniper
+2427;Veteran Sniper
+2428;Veteran Sniper
+2429;Veteran Sniper
+2430;Dealer Bourgeois Gun;Quickdraw
+2431;Passive;Quickdraw
+2432;Quickdraw
+2433;Quickdraw
+2434;Quickdraw
+2435;Dealer Bourgeois Gun;Incendiary Rounds
+2436;Passive;Incendiary Rounds
+2437;Incendiary Rounds
+2438;Incendiary Rounds
+2439;Incendiary Rounds
+2440;Dealer Bourgeois Gun;Triple Shot
+2441;Active Attack;Triple Shot
+2442;Triple Shot
+2443;Triple Shot
+2444;Triple Shot
+2445;Dealer Bourgeois Gun;Toxic Shot
+2446;Active Attack;Toxic Shot
+2447;Toxic Shot
+2448;Toxic Shot
+2449;Toxic Shot
+2450;Dealer Bourgeois Gun;Zulie Bolt
+2451;Active Attack;Zulie Bolt
+2452;Zulie Bolt
+2453;Zulie Bolt
+2454;Zulie Bolt
+2455;Dealer Bourgeois Gun;Zulie Storm
+2456;Active Attack;Zulie Storm
+2457;Zulie Storm
+2458;Zulie Storm
+2459;Zulie Storm
+2460;Dealer Bourgeois Gun;Zulie Stun
+2461;Active Attack;Zulie Stun
+2462;Zulie Stun
+2463;Zulie Stun
+2464;Zulie Stun
+2465;Dealer Bourgeois Gun;Weapon Augment 
+2466;Active Buff;Weapon Augment 
+2467;Weapon Augment 
+2468;Weapon Augment 
+2469;Weapon Augment 
+2470;Dealer Bourgeois Gun;Illusion
+2471;Active Buff;Illusion
+2472;Illusion
+2473;Illusion
+2474;Illusion
+2475;Dealer Bourgeois Gun;Reflect Aura
+2476;Active Buff;Reflect Aura
+2477;Reflect Aura
+2478;Reflect Aura
+2479;Reflect Aura
+2480;Dealer Bourgeois Launcher;Launcher Expertise
+2481;Passive;Launcher Expertise
+2482;Launcher Expertise
+2483;Launcher Expertise
+2484;Launcher Expertise
+2485;Dealer Bourgeois Launcher;Explosive Powder
+2486;Passive;Explosive Powder
+2487;Explosive Powder
+2488;Explosive Powder
+2489;Explosive Powder
+2490;Dealer Bourgeois Launcher;High Explosive Ammo
+2491;Passive;High Explosive Ammo
+2492;High Explosive Ammo
+2493;High Explosive Ammo
+2494;High Explosive Ammo
+2495;Dealer Bourgeois Launcher;Packed Shrapnel
+2496;Passive;Packed Shrapnel
+2497;Packed Shrapnel
+2498;Packed Shrapnel
+2499;Packed Shrapnel
+2500;Dealer Bourgeois Launcher;Shrapnel Burst
+2501;Active Attack;Shrapnel Burst
+2502;Shrapnel Burst
+2503;Shrapnel Burst
+2504;Shrapnel Burst
+2505;Dealer Bourgeois Launcher;Cannon Stun Burst
+2506;Active Attack;Cannon Stun Burst
+2507;Cannon Stun Burst
+2508;Cannon Stun Burst
+2509;Cannon Stun Burst
+2510;Dealer Bourgeois Launcher;Flame Cannon Splash
+2511;Active Attack;Flame Cannon Splash
+2512;Flame Cannon Splash
+2513;Flame Cannon Splash
+2514;Flame Cannon Splash
+2515;Dealer Bourgeois Launcher;Triple Shot
+2516;Active Attack;Triple Shot
+2517;Triple Shot
+2518;Triple Shot
+2519;Triple Shot
+2520;Dealer Bourgeois Launcher;Launcher Smash
+2521;Active Attack;Launcher Smash
+2522;Launcher Smash
+2523;Launcher Smash
+2524;Launcher Smash
+2525;Dealer Bourgeois Launcher;Jury-Rigging 
+2526;Active Buff;Jury-Rigging 
+2527;Jury-Rigging 
+2528;Jury-Rigging 
+2529;Jury-Rigging 
+2530;Dealer Bourgeois Launcher;Wind Step 
+2531;Active Buff;Wind Step 
+2532;Wind Step 
+2533;Wind Step 
+2534;Wind Step 
+2535;Dealer Bourgeois Launcher;Dual Layer
+2536;Active Buff;Dual Layer
+2537;Dual Layer
+2538;Dual Layer
+2539;Dual Layer
+2540;Dealer Bourgeois;Stockpile
+2541;Passive;Stockpile
+2542;Stockpile
+2543;Stockpile
+2544;Stockpile
+2545;Dealer Bourgeois;Merchandising
+2546;Passive;Merchandising
+2547;Merchandising
+2548;Merchandising
+2549;Merchandising
+2550;Bourgeois;Third Eye
+2551;Summon - Detect;Third Eye
+2552;Third Eye
+2553;Third Eye
+2554;Third Eye
+2555;Artisan;Top Gunner
+2556;Passive;Top Gunner
+2557;Top Gunner
+2558;Top Gunner
+2559;Top Gunner
+2560;Artisan;Trigger Finger
+2561;Passive;Trigger Finger
+2562;Trigger Finger
+2563;Trigger Finger
+2564;Trigger Finger
+2565;Artisan;Enhanced Scope
+2566;Passive;Enhanced Scope
+2567;Enhanced Scope
+2568;Enhanced Scope
+2569;Enhanced Scope
+2570;Artisan;Hallowed Point Ammo
+2571;Passive;Hallowed Point Ammo
+2572;Hallowed Point Ammo
+2573;Hallowed Point Ammo
+2574;Hallowed Point Ammo
+2575;Artisan;Handyman
+2576;Passive;Handyman
+2577;Handyman
+2578;Handyman
+2579;Handyman
+2580;Artisan;Tinkerer
+2581;Passive;Tinkerer
+2582;Tinkerer
+2583;Tinkerer
+2584;Tinkerer
+2585;Artisan;Mercenary Employment
+2586;Passive;Mercenary Employment
+2587;Mercenary Employment
+2588;Mercenary Employment
+2589;Mercenary Employment
+2590;Artisan;Summon Dread Knight
+2591;Summon;Summon Dread Knight
+2592;Summon Dread Knight
+2593;Summon Dread Knight
+2594;Summon Dread Knight
+2595;Artisan;Summon Terror Knight
+2596;Summon;Summon Terror Knight
+2597;Summon Terror Knight
+2598;Summon Terror Knight
+2599;Summon Terror Knight
+2600;Artisan - Reserved;Gadget - Attack Speed Boost
+2601;Summon;Gadget - Attack Speed Boost
+2602;Gadget - Attack Speed Boost
+2603;Gadget - Attack Speed Boost
+2604;Gadget - Attack Speed Boost
+2605;Artisan - Reserved;Gadget - Attack Speed Down
+2606;Summon;Gadget - Attack Speed Down
+2607;Gadget - Attack Speed Down
+2608;Gadget - Attack Speed Down
+2609;Gadget - Attack Speed Down
+2610;Artisan - Reserved;Gadget - MP Regen
+2611;Summon;Gadget - MP Regen
+2612;Gadget - MP Regen
+2613;Gadget - MP Regen
+2614;Gadget - MP Regen
+2615;Artisan - Reserved;Gadget - MP Drain
+2616;Summon;Gadget - MP Drain
+2617;Gadget - MP Drain
+2618;Gadget - MP Drain
+2619;Gadget - MP Drain
+2620;Artisan - Reserved;Gadget - Dodge Boost
+2621;Summon;Gadget - Dodge Boost
+2622;Gadget - Dodge Boost
+2623;Gadget - Dodge Boost
+2624;Gadget - Dodge Boost
+2625;Artisan - Reserved;Gadget - MSPD Down
+2626;Summon;Gadget - MSPD Down
+2627;Gadget - MSPD Down
+2628;Gadget - MSPD Down
+2629;Gadget - MSPD Down
+2630;Artisan - Reserved;Embue Armor - Earth
+2631;Buff;Embue Armor - Earth
+2632;Embue Armor - Earth
+2633;Embue Armor - Earth
+2634;Embue Armor - Earth
+2635;Artisan - Reserved;Embue Armor - Earth (Party)
+2636;Buff;Embue Armor - Earth (Party)
+2637;Embue Armor - Earth (Party)
+2638;Embue Armor - Earth (Party)
+2639;Embue Armor - Earth (Party)
+2640;Artisan - Reserved;Embue Armor - Wind
+2641;Buff;Embue Armor - Wind
+2642;Embue Armor - Wind
+2643;Embue Armor - Wind
+2644;Embue Armor - Wind
+2645;Artisan - Reserved;Embue Armor - Wind (Party)
+2646;Buff;Embue Armor - Wind (Party)
+2647;Embue Armor - Wind (Party)
+2648;Embue Armor - Wind (Party)
+2649;Embue Armor - Wind (Party)
+2650;Artisan - Reserved;Embue Armor - Fire
+2651;Buff;Embue Armor - Fire
+2652;Embue Armor - Fire
+2653;Embue Armor - Fire
+2654;Embue Armor - Fire
+2655;Artisan - Reserved;Embue Armor - Fire (Party)
+2656;Buff;Embue Armor - Fire (Party)
+2657;Embue Armor - Fire (Party)
+2658;Embue Armor - Fire (Party)
+2659;Embue Armor - Fire (Party)
+2660;Artisan - Reserved;Embue Armor - Water
+2661;Buff;Embue Armor - Water
+2662;Embue Armor - Water
+2663;Embue Armor - Water
+2664;Embue Armor - Water
+2665;Artisan - Reserved;Embue Armor - Water (Party)
+2666;Buff;Embue Armor - Water (Party)
+2667;Embue Armor - Water (Party)
+2668;Embue Armor - Water (Party)
+2669;Embue Armor - Water (Party)
+2670;Artisan;Triple Shot
+2671;Active Attack;Triple Shot
+2672;Triple Shot
+2673;Triple Shot
+2674;Triple Shot
+2675;Artisan;Hypno Shot
+2676;Active Magic Attack;Hypno Shot
+2677;Hypno Shot
+2678;Hypno Shot
+2679;Hypno Shot
+2680;Artisan;Daze Attack
+2681;Active Attack;Daze Attack
+2682;Daze Attack
+2683;Daze Attack
+2684;Daze Attack
+2685;Artisan;Poison Shot
+2686;Active Attack;Poison Shot
+2687;Poison Shot
+2688;Poison Shot
+2689;Poison Shot
+2690;Artisan;Acid Shot
+2691;Active Attack;Acid Shot
+2692;Acid Shot
+2693;Acid Shot
+2694;Acid Shot
+2695;Artisan;Magic Shot
+2696;Active Attack;Magic Shot
+2697;Magic Shot
+2698;Magic Shot
+2699;Magic Shot
+2700;Artisan - Reserved;Bomb Crafting
+2701;Crafting;Bomb Crafting
+2702;Bomb Crafting
+2703;Bomb Crafting
+2704;Bomb Crafting
+2705;Dealer - Critical Buff;Critical Chant
+2706;Rednim;Critical Chant
+2707;Critical Chant
+2708;Critical Chant
+2709;Critical Chant
+2710;
+2711;
+2712;
+2713;
+2714;
+2715;
+2716;
+2717;
+2718;
+2719;
+2720;
+2721;
+2722;
+2723;
+2724;
+2725;
+2726;
+2727;
+2728;
+2729;
+2730;
+2731;
+2732;
+2733;
+2734;
+2735;
+2736;
+2737;
+2738;
+2739;
+2740;
+2741;
+2742;
+2743;
+2744;
+2745;
+2746;
+2747;
+2748;
+2749;
+2750;
+2751;
+2752;
+2753;
+2754;
+2755;
+2756;
+2757;
+2758;
+2759;
+2760;
+2761;
+2762;
+2763;
+2764;
+2765;
+2766;
+2767;
+2768;
+2769;
+2770;
+2771;
+2772;
+2773;
+2774;
+2775;
+2776;
+2777;
+2778;
+2779;
+2780;
+2781;
+2782;
+2783;
+2784;
+2785;
+2786;
+2787;
+2788;
+2789;
+2790;
+2791;
+2792;
+2793;
+2794;
+2795;
+2796;
+2797;
+2798;
+2799;
+2800;10th Anniversary Event;Scuba Moldie
+2801;紐뱀??罹≪;Jelly Bean
+2802;Jelly Nut
+2803;Choropy
+2804;Pumpkin
+2805;Dalping
+2806;Honey Bee
+2807;Hornet
+2808;Pomic
+2809;Pomic Soldier
+2810;Beetle
+2811;Turtle
+2812;Crack
+2813;Rackie
+2814;Woopy
+2815;Moldie
+2816;Krawfy
+2817;Porkie
+2818;Grunter
+2819;Grunter Leader
+2820;Kaiman
+2821;Doonga
+2822;Doonga Warrior
+2823;Doonga Captain
+2824;Jewel Golem
+2825;Aqua Guard
+2826;Clown
+2827;Candle Ghost
+2828;Goblin Worker
+2829;Goblin Guard
+2830;Goblin Warrior
+2831;Slag
+2832;Lunar Wolf
+2833;Yeti
+2834;Yeti Hunter
+2835;Yeti Guard
+2836;Yeti Rider
+2837;Goblin King
+2838;Cherry Smouly
+2839;Item Mall - Common;Metal Moldie (Pre-F2P Unique Skill)
+2840;遺?? ?대깽??;Easter Bunny Capsule
+2841;遺?? ?대깽??;Easter Egg Capsule
+2842;??而??대깽??;Soccer Ball PET
+2843;[??대??뱀?_二쇰쇨????? ?ㅽщ?;Junon Order's Return Scroll
+2844;St. Patrick's Day Summon;Summon Leprechaun
+2845;Wolf
+2846;Mammoth
+2847;Dreadnaught
+2848;Lunaris Bear
+2849;Valentine 2012 Pet;Qupid
+2850;Item Mall Skills;Weight Training - Light
+2851;Item Mall Skills;Weight Training - Medium
+2852;Item Mall Skills;Weight Training - Heavy
+2853;Item Mall Skills;Weight Training - Advanced
+2854;Item Mall Skills;Weight Training - Mastery
+2855;
+2856;Wrealith Hatchling
+2857;Mastyx
+2858;Desert Asper
+2859;Desert Scavenger
+2860;Hand Grenade
+2861;Flash Grenade
+2862;Acid Grenade
+2863;Mana Grenade
+2864;Hand Bomb
+2865;Flash Bomb
+2866;Acid Bomb
+2867;Mana Bomb
+2868;Concussion Grenade
+2869;Explosive
+2870;Flash Explosive
+2871;Acid Explosive
+2872;Mana Explosive
+2873;High Explosive
+2874;Flash High Explosive
+2875;Acid High Explosive
+2876;Mana High Explosive
+2877;Concussion Explosive
+2878;
+2879;
+2880;Quest Alignment;Arua's Fate
+2881;Quest Alignment;Hebarn's Fate
+2882;Quest Alignment;Wayfinder Skill
+2883;Orlo Chapter 2 - Attunement;Vizier's Key
+2884;
+2885;Orlo Chapter 2 - Quest Item;Alpha Generator
+2886;Orlo Chapter 2 - Quest Item;Beta Generator
+2887;Orlo Chapter 2 - Quest Item;Gamma Generator
+2888;
+2889;
+2890;
+2891;?대깽??;?臾????
+2892;?대깽??;Christmas tree
+2893;?대깽??;Grab Bag
+2894;?대깽??罹≪);Firecracker Penguin
+2895;?대깽??罹≪);Ice Spirit
+2896;諛?????ㅼ?
+2897;???대깽??;?ы(洹몃Ъ)
+2898;?대깽??2007?諛????;Love Chocolate
+2899;Kiss Scroll
+2900;Power of Love
+2901;?????;怨듦꺽?μ??
+2902;吏㏃? 吏??媛?;怨듦꺽?????
+2903;以媛 ?移???;紐以?μ??
+2904;(踰????紐ъ??;諛⑹?μ??
+2905;諛⑹???????
+2906;???μ??
+2907;?대?????
+2908;諛⑺?곕?吏
+2909;?泥?留
+2910;遺由???댁?
+2911;?????;怨듦꺽?μ??
+2912;??? 吏??媛?;怨듦꺽?????
+2913;??? ?移???;紐以?μ??
+2914;諛⑹?μ??
+2915;諛⑹???????
+2916;???μ??
+2917;?대?????
+2918;Dispell (1-5) Buffs
+2919;異??곕?吏
+2920;Hide
+2921;?????;怨듦꺽?μ??
+2922;以媛 吏??媛?;怨듦꺽?????
+2923;?? ?移???;紐以?μ??
+2924;諛⑹?μ??
+2925;諛⑹???????
+2926;???μ??
+2927;?대?????
+2928;諛⑺?곕?吏
+2929;異??곕?吏
+2930;Monster Cloak
+2931;?????;怨듦꺽?μ??
+2932;踰????PC???;怨듦꺽?????
+2933;以媛 吏??媛?;紐以?μ??
+2934;?? ?移???;諛⑹?μ??
+2935;諛⑹???????
+2936;???μ??
+2937;?대?????
+2938;諛⑺?곕?吏
+2939;異??곕?吏
+2940;遺由???댁?
+2941;?寃???;怨듦꺽?κ???
+2942;?寃??罹由??;Decrease Attack Speed 50% (60s)
+2943;吏㏃? 吏??媛?;紐以?κ???
+2944;諛⑹?κ???
+2945;諛⑹????媛?
+2946;???κ???
+2947;MSPD & ASPD Down 20% (30s)
+2948;?댁/???媛?
+2949;怨듭利?/紐以媛?
+2950;怨듦꺽利?/怨듭媛?
+2951;?寃???;怨듦꺽?κ???
+2952;?寃??罹由??;怨듦꺽??媛?
+2953;以媛 吏??媛?;紐以?κ???
+2954;Decrease Defense 20% (60s)
+2955;諛⑹????媛?
+2956;Decrease Dodge Rate 15% (60s)
+2957;?댁/怨듭 媛?
+2958;?댁/???媛?
+2959;怨듭利?/紐以媛?
+2960;怨듦꺽利?/怨듭媛?
+2961;?寃???;Dispell (1-5) Buffs
+2962;?寃??罹由??;踰?대?
+2963;??吏??;踰?대?
+2964;以?1
+2965;以?2
+2966;以?3
+2967;?硫?
+2968;?硫?
+2969;Silence
+2970;Stun
+2971;Bonfire Effect;Restore 3% HP & 3% MP every cast
+2972;
+2973;
+2974;二쇰?hp ?留(?留?ㅽ?
+2975;二쇰?hp ?留(?留?ㅽ?
+2976;??댄?踰?????
+2977;臾댁踰?;?留媛湲?
+2978;?댁?????;?留媛湲?
+2979;沅珥???;??怨듦꺽(?κ굅由?
+2980;???由???;?ㅽ?곕?吏怨듦꺽(?κ굅由?
+2981;留踰諛???;怨? ??湲?
+2982;?寃??罹由??;怨? ??湲?
+2983;留?????????
+2984;留???????以?
+2985;
+2986;?대??댄(??
+2987;?대??댄(以?
+2988;3?고?(??
+2989;紐곕 ??湲?;紐곕 ??湲?
+2990;Varus High Damage AoE
+2991;??ㅻ갑援?;踰? 以?
+2992;??????;踰? ??
+2993;
+2994;怨釉由곕??ㅽ?;?? ??????
+2995;?? ?????)
+2996;
+2997;?由ъ?蹂????
+2998;?由ъ?蹂??
+2999;留洹몃?踰(??
+3000;留洹몃?踰
+3001;?대???踰? ;怨듦꺽??媛?
+3002;踰????PC???;怨듦꺽?? 媛?
+3003;以媛 吏??媛?;紐以??媛?
+3004;?? ?移???;諛⑹??媛?
+3005;????媛?
+3006;Dispell (1-5) Buffs
+3007;
+3008;
+3009;
+3010;
+3011;踰??곕?吏;??곕━? ??????
+3012;踰??곕?吏;猷⑦??щ(??
+3013;踰??곕?吏;猷⑦??щ(以?
+3014;踰??곕?吏;??대???곕?(??
+3015;?寃踰??곕몄?;猷⑦??????щ(??
+3016;?寃踰??곕몄?;??대???곕?(??
+3017;踰??곕?吏;留ㅻ㉧???댁????
+3018;踰??곕?吏;Behemoth (Earth Quake) [Dispell 3-10]
+3019;洹쇱 ??린;?명 臾쇨린 ?ㅽ?
+3020;踰??곕?吏;???濡???곕?)
+3021;蹂쇳?諛??;????蹂????
+3022;蹂쇳?諛??;????蹂?????媛?)
+3023;蹂쇳?諛??;?쇱???蹂??踰?媛?)
+3024;蹂쇳?諛??;?????以?(踰?)
+3025;蹂쇳?諛??;???ㅻ낵??以?
+3026;?쇱?몃
+3027;留洹몃?踰
+3028;蹂쇳?諛??;?щ洹?踰媛)
+3029;
+3030;
+3031;踰??곕?吏;???night(????
+3032;踰? ??;留?곗????
+3033;踰??곕?吏;?由щ??(??)
+3034;?대??댄;?명?媛?寃?李湲?
+3035;
+3036;CheifTurak Skill - Buff
+3037;CheifTurak Skill - Attack
+3038;CheifTurak Skill - Heal
+3039;CheifTurak Skill - AoE
+3040;Chief Turak AoE Damage & Stun
+3041;?荑荑???踰?(??
+3042;?荑荑???踰?(以?
+3043;?荑荑???踰?(?)
+3044;?몃?由??寃湲??
+3045;?щ??湲곗踰?(以? 
+3046;?щ??湲곗踰?(?)
+3047;
+3048;?щκ???쇰?? (??
+3049;?щκ???쇰?? (以?
+3050;?щκ???쇰?? (?)
+3051;
+3052;200% Attack, AoE 60% Stun (5sec)
+3053;?由?몄?댁 湲곗踰? (5珥?
+3054;
+3055;二쇱???泥?踰?대?(??
+3056;二쇱???泥?踰?대?(以?
+3057;二쇱???泥?踰?대?(?)
+3058;
+3059;Poison Web Attack (Small)
+3060;Poison Web Attack (Medium)
+3061;
+3062;?щ??踰? ?硫?
+3063;Chief Turak AoE Sleep
+3064;???諛⑹?μ??
+3065;
+3066;Assassin Hide
+3067;
+3068;?щκ??대?? 媛?
+3069;?而?踰?(以?
+3070;
+3071;諛?㏓?愿? (釉猷?
+3072;諛?㏓?愿? (??)
+3073;洹몃?????寃????ㅽ??ㅽ?
+3074;Salamander Flame Effect;Restore 10% HP Per Cast
+3075;
+3076;
+3077;Mana Flame Effect;Restore 10% MP Per cast
+3078;
+3079;
+3080;Third Eye - Detect (25m range)
+3081;Third Eye - Detect (25m range)
+3082;Third Eye - Detect (25m range)
+3083;Third Eye - Detect (25m range)
+3084;Third Eye - Detect (25m range)
+3085;?곕耳?댄????
+3086;?곕耳?댄????
+3087;?곕耳?댄????
+3088;?곕耳?댄????
+3089;?곕耳?댄????
+3090;?몄?쇱??????
+3091;
+3092;
+3093;踰移??怨? ?? ?ㅽ?
+3094;?ㅻ㉧?????????ㅽ?
+3095;?ㅻ㉧?????ъ ?대???
+3096;?ㅻ㉧?????ъ ???移⑤У
+3097;留밸?????以?
+3098;留밸??鍮???愿? 以?
+3099;?濡利??釉??愿? ?곕?吏
+3100;
+3101;?????吏??;Purify Scroll (Solo)
+3102;吏㏃? ?媛;Detect Scroll (Solo)
+3103;?쏀 ??;Stealth Scroll (Solo)
+3104;
+3105;
+3106;HP Scroll (Solo)
+3107;MP Scroll (Solo)
+3108;Dexterity Scroll (Solo)
+3109;Strength Scroll (Solo)
+3110;Defense Scroll (Solo)
+3111;Accuracy Scroll (Solo)
+3112;Damage Scroll (Solo)
+3113;Advanced HP Scroll (Solo)
+3114;Advanced MP Scroll (Solo)
+3115;Advanced Dexterity Scroll (Solo)
+3116;Advanced Strength Scroll (Solo)
+3117;Advanced Defense Scroll (Solo)
+3118;Advanced Accuracy Scroll (Solo)
+3119;Advanced Damage Scroll (Solo)
+3120;
+3121;猷⑤???寃?;Blue Icicle
+3122;猷⑤???寃?;Green Icicle
+3123;猷⑤???寃?;White Icicle
+3124;
+3125;Summer Event 2009;Throwing Ball
+3126;Snowball;Snowball
+3127;Rock;Rock
+3128;Biathlon Bullet;Biathlon Bullet
+3129;Fluffy Snowball;Fluffy Snowball
+3130;Summer Event 2012;Summer Blessing
+3131;?밸?媛????몄?;Strength Scroll (Solo)
+3132;?밸?媛????몄?;Damage Scroll (Solo)
+3133;?밸?媛????몄?;Advanced Defense Scroll (Solo)
+3134;?밸?媛????몄?;Advanced Dexterity Scroll (Solo)
+3135;?밸?媛????몄?;?????
+3136;?밸?媛????몄?;怨듦꺽??
+3137;?밸?媛????몄?;Advanced Accuracy Scroll (Solo)
+3138;?밸?媛????몄?;Advanced HP Scroll (Solo)
+3139;?밸?媛????몄?;Advanced MP Scroll (Solo)
+3140;?밸?媛????몄?;?щ━?곗뺄
+3141;Anniversary Event Quest Item;Magical Rubber Ducky
+3142;Anniversary Event Currency;Rubber Ducky
+3143;
+3144;
+3145;
+3146;
+3147;
+3148;
+3149;
+3150;Adventurer Plain's Return Scroll
+3151;Zant Return Scroll
+3152;Junon Polis Return Scroll
+3153;Eucar Return Scroll
+3154;Xita Refuge Return Scroll
+3155;Selba Village Return Scroll
+3156;Desert City of Muris Return Scroll
+3157;
+3158;
+3159;
+3160;
+3161;
+3162;
+3163;
+3164;
+3165;
+3166;
+3167;
+3168;
+3169;
+3170;
+3171;Para Dance (Basic)
+3172;Para Dance (Practical)
+3173;Para Dance (Intermediate)
+3174;Para Dance (Refined)
+3175;Funky Dance (Basic)
+3176;Funky Dance (Intermediate)
+3177;Rhumba (M)
+3178;Waltz (M)
+3179;Jive (M)
+3180;Cha-Cha (M)
+3181;Ice Charm
+3182;Spark Charm
+3183;Blood Charm
+3184;Rhumba (F)
+3185;Waltz (F)
+3186;Jive (F)
+3187;Cha-Cha (F)
+3188;Halloween Dance Beginner
+3189;Halloween Dance Intermediate
+3190;Halloween Dance Refined
+3191;Ballroom Event Dance - the Robot
+3192;Vuvuzela Horn
+3193;Halloween Booster Skills;Bat Booster
+3194;Halloween Booster Skills;Candy Booster
+3195;Halloween Booster Skills;Pumpkin Booster
+3196;Halloween Booster Skills;Skeleton Booster
+3197;Halloween Booster Skills;Witch Booster
+3198;
+3199;
+3200;
+3201;?????;Healing All
+3202;?? ????;ATK & Accuracy Up
+3203;20誘명?踰?;DEF & M-DEF Up
+3204;(2遺媛 吏??;A-SPD & CRI Up
+3205;M-SPD & Dodge Up
+3206;
+3207;
+3208;
+3209;
+3210;Purify All
+3211;?????;Invincibility (Self)
+3212;???寃留?;Power Up (Self)
+3213;(5遺媛 吏??;Speed Up (Self)
+3214;Invisibility (Self)
+3215;Healing (Self)
+3216;踰二 諛⑹???;Kill (Anti-Crime)
+3217;??? ???;Stun (600")
+3218;(10遺媛吏??;Mute (600")
+3219;Purify
+3220;Passive;GM?ㅽ???
+3221;Passive;媛諛???ъ??
+3222;
+3223;
+3224;
+3225;?ㅽ誘몃?蹂?;?????
+3226;Dispell (1-5) Buffs
+3227;?由??? ?댁?
+3228;
+3229;
+3230;12 Days of Christmas;Day 1 - Zulie
+3231;12 Days of Christmas;Day 4 - Zulie
+3232;12 Days of Christmas;Day 7 - Zulie
+3233;12 Days of Christmas;Day 10 - Zulie
+3234;12 Days of Christmas;Day 2 - Exp
+3235;12 Days of Christmas;Day 5 - Exp
+3236;12 Days of Christmas;Day 8 - Exp
+3237;12 Days of Christmas;Day 11 - Exp
+3238;12 Days of Christmas;Day 3 - Drop Bonus
+3239;12 Days of Christmas;Day 6 - Drop Bonus
+3240;12 Days of Christmas;Day 9 - Drop Bonus
+3241;12 Days of Christmas;Day 12 - Drop Bonus
+3242;
+3243;
+3244;
+3245;
+3246;
+3247;
+3248;
+3249;
+3250;
+3251;Firecrackers;Congratulation
+3252;Firecrackers;Happy Birthday
+3253;Firecrackers;Thank You
+3254;Firecrackers;I Love You
+3255;Firecrackers;
+3256;Firecrackers;
+3257;Firecrackers;
+3258;Firecrackers;
+3259;Firecrackers;
+3260;Firecrackers;Merry Christmas
+3261;Firecrackers;Congratulation
+3262;Firecrackers;Happy Birthday
+3263;Firecrackers;Thank You
+3264;Firecrackers;I Love You
+3265;Firecrackers;Happy Valentines
+3266;Firecrackers;Be My Valentine
+3267;Firecrackers;
+3268;Firecrackers;
+3269;Firecrackers;
+3270;Firecrackers;Merry Christmas
+3271;??＝(?щ??대깽??
+3272;??＝(?щ??대깽??
+3273;??＝(?щ??대깽??
+3274;??＝(?щ??대깽??
+3275;??＝(?щ??대깽??
+3276;??＝(?щ??대깽??
+3277;??＝(?щ??대깽??
+3278;??＝(?щ??대깽??
+3279;??＝(?щ??대깽??
+3280;Item Mall - Undispellable;Critical Booster (Extra Max)
+3281;Item Mall - Undispellable;Damage Booster (Extra Max)
+3282;Item Mall - Undispellable;Defense Booster (Extra Max)
+3283;Item Mall - Undispellable;Speed Booster(Extra Max)
+3284;Item Mall - Undispellable;HP&MP Booster (Extra Max)
+3285;?ㅽ???
+3286;?쇰??
+3287;??
+3288;怨?
+3289;肄곗?댄?
+3290;4th of July 2009;Grand Firework
+3291;Item Mall - Undispellable;Goblin Cave Entrance Return Scroll
+3292;Item Mall - Undispellable;Desert of the Dead Entrance Return Scroll
+3293;Item Mall - Undispellable;El Verloon Desert Return Scroll
+3294;Item Mall - Undispellable;Gorge of Silence Return Scroll
+3295;Item Mall - Undispellable;Shady Jungle Return Scroll
+3296;Item Mall - Undispellable;Sikuku Underground Prison Return Scroll
+3297;Marsh of Ghost Return Scroll
+3298;Forgotten Temple B2 Return Scroll
+3299;
+3300;Agility Booster (Extra Max)
+3301;Item Mall - Undispellable;Party Pill - HP & MP
+3302;Item Mall - Undispellable;Party Pill - Def & Mdef
+3303;Item Mall - Undispellable;Party Pill - Mspd & Aspd
+3304;Item Mall - Undispellable;Party Pill - Critical
+3305;Item Mall - Undispellable;Party Pill - Flee & Accuracy
+3306;Item Mall - Undispellable;Party Pill - Damage
+3307;Speed Booster(Extra Max);Ripe Banana
+3308;HP&MP Booster (Extra Max);Elder Flanae Seeds
+3309;Damage Booster (Extra Max);Big Pumpkin Seeds
+3310;Sigil of Acceleration
+3311;Damage Booster (+20% Damage);Freaky Fishmen Souffle
+3312;Defense Booster (+20% DEF/MDEF);Turtle Soup
+3313;Attack Speed Booster (+20% ASPD);Beetle Surprise
+3314;
+3315;
+3316;
+3317;
+3318;
+3319;
+3320;
+3321;King's Blessing (STR + CRIT)
+3322;Royal Blessing (INT + DEF)
+3323;
+3324;
+3325;
+3326;
+3327;
+3328;
+3329;
+3330;
+3331;
+3332;
+3333;
+3334;
+3335;
+3336;
+3337;
+3338;
+3339;
+3340;
+3341;
+3342;
+3343;
+3344;
+3345;
+3346;
+3347;
+3348;
+3349;
+3350;
+3351;
+3352;
+3353;
+3354;
+3355;
+3356;
+3357;
+3358;
+3359;
+3360;
+3361;
+3362;
+3363;
+3364;
+3365;
+3366;
+3367;
+3368;
+3369;
+3370;
+3371;
+3372;
+3373;
+3374;
+3375;
+3376;
+3377;
+3378;
+3379;
+3380;
+3381;
+3382;
+3383;
+3384;
+3385;
+3386;
+3387;
+3388;
+3389;
+3390;
+3391;
+3392;
+3393;
+3394;
+3395;
+3396;
+3397;
+3398;
+3399;
+3400;
+3401;
+3402;
+3403;
+3404;
+3405;
+3406;
+3407;
+3408;
+3409;
+3410;
+3411;
+3412;
+3413;
+3414;
+3415;
+3416;
+3417;
+3418;
+3419;
+3420;
+3421;
+3422;
+3423;
+3424;
+3425;
+3426;
+3427;
+3428;
+3429;
+3430;
+3431;
+3432;
+3433;
+3434;
+3435;
+3436;
+3437;
+3438;
+3439;
+3440;
+3441;
+3442;
+3443;
+3444;
+3445;
+3446;
+3447;
+3448;
+3449;
+3450;
+3451;
+3452;
+3453;
+3454;
+3455;
+3456;
+3457;
+3458;
+3459;
+3460;
+3461;
+3462;
+3463;
+3464;
+3465;
+3466;
+3467;
+3468;
+3469;
+3470;
+3471;
+3472;
+3473;
+3474;
+3475;
+3476;
+3477;
+3478;
+3479;
+3480;
+3481;
+3482;
+3483;
+3484;
+3485;
+3486;
+3487;
+3488;
+3489;
+3490;
+3491;
+3492;
+3493;
+3494;
+3495;
+3496;
+3497;
+3498;
+3499;
+3500;
+3501;???ъ??
+3502;???ъ??
+3503;????⑥?利瑜;???瑜?ㅻ????pen6)
+3504;???寃媛瑜;???瑜?ㅻ????pen2)
+3505;?닿?猷⑦?瑜?;???瑜諛?댁?媛(penegu)
+3506;??????대?;鍮怨듦??κ굅由?
+3507;??＝???대깽??;怨듦꺽?ㅽ??κ굅由?
+3508;遺?????;??⑤??怨듦꺽
+3509;??⑤???嫄곕?;??⑤??怨듦꺽
+3510;?쇳?二??;??⑤??怨듦꺽
+3511;???;?ㅽ???ъ?
+3512;?二쇰??/??;?щ??댁利?
+3513;??/????;??????고?
+3514;?ъ댁???;??????고?
+3515;留밸??諛곗;????ㅺ났踰??
+3516;留밸??諛곗;??????踰?
+3517;紐⑤??/援곗＜;?ㅼ?鍮?몃??怨듦꺽
+3518;猷⑤紐곕;洹쇱?ㅻ??댄
+3519;?곕쇰????;??밸??(怨듯??25%)
+3520;移댄?ㅽ????
+3521;Special Metal Moldie Summon (pre-f2p);Boost MSPD+10%
+3522;紐⑥ㅺ낏?(?대깽??;紐⑥ㅺ낏?踰?怨듦꺽
+3523;?ㅽ?곗??대깽??;?ㅽ?곗ㅻ??怨듦꺽
+3524;?щ???대깽??;?щ?щ??怨듦?
+3525;??닿굅?荑荑?;?대??댄(??
+3526;??닿굅?荑荑?;?대??댄(以?
+3527;?닿?瑜닿??ㅽ?;?곕?吏+吏㏃??ㅽ?
+3528;異援ш??ㅽ?
+3529;異援ш??ㅽ?
+3530;?곕?吏 ?ㅽщ????몄?
+3531;Arua's Blessing
+3532;Giant Rudolph AoE
+3533;?濡/???대;?ㅻ??댄
+3534;?ъㅻ?;?ㅻ??댄
+3535;???대;怨듭踰?
+3536;?濡利?/由ы??ъ?;怨듦꺽?λ???
+3537;?몄대????;諛⑹?λ???
+3538;鍮踰〓?;?ㅻ??댄
+3539;由ы??ъ?;?댁踰?
+3540;鍮踰?;諛⑹?λ踰?
+3541;留??대?踰〓━??;怨듬갑踰?
+3542;留??대?踰?;怨듭+?댁踰?
+3543;留??대?踰?;?ㅻ??댄
+3544;?濡利???;?ㅻ??댄
+3545;?깅?濡/?濡利?;?ㅻ??댄
+3546;Judy's Blessing
+3547;
+3548;媛怨??;Heavy Attack (small) 
+3549;媛怨????;Heavy Attack (Medium) 
+3550;媛怨????;Attack Speed Up
+3551;媛怨????;Stun + Damage 
+3552;媛怨?쇱＜???;Mute
+3553;?荑荑?愿댁;Fire damage (small) 
+3554;?荑荑??몄;Fire damage (medium) 
+3555;?荑荑?由ы????;Fire damage (large) 
+3556;?荑荑Common;Heavy Attack
+3557;?二쇰갑?⑹???;Sleep
+3558;
+3559;?대????;Dispell (2-5) Buffs
+3560;?대????;AOE Stun
+3561;?대????;?釉???釉猷?愿?)
+3562;?대?????;Stun Target
+3563;?대?????;Mute Target
+3564;?대????;?釉?????/愿?)
+3565;
+3566;
+3567;?댁뭅?ㅼ??몃?;Heavy Attack (Small)
+3568;?댁뭅?ㅼ?愿?;Heavy Attack (Medium)
+3569;?댁뭅?ㅼ?媛?愿;AOE Attack (small)
+3570;?댁뭅?ㅼ?媛???;AOE Attack (medium)
+3571;?댁뭅?ㅼ?蹂??;?怨듦??⑥?
+3572;?댁뭅?ㅼ??????;Target Stun + Damage
+3573;?댁뭅?ㅼ??ㅻ?湲곗?;Heavy Attack (Large)
+3574;?ㅻⅤ??;怨듭?(愿?)
+3575;????;Long Range Attack
+3576;?ㅻⅤ??猷⑥???;怨듭?(愿?)
+3577;????猷⑥???;Long Range Attack
+3578;?대Ⅸ ???;Self ATK Up / Target Mdef Down
+3579;硫??利??멸났??;怨듦꺽?μ??
+3580;硫??利??멸났??;Long Range Attack
+3581;紐⑥????;????κ???
+3582;紐⑥?怨⑤;AOE Stun + Damage
+3583;
+3584;
+3585;?쇳??щ?;Self ATK Up, Target ATK Down
+3586;?쇳??щ?;Attack (Medium)
+3587;??몄?;AOE Attack (Small)
+3588;媛?/媛???媛?蹂?;ATK+DEF Up
+3589;??대?;Poison Arrow
+3590;媛?/媛???;Attack (Large)
+3591;?ъ??;Range Attack (Medium)
+3592;???由??;Range Attack (Strong)
+3593;??몄??ъ?????由??;Increase Attack Speed
+3594;?ы吏??몄???;Heal Up (HP+10000)
+3595;?ы吏??몄???;Stun + Damage AOE
+3596;??대??ы吏??몄???;Dispell (5-10) Buffs
+3597;??대??ы吏??몄???;Slow (AOE)
+3598;媛?/媛?????대?媛?蹂?;Sleep (AOE)
+3599;?쇱???щ???몄??ъ?????由??;ATK+DEF Up
+3600;媛?蹂?;Range Attack Dmg
+3601;??대??ы吏??몄???;Sikuku Infiltrator(205) Dispell (2-5) Buffs
+3602;Ulverick;Rage (ATK/ASPEED/CRIT) Up
+3603;Thornie;Charge
+3604;Thornie;Fireball
+3605;Ulverick;Poison Attack (400)
+3606;Ulverick;Attack (Large)
+3607;
+3608;
+3609;Devourer Skill 1;Dispell (3-8) Buffs
+3610;??대??ы吏??몄???;Slow (AOE)
+3611;?ы吏??몄???;Stun + Damage AOE
+3612;?쇱???щ???몄??ъ?????由??;ATK+DEF Up
+3613;媛?蹂?;Range Attack Dmg
+3614;
+3615;
+3616;
+3617;
+3618;
+3619;
+3620;
+3621;
+3622;
+3623;
+3624;
+3625;
+3626;
+3627;
+3628;
+3629;
+3630;
+3631;
+3632;
+3633;
+3634;
+3635;
+3636;
+3637;
+3638;
+3639;
+3640;
+3641;
+3642;
+3643;
+3644;
+3645;
+3646;
+3647;
+3648;
+3649;
+3650;
+3651;
+3652;
+3653;
+3654;
+3655;
+3656;
+3657;
+3658;
+3659;
+3660;
+3661;
+3662;
+3663;
+3664;
+3665;
+3666;
+3667;
+3668;
+3669;
+3670;
+3671;
+3672;
+3673;
+3674;
+3675;
+3676;
+3677;
+3678;
+3679;
+3680;
+3681;
+3682;
+3683;
+3684;
+3685;
+3686;
+3687;
+3688;
+3689;
+3690;
+3691;
+3692;
+3693;
+3694;
+3695;
+3696;
+3697;
+3698;
+3699;
+3700;
+3701;
+3702;
+3703;
+3704;
+3705;
+3706;
+3707;
+3708;
+3709;
+3710;
+3711;
+3712;
+3713;
+3714;
+3715;
+3716;
+3717;
+3718;
+3719;
+3720;
+3721;
+3722;
+3723;
+3724;
+3725;
+3726;
+3727;
+3728;
+3729;
+3730;
+3731;
+3732;
+3733;
+3734;
+3735;
+3736;
+3737;
+3738;
+3739;
+3740;
+3741;
+3742;
+3743;
+3744;
+3745;
+3746;
+3747;
+3748;
+3749;
+3750;
+3751;
+3752;
+3753;
+3754;
+3755;
+3756;
+3757;
+3758;
+3759;
+3760;
+3761;
+3762;
+3763;
+3764;
+3765;
+3766;
+3767;
+3768;
+3769;
+3770;
+3771;
+3772;
+3773;
+3774;
+3775;
+3776;
+3777;
+3778;
+3779;
+3780;
+3781;
+3782;
+3783;
+3784;
+3785;
+3786;
+3787;
+3788;
+3789;
+3790;
+3791;
+3792;Mummy;Burn Skill
+3793;Mummy;Attack Direct + ASPD Down
+3794;Mummy;AoE Attack
+3795;Mummy;Clear Debuff & Dmg Reflect
+3796;King Mummy;Clear Debuff & ATK/DEF Up
+3797;Queen Mammy;Range Attack Direct
+3798;King Mummy;AoE Attack + Burn
+3799;Generic 35% Def Down;Defense Down
+3800;Sandman;Dust Whirlwind (Decrease Accuracy)
+3801;Sandman;Ground Attack (Decrease Def)
+3802;Sandman;Direct Attack
+3803;
+3804;Stone Guards;Self Buff (Def Up)
+3805;Stone Guards;Attack Direct
+3806;Stone Guards;Shield Bash + Stun
+3807;Stone Guards;AoE Effect (Silence)
+3808;Stone Guards;AoE Target Attack + Mspeed Down
+3809;
+3810;Litch;Self Buff (Decrease DEF, Increase Mdef)
+3811;Litch;AoE Close Attack
+3812;Litch;AoE Target Attack (Mspeed Down + Burn)
+3813;Litch;AoE Status Effect (Silence)
+3814;Litch;Heal Self
+3815;
+3816;
+3817;Drake;Range Attack Direct (Medium) + Poison
+3818;Drake;Range Attack Direct (Hard)
+3819;Drake;Defense Down (40%)
+3820;Generic AoE Buff;AoE ATK/DEF Up
+3821;Wisp;AoE Mspeed Down
+3822;Wisp;AoE Small Attack
+3823;Wisp;Direct Attack (Hard)
+3824;Wisp;Rage Buff (ATK/DEF)
+3825;
+3826;Wrealith;Direct Attack (Hard)
+3827;Wrealith;Direct Attack + Poison
+3828;Wrealith;AoE Atk Down
+3829;Wrealith;Self Buff (Def Up)
+3830;
+3831;Fallen Judge Talratha;Direct Attack (Medium)
+3832;Fallen Judge Talratha;Direct Attack (Hard)
+3833;Fallen Judge Talratha;AoE Attack (Medium)
+3834;Fallen Judge Talratha;AoE Poison
+3835;
+3836;
+3837;Red Dragon;Red Flame Breath
+3838;Blue Dragon;Blue Flame Breath
+3839;Dragon Egg;Heavy Dragon Egg
+3840;Draconic Rune;Lesser Draconic Spirit
+3841;Draconic Rune;Greater Draconic Spirit
+3842;
+3843;
+3844;Game Arena;Waiting For Dungeons??
+3845;Game Arena;Waiting For PvP??
+3846;
+3847;Game Arena;Red Team
+3848;Game Arena;Blue Team
+3849;
+3850;Quest 2154 - Activation;Search For Tools
+3851;Quest 5295 - Activation;Collecting for Jude
+3852;
+3853;Game Arena;Safe Zone
+3854;Game Arena;Honorless
+3855;Game Arena / Crystal Defenders;Crystal Proximity Tag
+3856;Game Arena / Akram Arena;Crystal Proximity Tag
+3857;Game Arena / Draconis Peaks;Dragon Proximity Tag
+3858;
+3859;Gloop Pile;Glooped! - AoE Attack + MSPD / ASPD Down
+3860;
+3861;Gloop Pile;Glooped! - PassiveSkillEffect
+3862;Gloop Pile;Glooped! - PassiveSkillEffect
+3863;Gloop Pile;Glooped! - PassiveSkillEffect
+3864;Gloop Pile;Glooped! - PassiveSkillEffect
+3865;Gloop Pile;Glooped! - PassiveSkillEffect
+3866;
+3867;
+3868;
+3869;
+3870;
+3871;Dark Shaman Ranka;Devilrot Bomb - AoE Attack
+3872;Dark Shaman Ranka;Devilrot Bomb - HUD Effect
+3873;Dark Shaman Ranka;Devilrot Explosion - AoE Attack
+3874;Devilrot Pile (Large);Devilrot Blight - AoE Attack + ATK / MDEF Down
+3875;Devilrot Pile (Small);Devilrot Blight - AoE Attack + ATK / MDEF Down
+3876;Devilrot Pile;Devilrot Blight - PassiveSkillEffect
+3877;Devilrot Pile;Devilrot Blight - PassiveSkillEffect
+3878;Devilrot Pile;Devilrot Blight - PassiveSkillEffect
+3879;Devilrot Pile;Devilrot Blight - PassiveSkillEffect
+3880;Devilrot Pile;Devilrot Blight - PassiveSkillEffect
+3881;
+3882;
+3883;Unstable Ephlysia;AoE Attack
+3884;Raknu Defiler;Ranged Target Attack + Spit Pile
+3885;Raknu Expeller;AoE Attack + Spit Pile
+3886;Raknu Spit Pile;Nasty Bile - AoE Attack + Dodge + Heal Effectiveness Down
+3887;Raknu Spit Pile;Nasty Bile - PassiveSkillEffect
+3888;Raknu Spit Pile;Nasty Bile - PassiveSkillEffect
+3889;Raknu Spit Pile;Nasty Bile - PassiveSkillEffect
+3890;Raknu Spit Pile;Nasty Bile - PassiveSkillEffect
+3891;Raknu Spit Pile;Nasty Bile - PassiveSkillEffect
+3892;
+3893;
+3894;
+3895;
+3896;
+3897;
+3898;
+3899;
+3900;Max HP Potion
+3901;Max MP Potion
+3902;Purify Potion
+3903;Stealth Potion
+3904;Movement Potion
+3905;Defense Potion
+3906;Attack Potion
+3907;Magic Resistance Potion
+3908;Accuracy Potion
+3909;Dodge Potion
+3910;Attack Speed Potion
+3911;Critical Potion
+3912;Damage Enhancement Potion
+3913;
+3914;
+3915;Mini Cherry Berry
+3916;Cherry Berry
+3917;Power Cherry Berry
+3918;Super Cherry Berry
+3919;Miracle Cherry Berry
+3920;
+3921;
+3922;
+3923;
+3924;
+3925;
+3926;
+3927;
+3928;
+3929;
+3930;
+3931;
+3932;
+3933;
+3934;
+3935;
+3936;
+3937;
+3938;PvP Buff Potion (Zulie);Max HP Battle Potion
+3939;PvP Buff Potion (Zulie);Max MP Battle Potion
+3940;PvP Buff Potion (Zulie);Movement Battle Potion
+3941;PvP Buff Potion (Zulie);Defense Battle Potion
+3942;PvP Buff Potion (Zulie);Attack Battle Potion
+3943;PvP Buff Potion (Zulie);Magic Resistance Battle Potion
+3944;PvP Buff Potion (Zulie);Accuracy Battle Potion
+3945;PvP Buff Potion (Zulie);Dodge Battle Potion
+3946;PvP Buff Potion (Zulie);Attack Speed Battle Potion
+3947;PvP Buff Potion (Zulie);Critical Battle Potion
+3948;PvP Buff Potion (Zulie);Damage Enhancement Battle Potion
+3949;PvP Buff Potion (Zulie);Stat Enhancement Battle Potion
+3950;
+3951;
+3952;
+3953;
+3954;
+3955;
+3956;
+3957;
+3958;PvP Buff Potion (Honor);Battle Combat Potion
+3959;PvP Buff Potion (Honor);Enlightenment Combat Potion
+3960;PvP Buff Potion (Honor);Reinforcement Combat Potion
+3961;PvP Buff Potion (Honor);Cunning Combat Potion
+3962;PvP Buff Potion (Honor);Swift Combat Potion
+3963;PvP Buff Potion (Honor);Divine Combat Potion
+3964;
+3965;
+3966;
+3967;
+3968;
+3969;
+3970;
+3971;
+3972;
+3973;
+3974;
+3975;
+3976;
+3977;
+3978;
+3979;
+3980;
+3981;
+3982;
+3983;
+3984;
+3985;
+3986;
+3987;
+3988;
+3989;
+3990;
+3991;
+3992;
+3993;
+3994;
+3995;
+3996;
+3997;
+3998;
+3999;
+4000;Unique Skills;
+4001;Unique Skill - Common;(PvP) Mana Break
+4002;Unique Skill - Common;(PvM) Anti Magic Shell
+4003;Unique Skill - Common;
+4004;Unique Skill - Common;
+4005;Unique Skill - Common;
+4006;Unique Skill - Common;
+4007;Unique Skill - Common;
+4008;Unique Skill - Common;
+4009;Unique Skill - Common;
+4010;Unique Skill - Common;
+4011;Unique Skill - Common;
+4012;Unique Skill - Common;
+4013;Unique Skill - Common;
+4014;Unique Skill - Common;
+4015;Unique Skill - Common;
+4016;Unique Skill - Common;
+4017;Unique Skill - Common;
+4018;Unique Skill - Common;
+4019;Unique Skill - Common;
+4020;Unique Skill - Common;
+4021;Unique Skill - Common;
+4022;Unique Skill - Common;
+4023;Unique Skill - Common;
+4024;Unique Skill - Common;
+4025;Unique Skill - Common;
+4026;Unique Skill - Common;
+4027;Unique Skill - Common;
+4028;Unique Skill - Common;
+4029;Unique Skill - Common;
+4030;Unique Skill - Common;
+4031;Unique Skill - Common;
+4032;Unique Skill - Common;
+4033;Unique Skill - Common;
+4034;Unique Skill - Common;
+4035;Unique Skill - Common;
+4036;Unique Skill - Common;
+4037;Unique Skill - Common;
+4038;Unique Skill - Common;
+4039;Unique Skill - Common;
+4040;Unique Skill - Common;
+4041;Unique Skill - Common;
+4042;Unique Skill - Common;
+4043;Unique Skill - Common;
+4044;Unique Skill - Common;
+4045;Unique Skill - Common;
+4046;Unique Skill - Common;
+4047;Unique Skill - Common;
+4048;Unique Skill - Common;
+4049;Unique Skill - Common;
+4050;Unique Skill - Common;
+4051;Unique Skill - Common;
+4052;Unique Skill - Common;
+4053;Unique Skill - Common;
+4054;Unique Skill - Common;
+4055;Unique Skill - Common;
+4056;Unique Skill - Common;
+4057;Unique Skill - Common;
+4058;Unique Skill - Common;
+4059;Unique Skill - Common;
+4060;Unique Skill - Common;
+4061;Unique Skill - Common;
+4062;Unique Skill - Common;
+4063;Unique Skill - Common;
+4064;Unique Skill - Common;
+4065;Unique Skill - Common;
+4066;Unique Skill - Common;
+4067;Unique Skill - Common;
+4068;Unique Skill - Common;
+4069;Unique Skill - Common;
+4070;Unique Skill - Common;
+4071;Unique Skill - Common;
+4072;Unique Skill - Common;
+4073;Unique Skill - Common;
+4074;Unique Skill - Common;
+4075;Unique Skill - Common;
+4076;Unique Skill - Common;
+4077;Unique Skill - Common;
+4078;Unique Skill - Common;
+4079;Unique Skill - Common;
+4080;Unique Skill - Common;
+4081;Unique Skill - Common;
+4082;Unique Skill - Common;
+4083;Unique Skill - Common;
+4084;Unique Skill - Common;
+4085;Unique Skill - Common;
+4086;Unique Skill - Common;
+4087;Unique Skill - Common;
+4088;Unique Skill - Common;
+4089;Unique Skill - Common;
+4090;Unique Skill - Common;
+4091;Unique Skill - Common;
+4092;Unique Skill - Common;
+4093;Unique Skill - Common;
+4094;Unique Skill - Common;
+4095;Unique Skill - Common;
+4096;Unique Skill - Common;
+4097;Unique Skill - Common;
+4098;Unique Skill - Common;
+4099;Unique Skill - Common;
+4100;Unique Skill - Common;
+4101;Unique Skill - Common;
+4102;Unique Skill - Common;
+4103;Unique Skill - Common;
+4104;Unique Skill - Common;
+4105;Unique Skill - Common;
+4106;Unique Skill - Common;
+4107;Unique Skill - Common;
+4108;Unique Skill - Common;
+4109;Unique Skill - Common;
+4110;Unique Skill - Common;
+4111;Unique Skill - Common;
+4112;Unique Skill - Common;
+4113;Unique Skill - Common;
+4114;Unique Skill - Common;
+4115;Unique Skill - Common;
+4116;Unique Skill - Common;
+4117;Unique Skill - Common;
+4118;Unique Skill - Common;
+4119;Unique Skill - Common;
+4120;Unique Skill - Common;
+4121;Unique Skill - Common;
+4122;Unique Skill - Common;
+4123;Unique Skill - Common;
+4124;Unique Skill - Common;
+4125;Unique Skill - Common;
+4126;Unique Skill - Common;
+4127;Unique Skill - Common;
+4128;Unique Skill - Common;
+4129;Unique Skill - Common;
+4130;Unique Skill - Common;
+4131;Unique Skill - Common;
+4132;Unique Skill - Common;
+4133;Unique Skill - Common;
+4134;Unique Skill - Common;
+4135;Unique Skill - Common;
+4136;Unique Skill - Common;
+4137;Unique Skill - Common;
+4138;Unique Skill - Common;
+4139;Unique Skill - Common;
+4140;Unique Skill - Common;
+4141;Unique Skill - Common;
+4142;Unique Skill - Common;
+4143;Unique Skill - Common;
+4144;Unique Skill - Common;
+4145;Unique Skill - Common;
+4146;Unique Skill - Common;
+4147;Unique Skill - Common;
+4148;Unique Skill - Common;
+4149;Unique Skill - Common;
+4150;Unique Skill - Common;
+4151;Unique Skill - Common;
+4152;Unique Skill - Common;
+4153;Unique Skill - Common;
+4154;Unique Skill - Common;
+4155;Unique Skill - Common;
+4156;Unique Skill - Common;
+4157;Unique Skill - Common;
+4158;Unique Skill - Common;
+4159;Unique Skill - Common;
+4160;Unique Skill - Common;
+4161;Unique Skill - Common;
+4162;Unique Skill - Common;
+4163;Unique Skill - Common;
+4164;Unique Skill - Common;
+4165;Unique Skill - Common;
+4166;Unique Skill - Common;
+4167;Unique Skill - Common;
+4168;Unique Skill - Common;
+4169;Unique Skill - Common;
+4170;Unique Skill - Common;
+4171;Unique Skill - Common;
+4172;Unique Skill - Common;
+4173;Unique Skill - Common;
+4174;Unique Skill - Common;
+4175;Unique Skill - Common;
+4176;Unique Skill - Common;
+4177;Unique Skill - Common;
+4178;Unique Skill - Common;
+4179;Unique Skill - Common;
+4180;Unique Skill - Common;
+4181;Unique Skill - Common;
+4182;Unique Skill - Common;
+4183;Unique Skill - Common;
+4184;Unique Skill - Common;
+4185;Unique Skill - Common;
+4186;Unique Skill - Common;
+4187;Unique Skill - Common;
+4188;Unique Skill - Common;
+4189;Unique Skill - Common;
+4190;Unique Skill - Common;
+4191;Unique Skill - Common;
+4192;Unique Skill - Common;
+4193;Unique Skill - Common;
+4194;Unique Skill - Common;
+4195;Unique Skill - Common;
+4196;Unique Skill - Common;
+4197;Unique Skill - Common;
+4198;Unique Skill - Common;
+4199;Unique Skill - Common;
+4200;
+4201;Unique Skill - Soldier ;
+4202;Unique Skill - Soldier ;
+4203;Unique Skill - Soldier ;
+4204;Unique Skill - Soldier ;
+4205;Unique Skill - Soldier ;
+4206;Unique Skill - Soldier ;
+4207;Unique Skill - Soldier ;
+4208;Unique Skill - Soldier ;
+4209;Unique Skill - Soldier ;
+4210;Unique Skill - Soldier ;
+4211;Unique Skill - Soldier ;Sacrifice (PvM)
+4212;Unique Skill - Soldier ;Sacrifice (PvM)
+4213;Unique Skill - Soldier ;Sacrifice (PvM)
+4214;Unique Skill - Soldier ;Sacrifice (PvM)
+4215;Unique Skill - Soldier ;Sacrifice (PvM)
+4216;Unique Skill - Soldier ;
+4217;Unique Skill - Soldier ;
+4218;Unique Skill - Soldier ;
+4219;Unique Skill - Soldier ;
+4220;Unique Skill - Soldier ;
+4221;Unique Skill - Soldier ;
+4222;Unique Skill - Soldier ;
+4223;Unique Skill - Soldier ;
+4224;Unique Skill - Soldier ;
+4225;Unique Skill - Soldier ;
+4226;Unique Skill - Soldier ;
+4227;Unique Skill - Soldier ;
+4228;Unique Skill - Soldier ;
+4229;Unique Skill - Soldier ;
+4230;Unique Skill - Soldier ;
+4231;Unique Skill - Soldier ;
+4232;Unique Skill - Soldier ;
+4233;Unique Skill - Soldier ;
+4234;Unique Skill - Soldier ;
+4235;Unique Skill - Soldier ;
+4236;Unique Skill - Soldier ;
+4237;Unique Skill - Soldier ;
+4238;Unique Skill - Soldier ;
+4239;Unique Skill - Soldier ;
+4240;Unique Skill - Soldier ;
+4241;Unique Skill - Soldier ;
+4242;Unique Skill - Soldier ;
+4243;Unique Skill - Soldier ;
+4244;Unique Skill - Soldier ;
+4245;Unique Skill - Soldier ;
+4246;Unique Skill - Soldier ;
+4247;Unique Skill - Soldier ;
+4248;Unique Skill - Soldier ;
+4249;Unique Skill - Soldier ;
+4250;Unique Skill - Soldier ;
+4251;Unique Skill - Knight ;Adamantine Fist
+4252;Unique Skill - Knight ;Guardian's Might
+4253;Unique Skill - Knight ;Shield Spikes
+4254;Unique Skill - Knight ;(PvP) Lightning Crasher
+4255;Unique Skill - Knight ;(PvP) Trap Arrow
+4256;Unique Skill - Knight ;(PvP) Shield Throw
+4257;Unique Skill - Knight ;(PvM) Impact Wave
+4258;Unique Skill - Knight ;(PvM) Soul Wreck
+4259;Unique Skill - Knight ;(PvM) Shield Bash
+4260;Unique Skill - Knight ;
+4261;Unique Skill - Knight ;
+4262;Unique Skill - Knight ;
+4263;Unique Skill - Knight ;
+4264;Unique Skill - Knight ;
+4265;Unique Skill - Knight ;
+4266;Unique Skill - Knight ;
+4267;Unique Skill - Knight ;
+4268;Unique Skill - Knight ;
+4269;Unique Skill - Knight ;
+4270;Unique Skill - Knight ;
+4271;Unique Skill - Knight ;
+4272;Unique Skill - Knight ;
+4273;Unique Skill - Knight ;
+4274;Unique Skill - Knight ;
+4275;Unique Skill - Knight ;
+4276;Unique Skill - Knight ;
+4277;Unique Skill - Knight ;
+4278;Unique Skill - Knight ;
+4279;Unique Skill - Knight ;
+4280;Unique Skill - Knight ;
+4281;Unique Skill - Knight ;
+4282;Unique Skill - Knight ;
+4283;Unique Skill - Knight ;
+4284;Unique Skill - Knight ;
+4285;Unique Skill - Knight ;
+4286;Unique Skill - Knight ;
+4287;Unique Skill - Knight ;
+4288;Unique Skill - Knight ;
+4289;Unique Skill - Knight ;
+4290;Unique Skill - Knight ;
+4291;Unique Skill - Knight ;
+4292;Unique Skill - Knight ;
+4293;Unique Skill - Knight ;
+4294;Unique Skill - Knight ;
+4295;Unique Skill - Knight ;
+4296;Unique Skill - Knight ;
+4297;Unique Skill - Knight ;
+4298;Unique Skill - Knight ;
+4299;Unique Skill - Knight ;
+4300;Unique Skill - Knight ;
+4301;Unique Skill - Champion ;Champion Training 
+4302;Unique Skill - Champion ;Warrior's Menace
+4303;Unique Skill - Champion ;Enraged Berserk
+4304;Unique Skill - Champion ;(PvP) Geon Archangel Crumpler
+4305;Unique Skill - Champion ;(PvP) Longinus' Strike
+4306;Unique Skill - Champion ;(PvP) Weapon Launcher
+4307;Unique Skill - Champion ;(PvM) Combat Howl
+4308;Unique Skill - Champion ;(PvM) Seismic Impact
+4309;Unique Skill - Champion ;(PvM) Combat Scream
+4310;Unique Skill - Champion ;(PvM) Longinus' Strike
+4311;Unique Skill - Champion ;(PvM) Combat Shout
+4312;Unique Skill - Champion ;(PvM) Champion Strike
+4313;Unique Skill - Champion ;Enraged Berserk - PassiveSkillEffect
+4314;Unique Skill - Champion ;
+4315;Unique Skill - Champion ;
+4316;Unique Skill - Champion ;
+4317;Unique Skill - Champion ;
+4318;Unique Skill - Champion ;
+4319;Unique Skill - Champion ;
+4320;Unique Skill - Champion ;
+4321;Unique Skill - Champion ;
+4322;Unique Skill - Champion ;
+4323;Unique Skill - Champion ;
+4324;Unique Skill - Champion ;
+4325;Unique Skill - Champion ;
+4326;Unique Skill - Champion ;
+4327;Unique Skill - Champion ;
+4328;Unique Skill - Champion ;
+4329;Unique Skill - Champion ;
+4330;Unique Skill - Champion ;
+4331;Unique Skill - Champion ;
+4332;Unique Skill - Champion ;
+4333;Unique Skill - Champion ;
+4334;Unique Skill - Champion ;
+4335;Unique Skill - Champion ;
+4336;Unique Skill - Champion ;
+4337;Unique Skill - Champion ;
+4338;Unique Skill - Champion ;
+4339;Unique Skill - Champion ;
+4340;Unique Skill - Champion ;
+4341;Unique Skill - Champion ;
+4342;Unique Skill - Champion ;
+4343;Unique Skill - Champion ;
+4344;Unique Skill - Champion ;
+4345;Unique Skill - Champion ;
+4346;Unique Skill - Champion ;
+4347;Unique Skill - Champion ;
+4348;Unique Skill - Champion ;
+4349;Unique Skill - Champion ;
+4350;Unique Skill;
+4351;Unique Skill;
+4352;Unique Skill;
+4353;Unique Skill;
+4354;Unique Skill;
+4355;Unique Skill;
+4356;Unique Skill;
+4357;Unique Skill;
+4358;Unique Skill;
+4359;Unique Skill;
+4360;Unique Skill;
+4361;Unique Skill;
+4362;Unique Skill;
+4363;Unique Skill;
+4364;Unique Skill;
+4365;Unique Skill;
+4366;Unique Skill;
+4367;Unique Skill;
+4368;Unique Skill;
+4369;Unique Skill;
+4370;Unique Skill;
+4371;Unique Skill;
+4372;Unique Skill;
+4373;Unique Skill;
+4374;Unique Skill;
+4375;Unique Skill;
+4376;Unique Skill;
+4377;Unique Skill;
+4378;Unique Skill;
+4379;Unique Skill;
+4380;Unique Skill;
+4381;Unique Skill;
+4382;Unique Skill;
+4383;Unique Skill;
+4384;Unique Skill;
+4385;Unique Skill;
+4386;Unique Skill;
+4387;Unique Skill;
+4388;Unique Skill;
+4389;Unique Skill;
+4390;Unique Skill;
+4391;Unique Skill;
+4392;Unique Skill;
+4393;Unique Skill;
+4394;Unique Skill;
+4395;Unique Skill;
+4396;Unique Skill;
+4397;Unique Skill;
+4398;Unique Skill;
+4399;Unique Skill;
+4400;Item Mall - Effect (Soul Crystal)
+4401;Unique Skill - Muse;Soul Recall
+4402;Unique Skill - Muse;Soul Recall
+4403;Unique Skill - Muse;Soul Recall
+4404;Unique Skill - Muse;
+4405;Unique Skill - Muse;
+4406;Unique Skill - Muse;
+4407;Unique Skill - Muse;
+4408;Unique Skill - Muse;
+4409;Unique Skill - Muse;
+4410;Unique Skill - Muse;
+4411;Unique Skill - Muse;
+4412;Unique Skill - Muse;
+4413;Unique Skill - Muse;
+4414;Unique Skill - Muse;
+4415;Unique Skill - Muse;
+4416;Unique Skill - Muse;
+4417;Unique Skill - Muse;
+4418;Unique Skill - Muse;
+4419;Unique Skill - Muse;
+4420;Unique Skill - Muse;
+4421;Unique Skill - Muse;
+4422;Unique Skill - Muse;
+4423;Unique Skill - Muse;
+4424;Unique Skill - Muse;
+4425;Unique Skill - Muse;
+4426;Unique Skill - Muse;
+4427;Unique Skill - Muse;
+4428;Unique Skill - Muse;
+4429;Unique Skill - Muse;
+4430;Unique Skill - Muse;
+4431;Unique Skill - Muse;
+4432;Unique Skill - Muse;
+4433;Unique Skill - Muse;
+4434;Unique Skill - Muse;
+4435;Unique Skill - Muse;
+4436;Unique Skill - Muse;
+4437;Unique Skill - Muse;
+4438;Unique Skill - Muse;
+4439;Unique Skill - Muse;
+4440;Unique Skill - Muse;
+4441;Unique Skill - Muse;
+4442;Unique Skill - Muse;
+4443;Unique Skill - Muse;
+4444;Unique Skill - Muse;
+4445;Unique Skill - Muse;
+4446;Unique Skill - Muse;
+4447;Unique Skill - Muse;
+4448;Unique Skill - Muse;
+4449;Unique Skill - Muse;
+4450;Unique Skill - Muse;
+4451;Unique Skill - Mage;Teachings of the Magi
+4452;Unique Skill - Mage;Technique of the Magi
+4453;Unique Skill - Mage;(PvP) Glaciating Chill
+4454;Unique Skill - Mage;(PvP) Cold Snap
+4455;Unique Skill - Mage;(PvP) Soul Shock
+4456;Unique Skill - Mage;(PvP) Thunder Storm
+4457;Unique Skill - Mage;(PvP) Mana Burn
+4458;Unique Skill - Mage;(PvP) Meteorite Flow
+4459;Unique Skill - Mage;(PvP) Elemental Spike
+4460;Unique Skill - Mage;(PvP) Elemental Wave
+4461;Unique Skill - Mage;(PvM) Frost Ring
+4462;Unique Skill - Mage;(PvM) Permafrost Chill
+4463;Unique Skill - Mage;(PvM) Thunder Storm
+4464;Unique Skill - Mage;(PvM) Soul Shock
+4465;Unique Skill - Mage;(PvM) Fireball
+4466;Unique Skill - Mage;(PvM) Meteorite Flow
+4467;Unique Skill - Mage;(PvM) Elemental Wave
+4468;Unique Skill - Mage;(PvM) Elemental Spike
+4469;Unique Skill - Mage;
+4470;Unique Skill - Mage;
+4471;Unique Skill - Mage;
+4472;Unique Skill - Mage;
+4473;Unique Skill - Mage;
+4474;Unique Skill - Mage;
+4475;Unique Skill - Mage;
+4476;Unique Skill - Mage;
+4477;Unique Skill - Mage;
+4478;Unique Skill - Mage;
+4479;Unique Skill - Mage;
+4480;Unique Skill - Mage;
+4481;Unique Skill - Mage;
+4482;Unique Skill - Mage;
+4483;Unique Skill - Mage;
+4484;Unique Skill - Mage;
+4485;Unique Skill - Mage;
+4486;Unique Skill - Mage;
+4487;Unique Skill - Mage;
+4488;Unique Skill - Mage;
+4489;Unique Skill - Mage;
+4490;Unique Skill - Mage;
+4491;Unique Skill - Mage;
+4492;Unique Skill - Mage;
+4493;Unique Skill - Mage;
+4494;Unique Skill - Mage;
+4495;Unique Skill - Mage;
+4496;Unique Skill - Mage;
+4497;Unique Skill - Mage;
+4498;Unique Skill - Mage;
+4499;Unique Skill - Mage;
+4500;Unique Skill - Mage;
+4501;Unique Skill - Cleric;Summoner's Gift
+4502;Unique Skill - Cleric;Quick Medic
+4503;Unique Skill - Cleric;Battle Ritual 
+4504;Unique Skill - Cleric;Enlightenment Ritual 
+4505;Unique Skill - Cleric;Reinforcement Ritual 
+4506;Unique Skill - Cleric;Cunning Ritual 
+4507;Unique Skill - Cleric;Swift Ritual 
+4508;Unique Skill - Cleric;Divine Ritual 
+4509;Unique Skill - Cleric;Integrity
+4510;Unique Skill - Cleric;Purify
+4511;Unique Skill - Cleric;(PvP) Poison Cloud
+4512;Unique Skill - Cleric;
+4513;Unique Skill - Cleric;
+4514;Unique Skill - Cleric;
+4515;Unique Skill - Cleric;
+4516;Unique Skill - Cleric;
+4517;Unique Skill - Cleric;
+4518;Unique Skill - Cleric;
+4519;Unique Skill - Cleric;
+4520;Unique Skill - Cleric;
+4521;Unique Skill - Cleric;
+4522;Unique Skill - Cleric;
+4523;Unique Skill - Cleric;
+4524;Unique Skill - Cleric;
+4525;Unique Skill - Cleric;
+4526;Unique Skill - Cleric;
+4527;Unique Skill - Cleric;
+4528;Unique Skill - Cleric;
+4529;Unique Skill - Cleric;
+4530;Unique Skill - Cleric;
+4531;Unique Skill - Cleric;
+4532;Unique Skill - Cleric;
+4533;Unique Skill - Cleric;
+4534;Unique Skill - Cleric;
+4535;Unique Skill - Cleric;
+4536;Unique Skill - Cleric;
+4537;Unique Skill - Cleric;
+4538;Unique Skill - Cleric;
+4539;Unique Skill - Cleric;
+4540;Unique Skill - Cleric;
+4541;Unique Skill - Cleric;
+4542;Unique Skill - Cleric;
+4543;Unique Skill - Cleric;
+4544;Unique Skill - Cleric;
+4545;Unique Skill - Cleric;
+4546;Unique Skill - Cleric;
+4547;Unique Skill - Cleric;
+4548;Unique Skill - Cleric;
+4549;Unique Skill - Cleric;
+4550;Unique Skill - Cleric;
+4551;Unique Skill;
+4552;Unique Skill;
+4553;Unique Skill;
+4554;Unique Skill;
+4555;Unique Skill;
+4556;Unique Skill;
+4557;Unique Skill;
+4558;Unique Skill;
+4559;Unique Skill;
+4560;Unique Skill;
+4561;Unique Skill;
+4562;Unique Skill;
+4563;Unique Skill;
+4564;Unique Skill;
+4565;Unique Skill;
+4566;Unique Skill;
+4567;Unique Skill;
+4568;Unique Skill;
+4569;Unique Skill;
+4570;Unique Skill;
+4571;Unique Skill;
+4572;Unique Skill;
+4573;Unique Skill;
+4574;Unique Skill;
+4575;Unique Skill;
+4576;Unique Skill;
+4577;Unique Skill;
+4578;Unique Skill;
+4579;Unique Skill;
+4580;Unique Skill;
+4581;Unique Skill;
+4582;Unique Skill;
+4583;Unique Skill;
+4584;Unique Skill;
+4585;Unique Skill;
+4586;Unique Skill;
+4587;Unique Skill;
+4588;Unique Skill;
+4589;Unique Skill;
+4590;Unique Skill;
+4591;Unique Skill;
+4592;Unique Skill;
+4593;Unique Skill;
+4594;Unique Skill;
+4595;Unique Skill;
+4596;Unique Skill;
+4597;Unique Skill;
+4598;Unique Skill;
+4599;Unique Skill;
+4600;
+4601;Unique Skill - Hawker;Call Beast
+4602;Unique Skill - Hawker;Call Beast
+4603;Unique Skill - Hawker;Call Beast
+4604;Unique Skill - Hawker;Call Beast
+4605;Unique Skill - Hawker;Call Beast
+4606;Unique Skill - Hawker;Call Beast
+4607;Unique Skill - Hawker;Call Beast
+4608;Unique Skill - Hawker;Call Beast
+4609;Unique Skill - Hawker;Call Beast
+4610;Unique Skill - Hawker;
+4611;Unique Skill - Hawker;
+4612;Unique Skill - Hawker;
+4613;Unique Skill - Hawker;
+4614;Unique Skill - Hawker;
+4615;Unique Skill - Hawker;
+4616;Unique Skill - Hawker;
+4617;Unique Skill - Hawker;
+4618;Unique Skill - Hawker;
+4619;Unique Skill - Hawker;
+4620;Unique Skill - Hawker;
+4621;Unique Skill - Hawker;
+4622;Unique Skill - Hawker;
+4623;Unique Skill - Hawker;
+4624;Unique Skill - Hawker;
+4625;Unique Skill - Hawker;
+4626;Unique Skill - Hawker;
+4627;Unique Skill - Hawker;
+4628;Unique Skill - Hawker;
+4629;Unique Skill - Hawker;
+4630;Unique Skill - Hawker;
+4631;Unique Skill - Hawker;
+4632;Unique Skill - Hawker;
+4633;Unique Skill - Hawker;
+4634;Unique Skill - Hawker;
+4635;Unique Skill - Hawker;
+4636;Unique Skill - Hawker;
+4637;Unique Skill - Hawker;
+4638;Unique Skill - Hawker;
+4639;Unique Skill - Hawker;
+4640;Unique Skill - Hawker;
+4641;Unique Skill - Hawker;
+4642;Unique Skill - Hawker;
+4643;Unique Skill - Hawker;
+4644;Unique Skill - Hawker;
+4645;Unique Skill - Hawker;
+4646;Unique Skill - Hawker;
+4647;Unique Skill - Hawker;
+4648;Unique Skill - Hawker;
+4649;Unique Skill - Hawker;
+4650;Unique Skill - Hawker;
+4651;Unique Skill - Raider;Fury
+4652;Unique Skill - Raider;Wired
+4653;Unique Skill - Raider;(PvP) Flame Falcon
+4654;Unique Skill - Raider;(PvP) Screw Attack
+4655;Unique Skill - Raider;(PvP) Circle Break 
+4656;Unique Skill - Raider;(PvP) Bloody Assault
+4657;Unique Skill - Raider;(PvM) Tornado Slash
+4658;Unique Skill - Raider;Raider's Accordance
+4659;Unique Skill - Raider;(PvM) Bloody Assault
+4660;Unique Skill - Raider;Crippling Storm
+4661;Unique Skill - Raider;(PvM) Sucker Punch 
+4662;Unique Skill - Raider;(PvM) Mystic Knife
+4663;Unique Skill - Raider;Stealth
+4664;Unique Skill - Raider;
+4665;Unique Skill - Raider;
+4666;Unique Skill - Raider;
+4667;Unique Skill - Raider;
+4668;Unique Skill - Raider;
+4669;Unique Skill - Raider;
+4670;Unique Skill - Raider;
+4671;Unique Skill - Raider;
+4672;Unique Skill - Raider;
+4673;Unique Skill - Raider;
+4674;Unique Skill - Raider;
+4675;Unique Skill - Raider;
+4676;Unique Skill - Raider;
+4677;Unique Skill - Raider;
+4678;Unique Skill - Raider;
+4679;Unique Skill - Raider;
+4680;Unique Skill - Raider;
+4681;Unique Skill - Raider;
+4682;Unique Skill - Raider;
+4683;Unique Skill - Raider;
+4684;Unique Skill - Raider;
+4685;Unique Skill - Raider;
+4686;Unique Skill - Raider;
+4687;Unique Skill - Raider;
+4688;Unique Skill - Raider;
+4689;Unique Skill - Raider;
+4690;Unique Skill - Raider;
+4691;Unique Skill - Raider;
+4692;Unique Skill - Raider;
+4693;Unique Skill - Raider;
+4694;Unique Skill - Raider;
+4695;Unique Skill - Raider;
+4696;Unique Skill - Raider;
+4697;Unique Skill - Raider;
+4698;Unique Skill - Raider;
+4699;Unique Skill - Raider;
+4700;Unique Skill - Raider;
+4701;Unique Skill - Scout;Swift Movements
+4702;Unique Skill - Scout;Sharpened Focus
+4703;Unique Skill - Scout;(PvP) Impact Arrow
+4704;Unique Skill - Scout;(PvM) Impact Arrow
+4705;Unique Skill - Scout;Reflective Guard 
+4706;Unique Skill - Scout;Poison Arrow Shower
+4707;Unique Skill - Scout;(PvM) Web Arrow
+4708;Unique Skill - Scout;(PvP) Web Arrow
+4709;Unique Skill - Scout;(PVP) Shield Bash
+4710;Unique Skill - Scout;(PvM) Taunt Shot
+4711;Unique Skill - Scout;
+4712;Unique Skill - Scout;
+4713;Unique Skill - Scout;
+4714;Unique Skill - Scout;
+4715;Unique Skill - Scout;
+4716;Unique Skill - Scout;
+4717;Unique Skill - Scout;
+4718;Unique Skill - Scout;
+4719;Unique Skill - Scout;
+4720;Unique Skill - Scout;
+4721;Unique Skill - Scout;
+4722;Unique Skill - Scout;
+4723;Unique Skill - Scout;
+4724;Unique Skill - Scout;
+4725;Unique Skill - Scout;
+4726;Unique Skill - Scout;
+4727;Unique Skill - Scout;
+4728;Unique Skill - Scout;
+4729;Unique Skill - Scout;
+4730;Unique Skill - Scout;
+4731;Unique Skill - Scout;
+4732;Unique Skill - Scout;
+4733;Unique Skill - Scout;
+4734;Unique Skill - Scout;
+4735;Unique Skill - Scout;
+4736;Unique Skill - Scout;
+4737;Unique Skill - Scout;
+4738;Unique Skill - Scout;
+4739;Unique Skill - Scout;
+4740;Unique Skill - Scout;
+4741;Unique Skill - Scout;
+4742;Unique Skill - Scout;
+4743;Unique Skill - Scout;
+4744;Unique Skill - Scout;
+4745;Unique Skill - Scout;
+4746;Unique Skill - Scout;
+4747;Unique Skill - Scout;
+4748;Unique Skill - Scout;
+4749;Unique Skill - Scout;
+4750;Unique Skill - Scout;
+4751;Unique Skill;
+4752;Unique Skill;
+4753;Unique Skill;
+4754;Unique Skill;
+4755;Unique Skill;
+4756;Unique Skill;
+4757;Unique Skill;
+4758;Unique Skill;
+4759;Unique Skill;
+4760;Unique Skill;
+4761;Unique Skill;
+4762;Unique Skill;
+4763;Unique Skill;
+4764;Unique Skill;
+4765;Unique Skill;
+4766;Unique Skill;
+4767;Unique Skill;
+4768;Unique Skill;
+4769;Unique Skill;
+4770;Unique Skill;
+4771;Unique Skill;
+4772;Unique Skill;
+4773;Unique Skill;
+4774;Unique Skill;
+4775;Unique Skill;
+4776;Unique Skill;
+4777;Unique Skill;
+4778;Unique Skill;
+4779;Unique Skill;
+4780;Unique Skill;
+4781;Unique Skill;
+4782;Unique Skill;
+4783;Unique Skill;
+4784;Unique Skill;
+4785;Unique Skill;
+4786;Unique Skill;
+4787;Unique Skill;
+4788;Unique Skill;
+4789;Unique Skill;
+4790;Unique Skill;
+4791;Unique Skill;
+4792;Unique Skill;
+4793;Unique Skill;
+4794;Unique Skill;
+4795;Unique Skill;
+4796;Unique Skill;
+4797;Unique Skill;
+4798;Unique Skill;
+4799;Unique Skill;
+4800;
+4801;Unique Skill - Dealer;Face Item Craft
+4802;Unique Skill - Dealer;Face Item Craft
+4803;Unique Skill - Dealer;Face Item Craft
+4804;Unique Skill - Dealer;Face Item Craft
+4805;Unique Skill - Dealer;Face Item Craft
+4806;Unique Skill - Dealer;Face Item Craft
+4807;Unique Skill - Dealer;Face Item Craft
+4808;Unique Skill - Dealer;Face Item Craft
+4809;Unique Skill - Dealer;Face Item Craft
+4810;Unique Skill - Dealer;
+4811;Unique Skill - Dealer;Accessory Craft
+4812;Unique Skill - Dealer;Accessory Craft
+4813;Unique Skill - Dealer;Accessory Craft
+4814;Unique Skill - Dealer;Accessory Craft
+4815;Unique Skill - Dealer;Accessory Craft
+4816;Unique Skill - Dealer;Accessory Craft
+4817;Unique Skill - Dealer;Accessory Craft
+4818;Unique Skill - Dealer;Accessory Craft
+4819;Unique Skill - Dealer;Accessory Craft
+4820;Unique Skill - Dealer;
+4821;Unique Skill - Dealer;
+4822;Unique Skill - Dealer;
+4823;Unique Skill - Dealer;
+4824;Unique Skill - Dealer;
+4825;Unique Skill - Dealer;
+4826;Unique Skill - Dealer;
+4827;Unique Skill - Dealer;
+4828;Unique Skill - Dealer;
+4829;Unique Skill - Dealer;
+4830;Unique Skill - Dealer;
+4831;Unique Skill - Dealer;
+4832;Unique Skill - Dealer;
+4833;Unique Skill - Dealer;
+4834;Unique Skill - Dealer;
+4835;Unique Skill - Dealer;
+4836;Unique Skill - Dealer;
+4837;Unique Skill - Dealer;
+4838;Unique Skill - Dealer;
+4839;Unique Skill - Dealer;
+4840;Unique Skill - Dealer;
+4841;Unique Skill - Dealer;
+4842;Unique Skill - Dealer;
+4843;Unique Skill - Dealer;
+4844;Unique Skill - Dealer;
+4845;Unique Skill - Dealer;
+4846;Unique Skill - Dealer;
+4847;Unique Skill - Dealer;
+4848;Unique Skill - Dealer;
+4849;Unique Skill - Dealer;
+4850;Unique Skill - Dealer;
+4851;Unique Skill - Bourgeois;Haggling Intent
+4852;Unique Skill - Bourgeois;Focused Dealings 
+4853;Unique Skill - Bourgeois;(PvP) Zulie Stun
+4854;Unique Skill - Bourgeois;(PvP) Flame Cannon Splash
+4855;Unique Skill - Bourgeois;Augmenting Reflection
+4856;Unique Skill - Bourgeois;Illusion Reflection
+4857;Unique Skill - Bourgeois;Dual Rigging
+4858;Unique Skill - Bourgeois;Layer Step
+4859;Unique Skill - Bourgeois;
+4860;Unique Skill - Bourgeois;
+4861;Unique Skill - Bourgeois;
+4862;Unique Skill - Bourgeois;
+4863;Unique Skill - Bourgeois;
+4864;Unique Skill - Bourgeois;
+4865;Unique Skill - Bourgeois;
+4866;Unique Skill - Bourgeois;
+4867;Unique Skill - Bourgeois;
+4868;Unique Skill - Bourgeois;
+4869;Unique Skill - Bourgeois;
+4870;Unique Skill - Bourgeois;
+4871;Unique Skill - Bourgeois;
+4872;Unique Skill - Bourgeois;
+4873;Unique Skill - Bourgeois;
+4874;Unique Skill - Bourgeois;
+4875;Unique Skill - Bourgeois;
+4876;Unique Skill - Bourgeois;
+4877;Unique Skill - Bourgeois;
+4878;Unique Skill - Bourgeois;
+4879;Unique Skill - Bourgeois;
+4880;Unique Skill - Bourgeois;
+4881;Unique Skill - Bourgeois;
+4882;Unique Skill - Bourgeois;
+4883;Unique Skill - Bourgeois;
+4884;Unique Skill - Bourgeois;
+4885;Unique Skill - Bourgeois;
+4886;Unique Skill - Bourgeois;
+4887;Unique Skill - Bourgeois;
+4888;Unique Skill - Bourgeois;
+4889;Unique Skill - Bourgeois;
+4890;Unique Skill - Bourgeois;
+4891;Unique Skill - Bourgeois;
+4892;Unique Skill - Bourgeois;
+4893;Unique Skill - Bourgeois;
+4894;Unique Skill - Bourgeois;
+4895;Unique Skill - Bourgeois;
+4896;Unique Skill - Bourgeois;
+4897;Unique Skill - Bourgeois;
+4898;Unique Skill - Bourgeois;
+4899;Unique Skill - Bourgeois;
+4900;Unique Skill - Bourgeois;
+4901;Unique Skill - Artisan;Hands of a Crafter 
+4902;Unique Skill - Artisan;Sensible Target Pricing 
+4903;Unique Skill - Artisan;(PvP) Hypno Shot
+4904;Unique Skill - Artisan;(PvP) Magic Shot
+4905;Unique Skill - Artisan;Summon Judgment
+4906;Unique Skill - Artisan;(PvM) Daze Attack
+4907;Unique Skill - Artisan;(PvM) Poison Shot
+4908;Unique Skill;
+4909;Unique Skill - Artisan;
+4910;Unique Skill - Artisan;
+4911;Unique Skill - Artisan;
+4912;Unique Skill - Artisan;
+4913;Unique Skill - Artisan;
+4914;Unique Skill - Artisan;
+4915;Unique Skill - Artisan;
+4916;Unique Skill - Artisan;
+4917;Unique Skill - Artisan;
+4918;Unique Skill - Artisan;
+4919;Unique Skill - Artisan;
+4920;Unique Skill - Artisan;
+4921;Unique Skill - Artisan;
+4922;Unique Skill - Artisan;
+4923;Unique Skill - Artisan;
+4924;Unique Skill - Artisan;
+4925;Unique Skill - Artisan;
+4926;Unique Skill - Artisan;
+4927;Unique Skill - Artisan;
+4928;Unique Skill - Artisan;
+4929;Unique Skill - Artisan;
+4930;Unique Skill - Artisan;
+4931;Unique Skill - Artisan;
+4932;Unique Skill - Artisan;
+4933;Unique Skill - Artisan;
+4934;Unique Skill - Artisan;
+4935;Unique Skill - Artisan;
+4936;Unique Skill - Artisan;
+4937;Unique Skill - Artisan;
+4938;Unique Skill - Artisan;
+4939;Unique Skill - Artisan;
+4940;Unique Skill - Artisan;
+4941;Unique Skill - Artisan;
+4942;Unique Skill - Artisan;
+4943;Unique Skill - Artisan;
+4944;Unique Skill - Artisan;
+4945;Unique Skill - Artisan;
+4946;Unique Skill - Artisan;
+4947;Unique Skill - Artisan;
+4948;Unique Skill - Artisan;
+4949;Unique Skill - Artisan;
+4950;Unique Skill - Artisan;
+4951;Unique Skill;
+4952;Unique Skill;
+4953;Unique Skill;
+4954;Unique Skill;
+4955;Unique Skill;
+4956;Unique Skill;
+4957;Unique Skill;
+4958;Unique Skill;
+4959;Unique Skill;
+4960;Unique Skill;
+4961;Unique Skill;
+4962;Unique Skill;
+4963;Unique Skill;
+4964;Unique Skill;
+4965;Unique Skill;
+4966;Unique Skill;
+4967;Unique Skill;
+4968;Unique Skill;
+4969;Unique Skill;
+4970;Unique Skill;
+4971;Unique Skill;
+4972;Unique Skill;
+4973;Unique Skill;
+4974;Unique Skill;
+4975;Unique Skill;
+4976;Unique Skill;
+4977;Unique Skill;
+4978;Unique Skill;
+4979;Unique Skill;
+4980;Unique Skill;
+4981;Unique Skill;
+4982;Unique Skill;
+4983;Unique Skill;
+4984;Unique Skill;
+4985;Unique Skill;
+4986;Unique Skill;
+4987;Unique Skill;
+4988;Unique Skill;
+4989;Unique Skill;
+4990;Unique Skill;
+4991;Unique Skill;
+4992;Unique Skill;
+4993;Unique Skill;
+4994;Unique Skill;
+4995;Unique Skill;
+4996;Unique Skill;
+4997;Unique Skill;
+4998;Unique Skill;
+4999;
+5000;PAT Skills;Drive Cart
+5001;PAT Skills;Drive Castle Gear
+5002;PAT Skills;
+5003;PAT Skills;
+5004;PAT Skills;
+5005;PAT Skills;
+5006;PAT Skills;
+5007;PAT Skills;
+5008;PAT Skills;
+5009;PAT Skills;
+5010;PAT Skills;
+5011;PAT Skills;
+5012;PAT Skills;
+5013;PAT Skills;
+5014;PAT Skills;
+5015;PAT Skills;
+5016;PAT Skills;
+5017;PAT Skills;
+5018;PAT Skills;
+5019;PAT Skills;
+5020;PAT Skills;
+5021;PAT Skills;
+5022;PAT Skills;
+5023;PAT Skills;
+5024;PAT Skills;
+5025;PAT Skills;
+5026;PAT Skills;
+5027;PAT Skills;
+5028;PAT Skills;
+5029;PAT Skills;
+5030;PAT Skills;
+5031;PAT Skills;
+5032;PAT Skills;
+5033;PAT Skills;
+5034;PAT Skills;
+5035;PAT Skills;
+5036;PAT Skills;
+5037;PAT Skills;
+5038;PAT Skills;
+5039;PAT Skills;
+5040;PAT Skills;
+5041;PAT Skills;
+5042;PAT Skills;
+5043;PAT Skills;
+5044;PAT Skills;
+5045;PAT Skills;
+5046;PAT Skills;
+5047;PAT Skills;
+5048;PAT Skills;
+5049;PAT Skills;
+5050;PAT Skills;
+5051;PAT Skills;
+5052;PAT Skills;
+5053;PAT Skills;
+5054;PAT Skills;
+5055;PAT Skills;
+5056;PAT Skills;
+5057;PAT Skills;
+5058;PAT Skills;
+5059;PAT Skills;
+5060;PAT Skills;
+5061;PAT Skills;
+5062;PAT Skills;
+5063;PAT Skills;
+5064;PAT Skills;
+5065;PAT Skills;
+5066;PAT Skills;
+5067;PAT Skills;
+5068;PAT Skills;
+5069;PAT Skills;
+5070;PAT Skills;
+5071;PAT Skills;
+5072;PAT Skills;
+5073;PAT Skills;
+5074;PAT Skills;
+5075;PAT Skills;
+5076;PAT Skills;
+5077;PAT Skills;
+5078;PAT Skills;
+5079;PAT Skills;
+5080;PAT Skills;
+5081;PAT Skills;
+5082;PAT Skills;
+5083;PAT Skills;
+5084;PAT Skills;
+5085;PAT Skills;
+5086;PAT Skills;
+5087;PAT Skills;
+5088;PAT Skills;
+5089;PAT Skills;
+5090;PAT Skills;
+5091;PAT Skills;
+5092;PAT Skills;
+5093;PAT Skills;
+5094;PAT Skills;
+5095;PAT Skills;
+5096;PAT Skills;
+5097;PAT Skills;
+5098;PAT Skills;
+5099;PAT Skills;
+5100;PAT Skills;
+5101;PAT Skills;
+5102;PAT Skills;
+5103;PAT Skills;
+5104;PAT Skills;
+5105;PAT Skills;
+5106;PAT Skills;
+5107;PAT Skills;
+5108;PAT Skills;
+5109;PAT Skills;
+5110;PAT Skills;
+5111;PAT Skills;
+5112;PAT Skills;
+5113;PAT Skills;
+5114;PAT Skills;
+5115;PAT Skills;
+5116;PAT Skills;
+5117;PAT Skills;
+5118;PAT Skills;
+5119;PAT Skills;
+5120;PAT Skills;
+5121;PAT Skills;
+5122;PAT Skills;
+5123;PAT Skills;
+5124;PAT Skills;
+5125;PAT Skills;
+5126;PAT Skills;
+5127;PAT Skills;
+5128;PAT Skills;
+5129;PAT Skills;
+5130;PAT Skills;
+5131;PAT Skills;
+5132;PAT Skills;
+5133;PAT Skills;
+5134;PAT Skills;
+5135;PAT Skills;
+5136;PAT Skills;
+5137;PAT Skills;
+5138;PAT Skills;
+5139;PAT Skills;
+5140;PAT Skills;
+5141;PAT Skills;
+5142;PAT Skills;
+5143;PAT Skills;
+5144;PAT Skills;
+5145;PAT Skills;
+5146;PAT Skills;
+5147;PAT Skills;
+5148;PAT Skills;
+5149;PAT Skills;
+5150;PAT Skills;
+5151;PAT Skills;
+5152;PAT Skills;
+5153;PAT Skills;
+5154;PAT Skills;
+5155;PAT Skills;
+5156;PAT Skills;
+5157;PAT Skills;
+5158;PAT Skills;
+5159;PAT Skills;
+5160;PAT Skills;
+5161;PAT Skills;
+5162;PAT Skills;
+5163;PAT Skills;
+5164;PAT Skills;
+5165;PAT Skills;
+5166;PAT Skills;
+5167;PAT Skills;
+5168;PAT Skills;
+5169;PAT Skills;
+5170;PAT Skills;
+5171;PAT Skills;
+5172;PAT Skills;
+5173;PAT Skills;
+5174;PAT Skills;
+5175;PAT Skills;
+5176;PAT Skills;
+5177;PAT Skills;
+5178;PAT Skills;
+5179;PAT Skills;
+5180;PAT Skills;
+5181;PAT Skills;
+5182;PAT Skills;
+5183;PAT Skills;
+5184;PAT Skills;
+5185;PAT Skills;
+5186;PAT Skills;
+5187;PAT Skills;
+5188;PAT Skills;
+5189;PAT Skills;
+5190;PAT Skills;
+5191;PAT Skills;
+5192;PAT Skills;
+5193;PAT Skills;
+5194;PAT Skills;
+5195;PAT Skills;
+5196;PAT Skills;
+5197;PAT Skills;
+5198;PAT Skills;
+5199;PAT Skills;
+5200;PAT Skills;
+5201;PAT Skills;
+5202;PAT Skills;
+5203;PAT Skills;
+5204;PAT Skills;
+5205;PAT Skills;
+5206;PAT Skills;
+5207;PAT Skills;
+5208;PAT Skills;
+5209;PAT Skills;
+5210;PAT Skills;
+5211;PAT Skills;
+5212;PAT Skills;
+5213;PAT Skills;
+5214;PAT Skills;
+5215;PAT Skills;
+5216;PAT Skills;
+5217;PAT Skills;
+5218;PAT Skills;
+5219;PAT Skills;
+5220;PAT Skills;
+5221;PAT Skills;
+5222;PAT Skills;
+5223;PAT Skills;
+5224;PAT Skills;
+5225;PAT Skills;
+5226;PAT Skills;
+5227;PAT Skills;
+5228;PAT Skills;
+5229;PAT Skills;
+5230;PAT Skills;
+5231;PAT Skills;
+5232;PAT Skills;
+5233;PAT Skills;
+5234;PAT Skills;
+5235;PAT Skills;
+5236;PAT Skills;
+5237;PAT Skills;
+5238;PAT Skills;
+5239;PAT Skills;
+5240;PAT Skills;
+5241;PAT Skills;
+5242;PAT Skills;
+5243;PAT Skills;
+5244;PAT Skills;
+5245;PAT Skills;
+5246;PAT Skills;
+5247;PAT Skills;
+5248;PAT Skills;
+5249;PAT Skills;
+5250;PAT Skills;
+5251;PAT Skills;
+5252;PAT Skills;
+5253;PAT Skills;
+5254;PAT Skills;
+5255;PAT Skills;
+5256;PAT Skills;
+5257;PAT Skills;
+5258;PAT Skills;
+5259;PAT Skills;
+5260;PAT Skills;
+5261;PAT Skills;
+5262;PAT Skills;
+5263;PAT Skills;
+5264;PAT Skills;
+5265;PAT Skills;
+5266;PAT Skills;
+5267;PAT Skills;
+5268;PAT Skills;
+5269;PAT Skills;
+5270;PAT Skills;
+5271;PAT Skills;
+5272;PAT Skills;
+5273;PAT Skills;
+5274;PAT Skills;
+5275;PAT Skills;
+5276;PAT Skills;
+5277;PAT Skills;
+5278;PAT Skills;
+5279;PAT Skills;
+5280;PAT Skills;
+5281;PAT Skills;
+5282;PAT Skills;
+5283;PAT Skills;
+5284;PAT Skills;
+5285;PAT Skills;
+5286;PAT Skills;
+5287;PAT Skills;
+5288;PAT Skills;
+5289;PAT Skills;
+5290;PAT Skills;
+5291;PAT Skills;
+5292;PAT Skills;
+5293;PAT Skills;
+5294;PAT Skills;
+5295;PAT Skills;
+5296;PAT Skills;
+5297;PAT Skills;
+5298;PAT Skills;
+5299;PAT Skills;
+5300;PAT Skills;
+5301;PAT Skills;
+5302;PAT Skills;
+5303;PAT Skills;
+5304;PAT Skills;
+5305;PAT Skills;
+5306;PAT Skills;
+5307;PAT Skills;
+5308;PAT Skills;
+5309;PAT Skills;
+5310;PAT Skills;
+5311;PAT Skills;
+5312;PAT Skills;
+5313;PAT Skills;
+5314;PAT Skills;
+5315;PAT Skills;
+5316;PAT Skills;
+5317;PAT Skills;
+5318;PAT Skills;
+5319;PAT Skills;
+5320;PAT Skills;
+5321;PAT Skills;
+5322;PAT Skills;
+5323;PAT Skills;
+5324;PAT Skills;
+5325;PAT Skills;
+5326;PAT Skills;
+5327;PAT Skills;
+5328;PAT Skills;
+5329;PAT Skills;
+5330;PAT Skills;
+5331;PAT Skills;
+5332;PAT Skills;
+5333;PAT Skills;
+5334;PAT Skills;
+5335;PAT Skills;
+5336;PAT Skills;
+5337;PAT Skills;
+5338;PAT Skills;
+5339;PAT Skills;
+5340;PAT Skills;
+5341;PAT Skills;
+5342;PAT Skills;
+5343;PAT Skills;
+5344;PAT Skills;
+5345;PAT Skills;
+5346;PAT Skills;
+5347;PAT Skills;
+5348;PAT Skills;
+5349;PAT Skills;
+5350;PAT Skills;
+5351;PAT Skills;
+5352;PAT Skills;
+5353;PAT Skills;
+5354;PAT Skills;
+5355;PAT Skills;
+5356;PAT Skills;
+5357;PAT Skills;
+5358;PAT Skills;
+5359;PAT Skills;
+5360;PAT Skills;
+5361;PAT Skills;
+5362;PAT Skills;
+5363;PAT Skills;
+5364;PAT Skills;
+5365;PAT Skills;
+5366;PAT Skills;
+5367;PAT Skills;
+5368;PAT Skills;
+5369;PAT Skills;
+5370;PAT Skills;
+5371;PAT Skills;
+5372;PAT Skills;
+5373;PAT Skills;
+5374;PAT Skills;
+5375;PAT Skills;
+5376;PAT Skills;
+5377;PAT Skills;
+5378;PAT Skills;
+5379;PAT Skills;
+5380;PAT Skills;
+5381;PAT Skills;
+5382;PAT Skills;
+5383;PAT Skills;
+5384;PAT Skills;
+5385;PAT Skills;
+5386;PAT Skills;
+5387;PAT Skills;
+5388;PAT Skills;
+5389;PAT Skills;
+5390;PAT Skills;
+5391;PAT Skills;
+5392;PAT Skills;
+5393;PAT Skills;
+5394;PAT Skills;
+5395;PAT Skills;
+5396;PAT Skills;
+5397;PAT Skills;
+5398;PAT Skills;
+5399;PAT Skills;
+5400;PAT Skills;
+5401;PAT Skills;
+5402;PAT Skills;
+5403;PAT Skills;
+5404;PAT Skills;
+5405;PAT Skills;
+5406;PAT Skills;
+5407;PAT Skills;
+5408;PAT Skills;
+5409;PAT Skills;
+5410;PAT Skills;
+5411;PAT Skills;
+5412;PAT Skills;
+5413;PAT Skills;
+5414;PAT Skills;
+5415;PAT Skills;
+5416;PAT Skills;
+5417;PAT Skills;
+5418;PAT Skills;
+5419;PAT Skills;
+5420;PAT Skills;
+5421;PAT Skills;
+5422;PAT Skills;
+5423;PAT Skills;
+5424;PAT Skills;
+5425;PAT Skills;
+5426;PAT Skills;
+5427;PAT Skills;
+5428;PAT Skills;
+5429;PAT Skills;
+5430;PAT Skills;
+5431;PAT Skills;
+5432;PAT Skills;
+5433;PAT Skills;
+5434;PAT Skills;
+5435;PAT Skills;
+5436;PAT Skills;
+5437;PAT Skills;
+5438;PAT Skills;
+5439;PAT Skills;
+5440;PAT Skills;
+5441;PAT Skills;
+5442;PAT Skills;
+5443;PAT Skills;
+5444;PAT Skills;
+5445;PAT Skills;
+5446;PAT Skills;
+5447;PAT Skills;
+5448;PAT Skills;
+5449;PAT Skills;
+5450;PAT Skills;
+5451;PAT Skills;
+5452;PAT Skills;
+5453;PAT Skills;
+5454;PAT Skills;
+5455;PAT Skills;
+5456;PAT Skills;
+5457;PAT Skills;
+5458;PAT Skills;
+5459;PAT Skills;
+5460;PAT Skills;
+5461;PAT Skills;
+5462;PAT Skills;
+5463;PAT Skills;
+5464;PAT Skills;
+5465;PAT Skills;
+5466;PAT Skills;
+5467;PAT Skills;
+5468;PAT Skills;
+5469;PAT Skills;
+5470;PAT Skills;
+5471;PAT Skills;
+5472;PAT Skills;
+5473;PAT Skills;
+5474;PAT Skills;
+5475;PAT Skills;
+5476;PAT Skills;
+5477;PAT Skills;
+5478;PAT Skills;
+5479;PAT Skills;
+5480;PAT Skills;
+5481;PAT Skills;
+5482;PAT Skills;
+5483;PAT Skills;
+5484;PAT Skills;
+5485;PAT Skills;
+5486;PAT Skills;
+5487;PAT Skills;
+5488;PAT Skills;
+5489;PAT Skills;
+5490;PAT Skills;
+5491;PAT Skills;
+5492;PAT Skills;
+5493;PAT Skills;
+5494;PAT Skills;
+5495;PAT Skills;
+5496;PAT Skills;
+5497;PAT Skills;
+5498;Item Mall Skills;Mount Booster
+5499;Item Mall Skills;Honor Reward Bonus
+5500;Item Mall Skills;Valor Reward Bonus
+5501;Item Mall Skills;Mana Corrosion - PvP
+5502;Item Mall Skills;Dispel
+5503;Item Mall Skills;Lucky Ghost
+5504;Valor Passives;Deflection Blessing
+5505;Valor Passives;Swift Blessing
+5506;Valor Passives;Nimble Blessing
+5507;Valor Passives;Shield Blessing
+5508;Valor Passives;Protection Blessing
+5509;Valor Passives;Marksmen Blessing
+5510;Valor Passives;Intense Blessing
+5511;Item Mall Skills;Job Skill Retraining
+5512;Item Mall Skills;Stat Point Retraining
+5513;Item Mall Skills;Unique Skill Retraining
+5514;Item Mall Skills;Help A Noob!
+5515;Item Mall Skills;Noob's Blessing
+5516;Item Mall Skills;Noob's Blessing
+5517;Item Mall Skills;Noob's Blessing
+5518;Item Mall Skills;Noob's Blessing
+5519;Item Mall Skills;Noob's Blessing
+5520;Item Mall Skills;
+5521;Item Mall Skills;
+5522;Item Mall Skills;Medal of Prosperity
+5523;Item Mall Skills;Medal of Abundance
+5524;Item Mall Skills;Medal of Common Gathering
+5525;Item Mall Skills;Medal of Uncommon Gathering
+5526;Item Mall Skills;Medal of Rare Gathering
+5527;Item Mall Skills;Medal of Very Rare Gathering
+5528;Item Mall Skills;Medal of Epic Gathering
+5529;Item Mall Skills;Medal of Legendary Gathering
+5530;Item Mall Skills;Medal of Diplomacy
+5531;Item Mall Skills;
+5532;Item Mall Skills;
+5533;Item Mall Skills;
+5534;Item Mall Skills;
+5535;Item Mall Skills;
+5536;Item Mall Skills;
+5537;Item Mall Skills;
+5538;Item Mall Skills;
+5539;Item Mall Skills;
+5540;Item Mall Skills;
+5541;Item Mall Skills;
+5542;Item Mall Skills;
+5543;Item Mall Skills;
+5544;Item Mall Skills;
+5545;Item Mall Skills;
+5546;Item Mall Skills;
+5547;Item Mall Skills;
+5548;Item Mall Skills;
+5549;Item Mall Skills;
+5550;Item Mall Skills;
+5551;Item Mall Skills;
+5552;Item Mall Skills;
+5553;Item Mall Skills;
+5554;Item Mall Skills;
+5555;Item Mall Skills;
+5556;Item Mall Skills;
+5557;Item Mall Skills;Advanced Hustle Chant
+5558;Item Mall Skills;Advanced Precision Chant
+5559;Item Mall Skills;Advanced Resilience Chant
+5560;Item Mall Skills;Advanced Battle Chant
+5561;Item Mall Skills;Advanced Critical Chant
+5562;Item Mall Skills;Advanced Evasive Chant
+5563;Item Mall Skills;Advanced Wallop Chant
+5564;Item Mall Skills;Advanced Valkyrie Chant
+5565;Item Mall Skills;Advanced Resistance Chant
+5566;Item Mall Skills;Advanced Angelic Chant
+5567;Item Mall Skills;Advanced Blessed Body Chant
+5568;Item Mall Skills;Advanced Blessed Mind Chant
+5569;
+5570;
+5571;
+5572;
+5573;
+5574;
+5575;
+5576;
+5577;
+5578;
+5579;
+5580;?????대え??;Recovery Kiss
+5581;?????대え??;Charming Kiss
+5582;?????대え??;Massage
+5583;?????대え??;Donation (10 Zulie)
+5584;?????대え??;Donation (100 Zulie)
+5585;?????대え??;Hi!
+5586;?????대え??;Bow Scroll
+5587;?????대え??;Gracious Bow Scroll
+5588;?????대え??;Recovery Kiss
+5589;?????대え??;Charming Kiss
+5590;?????대え??;Laugh
+5591;?????대え??;Fight Cheer
+5592;?????대え??;Breakdown
+5593;?????대え??;Tantrum
+5594;?????대え??;Applause
+5595;?????대え??;???
+5596;?????대え??;Pharaoh Stance
+5597;
+5598;
+5599;
+5600;Honor Passives - Soldier ;
+5601;Honor Passives - Soldier ;One-Handed Weapon Iron Blessing
+5602;Honor Passives - Soldier ;One-Handed Weapon Wind Blessing
+5603;Honor Passives - Soldier ;Two-Handed Sword Iron Blessing
+5604;Honor Passives - Soldier ;Two-Handed Sword Wind Blessing
+5605;Honor Passives - Soldier ;Two-Handed Spear Iron Blessing
+5606;Honor Passives - Soldier ;Two-Handed Spear Wind Blessing
+5607;Honor Passives - Soldier ;Two-Handed Axe Iron Blessing
+5608;Honor Passives - Soldier ;Two-Handed Axe Wind Blessing
+5609;Honor Passives - Soldier ;
+5610;Honor Passives - Soldier ;
+5611;Honor Passives - Soldier ;Novice One-Handed Weapon Striking  Training
+5612;Honor Passives - Soldier ;Apprentice One-Handed Weapon Striking  Training
+5613;Honor Passives - Soldier ;Disciple One-Handed Weapon Striking  Training
+5614;Honor Passives - Soldier ;Adept One-Handed Weapon Striking  Training
+5615;Honor Passives - Soldier ;Master One-Handed Weapon Striking  Training
+5616;Honor Passives - Soldier ;Novice One-Handed Weapon Wielding  Training
+5617;Honor Passives - Soldier ;Apprentice One-Handed Weapon Wielding  Training
+5618;Honor Passives - Soldier ;Disciple One-Handed Weapon Wielding  Training
+5619;Honor Passives - Soldier ;Adept One-Handed Weapon Wielding  Training
+5620;Honor Passives - Soldier ;Master One-Handed Weapon Wielding  Training
+5621;Honor Passives - Soldier ;Novice Two-Handed Sword Striking  Training
+5622;Honor Passives - Soldier ;Apprentice Two-Handed Sword Striking  Training
+5623;Honor Passives - Soldier ;Disciple Two-Handed Sword Striking  Training
+5624;Honor Passives - Soldier ;Adept Two-Handed Sword Striking  Training
+5625;Honor Passives - Soldier ;Master Two-Handed Sword Striking  Training
+5626;Honor Passives - Soldier ;Novice Two-Handed Sword Wielding  Training
+5627;Honor Passives - Soldier ;Apprentice Two-Handed Sword Wielding  Training
+5628;Honor Passives - Soldier ;Disciple Two-Handed Sword Wielding  Training
+5629;Honor Passives - Soldier ;Adept Two-Handed Sword Wielding  Training
+5630;Honor Passives - Soldier ;Master Two-Handed Sword Wielding  Training
+5631;Honor Passives - Soldier ;Novice Two-Handed Spear Striking  Training
+5632;Honor Passives - Soldier ;Apprentice Two-Handed Spear Striking  Training
+5633;Honor Passives - Soldier ;Disciple Two-Handed Spear Striking  Training
+5634;Honor Passives - Soldier ;Adept Two-Handed Spear Striking  Training
+5635;Honor Passives - Soldier ;Master Two-Handed Spear Striking  Training
+5636;Honor Passives - Soldier ;Novice Two-Handed Spear Wielding  Training
+5637;Honor Passives - Soldier ;Apprentice Two-Handed Spear Wielding  Training
+5638;Honor Passives - Soldier ;Disciple Two-Handed Spear Wielding  Training
+5639;Honor Passives - Soldier ;Adept Two-Handed Spear Wielding  Training
+5640;Honor Passives - Soldier ;Master Two-Handed Spear Wielding  Training
+5641;Honor Passives - Soldier ;Novice Two-Handed Axe Striking  Training
+5642;Honor Passives - Soldier ;Apprentice Two-Handed Axe Striking  Training
+5643;Honor Passives - Soldier ;Disciple Two-Handed Axe Striking  Training
+5644;Honor Passives - Soldier ;Adept Two-Handed Axe Striking  Training
+5645;Honor Passives - Soldier ;Master Two-Handed Axe Striking  Training
+5646;Honor Passives - Soldier ;Novice Two-Handed Axe Wielding  Training
+5647;Honor Passives - Soldier ;Apprentice Two-Handed Axe Wielding  Training
+5648;Honor Passives - Soldier ;Disciple Two-Handed Axe Wielding  Training
+5649;Honor Passives - Soldier ;Adept Two-Handed Axe Wielding  Training
+5650;Honor Passives - Soldier ;Master Two-Handed Axe Wielding  Training
+5651;Honor Passives - Soldier ;Grand Master One-Handed Weapon Striking  Training
+5652;Honor Passives - Soldier ;Supreme Master One-Handed Weapon Striking  Training
+5653;Honor Passives - Soldier ;Grand Master Two-Handed Sword Striking  Training
+5654;Honor Passives - Soldier ;Supreme Master Two-Handed Sword Striking  Training
+5655;Honor Passives - Soldier ;Grand Master Two-Handed Spear Striking  Training
+5656;Honor Passives - Soldier ;Supreme Master Two-Handed Spear Striking  Training
+5657;Honor Passives - Soldier ;Grand Master Two-Handed Axe Striking  Training
+5658;Honor Passives - Soldier ;Supreme Master Two-Handed Axe Striking  Training
+5659;Honor Passives - Soldier ;Grand Master One-Handed Weapon Wielding  Training
+5660;Honor Passives - Soldier ;Supreme Master One-Handed Weapon Wielding  Training
+5661;Honor Passives - Soldier ;Grand Master Two-Handed Sword Wielding  Training
+5662;Honor Passives - Soldier ;Supreme Master Two-Handed Sword Wielding  Training
+5663;Honor Passives - Soldier ;Grand Master Two-Handed Spear Wielding  Training
+5664;Honor Passives - Soldier ;Supreme Master Two-Handed Spear Wielding  Training
+5665;Honor Passives - Soldier ;Grand Master Two-Handed Axe Wielding  Training
+5666;Honor Passives - Soldier ;Supreme Master Two-Handed Axe Wielding  Training
+5667;Honor Passives - Soldier ;
+5668;Honor Passives - Soldier ;
+5669;Honor Passives - Soldier ;
+5670;Honor Passives - Soldier ;
+5671;Honor Passives - Soldier ;
+5672;Honor Passives - Soldier ;
+5673;Honor Passives - Soldier ;
+5674;Honor Passives - Soldier ;
+5675;Honor Passives - Soldier ;
+5676;Honor Passives - Soldier ;
+5677;Honor Passives - Soldier ;
+5678;Honor Passives - Soldier ;
+5679;Honor Passives - Soldier ;
+5680;Honor Passives - Soldier ;
+5681;Honor Passives - Soldier ;
+5682;Honor Passives - Soldier ;
+5683;Honor Passives - Soldier ;
+5684;Honor Passives - Soldier ;
+5685;Honor Passives - Soldier ;
+5686;Honor Passives - Soldier ;
+5687;Honor Passives - Soldier ;
+5688;Honor Passives - Soldier ;
+5689;Honor Passives - Soldier ;
+5690;Honor Passives - Soldier ;
+5691;Honor Passives - Soldier ;
+5692;Honor Passives - Soldier ;
+5693;Honor Passives - Soldier ;
+5694;Honor Passives - Soldier ;
+5695;Honor Passives - Soldier ;
+5696;Honor Passives - Soldier ;
+5697;Honor Passives - Soldier ;
+5698;Honor Passives - Soldier ;
+5699;Honor Passives - Soldier ;
+5700;Honor Passives - Muse;
+5701;Item Mall - Muse;Soul Restore
+5702;Honor Passives - Muse;Staff Iron Blessing
+5703;Honor Passives - Muse;Staff Wind Blessing
+5704;Honor Passives - Muse;Wand Iron Blessing
+5705;Honor Passives - Muse;Wand Wind Blessing
+5706;Honor Passives - Muse;
+5707;Honor Passives - Muse;
+5708;Honor Passives - Muse;
+5709;Honor Passives - Muse;
+5710;Honor Passives - Muse;
+5711;Honor Passives - Muse;Novice Staff Striking  Training
+5712;Honor Passives - Muse;Apprentice Staff Striking  Training
+5713;Honor Passives - Muse;Disciple Staff Striking  Training
+5714;Honor Passives - Muse;Adept Staff Striking  Training
+5715;Honor Passives - Muse;Master Staff Striking  Training
+5716;Honor Passives - Muse;Novice Staff Wielding  Training
+5717;Honor Passives - Muse;Apprentice Staff Wielding  Training
+5718;Honor Passives - Muse;Disciple Staff Wielding  Training
+5719;Honor Passives - Muse;Adept Staff Wielding  Training
+5720;Honor Passives - Muse;Master Staff Wielding  Training
+5721;Honor Passives - Muse;Novice Wand Striking  Training
+5722;Honor Passives - Muse;Apprentice Wand Striking  Training
+5723;Honor Passives - Muse;Disciple Wand Striking  Training
+5724;Honor Passives - Muse;Adept Wand Striking  Training
+5725;Honor Passives - Muse;Master Wand Striking  Training
+5726;Honor Passives - Muse;Novice Wand Wielding  Training
+5727;Honor Passives - Muse;Apprentice Wand Wielding  Training
+5728;Honor Passives - Muse;Disciple Wand Wielding  Training
+5729;Honor Passives - Muse;Adept Wand Wielding  Training
+5730;Honor Passives - Muse;Master Wand Wielding  Training
+5731;Honor Passives - Muse;Grand Master Staff Striking  Training
+5732;Honor Passives - Muse;Supreme Master Staff Striking  Training
+5733;Honor Passives - Muse;Grand Master Wand Striking  Training
+5734;Honor Passives - Muse;Supreme Master Wand Striking  Training
+5735;Honor Passives - Muse;Grand Master Staff Wielding  Training
+5736;Honor Passives - Muse;Supreme Master Staff Wielding  Training
+5737;Honor Passives - Muse;Grand Master Wand Wielding  Training
+5738;Honor Passives - Muse;Supreme Master Wand Wielding  Training
+5739;Honor Passives - Muse;
+5740;Honor Passives - Muse;
+5741;Honor Passives - Muse;
+5742;Honor Passives - Muse;
+5743;Honor Passives - Muse;
+5744;Honor Passives - Muse;
+5745;Honor Passives - Muse;
+5746;Honor Passives - Muse;
+5747;Honor Passives - Muse;
+5748;Honor Passives - Muse;
+5749;Honor Passives - Muse;
+5750;Honor Passives - Muse;
+5751;Honor Passives - Muse;
+5752;Honor Passives - Muse;
+5753;Honor Passives - Muse;
+5754;Honor Passives - Muse;
+5755;Honor Passives - Muse;
+5756;Honor Passives - Muse;
+5757;Honor Passives - Muse;
+5758;Honor Passives - Muse;
+5759;Honor Passives - Muse;
+5760;Honor Passives - Muse;
+5761;Honor Passives - Muse;
+5762;Honor Passives - Muse;
+5763;Honor Passives - Muse;
+5764;Honor Passives - Muse;
+5765;Honor Passives - Muse;
+5766;Honor Passives - Muse;
+5767;Honor Passives - Muse;
+5768;Honor Passives - Muse;
+5769;Honor Passives - Muse;
+5770;Honor Passives - Muse;
+5771;Honor Passives - Muse;
+5772;Honor Passives - Muse;
+5773;Honor Passives - Muse;
+5774;Honor Passives - Muse;
+5775;Honor Passives - Muse;
+5776;Honor Passives - Muse;
+5777;Honor Passives - Muse;
+5778;Honor Passives - Muse;
+5779;Honor Passives - Muse;
+5780;Honor Passives - Muse;
+5781;Honor Passives - Muse;
+5782;Honor Passives - Muse;
+5783;Honor Passives - Muse;
+5784;Honor Passives - Muse;
+5785;Honor Passives - Muse;
+5786;Honor Passives - Muse;
+5787;Honor Passives - Muse;
+5788;Honor Passives - Muse;
+5789;Honor Passives - Muse;
+5790;Honor Passives - Muse;
+5791;Honor Passives - Muse;
+5792;Honor Passives - Muse;
+5793;Honor Passives - Muse;
+5794;Honor Passives - Muse;
+5795;Honor Passives - Muse;
+5796;Honor Passives - Muse;
+5797;Honor Passives - Muse;
+5798;Honor Passives - Muse;
+5799;Honor Passives - Muse;
+5800;Honor Passives - Hawker;
+5801;Honor Passives - Hawker;Bow Iron Blessing
+5802;Honor Passives - Hawker;Bow Wind Blessing
+5803;Honor Passives - Hawker;Katar Iron Blessing
+5804;Honor Passives - Hawker;Katar Wind Blessing
+5805;Honor Passives - Hawker;Dual Wield Iron Blessing
+5806;Honor Passives - Hawker;Dual Wield Wind Blessing
+5807;Honor Passives - Hawker;
+5808;Honor Passives - Hawker;
+5809;Honor Passives - Hawker;
+5810;Honor Passives - Hawker;
+5811;Honor Passives - Hawker;Novice Bow Striking  Training
+5812;Honor Passives - Hawker;Apprentice Bow Striking  Training
+5813;Honor Passives - Hawker;Disciple Bow Striking  Training
+5814;Honor Passives - Hawker;Adept Bow Striking  Training
+5815;Honor Passives - Hawker;Master Bow Striking  Training
+5816;Honor Passives - Hawker;Novice Bow Wielding  Training
+5817;Honor Passives - Hawker;Apprentice Bow Wielding  Training
+5818;Honor Passives - Hawker;Disciple Bow Wielding  Training
+5819;Honor Passives - Hawker;Adept Bow Wielding  Training
+5820;Honor Passives - Hawker;Master Bow Wielding  Training
+5821;Honor Passives - Hawker;Novice Katar Striking  Training
+5822;Honor Passives - Hawker;Apprentice Katar Striking  Training
+5823;Honor Passives - Hawker;Disciple Katar Striking  Training
+5824;Honor Passives - Hawker;Adept Katar Striking  Training
+5825;Honor Passives - Hawker;Master Katar Striking  Training
+5826;Honor Passives - Hawker;Novice Katar Wielding  Training
+5827;Honor Passives - Hawker;Apprentice Katar Wielding  Training
+5828;Honor Passives - Hawker;Disciple Katar Wielding  Training
+5829;Honor Passives - Hawker;Adept Katar Wielding  Training
+5830;Honor Passives - Hawker;Master Katar Wielding  Training
+5831;Honor Passives - Hawker;Novice Dual Wield Striking  Training
+5832;Honor Passives - Hawker;Apprentice Dual Wield Striking  Training
+5833;Honor Passives - Hawker;Disciple Dual Wield Striking  Training
+5834;Honor Passives - Hawker;Adept Dual Wield Striking  Training
+5835;Honor Passives - Hawker;Master Dual Wield Striking  Training
+5836;Honor Passives - Hawker;Novice Dual Wield Wielding  Training
+5837;Honor Passives - Hawker;Apprentice Dual Wield Wielding  Training
+5838;Honor Passives - Hawker;Disciple Dual Wield Wielding  Training
+5839;Honor Passives - Hawker;Adept Dual Wield Wielding  Training
+5840;Honor Passives - Hawker;Master Dual Wield Wielding  Training
+5841;Honor Passives - Hawker;Grand Master Bow Striking  Training
+5842;Honor Passives - Hawker;Supreme Master Bow Striking  Training
+5843;Honor Passives - Hawker;Grand Master Katar Striking  Training
+5844;Honor Passives - Hawker;Supreme Master Katar Striking  Training
+5845;Honor Passives - Hawker;Grand Master Dual Wield Striking  Training
+5846;Honor Passives - Hawker;Supreme Master Dual Wield Striking  Training
+5847;Honor Passives - Hawker;Grand Master Bow Wielding  Training
+5848;Honor Passives - Hawker;Supreme Master Bow Wielding  Training
+5849;Honor Passives - Hawker;Grand Master Katar Wielding  Training
+5850;Honor Passives - Hawker;Supreme Master Katar Wielding  Training
+5851;Honor Passives - Hawker;Grand Master Dual Wield Wielding  Training
+5852;Honor Passives - Hawker;Supreme Master Dual Wield Wielding  Training
+5853;Honor Passives - Hawker;
+5854;Honor Passives - Hawker;
+5855;Honor Passives - Hawker;
+5856;Honor Passives - Hawker;
+5857;Honor Passives - Hawker;
+5858;Honor Passives - Hawker;
+5859;Honor Passives - Hawker;
+5860;Honor Passives - Hawker;
+5861;Honor Passives - Hawker;
+5862;Honor Passives - Hawker;
+5863;Honor Passives - Hawker;
+5864;Honor Passives - Hawker;
+5865;Honor Passives - Hawker;
+5866;Honor Passives - Hawker;
+5867;Honor Passives - Hawker;
+5868;Honor Passives - Hawker;
+5869;Honor Passives - Hawker;
+5870;Honor Passives - Hawker;
+5871;Honor Passives - Hawker;
+5872;Honor Passives - Hawker;
+5873;Honor Passives - Hawker;
+5874;Honor Passives - Hawker;
+5875;Honor Passives - Hawker;
+5876;Honor Passives - Hawker;
+5877;Honor Passives - Hawker;
+5878;Honor Passives - Hawker;
+5879;Honor Passives - Hawker;
+5880;Honor Passives - Hawker;
+5881;Honor Passives - Hawker;
+5882;Honor Passives - Hawker;
+5883;Honor Passives - Hawker;
+5884;Honor Passives - Hawker;
+5885;Honor Passives - Hawker;
+5886;Honor Passives - Hawker;
+5887;Honor Passives - Hawker;
+5888;Honor Passives - Hawker;
+5889;Honor Passives - Hawker;
+5890;Honor Passives - Hawker;
+5891;Honor Passives - Hawker;
+5892;Honor Passives - Hawker;
+5893;Honor Passives - Hawker;
+5894;Honor Passives - Hawker;
+5895;Honor Passives - Hawker;
+5896;Honor Passives - Hawker;
+5897;Honor Passives - Hawker;
+5898;Honor Passives - Hawker;
+5899;Honor Passives - Hawker;
+5900;Honor Passives - Dealer;
+5901;Currently Unused Skill;Virtuoso Crafting
+5902;Honor Passives - Dealer;Gun Iron Blessing
+5903;Honor Passives - Dealer;Gun Wind Blessing
+5904;Honor Passives - Dealer;Launcher Iron Blessing
+5905;Honor Passives - Dealer;Launcher Wind Blessing
+5906;Honor Passives - Dealer;
+5907;Honor Passives - Dealer;
+5908;Honor Passives - Dealer;
+5909;Honor Passives - Dealer;
+5910;Honor Passives - Dealer;
+5911;Honor Passives - Dealer;Novice Gun Striking  Training
+5912;Honor Passives - Dealer;Apprentice Gun Striking  Training
+5913;Honor Passives - Dealer;Disciple Gun Striking  Training
+5914;Honor Passives - Dealer;Adept Gun Striking  Training
+5915;Honor Passives - Dealer;Master Gun Striking  Training
+5916;Honor Passives - Dealer;Novice Gun Wielding  Training
+5917;Honor Passives - Dealer;Apprentice Gun Wielding  Training
+5918;Honor Passives - Dealer;Disciple Gun Wielding  Training
+5919;Honor Passives - Dealer;Adept Gun Wielding  Training
+5920;Honor Passives - Dealer;Master Gun Wielding  Training
+5921;Honor Passives - Dealer;Novice Launcher Striking  Training
+5922;Honor Passives - Dealer;Apprentice Launcher Striking  Training
+5923;Honor Passives - Dealer;Disciple Launcher Striking  Training
+5924;Honor Passives - Dealer;Adept Launcher Striking  Training
+5925;Honor Passives - Dealer;Master Launcher Striking  Training
+5926;Honor Passives - Dealer;Novice Launcher Wielding  Training
+5927;Honor Passives - Dealer;Apprentice Launcher Wielding  Training
+5928;Honor Passives - Dealer;Disciple Launcher Wielding  Training
+5929;Honor Passives - Dealer;Adept Launcher Wielding  Training
+5930;Honor Passives - Dealer;Master Launcher Wielding  Training
+5931;Honor Passives - Dealer;Grand Master Gun Striking  Training
+5932;Honor Passives - Dealer;Supreme Master Gun Striking  Training
+5933;Honor Passives - Dealer;Grand Master Launcher Striking  Training
+5934;Honor Passives - Dealer;Supreme Master Launcher Striking  Training
+5935;Honor Passives - Dealer;Grand Master Gun Wielding  Training
+5936;Honor Passives - Dealer;Supreme Master Gun Wielding  Training
+5937;Honor Passives - Dealer;Grand Master Launcher Wielding  Training
+5938;Honor Passives - Dealer;Supreme Master Launcher Wielding  Training
+5939;Honor Passives - Dealer;
+5940;Honor Passives - Dealer;
+5941;Honor Passives - Dealer;
+5942;Honor Passives - Dealer;
+5943;Honor Passives - Dealer;
+5944;Honor Passives - Dealer;
+5945;Honor Passives - Dealer;
+5946;Honor Passives - Dealer;
+5947;Honor Passives - Dealer;
+5948;Honor Passives - Dealer;
+5949;Honor Passives - Dealer;
+5950;Honor Passives - Dealer;
+5951;Honor Passives - Dealer;
+5952;Honor Passives - Dealer;
+5953;Honor Passives - Dealer;
+5954;Honor Passives - Dealer;
+5955;Honor Passives - Dealer;
+5956;Honor Passives - Dealer;
+5957;Honor Passives - Dealer;
+5958;Honor Passives - Dealer;
+5959;Honor Passives - Dealer;
+5960;Honor Passives - Dealer;
+5961;Honor Passives - Dealer;
+5962;Honor Passives - Dealer;
+5963;Honor Passives - Dealer;
+5964;Honor Passives - Dealer;
+5965;Honor Passives - Dealer;
+5966;Honor Passives - Dealer;
+5967;Honor Passives - Dealer;
+5968;Honor Passives - Dealer;
+5969;Honor Passives - Dealer;
+5970;Honor Passives - Dealer;
+5971;Honor Passives - Dealer;
+5972;Honor Passives - Dealer;
+5973;Honor Passives - Dealer;
+5974;Honor Passives - Dealer;
+5975;Honor Passives - Dealer;
+5976;Honor Passives - Dealer;
+5977;Honor Passives - Dealer;
+5978;Honor Passives - Dealer;
+5979;Honor Passives - Dealer;
+5980;Honor Passives - Dealer;
+5981;Honor Passives - Dealer;
+5982;Honor Passives - Dealer;
+5983;Honor Passives - Dealer;
+5984;Honor Passives - Dealer;
+5985;Honor Passives - Dealer;
+5986;Honor Passives - Dealer;
+5987;Honor Passives - Dealer;
+5988;Honor Passives - Dealer;
+5989;Honor Passives - Dealer;
+5990;Honor Passives - Dealer;
+5991;Honor Passives - Dealer;
+5992;Honor Passives - Dealer;
+5993;Honor Passives - Dealer;
+5994;Honor Passives - Dealer;
+5995;Honor Passives - Dealer;
+5996;Honor Passives - Dealer;
+5997;Honor Passives - Dealer;
+5998;Honor Passives - Dealer;
+5999;
+6000;Dealer Crafting;Armor Craft
+6001;Crafting;Armor Craft
+6002;Armor Craft
+6003;Armor Craft
+6004;Armor Craft
+6005;Dealer Crafting;Armor Reinforcement
+6006;Crafting;Armor Reinforcement
+6007;Armor Reinforcement
+6008;Armor Reinforcement
+6009;Armor Reinforcement
+6010;Dealer Crafting;Armor Endowment
+6011;Crafting;Armor Endowment
+6012;Armor Endowment
+6013;Armor Endowment
+6014;Armor Endowment
+6015;Dealer Crafting;Weapon Craft
+6016;Crafting;Weapon Craft
+6017;Weapon Craft
+6018;Weapon Craft
+6019;Weapon Craft
+6020;Dealer Crafting;Weapon Darkening
+6021;Crafting;Weapon Darkening
+6022;Weapon Darkening
+6023;Weapon Darkening
+6024;Weapon Darkening
+6025;Dealer Crafting;Weapon Hardening
+6026;Crafting;Weapon Hardening
+6027;Weapon Hardening
+6028;Weapon Hardening
+6029;Weapon Hardening
+6030;Dealer Crafting;Weapon Balancing
+6031;Crafting;Weapon Balancing
+6032;Weapon Balancing
+6033;Weapon Balancing
+6034;Weapon Balancing
+6035;Dealer Crafting;Weapon Enchanting
+6036;Crafting;Weapon Enchanting
+6037;Weapon Enchanting
+6038;Weapon Enchanting
+6039;Weapon Enchanting
+6040;Dealer Crafting;SubItem Craft
+6041;Crafting;SubItem Craft
+6042;SubItem Craft
+6043;SubItem Craft
+6044;SubItem Craft
+6045;Dealer Crafting;Alchemy Craft
+6046;Crafting;Alchemy Craft
+6047;Alchemy Craft
+6048;Alchemy Craft
+6049;Alchemy Craft
+6050;Dealer Artisan;Advanced Armor Craft
+6051;Crafting;Advanced Armor Craft
+6052;Advanced Armor Craft
+6053;Advanced Armor Craft
+6054;Advanced Armor Craft
+6055;Dealer Artisan;Advanced Armor Reinforcement
+6056;Crafting;Advanced Armor Reinforcement
+6057;Advanced Armor Reinforcement
+6058;Advanced Armor Reinforcement
+6059;Advanced Armor Reinforcement
+6060;Dealer Artisan;Advanced Armor Endowment
+6061;Crafting;Advanced Armor Endowment
+6062;Advanced Armor Endowment
+6063;Advanced Armor Endowment
+6064;Advanced Armor Endowment
+6065;Dealer Artisan;Advanced Weapon Craft
+6066;Crafting;Advanced Weapon Craft
+6067;Advanced Weapon Craft
+6068;Advanced Weapon Craft
+6069;Advanced Weapon Craft
+6070;Dealer Artisan;Advanced Weapon Darkening
+6071;Crafting;Advanced Weapon Darkening
+6072;Advanced Weapon Darkening
+6073;Advanced Weapon Darkening
+6074;Advanced Weapon Darkening
+6075;Dealer Artisan;Advanced Weapon Hardening
+6076;Crafting;Advanced Weapon Hardening
+6077;Advanced Weapon Hardening
+6078;Advanced Weapon Hardening
+6079;Advanced Weapon Hardening
+6080;Dealer Artisan;Advanced Weapon Balancing
+6081;Crafting;Advanced Weapon Balancing
+6082;Advanced Weapon Balancing
+6083;Advanced Weapon Balancing
+6084;Advanced Weapon Balancing
+6085;Dealer Artisan;Advanced Weapon Enchanting
+6086;Crafting;Advanced Weapon Enchanting
+6087;Advanced Weapon Enchanting
+6088;Advanced Weapon Enchanting
+6089;Advanced Weapon Enchanting
+6090;Dealer Artisan;Advanced SubItem Craft
+6091;Crafting;Advanced SubItem Craft
+6092;Advanced SubItem Craft
+6093;Advanced SubItem Craft
+6094;Advanced SubItem Craft
+6095;Dealer Artisan;Advanced Alchemy Craft
+6096;Crafting;Advanced Alchemy Craft
+6097;Advanced Alchemy Craft
+6098;Advanced Alchemy Craft
+6099;Advanced Alchemy Craft
+6100;Dealer Artisan;PAT Craft
+6101;Crafting;PAT Craft
+6102;PAT Craft
+6103;PAT Craft
+6104;PAT Craft
+6105;Dealer Artisan;Gem Cutting
+6106;Crafting;Gem Cutting
+6107;Gem Cutting
+6108;Gem Cutting
+6109;Gem Cutting
+6110;
+6111;
+6112;
+6113;
+6114;
+6115;
+6116;
+6117;
+6118;
+6119;
+6120;
+6121;Valor Passives;Novice Swiftness Training
+6122;Valor Passives;Apprentice Swiftness Training
+6123;Valor Passives;Disciple Swiftness Training
+6124;Valor Passives;Adept Swiftness Training
+6125;Valor Passives;Master Swiftness Training
+6126;Valor Passives;Novice Nimbleness Training
+6127;Valor Passives;Apprentice Nimbleness Training
+6128;Valor Passives;Disciple Nimbleness Training
+6129;Valor Passives;Adept Nimbleness Training
+6130;Valor Passives;Master Nimbleness Training
+6131;Valor Passives;Novice Shielding Training
+6132;Valor Passives;Apprentice Shielding Training
+6133;Valor Passives;Disciple Shielding Training
+6134;Valor Passives;Adept Shielding Training
+6135;Valor Passives;Master Shielding Training
+6136;Valor Passives;Novice Protection  Training
+6137;Valor Passives;Apprentice Protection  Training
+6138;Valor Passives;Disciple Protection  Training
+6139;Valor Passives;Adept Protection  Training
+6140;Valor Passives;Master Protection  Training
+6141;Valor Passives;Novice Marksmen  Training
+6142;Valor Passives;Apprentice Marksmen  Training
+6143;Valor Passives;Disciple Marksmen  Training
+6144;Valor Passives;Adept Marksmen  Training
+6145;Valor Passives;Master Marksmen  Training
+6146;Valor Passives;Novice Intensity Training
+6147;Valor Passives;Apprentice Intensity Training
+6148;Valor Passives;Disciple Intensity Training
+6149;Valor Passives;Adept Intensity Training
+6150;Valor Passives;Master Intensity Training
+6151;Valor Passives;Novice Deflection Training
+6152;Valor Passives;Apprentice Deflection Training
+6153;Valor Passives;Disciple Deflection Training
+6154;Valor Passives;Adept Deflection Training
+6155;Valor Passives;Master Deflection Training
+6156;Valor Passives;Grand Master Swiftness Training
+6157;Valor Passives;Grand Master Nimbleness Training
+6158;Valor Passives;Grand Master Shielding Training
+6159;Valor Passives;Grand Master Protection  Training
+6160;Valor Passives;Grand Master Marksmen  Training
+6161;Valor Passives;Grand Master Intensity Training
+6162;Valor Passives;Grand Master Deflection Training
+6163;Valor Passives;Supreme Master Swiftness Training
+6164;Valor Passives;Supreme Master Nimbleness Training
+6165;Valor Passives;Supreme Master Shielding Training
+6166;Valor Passives;Supreme Master Protection  Training
+6167;Valor Passives;Supreme Master Marksmen  Training
+6168;Valor Passives;Supreme Master Intensity Training
+6169;Valor Passives;Supreme Master Deflection Training
+6170;
+6171;
+6172;
+6173;
+6174;
+6175;
+6176;
+6177;
+6178;
+6179;
+6180;
+6181;
+6182;
+6183;
+6184;
+6185;
+6186;
+6187;
+6188;
+6189;
+6190;
+6191;
+6192;
+6193;
+6194;
+6195;
+6196;
+6197;
+6198;
+6199;
+6200;
+6201;
+6202;
+6203;
+6204;
+6205;
+6206;
+6207;
+6208;
+6209;
+6210;
+6211;
+6212;
+6213;
+6214;
+6215;
+6216;
+6217;
+6218;
+6219;
+6220;
+6221;
+6222;
+6223;
+6224;
+6225;
+6226;
+6227;
+6228;
+6229;
+6230;
+6231;
+6232;
+6233;
+6234;
+6235;
+6236;
+6237;
+6238;
+6239;
+6240;
+6241;
+6242;
+6243;
+6244;
+6245;
+6246;
+6247;
+6248;
+6249;
+6250;
+6251;
+6252;
+6253;
+6254;
+6255;
+6256;
+6257;
+6258;
+6259;
+6260;
+6261;
+6262;
+6263;
+6264;
+6265;
+6266;
+6267;
+6268;
+6269;
+6270;
+6271;
+6272;
+6273;
+6274;
+6275;
+6276;
+6277;
+6278;
+6279;
+6280;
+6281;
+6282;
+6283;
+6284;
+6285;
+6286;
+6287;
+6288;
+6289;
+6290;
+6291;
+6292;
+6293;
+6294;
+6295;
+6296;
+6297;
+6298;
+6299;
+6300;
+6301;
+6302;
+6303;
+6304;
+6305;
+6306;
+6307;
+6308;
+6309;
+6310;
+6311;
+6312;
+6313;
+6314;
+6315;
+6316;
+6317;
+6318;
+6319;
+6320;
+6321;
+6322;
+6323;
+6324;
+6325;
+6326;
+6327;
+6328;
+6329;
+6330;
+6331;
+6332;
+6333;
+6334;
+6335;
+6336;
+6337;
+6338;
+6339;
+6340;
+6341;
+6342;
+6343;
+6344;
+6345;
+6346;
+6347;
+6348;
+6349;
+6350;
+6351;
+6352;
+6353;
+6354;
+6355;
+6356;
+6357;
+6358;
+6359;
+6360;
+6361;
+6362;
+6363;
+6364;
+6365;
+6366;
+6367;
+6368;
+6369;
+6370;
+6371;
+6372;
+6373;
+6374;
+6375;
+6376;Zone Skills;Astarot's Jealousy - Luna Clan Field Debuff (180-220)
+6377;Zone Skills;Astarot's Jealousy - Luna Clan Field Debuff (220-250)
+6378;
+6379;
+6380;
+6381;
+6382;
+6383;
+6384;
+6385;
+6386;
+6387;
+6388;
+6389;
+6390;
+6391;
+6392;
+6393;
+6394;
+6395;
+6396;
+6397;
+6398;
+6399;
+6400;
+6401;
+6402;
+6403;
+6404;
+6405;
+6406;
+6407;
+6408;
+6409;
+6410;
+6411;
+6412;
+6413;
+6414;
+6415;
+6416;
+6417;
+6418;
+6419;
+6420;
+6421;
+6422;
+6423;
+6424;
+6425;
+6426;
+6427;
+6428;
+6429;
+6430;
+6431;
+6432;
+6433;
+6434;
+6435;
+6436;
+6437;
+6438;
+6439;
+6440;
+6441;
+6442;
+6443;
+6444;
+6445;
+6446;
+6447;
+6448;
+6449;
+6450;
+6451;
+6452;
+6453;
+6454;
+6455;
+6456;
+6457;
+6458;
+6459;
+6460;
+6461;
+6462;
+6463;
+6464;
+6465;
+6466;
+6467;
+6468;
+6469;
+6470;
+6471;
+6472;
+6473;
+6474;
+6475;
+6476;
+6477;
+6478;
+6479;
+6480;
+6481;
+6482;
+6483;
+6484;
+6485;
+6486;
+6487;
+6488;
+6489;
+6490;
+6491;
+6492;
+6493;
+6494;
+6495;
+6496;
+6497;
+6498;
+6499;
+6500;
+6501;
+6502;
+6503;
+6504;
+6505;
+6506;
+6507;
+6508;
+6509;
+6510;
+6511;蹂??;
+6512;
+6513;
+6514;
+6515;
+6516;
+6517;
+6518;
+6519;
+6520;
+6521;
+6522;
+6523;
+6524;
+6525;
+6526;
+6527;
+6528;
+6529;
+6530;
+6531;
+6532;
+6533;
+6534;
+6535;
+6536;
+6537;
+6538;
+6539;
+6540;
+6541;
+6542;
+6543;
+6544;
+6545;
+6546;
+6547;
+6548;
+6549;
+6550;
+6551;
+6552;
+6553;
+6554;
+6555;
+6556;
+6557;
+6558;
+6559;
+6560;
+6561;
+6562;
+6563;
+6564;
+6565;
+6566;
+6567;
+6568;
+6569;
+6570;
+6571;
+6572;
+6573;
+6574;
+6575;
+6576;
+6577;
+6578;
+6579;
+6580;
+6581;
+6582;
+6583;
+6584;
+6585;
+6586;
+6587;
+6588;
+6589;
+6590;
+6591;
+6592;
+6593;
+6594;
+6595;
+6596;
+6597;
+6598;
+6599;
+6600;
+6601;
+6602;
+6603;
+6604;
+6605;
+6606;
+6607;
+6608;
+6609;
+6610;
+6611;
+6612;
+6613;
+6614;
+6615;
+6616;
+6617;
+6618;
+6619;
+6620;
+6621;
+6622;
+6623;
+6624;
+6625;
+6626;
+6627;
+6628;
+6629;
+6630;
+6631;
+6632;
+6633;
+6634;
+6635;
+6636;
+6637;
+6638;
+6639;
+6640;
+6641;
+6642;
+6643;
+6644;
+6645;
+6646;
+6647;
+6648;
+6649;
+6650;
+6651;
+6652;
+6653;
+6654;
+6655;
+6656;
+6657;
+6658;
+6659;
+6660;
+6661;
+6662;
+6663;
+6664;
+6665;
+6666;
+6667;
+6668;
+6669;
+6670;
+6671;
+6672;
+6673;
+6674;
+6675;
+6676;
+6677;
+6678;
+6679;
+6680;
+6681;
+6682;
+6683;
+6684;
+6685;
+6686;
+6687;
+6688;
+6689;
+6690;
+6691;
+6692;
+6693;
+6694;
+6695;
+6696;
+6697;
+6698;
+6699;
+6700;
+6701;
+6702;
+6703;
+6704;
+6705;
+6706;
+6707;
+6708;
+6709;
+6710;
+6711;
+6712;
+6713;
+6714;
+6715;
+6716;
+6717;
+6718;
+6719;
+6720;
+6721;
+6722;
+6723;
+6724;
+6725;
+6726;
+6727;
+6728;
+6729;
+6730;
+6731;
+6732;
+6733;
+6734;
+6735;
+6736;
+6737;
+6738;
+6739;
+6740;
+6741;
+6742;
+6743;
+6744;
+6745;
+6746;
+6747;
+6748;
+6749;
+6750;
+6751;
+6752;
+6753;
+6754;
+6755;
+6756;
+6757;
+6758;
+6759;
+6760;
+6761;
+6762;
+6763;
+6764;
+6765;
+6766;
+6767;
+6768;
+6769;
+6770;
+6771;
+6772;
+6773;
+6774;
+6775;
+6776;
+6777;
+6778;
+6779;
+6780;
+6781;
+6782;
+6783;
+6784;
+6785;
+6786;
+6787;
+6788;
+6789;
+6790;
+6791;
+6792;
+6793;
+6794;
+6795;
+6796;
+6797;
+6798;
+6799;
+6800;
+6801;
+6802;
+6803;
+6804;
+6805;
+6806;
+6807;
+6808;
+6809;
+6810;
+6811;
+6812;
+6813;
+6814;
+6815;
+6816;
+6817;
+6818;
+6819;
+6820;
+6821;
+6822;
+6823;
+6824;
+6825;
+6826;
+6827;
+6828;
+6829;
+6830;
+6831;
+6832;
+6833;
+6834;
+6835;
+6836;
+6837;
+6838;
+6839;
+6840;
+6841;
+6842;
+6843;
+6844;
+6845;
+6846;
+6847;
+6848;
+6849;
+6850;
+6851;
+6852;
+6853;
+6854;
+6855;
+6856;
+6857;
+6858;
+6859;
+6860;
+6861;
+6862;
+6863;
+6864;
+6865;
+6866;
+6867;
+6868;
+6869;
+6870;
+6871;
+6872;
+6873;
+6874;
+6875;
+6876;
+6877;
+6878;
+6879;
+6880;
+6881;
+6882;
+6883;
+6884;
+6885;
+6886;
+6887;
+6888;
+6889;
+6890;
+6891;
+6892;
+6893;
+6894;
+6895;
+6896;
+6897;
+6898;
+6899;Natural Defenses;
+6900;Rested
+6901;Rested
+6902;Rested
+6903;Rested
+6904;Rested
+6905;
+6906;
+6907;
+6908;
+6909;
+6910;
+6911;
+6912;
+6913;
+6914;
+6915;
+6916;
+6917;
+6918;
+6919;
+6920;
+6921;
+6922;
+6923;
+6924;
+6925;
+6926;
+6927;
+6928;
+6929;
+6930;
+6931;
+6932;
+6933;
+6934;
+6935;
+6936;
+6937;
+6938;
+6939;
+6940;
+6941;
+6942;
+6943;
+6944;
+6945;
+6946;
+6947;
+6948;
+6949;
+6950;
+6951;
+6952;
+6953;
+6954;
+6955;
+6956;
+6957;
+6958;
+6959;
+6960;
+6961;
+6962;
+6963;
+6964;
+6965;
+6966;
+6967;
+6968;
+6969;
+6970;
+6971;
+6972;
+6973;
+6974;
+6975;
+6976;
+6977;
+6978;
+6979;
+6980;
+6981;
+6982;
+6983;
+6984;
+6985;
+6986;
+6987;
+6988;
+6989;
+6990;
+6991;
+6992;
+6993;
+6994;
+6995;
+6996;
+6997;
+6998;
+6999;Skill Passives & Effects;
+7000;Soldier - Champion;Berserk - PassiveSkillEffect
+7001;Buff;Berserk - PassiveSkillEffect
+7002;Berserk - PassiveSkillEffect
+7003;Berserk - PassiveSkillEffect
+7004;Berserk - PassiveSkillEffect
+7005;(PvP) Longinus' Strike
+7006;(PvP) Longinus' Strike
+7007;(PvP) Longinus' Strike
+7008;(PvP) Longinus' Strike
+7009;(PvP) Longinus' Strike
+7010;Combat Counter
+7011;Combat Counter
+7012;Combat Counter
+7013;Combat Counter
+7014;Combat Counter
+7015;Combat Counter
+7016;Combat Counter
+7017;Combat Counter
+7018;Combat Counter
+7019;Combat Counter
+7020;Combat Counter
+7021;Combat Counter
+7022;Combat Counter
+7023;Combat Counter
+7024;Combat Counter
+7025;Combat Counter
+7026;Combat Counter
+7027;Combat Counter
+7028;Combat Counter
+7029;Combat Counter
+7030;Combat Counter
+7031;Combat Counter
+7032;Combat Counter
+7033;Combat Counter
+7034;Combat Counter
+7035;Graceful Fencing
+7036;Calm Defender
+7037;Graceful Swings
+7038;Invigoration
+7039;Guardian's Resolve
+7040;Spear Fury
+7041;Spear Fury
+7042;Spear Fury
+7043;Spear Fury
+7044;Spear Fury
+7045;Shield of the Phalanx
+7046;Shield of the Phalanx
+7047;Shield of the Phalanx
+7048;Shield of the Phalanx
+7049;Shield of the Phalanx
+7050;Block Counter
+7051;Block Counter
+7052;Block Counter
+7053;Block Counter
+7054;Block Counter
+7055;Block Counter
+7056;Block Counter
+7057;Block Counter
+7058;Block Counter
+7059;Block Counter
+7060;Block Counter
+7061;Block Counter
+7062;Block Counter
+7063;Block Counter
+7064;Block Counter
+7065;Block Counter
+7066;Block Counter
+7067;Block Counter
+7068;Block Counter
+7069;Block Counter
+7070;Block Counter
+7071;Block Counter
+7072;Block Counter
+7073;Block Counter
+7074;Block Counter
+7075;Block Counter
+7076;Block Counter
+7077;Block Counter
+7078;Block Counter
+7079;Block Counter
+7080;Block Counter
+7081;Block Counter
+7082;Block Counter
+7083;Block Counter
+7084;Block Counter
+7085;Block Counter
+7086;Block Counter
+7087;Block Counter
+7088;Block Counter
+7089;Block Counter
+7090;Piercing Grace
+7091;Piercing Grace
+7092;Piercing Grace
+7093;Piercing Grace
+7094;Piercing Grace
+7095;Spear Dancer
+7096;Spear Dancer
+7097;Spear Dancer
+7098;Spear Dancer
+7099;Spear Dancer
+7100;Battle Rage
+7101;
+7102;
+7103;
+7104;
+7105;Victorious Respite
+7106;Victorious Respite
+7107;Victorious Respite
+7108;Victorious Respite
+7109;Victorious Respite
+7110;Axe Fury - PassiveSkillEffect
+7111;Axe Fury - PassiveSkillEffect
+7112;Axe Fury - PassiveSkillEffect
+7113;Axe Fury - PassiveSkillEffect
+7114;Axe Fury - PassiveSkillEffect
+7115;
+7116;
+7117;
+7118;
+7119;
+7120;
+7121;
+7122;
+7123;
+7124;
+7125;
+7126;
+7127;
+7128;
+7129;
+7130;
+7131;
+7132;
+7133;
+7134;
+7135;
+7136;
+7137;
+7138;
+7139;
+7140;
+7141;
+7142;
+7143;
+7144;
+7145;
+7146;
+7147;
+7148;
+7149;
+7150;
+7151;
+7152;
+7153;
+7154;
+7155;
+7156;
+7157;
+7158;
+7159;
+7160;
+7161;
+7162;
+7163;
+7164;
+7165;
+7166;
+7167;
+7168;
+7169;
+7170;
+7171;
+7172;
+7173;
+7174;
+7175;
+7176;
+7177;
+7178;
+7179;
+7180;
+7181;
+7182;
+7183;
+7184;
+7185;
+7186;
+7187;
+7188;
+7189;
+7190;
+7191;
+7192;
+7193;
+7194;
+7195;
+7196;
+7197;
+7198;
+7199;
+7200;
+7201;
+7202;
+7203;
+7204;
+7205;
+7206;
+7207;
+7208;
+7209;
+7210;
+7211;
+7212;
+7213;
+7214;
+7215;
+7216;
+7217;
+7218;
+7219;
+7220;
+7221;
+7222;
+7223;
+7224;
+7225;
+7226;
+7227;
+7228;
+7229;
+7230;
+7231;
+7232;
+7233;
+7234;
+7235;
+7236;
+7237;
+7238;
+7239;
+7240;
+7241;
+7242;
+7243;
+7244;
+7245;
+7246;
+7247;
+7248;
+7249;
+7250;Muse Common;Mental Focus - PassiveEffect
+7251;Active Buff;Mental Focus - PassiveEffect
+7252;Mental Focus - PassiveEffect
+7253;Mental Focus - PassiveEffect
+7254;Mental Focus - PassiveEffect
+7255;Healing Touch - PassiveEffect
+7256;Healing Touch - PassiveEffect
+7257;Healing Touch - PassiveEffect
+7258;Healing Touch - PassiveEffect
+7259;Healing Touch - PassiveEffect
+7260;Mana Fissure
+7261;Mana Fissure
+7262;
+7263;
+7264;
+7265;Windwalker
+7266;Windwalker
+7267;Windwalker
+7268;
+7269;
+7270;Blaze
+7271;Blaze
+7272;Blaze
+7273;Blaze
+7274;Blaze
+7275;Mystic Weakening
+7276;Mystic Weakening
+7277;Mystic Weakening
+7278;Mystic Weakening
+7279;Mystic Weakening
+7280;
+7281;
+7282;
+7283;
+7284;
+7285;Wand Weaving
+7286;Wand Weaving
+7287;Wand Weaving
+7288;Wand Weaving
+7289;Wand Weaving
+7290;Mana Shield Siphon
+7291;Mana Shield Siphon
+7292;Mana Shield Siphon
+7293;Mana Shield Siphon
+7294;Mana Shield Siphon
+7295;Mana Shield Force
+7296;Mana Shield Force
+7297;Mana Shield Force
+7298;Mana Shield Force
+7299;Mana Shield Force
+7300;Mystic Safeguard
+7301;Mystic Safeguard
+7302;Mystic Safeguard
+7303;Mystic Safeguard
+7304;Mystic Safeguard
+7305;Mystic Armor
+7306;Mystic Armor
+7307;Mystic Armor
+7308;Mystic Armor
+7309;Mystic Armor
+7310;
+7311;
+7312;
+7313;
+7314;
+7315;
+7316;
+7317;
+7318;
+7319;
+7320;
+7321;
+7322;
+7323;
+7324;
+7325;
+7326;
+7327;
+7328;
+7329;
+7330;
+7331;
+7332;
+7333;
+7334;
+7335;
+7336;
+7337;
+7338;
+7339;
+7340;
+7341;
+7342;
+7343;
+7344;
+7345;
+7346;
+7347;
+7348;
+7349;
+7350;
+7351;
+7352;
+7353;
+7354;
+7355;
+7356;
+7357;
+7358;
+7359;
+7360;
+7361;
+7362;
+7363;
+7364;
+7365;
+7366;
+7367;
+7368;
+7369;
+7370;
+7371;
+7372;
+7373;
+7374;
+7375;
+7376;
+7377;
+7378;
+7379;
+7380;
+7381;
+7382;
+7383;
+7384;
+7385;
+7386;
+7387;
+7388;
+7389;
+7390;
+7391;
+7392;
+7393;
+7394;
+7395;
+7396;
+7397;
+7398;
+7399;
+7400;
+7401;
+7402;
+7403;
+7404;
+7405;
+7406;
+7407;
+7408;
+7409;
+7410;
+7411;
+7412;
+7413;
+7414;
+7415;
+7416;
+7417;
+7418;
+7419;
+7420;
+7421;
+7422;
+7423;
+7424;
+7425;
+7426;
+7427;
+7428;
+7429;
+7430;
+7431;
+7432;
+7433;
+7434;
+7435;
+7436;
+7437;
+7438;
+7439;
+7440;
+7441;
+7442;
+7443;
+7444;
+7445;
+7446;
+7447;
+7448;
+7449;
+7450;
+7451;
+7452;
+7453;
+7454;
+7455;
+7456;
+7457;
+7458;
+7459;
+7460;
+7461;
+7462;
+7463;
+7464;
+7465;
+7466;
+7467;
+7468;
+7469;
+7470;
+7471;
+7472;
+7473;
+7474;
+7475;
+7476;
+7477;
+7478;
+7479;
+7480;
+7481;
+7482;
+7483;
+7484;
+7485;
+7486;
+7487;
+7488;
+7489;
+7490;
+7491;
+7492;
+7493;
+7494;
+7495;
+7496;
+7497;
+7498;
+7499;
+7500;Temporary Passive Buff;Critical Impact
+7501;Critical Impact
+7502;Critical Impact
+7503;Critical Impact
+7504;Critical Impact
+7505;Critical Impact
+7506;Critical Impact
+7507;Critical Impact
+7508;Critical Impact
+7509;Critical Impact
+7510;Temporary Passive Debuff;Critical Weakness
+7511;Critical Weakness
+7512;Critical Weakness
+7513;Critical Weakness
+7514;Critical Weakness
+7515;Critical Weakness
+7516;Critical Weakness
+7517;Critical Weakness
+7518;Critical Weakness
+7519;Critical Weakness
+7520;Temporary Passive Debuff;Wounded
+7521;Wounded
+7522;Wounded
+7523;Wounded
+7524;Wounded
+7525;Wounded
+7526;Wounded
+7527;Wounded
+7528;Wounded
+7529;Wounded
+7530;Wounded
+7531;Wounded
+7532;Wounded
+7533;Wounded
+7534;Wounded
+7535;Wounded
+7536;Wounded
+7537;Wounded
+7538;Wounded
+7539;Wounded
+7540;Temporary Passive Buff;Adrenaline Rush - PassiveSkillEffect
+7541;Adrenaline Rush - PassiveSkillEffect
+7542;Adrenaline Rush - PassiveSkillEffect
+7543;Adrenaline Rush - PassiveSkillEffect
+7544;Adrenaline Rush - PassiveSkillEffect
+7545;Temporary Passive Buff;Shattering Blows - PassiveSkillEffect
+7546;Shattering Blows - PassiveSkillEffect
+7547;Shattering Blows - PassiveSkillEffect
+7548;Shattering Blows - PassiveSkillEffect
+7549;Shattering Blows - PassiveSkillEffect
+7550;Temporary Passive Buff;Mirror Phantasm - PassiveSkillEffect
+7551;Mirror Phantasm - PassiveSkillEffect
+7552;Mirror Phantasm - PassiveSkillEffect
+7553;Mirror Phantasm - PassiveSkillEffect
+7554;Mirror Phantasm - PassiveSkillEffect
+7555;Temporary Passive Buff;Evasive Guard - PassiveSkillEffect
+7556;Evasive Guard - PassiveSkillEffect
+7557;Evasive Guard - PassiveSkillEffect
+7558;Evasive Guard - PassiveSkillEffect
+7559;Evasive Guard - PassiveSkillEffect
+7560;Temporary Passive Buff;Critical Focus - PassiveSkillEffect
+7561;Critical Focus - PassiveSkillEffect
+7562;Critical Focus - PassiveSkillEffect
+7563;Critical Focus - PassiveSkillEffect
+7564;Critical Focus - PassiveSkillEffect
+7565;Trap Hide 1;Trap Hide
+7566;Trap Hide 2;Trap Hide
+7567;Trap Hide 3;Trap Hide
+7568;Trap Hide 4;Trap Hide
+7569;Trap Hide 5;Trap Hide
+7570;Steel Trap
+7571;Flash Trap
+7572;Siphon Trap
+7573;Freezing Trap
+7574;Sand Trap
+7575;Temporary Passive Buff;(Bow) Critical Focus - PassiveSkillEffect
+7576;(Bow) Critical Focus - PassiveSkillEffect
+7577;(Bow) Critical Focus - PassiveSkillEffect
+7578;(Bow) Critical Focus - PassiveSkillEffect
+7579;(Bow) Critical Focus - PassiveSkillEffect
+7580;Temporary Passive Buff;Wind Fury - PassiveSkillEffect
+7581;Wind Fury - PassiveSkillEffect
+7582;Wind Fury - PassiveSkillEffect
+7583;Wind Fury - PassiveSkillEffect
+7584;Wind Fury - PassiveSkillEffect
+7585;
+7586;
+7587;
+7588;
+7589;
+7590;
+7591;
+7592;
+7593;
+7594;
+7595;
+7596;
+7597;
+7598;
+7599;
+7600;
+7601;
+7602;
+7603;
+7604;
+7605;
+7606;
+7607;
+7608;
+7609;
+7610;
+7611;
+7612;
+7613;
+7614;
+7615;
+7616;
+7617;
+7618;
+7619;
+7620;
+7621;
+7622;
+7623;
+7624;
+7625;
+7626;
+7627;
+7628;
+7629;
+7630;
+7631;
+7632;
+7633;
+7634;
+7635;
+7636;
+7637;
+7638;
+7639;
+7640;
+7641;
+7642;
+7643;
+7644;
+7645;
+7646;
+7647;
+7648;
+7649;
+7650;
+7651;
+7652;
+7653;
+7654;
+7655;
+7656;
+7657;
+7658;
+7659;
+7660;
+7661;
+7662;
+7663;
+7664;
+7665;
+7666;
+7667;
+7668;
+7669;
+7670;
+7671;
+7672;
+7673;
+7674;
+7675;
+7676;
+7677;
+7678;
+7679;
+7680;
+7681;
+7682;
+7683;
+7684;
+7685;
+7686;
+7687;
+7688;
+7689;
+7690;
+7691;
+7692;
+7693;
+7694;
+7695;
+7696;
+7697;
+7698;
+7699;
+7700;
+7701;
+7702;
+7703;
+7704;
+7705;
+7706;
+7707;
+7708;
+7709;
+7710;
+7711;
+7712;
+7713;
+7714;
+7715;
+7716;
+7717;
+7718;
+7719;
+7720;
+7721;
+7722;
+7723;
+7724;
+7725;
+7726;
+7727;
+7728;
+7729;
+7730;
+7731;
+7732;
+7733;
+7734;
+7735;
+7736;
+7737;
+7738;
+7739;
+7740;
+7741;
+7742;
+7743;
+7744;
+7745;
+7746;
+7747;
+7748;
+7749;
+7750;Dealer Bourgeois Gun;Weapon Augment - PassiveEffect
+7751;Active Buff;Weapon Augment - PassiveEffect
+7752;Weapon Augment - PassiveEffect
+7753;Weapon Augment - PassiveEffect
+7754;Weapon Augment - PassiveEffect
+7755;Dealer Bourgeois Gun;Illusion - PassiveEffect
+7756;Active Buff;Illusion - PassiveEffect
+7757;Illusion - PassiveEffect
+7758;Illusion - PassiveEffect
+7759;Illusion - PassiveEffect
+7760;Dealer Bourgeois Launcher;Jury-Rigging - PassiveEffect
+7761;Active Buff;Jury-Rigging - PassiveEffect
+7762;Jury-Rigging - PassiveEffect
+7763;Jury-Rigging - PassiveEffect
+7764;Jury-Rigging - PassiveEffect
+7765;Dealer Bourgeois Launcher;Wind Step - PassiveEffect
+7766;Active Buff;Wind Step - PassiveEffect
+7767;Wind Step - PassiveEffect
+7768;Wind Step - PassiveEffect
+7769;Wind Step - PassiveEffect
+7770;Dealer Bourgeois Launcher;Dual Layer - PassiveEffect
+7771;Active Buff;Dual Layer - PassiveEffect
+7772;Dual Layer - PassiveEffect
+7773;Dual Layer - PassiveEffect
+7774;Dual Layer - PassiveEffect
+7775;Excitable Trigger Finger - Counter
+7776;Excitable Trigger Finger - Counter
+7777;Excitable Trigger Finger - Counter
+7778;Excitable Trigger Finger - Counter
+7779;Excitable Trigger Finger - Counter
+7780;Excitable Trigger Finger - Counter
+7781;Excitable Trigger Finger - Counter
+7782;Excitable Trigger Finger - Counter
+7783;Excitable Trigger Finger - Counter
+7784;Excitable Trigger Finger - Counter
+7785;Cannonier's Panic - Counter
+7786;Cannonier's Panic - Counter
+7787;Cannonier's Panic - Counter
+7788;Cannonier's Panic - Counter
+7789;Cannonier's Panic - Counter
+7790;Sharpshooter - Counter
+7791;Sharpshooter - Counter
+7792;Sharpshooter - Counter
+7793;Sharpshooter - Counter
+7794;Sharpshooter - Counter
+7795;Sharpshooter - Counter
+7796;Sharpshooter - Counter
+7797;Sharpshooter - Counter
+7798;Sharpshooter - Counter
+7799;Sharpshooter - Counter
+7800;Critical Fortune - Counter
+7801;Critical Fortune - Counter
+7802;Critical Fortune - Counter
+7803;Critical Fortune - Counter
+7804;Critical Fortune - Counter
+7805;Critical Fortune - Counter
+7806;Critical Fortune - Counter
+7807;Critical Fortune - Counter
+7808;Critical Fortune - Counter
+7809;Critical Fortune - Counter
+7810;Excitable Trigger Finger - Effect
+7811;Excitable Trigger Finger - Effect
+7812;Excitable Trigger Finger - Effect
+7813;Excitable Trigger Finger - Effect
+7814;Excitable Trigger Finger - Effect
+7815;Cannonier's Panic - Effect
+7816;Cannonier's Panic - Effect
+7817;Cannonier's Panic - Effect
+7818;Cannonier's Panic - Effect
+7819;Cannonier's Panic - Effect
+7820;Sharpshooter - Effect
+7821;Sharpshooter - Effect
+7822;Sharpshooter - Effect
+7823;Sharpshooter - Effect
+7824;Sharpshooter - Effect
+7825;Critical Fortune - Effect
+7826;Critical Fortune - Effect
+7827;Critical Fortune - Effect
+7828;Critical Fortune - Effect
+7829;Critical Fortune - Effect
+7830;
+7831;
+7832;
+7833;
+7834;
+7835;
+7836;
+7837;
+7838;
+7839;
+7840;
+7841;
+7842;
+7843;
+7844;
+7845;
+7846;
+7847;
+7848;
+7849;
+7850;
+7851;
+7852;
+7853;
+7854;
+7855;
+7856;
+7857;
+7858;
+7859;
+7860;
+7861;
+7862;
+7863;
+7864;
+7865;
+7866;
+7867;
+7868;
+7869;
+7870;
+7871;
+7872;
+7873;
+7874;
+7875;
+7876;
+7877;
+7878;
+7879;
+7880;
+7881;
+7882;
+7883;
+7884;
+7885;
+7886;
+7887;
+7888;
+7889;
+7890;
+7891;
+7892;
+7893;
+7894;
+7895;
+7896;
+7897;
+7898;
+7899;
+7900;
+7901;
+7902;
+7903;
+7904;
+7905;
+7906;
+7907;
+7908;
+7909;
+7910;
+7911;
+7912;
+7913;
+7914;
+7915;
+7916;
+7917;
+7918;
+7919;
+7920;
+7921;
+7922;
+7923;
+7924;
+7925;
+7926;
+7927;
+7928;
+7929;
+7930;
+7931;
+7932;
+7933;
+7934;
+7935;
+7936;
+7937;
+7938;
+7939;
+7940;
+7941;
+7942;
+7943;
+7944;
+7945;
+7946;
+7947;
+7948;
+7949;
+7950;
+7951;
+7952;
+7953;
+7954;
+7955;
+7956;
+7957;
+7958;
+7959;
+7960;
+7961;
+7962;
+7963;
+7964;
+7965;
+7966;
+7967;
+7968;
+7969;
+7970;
+7971;
+7972;
+7973;
+7974;
+7975;
+7976;
+7977;
+7978;
+7979;
+7980;
+7981;
+7982;
+7983;
+7984;
+7985;
+7986;
+7987;
+7988;
+7989;
+7990;
+7991;
+7992;
+7993;
+7994;
+7995;
+7996;
+7997;
+7998;
+7999;Clan Skills;
+8000;Clan Expansion
+8001;Clan Expansion
+8002;Clan Expansion
+8003;Clan Expansion
+8004;Clan Expansion
+8005;Clan Expansion
+8006;Clan Expansion
+8007;Clan Expansion
+8008;Clan Expansion
+8009;Clan Expansion
+8010;Clan Expansion
+8011;Clan Expansion
+8012;Clan Expansion
+8013;Clan Expansion
+8014;Clan Expansion
+8015;Clan Expansion
+8016;Clan Expansion
+8017;Clan Expansion
+8018;Clan Expansion
+8019;Clan Expansion
+8020;Clan Expansion
+8021;Clan Expansion
+8022;Clan Expansion
+8023;Clan Expansion
+8024;Clan Expansion
+8025;Clan Expansion
+8026;Clan Expansion
+8027;Clan Expansion
+8028;Clan Expansion
+8029;Clan Expansion
+8030;Clan Expansion
+8031;Clan Expansion
+8032;Clan Expansion
+8033;Clan Expansion
+8034;Clan Expansion
+8035;Clan Expansion
+8036;Clan Expansion
+8037;Clan Expansion
+8038;Clan Expansion
+8039;Clan Expansion
+8040;Clan Expansion
+8041;Clan Expansion
+8042;Clan Expansion
+8043;Clan Expansion
+8044;Clan Expansion
+8045;Clan Expansion
+8046;Clan Expansion
+8047;Clan Expansion
+8048;Clan Expansion
+8049;
+8050;Clan Experience
+8051;Clan Experience
+8052;Clan Experience
+8053;Clan Experience
+8054;Clan Experience
+8055;Clan Experience
+8056;Clan Experience
+8057;Clan Experience
+8058;Clan Experience
+8059;Clan Experience
+8060;Clan Strength
+8061;Clan Strength
+8062;Clan Strength
+8063;Clan Strength
+8064;Clan Strength
+8065;Clan Strength
+8066;Clan Strength
+8067;Clan Strength
+8068;Clan Strength
+8069;Clan Strength
+8070;Clan Dexterity
+8071;Clan Dexterity
+8072;Clan Dexterity
+8073;Clan Dexterity
+8074;Clan Dexterity
+8075;Clan Dexterity
+8076;Clan Dexterity
+8077;Clan Dexterity
+8078;Clan Dexterity
+8079;Clan Dexterity
+8080;Clan Intelligence
+8081;Clan Intelligence
+8082;Clan Intelligence
+8083;Clan Intelligence
+8084;Clan Intelligence
+8085;Clan Intelligence
+8086;Clan Intelligence
+8087;Clan Intelligence
+8088;Clan Intelligence
+8089;Clan Intelligence
+8090;Clan Concentration
+8091;Clan Concentration
+8092;Clan Concentration
+8093;Clan Concentration
+8094;Clan Concentration
+8095;Clan Concentration
+8096;Clan Concentration
+8097;Clan Concentration
+8098;Clan Concentration
+8099;Clan Concentration
+8100;Clan Charm
+8101;Clan Charm
+8102;Clan Charm
+8103;Clan Charm
+8104;Clan Charm
+8105;Clan Charm
+8106;Clan Charm
+8107;Clan Charm
+8108;Clan Charm
+8109;Clan Charm
+8110;Clan Sense
+8111;Clan Sense
+8112;Clan Sense
+8113;Clan Sense
+8114;Clan Sense
+8115;Clan Sense
+8116;Clan Sense
+8117;Clan Sense
+8118;Clan Sense
+8119;Clan Sense
+8120;Stable Training
+8121;Stable Training
+8122;Stable Training
+8123;Stable Training
+8124;Stable Training
+8125;Clan Heal
+8126;Clan Heal
+8127;Clan Heal
+8128;Clan Heal
+8129;Clan Heal
+8130;Clan Resurrect
+8131;
+8132;
+8133;
+8134;
+8135;PvP Offense
+8136;PvP Defense
+8137;PvM Offense
+8138;PvM Defense
+8139;Clan Power
+8140;Clan Defense
+8141;Clan Accuracy
+8142;Clan Dodge
+8143;Clan Recovery
+8144;Stun Resistance
+8145;Silence Resistance
+8146;Sleep Resistance
+8147;Common Drop Bonus
+8148;Uncommon Drop Bonus
+8149;Rare Drop Bonus
+8150;Very Rare Drop Bonus
+8151;Epic Drop Bonus
+8152;Legendary Drop Bonus
+8153;
+8154;
+8155;
+8156;
+8157;
+8158;
+8159;
+8160;
+8161;
+8162;
+8163;
+8164;
+8165;
+8166;
+8167;
+8168;
+8169;
+8170;
+8171;
+8172;
+8173;
+8174;
+8175;
+8176;
+8177;
+8178;
+8179;
+8180;
+8181;
+8182;
+8183;
+8184;
+8185;
+8186;
+8187;
+8188;
+8189;
+8190;
+8191;
+8192;
+8193;
+8194;
+8195;
+8196;
+8197;
+8198;
+8199;Soldier Extended Skills;
+8200;Graceful Fencing
+8201;Graceful Fencing
+8202;Graceful Fencing
+8203;Graceful Fencing
+8204;Graceful Fencing
+8205;Calm Defender
+8206;Calm Defender
+8207;Calm Defender
+8208;Calm Defender
+8209;Calm Defender
+8210;Graceful Swings
+8211;Graceful Swings
+8212;Graceful Swings
+8213;Graceful Swings
+8214;Graceful Swings
+8215;Spear Fury
+8216;Spear Fury
+8217;Spear Fury
+8218;Spear Fury
+8219;Spear Fury
+8220;Invigoration
+8221;Invigoration
+8222;Invigoration
+8223;Invigoration
+8224;Invigoration
+8225;Phalanx Blocking
+8226;Phalanx Blocking
+8227;Phalanx Blocking
+8228;Phalanx Blocking
+8229;Phalanx Blocking
+8230;Guardian's Resolve
+8231;Guardian's Resolve
+8232;Guardian's Resolve
+8233;Guardian's Resolve
+8234;Guardian's Resolve
+8235;Piercing Grace
+8236;Piercing Grace
+8237;Piercing Grace
+8238;Piercing Grace
+8239;Piercing Grace
+8240;Spear Dancer
+8241;Spear Dancer
+8242;Spear Dancer
+8243;Spear Dancer
+8244;Spear Dancer
+8245;Battle Rage
+8246;Battle Rage
+8247;Battle Rage
+8248;Battle Rage
+8249;Battle Rage
+8250;Victorious Respite
+8251;Victorious Respite
+8252;Victorious Respite
+8253;Victorious Respite
+8254;Victorious Respite
+8255;
+8256;
+8257;
+8258;
+8259;
+8260;
+8261;
+8262;
+8263;
+8264;
+8265;
+8266;
+8267;
+8268;
+8269;
+8270;
+8271;
+8272;
+8273;
+8274;
+8275;
+8276;
+8277;
+8278;
+8279;
+8280;
+8281;
+8282;
+8283;
+8284;
+8285;
+8286;
+8287;
+8288;
+8289;
+8290;
+8291;
+8292;
+8293;
+8294;
+8295;
+8296;
+8297;
+8298;
+8299;
+8300;Muse Extended Skills;Mana Shield Siphon
+8301;Mana Shield Siphon
+8302;Mana Shield Siphon
+8303;Mana Shield Siphon
+8304;Mana Shield Siphon
+8305;Mana Shield Force
+8306;Mana Shield Force
+8307;Mana Shield Force
+8308;Mana Shield Force
+8309;Mana Shield Force
+8310;
+8311;
+8312;
+8313;
+8314;
+8315;
+8316;
+8317;
+8318;
+8319;
+8320;
+8321;
+8322;
+8323;
+8324;
+8325;
+8326;
+8327;
+8328;
+8329;
+8330;
+8331;
+8332;
+8333;
+8334;
+8335;
+8336;
+8337;
+8338;
+8339;
+8340;
+8341;
+8342;
+8343;
+8344;
+8345;
+8346;
+8347;
+8348;
+8349;
+8350;
+8351;
+8352;
+8353;
+8354;
+8355;
+8356;
+8357;
+8358;
+8359;
+8360;
+8361;
+8362;
+8363;
+8364;
+8365;
+8366;
+8367;
+8368;
+8369;
+8370;
+8371;
+8372;
+8373;
+8374;
+8375;
+8376;
+8377;
+8378;
+8379;
+8380;
+8381;
+8382;
+8383;
+8384;
+8385;
+8386;
+8387;
+8388;
+8389;
+8390;
+8391;
+8392;
+8393;
+8394;
+8395;
+8396;
+8397;
+8398;
+8399;
+8400;Hawker Extended Skills;
+8401;
+8402;
+8403;
+8404;
+8405;
+8406;
+8407;
+8408;
+8409;
+8410;
+8411;
+8412;
+8413;
+8414;
+8415;
+8416;
+8417;
+8418;
+8419;
+8420;
+8421;
+8422;
+8423;
+8424;
+8425;
+8426;
+8427;
+8428;
+8429;
+8430;
+8431;
+8432;
+8433;
+8434;
+8435;
+8436;
+8437;
+8438;
+8439;
+8440;
+8441;
+8442;
+8443;
+8444;
+8445;
+8446;
+8447;
+8448;
+8449;
+8450;
+8451;
+8452;
+8453;
+8454;
+8455;
+8456;
+8457;
+8458;
+8459;
+8460;
+8461;
+8462;
+8463;
+8464;
+8465;
+8466;
+8467;
+8468;
+8469;
+8470;
+8471;
+8472;
+8473;
+8474;
+8475;
+8476;
+8477;
+8478;
+8479;
+8480;
+8481;
+8482;
+8483;
+8484;
+8485;
+8486;
+8487;
+8488;
+8489;
+8490;
+8491;
+8492;
+8493;
+8494;
+8495;
+8496;
+8497;
+8498;
+8499;
+8500;Dealer Extended Skills.;Excitable Trigger Finger
+8501;Excitable Trigger Finger
+8502;Excitable Trigger Finger
+8503;Excitable Trigger Finger
+8504;Excitable Trigger Finger
+8505;Cannonier's Panic
+8506;Cannonier's Panic
+8507;Cannonier's Panic
+8508;Cannonier's Panic
+8509;Cannonier's Panic
+8510;Sharpshooter
+8511;Sharpshooter
+8512;Sharpshooter
+8513;Sharpshooter
+8514;Sharpshooter
+8515;Critical Fortune
+8516;Critical Fortune
+8517;Critical Fortune
+8518;Critical Fortune
+8519;Critical Fortune
